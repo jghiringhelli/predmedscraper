@@ -1,0 +1,3493 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Hypermethioninemia Due to Adenosine Kinase Deficiency disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/hypermethioninemia_due_to_adenosine_kinase_deficiency" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'hypermethioninemia_due_to_adenosine_kinase_deficiency';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+HMAKD <div class="symbol">MCID: HYP241</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 39
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Hypermethioninemia Due to Adenosine Kinase Deficiency</span>
+(<span itemprop="alternateName">HMAKD</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Genetic diseases, Mental diseases, Metabolic diseases, Neuronal diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#a2d1c3cec7d1e2cecbc4c7cfc3d2d1c18cc1cdcf" target="_blank"><span class="__cf_email__" data-cfemail="6615070a0315260a0f00030b071615054805090b">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="19 Genes associated with Hypermethioninemia Due to Adenosine Kinase Deficiency">Genes</a>
+<a href="#genetic_variations" title="44 Variations associated with Hypermethioninemia Due to Adenosine Kinase Deficiency">Variations</a>
+<a href="#anatomical_context" title="2 Tissues associated with Hypermethioninemia Due to Adenosine Kinase Deficiency">Tissues</a>
+<a href="#disorders" title="30 Related diseases associated with Hypermethioninemia Due to Adenosine Kinase Deficiency">Related diseases</a>
+<a href="#publications" title="3 Publications associated with Hypermethioninemia Due to Adenosine Kinase Deficiency">Publications</a>
+<a href="#clinical_features" title="42 Symptoms &amp; Phenotypes associated with Hypermethioninemia Due to Adenosine Kinase Deficiency">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/hypermethioninemia_due_to_adenosine_kinase_deficiency?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Hypermethioninemia Due to Adenosine Kinase Deficiency:</h3>
+<div class="main-name">
+Name: <b>Hypermethioninemia Due to Adenosine Kinase Deficiency</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/614300" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111038" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03295" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/03598" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Hypermethioninemia Encephalopathy Due to Adenosine Kinase Deficiency
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111038" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=289290" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Hypermethioninemia Encephalopathy Due to Adk Deficiency
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111038" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=289290" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Adk Hypermethioninemia
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111038" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=289290" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Mrt8
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111038" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03295" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Mental Retardation, Autosomal Recessive 8, Formerly
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/614300" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Mental Retardation, Autosomal Recessive 8
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<div>
+Mrt8, Formerly
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/614300" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Hmakd
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03295" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Hypermethioninemia Due to Adenosine Kinase Deficiency:</b>
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/614300" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>Hypermethioninemia Encephalopathy Due to Adenosine Kinase Deficiency:</b>
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=289290" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>Hypermethioninemia Encephalopathy Due to Adenosine Kinase Deficiency:</b>
+Childhood <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=289290" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/614300" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>onset in infancy</span>
+<br/>
+<span>progressive disorder</span>
+<br/>
+<span>six patients have been reported (as of october 2011)</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div class="tab">
+<h3>HPO:</h3> <sup title="The Human Phenotype Ontology">30</sup>
+<div class="tab">
+<u>hypermethioninemia due to adenosine kinase deficiency:</u><br/>
+<span>Onset and clinical course</span>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003676" target="_blank">progressive</a> <br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/mental_disease_list" target="_blank">Mental diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="International Classification of Diseases, 10th Revision">31</sup>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/IV" title="IV" target="_blank">Endocrine, nutritional and metabolic diseases</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70-E90" title="E70-E90" target="_blank">Metabolic disorders</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72" title="E72" target="_blank">Other disorders of amino-acid metabolism</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72.1" title="E72.1" target="_blank">Disorders of sulfur-bearing amino-acid metabolism</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare neurological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Inborn errors of metabolism <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111038" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0111038" target="_blank">DOID:0111038</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/614300" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/614300" target="_blank">614300</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D000592" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D000592" target="_blank">D000592</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="International Classification of Diseases, 10th Revision">ICD10</b>
+<sup title="International Classification of Diseases, 10th Revision"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72.1" target="_blank">31</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72.1" target="_blank">E72.1</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72.1" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72.1" target="_blank">E72.1</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_6">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=289290" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=289290" target="_blank">ORPHA289290</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C3280381" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C3280381" target="_blank">C3280381</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/C4706555" target="_blank">C4706555</a>
+</div>
+<div id="ExternalId_item_8">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/124283007" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/124283007" target="_blank">124283007</a> <a href="http://www.snomedbrowser.com/Codes/Details/128613002" target="_blank">128613002</a> <a href="http://www.snomedbrowser.com/Codes/Details/162294008" target="_blank">162294008</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/194021007" target="_blank">194021007</a> <a href="http://www.snomedbrowser.com/Codes/Details/197321007" target="_blank">197321007</a> <a href="http://www.snomedbrowser.com/Codes/Details/197446008" target="_blank">197446008</a> <a href="http://www.snomedbrowser.com/Codes/Details/204315000" target="_blank">204315000</a> <a href="http://www.snomedbrowser.com/Codes/Details/22006008" target="_blank">22006008</a> <a href="http://www.snomedbrowser.com/Codes/Details/229721007" target="_blank">229721007</a> <a href="http://www.snomedbrowser.com/Codes/Details/246545002" target="_blank">246545002</a> <a href="http://www.snomedbrowser.com/Codes/Details/252157006" target="_blank">252157006</a> <a href="http://www.snomedbrowser.com/Codes/Details/255314001" target="_blank">255314001</a> <a href="http://www.snomedbrowser.com/Codes/Details/26165005" target="_blank">26165005</a> <a href="http://www.snomedbrowser.com/Codes/Details/26544005" target="_blank">26544005</a> <a href="http://www.snomedbrowser.com/Codes/Details/278849000" target="_blank">278849000</a> <a href="http://www.snomedbrowser.com/Codes/Details/29164008" target="_blank">29164008</a> <a href="http://www.snomedbrowser.com/Codes/Details/299464006" target="_blank">299464006</a> <a href="http://www.snomedbrowser.com/Codes/Details/30144000" target="_blank">30144000</a> <a href="http://www.snomedbrowser.com/Codes/Details/313307000" target="_blank">313307000</a> <a href="http://www.snomedbrowser.com/Codes/Details/33688009" target="_blank">33688009</a> <a href="http://www.snomedbrowser.com/Codes/Details/36440009" target="_blank">36440009</a> <a href="http://www.snomedbrowser.com/Codes/Details/398151007" target="_blank">398151007</a> <a href="http://www.snomedbrowser.com/Codes/Details/398152000" target="_blank">398152000</a> <a href="http://www.snomedbrowser.com/Codes/Details/409674002" target="_blank">409674002</a> <a href="http://www.snomedbrowser.com/Codes/Details/418143002" target="_blank">418143002</a> <a href="http://www.snomedbrowser.com/Codes/Details/43123004" target="_blank">43123004</a> <a href="http://www.snomedbrowser.com/Codes/Details/432788009" target="_blank">432788009</a> <a href="http://www.snomedbrowser.com/Codes/Details/442191002" target="_blank">442191002</a> <a href="http://www.snomedbrowser.com/Codes/Details/52522001" target="_blank">52522001</a> <a href="http://www.snomedbrowser.com/Codes/Details/56786000" target="_blank">56786000</a> <a href="http://www.snomedbrowser.com/Codes/Details/57835009" target="_blank">57835009</a> <a href="http://www.snomedbrowser.com/Codes/Details/60700002" target="_blank">60700002</a> <a href="http://www.snomedbrowser.com/Codes/Details/62415009" target="_blank">62415009</a> <a href="http://www.snomedbrowser.com/Codes/Details/7305005" target="_blank">7305005</a> <a href="http://www.snomedbrowser.com/Codes/Details/74035001" target="_blank">74035001</a> <a href="http://www.snomedbrowser.com/Codes/Details/84757009" target="_blank">84757009</a> <a href="http://www.snomedbrowser.com/Codes/Details/90145001" target="_blank">90145001</a> <a href="http://www.snomedbrowser.com/Codes/Details/91175000" target="_blank">91175000</a> </span>
+<span class="showmore">
+<a title="show all 38" id="ExternalId_showmore_8" href="javascript:showMoreTable('ExternalId_item_8','ExternalId_showmore_8','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_9">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C1970196</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=289290" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=289290" target="_blank">58</a></sup>
+Hypermethioninemia encephalopathy due to adenosine kinase deficiency is a rare inborn error of metabolism disorder characterized by persistent hypermethioninemia with increased levels of S-adenosylmethionine and S-adenosylhomocysteine which manifests with encephalopathy, severe global developmental delay, mild to severe liver dysfunction, hypotonia and facial dysmorphism (most significant is frontal bossing, macrocephaly, hypertelorism and depressed nasal bridge). Epileptic seizures, hypoglycemia and/or cardiac defects (pulmonary stenosis, atrial and/or ventricular septal defect, coarctation of the aorta) may be associated. Clinical picture may range from neurological symptoms only to multi-organ involvement.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Hypermethioninemia Due to Adenosine Kinase Deficiency, also known as <i>hypermethioninemia encephalopathy due to adenosine kinase deficiency</i>, is related to <i><a href="/card/meier_gorlin_syndrome_2" target="_blank">meier-gorlin syndrome 2</a></i> and <i><a href="/card/epilepsy_idiopathic_generalized_9" target="_blank">epilepsy, idiopathic generalized 9</a></i>. An important gene associated with Hypermethioninemia Due to Adenosine Kinase Deficiency is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" target="_blank">ADK</a> (Adenosine Kinase). Affiliated tissues include <i>liver</i> and <i>skeletal muscle</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">seizure</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">failure to thrive</a></i></p>
+<p> <b> <a href="http://omim.org/entry/614300#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/614300#description" target="_blank">57</a></sup>
+Hypermethioninemia due to adenosine kinase deficiency is an autosomal recessive inborn error of metabolism characterized by global developmental delay, early-onset seizures, mild dysmorphic features, and characteristic biochemical anomalies, including persistent hypermethioninemia with increased levels of S-adenosylmethionine (AdoMet) and S-adenosylhomocysteine (AdoHcy); homocysteine is typically normal (summary by Bjursell et al., 2011). <span> (614300) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="http://www.uniprot.org/diseases/DI-03295" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03295" target="_blank">73</a></sup>
+A metabolic disorder characterized by global developmental delay, early-onset seizures, mild dysmorphic features, and characteristic biochemical anomalies, including persistent hypermethioninemia with increased levels of S-adenosylmethionine and S-adenosylhomocysteine. Homocysteine levels are typically normal.</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0111038" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111038" target="_blank">11</a></sup>
+A hypermethioninemia characterized by autosomal recessive inheritance of developmental delay, early-onset seizures, mild dysmorphic features, and characteristic biochemical anomalies, including persistent hypermethioninemia that has material basis in homozygous mutation in the ADK gene on chromosome 10q22.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Hypermethioninemia Due to Adenosine Kinase Deficiency via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 30', 'showing 30, show less','collapsable')">show all 30</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/meier_gorlin_syndrome_2" target="_blank">meier-gorlin syndrome 2</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LRP1B&amp;keywords=meier-gorlin+syndrome+2&amp;prefilter=diseases#diseases" title="LRP1B gene information at GeneCards" target="_blank">LRP1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=meier-gorlin+syndrome+2&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/epilepsy_idiopathic_generalized_9" target="_blank">epilepsy, idiopathic generalized 9</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LRP1B&amp;keywords=epilepsy%2c+idiopathic+generalized+9&amp;prefilter=diseases#diseases" title="LRP1B gene information at GeneCards" target="_blank">LRP1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=epilepsy%2c+idiopathic+generalized+9&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/reading_disorder" target="_blank">reading disorder</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROBO1&amp;keywords=reading+disorder&amp;prefilter=diseases#diseases" title="ROBO1 gene information at GeneCards" target="_blank">ROBO1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=reading+disorder&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AUTS2&amp;keywords=reading+disorder&amp;prefilter=diseases#diseases" title="AUTS2 gene information at GeneCards" target="_blank">AUTS2</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/gallbladder_small_cell_carcinoma" target="_blank">gallbladder small cell carcinoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2&amp;keywords=gallbladder+small+cell+carcinoma&amp;prefilter=diseases#diseases" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=gallbladder+small+cell+carcinoma&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/learning_disability" target="_blank">learning disability</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROBO1&amp;keywords=learning+disability&amp;prefilter=diseases#diseases" title="ROBO1 gene information at GeneCards" target="_blank">ROBO1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=learning+disability&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AUTS2&amp;keywords=learning+disability&amp;prefilter=diseases#diseases" title="AUTS2 gene information at GeneCards" target="_blank">AUTS2</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/polyradiculopathy" target="_blank">polyradiculopathy</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=polyradiculopathy&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=polyradiculopathy&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/splenic_tuberculosis" target="_blank">splenic tuberculosis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=splenic+tuberculosis&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK&amp;keywords=splenic+tuberculosis&amp;prefilter=diseases#diseases" title="ADK gene information at GeneCards" target="_blank">ADK</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/gummatous_syphilis" target="_blank">gummatous syphilis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=gummatous+syphilis&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=gummatous+syphilis&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/lung_oat_cell_carcinoma" target="_blank">lung oat cell carcinoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZFHX3&amp;keywords=lung+oat+cell+carcinoma&amp;prefilter=diseases#diseases" title="ZFHX3 gene information at GeneCards" target="_blank">ZFHX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LRP1B&amp;keywords=lung+oat+cell+carcinoma&amp;prefilter=diseases#diseases" title="LRP1B gene information at GeneCards" target="_blank">LRP1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2&amp;keywords=lung+oat+cell+carcinoma&amp;prefilter=diseases#diseases" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/mitochondrial_dna_depletion_syndrome_12b" target="_blank">mitochondrial dna depletion syndrome 12b</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTN&amp;keywords=mitochondrial+dna+depletion+syndrome+12b&amp;prefilter=diseases#diseases" title="TTN gene information at GeneCards" target="_blank">TTN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SMAD9&amp;keywords=mitochondrial+dna+depletion+syndrome+12b&amp;prefilter=diseases#diseases" title="SMAD9 gene information at GeneCards" target="_blank">SMAD9</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/angiomyoma" target="_blank">angiomyoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MB&amp;keywords=angiomyoma&amp;prefilter=diseases#diseases" title="MB gene information at GeneCards" target="_blank">MB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2&amp;keywords=angiomyoma&amp;prefilter=diseases#diseases" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/autoimmune_neuropathy" target="_blank">autoimmune neuropathy</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=autoimmune+neuropathy&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=autoimmune+neuropathy&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/malignant_granular_cell_myoblastoma" target="_blank">malignant granular cell myoblastoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MB&amp;keywords=malignant+granular+cell+myoblastoma&amp;prefilter=diseases#diseases" title="MB gene information at GeneCards" target="_blank">MB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2&amp;keywords=malignant+granular+cell+myoblastoma&amp;prefilter=diseases#diseases" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/meningovascular_neurosyphilis" target="_blank">meningovascular neurosyphilis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=meningovascular+neurosyphilis&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=meningovascular+neurosyphilis&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/malignant_triton_tumor" target="_blank">malignant triton tumor</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MB&amp;keywords=malignant+triton+tumor&amp;prefilter=diseases#diseases" title="MB gene information at GeneCards" target="_blank">MB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2&amp;keywords=malignant+triton+tumor&amp;prefilter=diseases#diseases" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/breast_leiomyosarcoma" target="_blank">breast leiomyosarcoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MB&amp;keywords=breast+leiomyosarcoma&amp;prefilter=diseases#diseases" title="MB gene information at GeneCards" target="_blank">MB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2&amp;keywords=breast+leiomyosarcoma&amp;prefilter=diseases#diseases" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/attention_deficit_hyperactivity_disorder_2" target="_blank">attention deficit-hyperactivity disorder</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ST3GAL3&amp;keywords=attention+deficit-hyperactivity+disorder&amp;prefilter=diseases#diseases" title="ST3GAL3 gene information at GeneCards" target="_blank">ST3GAL3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRD&amp;keywords=attention+deficit-hyperactivity+disorder&amp;prefilter=diseases#diseases" title="PTPRD gene information at GeneCards" target="_blank">PTPRD</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=attention+deficit-hyperactivity+disorder&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AUTS2&amp;keywords=attention+deficit-hyperactivity+disorder&amp;prefilter=diseases#diseases" title="AUTS2 gene information at GeneCards" target="_blank">AUTS2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/asphyxia_neonatorum" target="_blank">asphyxia neonatorum</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTN&amp;keywords=asphyxia+neonatorum&amp;prefilter=diseases#diseases" title="TTN gene information at GeneCards" target="_blank">TTN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2&amp;keywords=asphyxia+neonatorum&amp;prefilter=diseases#diseases" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/atrial_heart_septal_defect" target="_blank">atrial heart septal defect</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZFHX3&amp;keywords=atrial+heart+septal+defect&amp;prefilter=diseases#diseases" title="ZFHX3 gene information at GeneCards" target="_blank">ZFHX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTN&amp;keywords=atrial+heart+septal+defect&amp;prefilter=diseases#diseases" title="TTN gene information at GeneCards" target="_blank">TTN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SMAD9&amp;keywords=atrial+heart+septal+defect&amp;prefilter=diseases#diseases" title="SMAD9 gene information at GeneCards" target="_blank">SMAD9</a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/thymoma_type_b" target="_blank">thymoma type b</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTN&amp;keywords=thymoma+type+b&amp;prefilter=diseases#diseases" title="TTN gene information at GeneCards" target="_blank">TTN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=thymoma+type+b&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/transverse_myelitis" target="_blank">transverse myelitis</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=transverse+myelitis&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=transverse+myelitis&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/pyomyositis" target="_blank">pyomyositis</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MB&amp;keywords=pyomyositis&amp;prefilter=diseases#diseases" title="MB gene information at GeneCards" target="_blank">MB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=pyomyositis&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/acute_disseminated_encephalomyelitis" target="_blank">acute disseminated encephalomyelitis</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=acute+disseminated+encephalomyelitis&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=acute+disseminated+encephalomyelitis&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/small_cell_cancer_of_the_lung" target="_blank">small cell cancer of the lung</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZFHX3&amp;keywords=small+cell+cancer+of+the+lung&amp;prefilter=diseases#diseases" title="ZFHX3 gene information at GeneCards" target="_blank">ZFHX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LRP1B&amp;keywords=small+cell+cancer+of+the+lung&amp;prefilter=diseases#diseases" title="LRP1B gene information at GeneCards" target="_blank">LRP1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FHIT&amp;keywords=small+cell+cancer+of+the+lung&amp;prefilter=diseases#diseases" title="FHIT gene information at GeneCards" target="_blank">FHIT</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2&amp;keywords=small+cell+cancer+of+the+lung&amp;prefilter=diseases#diseases" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="/card/thymus_gland_disease" target="_blank">thymus gland disease</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTN&amp;keywords=thymus+gland+disease&amp;prefilter=diseases#diseases" title="TTN gene information at GeneCards" target="_blank">TTN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=thymus+gland+disease&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=thymus+gland+disease&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="/card/thymus_cancer" target="_blank">thymus cancer</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTN&amp;keywords=thymus+cancer&amp;prefilter=diseases#diseases" title="TTN gene information at GeneCards" target="_blank">TTN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=thymus+cancer&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=thymus+cancer&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="/card/patent_foramen_ovale" target="_blank">patent foramen ovale</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTN&amp;keywords=patent+foramen+ovale&amp;prefilter=diseases#diseases" title="TTN gene information at GeneCards" target="_blank">TTN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SMAD9&amp;keywords=patent+foramen+ovale&amp;prefilter=diseases#diseases" title="SMAD9 gene information at GeneCards" target="_blank">SMAD9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MB&amp;keywords=patent+foramen+ovale&amp;prefilter=diseases#diseases" title="MB gene information at GeneCards" target="_blank">MB</a> </td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="/card/extrinsic_cardiomyopathy" target="_blank">extrinsic cardiomyopathy</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTN&amp;keywords=extrinsic+cardiomyopathy&amp;prefilter=diseases#diseases" title="TTN gene information at GeneCards" target="_blank">TTN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MB&amp;keywords=extrinsic+cardiomyopathy&amp;prefilter=diseases#diseases" title="MB gene information at GeneCards" target="_blank">MB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=extrinsic+cardiomyopathy&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="/card/congenital_nervous_system_abnormality" target="_blank">congenital nervous system abnormality</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TUSC3&amp;keywords=congenital+nervous+system+abnormality&amp;prefilter=diseases#diseases" title="TUSC3 gene information at GeneCards" target="_blank">TUSC3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SMAD9&amp;keywords=congenital+nervous+system+abnormality&amp;prefilter=diseases#diseases" title="SMAD9 gene information at GeneCards" target="_blank">SMAD9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=congenital+nervous+system+abnormality&amp;prefilter=diseases#diseases" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=congenital+nervous+system+abnormality&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AUTS2&amp;keywords=congenital+nervous+system+abnormality&amp;prefilter=diseases#diseases" title="AUTS2 gene information at GeneCards" target="_blank">AUTS2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="/card/myocarditis" target="_blank">myocarditis</a></td>
+<td>9.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTN&amp;keywords=myocarditis&amp;prefilter=diseases#diseases" title="TTN gene information at GeneCards" target="_blank">TTN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MB&amp;keywords=myocarditis&amp;prefilter=diseases#diseases" title="MB gene information at GeneCards" target="_blank">MB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=myocarditis&amp;prefilter=diseases#diseases" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Hypermethioninemia Due to Adenosine Kinase Deficiency:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/hypermethioninemia_due_to_adenosine_kinase_deficiency_related_diseases.jpg" width="100%" alt="Diseases related to Hypermethioninemia Due to Adenosine Kinase Deficiency" title="Diseases related to Hypermethioninemia Due to Adenosine Kinase Deficiency" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Hypermethioninemia Due to Adenosine Kinase Deficiency:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 30', 'showing 30, show less','collapsable')">show all 30</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+seizure
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">HP:0001250</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+failure to thrive
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">HP:0001508</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+frontal bossing
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002007" target="_blank">HP:0002007</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+hypotonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001252" target="_blank">HP:0001252</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+muscle weakness
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001324" target="_blank">HP:0001324</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+hypertelorism
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000316" target="_blank">HP:0000316</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+delayed speech and language development
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000750" target="_blank">HP:0000750</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+skeletal muscle atrophy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003202" target="_blank">HP:0003202</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+hyperbilirubinemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002904" target="_blank">HP:0002904</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+poor speech
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002465" target="_blank">HP:0002465</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+multifocal epileptiform discharges
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010841" target="_blank">HP:0010841</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+hypermethioninemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003235" target="_blank">HP:0003235</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+portal fibrosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006580" target="_blank">HP:0006580</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+elevated circulating s-adenosyl-l-methionine concentration
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0034731" target="_blank">HP:0034731</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+elevated circulating alanine aminotransferase concentration
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0031964" target="_blank">HP:0031964</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+increased csf methionine concentration
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0500210" target="_blank">HP:0500210</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+macrocephaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.8333333%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000256" target="_blank">HP:0000256</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+elevated circulating s-adenosyl-l-homocysteine concentration
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.8333333%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0034730" target="_blank">HP:0034730</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+prolonged prothrombin time
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.8%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008151" target="_blank">HP:0008151</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+severe global developmental delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.6666667%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011344" target="_blank">HP:0011344</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+cholestasis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.6%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001396" target="_blank">HP:0001396</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+elevated circulating creatine kinase concentration
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003236" target="_blank">HP:0003236</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+cerebral atrophy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002059" target="_blank">HP:0002059</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+sensorineural hearing impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.3333333%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000407" target="_blank">HP:0000407</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+profound global developmental delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.3333333%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012736" target="_blank">HP:0012736</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+secundum atrial septal defect
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.3333333%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001684" target="_blank">HP:0001684</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+hepatic steatosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.2%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001397" target="_blank">HP:0001397</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+coarctation of aorta
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1666667%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001680" target="_blank">HP:0001680</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+pulmonic stenosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1666667%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001642" target="_blank">HP:0001642</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+narrow foot
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001786" target="_blank">HP:0001786</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/614300" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Head And Neck Head:</u><br/>
+<span>macrocephaly</span>
+<br/>
+<span>frontal bossing</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Muscle Soft Tissue:</u><br/>
+<span>hypotonia</span>
+<br/>
+<span>muscle wasting</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>hypertelorism</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>hyperbilirubinemia</span>
+<br/>
+<span>hypermethioninemia</span>
+<br/>
+<span>abnormal liver enzymes</span>
+<br/>
+<span>increased serum s-adenosylmethionine</span>
+<br/>
+<span>increased serum s-adenosylhomocysteine</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>normal serum homocysteine</span>
+<br/>
+<span>increased urinary adenosine</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 7" id="ClinicalSynopsis_showmore_4" href="javascript:showMoreTable('ClinicalSynopsis_item_4','ClinicalSynopsis_showmore_4','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Skeletal Hands:</u><br/>
+<span>slender hands</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Cardiovascular Heart:</u><br/>
+<span>cardiac defects (in some)</span>
+<br/>
+<span>atrial septal defect (2 patients)</span>
+<br/>
+<span>pulmonary stenosis (1 patient)</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Growth Other:</u><br/>
+<span>failure to thrive</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>hypotonia</span>
+<br/>
+<span>cerebral atrophy</span>
+<br/>
+<span>seizures</span>
+<br/>
+<span>poor speech development</span>
+<br/>
+<span>global developmental delay, severe</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>white matter degeneration</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 6" id="ClinicalSynopsis_showmore_8" href="javascript:showMoreTable('ClinicalSynopsis_item_8','ClinicalSynopsis_showmore_8','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Abdomen Liver:</u><br/>
+<span>cholestasis</span>
+<br/>
+<span>steatosis</span>
+<br/>
+<span>liver dysfunction, mild</span>
+<br/>
+<span>portal fibrosis, mild</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Skeletal Feet:</u><br/>
+<span>slender feet</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_11" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>hearing loss, sensorineural (in some)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_12" class="tab">
+<u>Cardiovascular Vascular:</u><br/>
+<span>coarctation of the aorta (1 patient)</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/614300#clinicalFeatures" target="_blank">614300</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div>
+<div>
+<h3>GenomeRNAi Phenotypes related to Hypermethioninemia Due to Adenosine Kinase Deficiency according to GeneCards Suite gene sharing:</h3>
+<sup title="GenomeRNAi">25</sup>
+</div>
+<table id="FunctionalDescription_GEN-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>GenomeRNAi Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>no effect</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00402-S-1" target="_blank">GR00402-S-1</a></td>
+<td>10.13</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY10&amp;keywords=no+effect&amp;prefilter=function#function" title="ADCY10 gene information at GeneCards" target="_blank">ADCY10</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK&amp;keywords=no+effect&amp;prefilter=function#function" title="ADK gene information at GeneCards" target="_blank">ADK</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AUTS2&amp;keywords=no+effect&amp;prefilter=function#function" title="AUTS2 gene information at GeneCards" target="_blank">AUTS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=no+effect&amp;prefilter=function#function" title="CD4 gene information at GeneCards" target="_blank">CD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=no+effect&amp;prefilter=function#function" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2&amp;keywords=no+effect&amp;prefilter=function#function" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>no effect</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00402-S-2" target="_blank">GR00402-S-2</a></td>
+<td>10.13</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY10&amp;keywords=no+effect&amp;prefilter=function#function" title="ADCY10 gene information at GeneCards" target="_blank">ADCY10</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK&amp;keywords=no+effect&amp;prefilter=function#function" title="ADK gene information at GeneCards" target="_blank">ADK</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AUTS2&amp;keywords=no+effect&amp;prefilter=function#function" title="AUTS2 gene information at GeneCards" target="_blank">AUTS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=no+effect&amp;prefilter=function#function" title="CD4 gene information at GeneCards" target="_blank">CD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FHIT&amp;keywords=no+effect&amp;prefilter=function#function" title="FHIT gene information at GeneCards" target="_blank">FHIT</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LRP1B&amp;keywords=no+effect&amp;prefilter=function#function" title="LRP1B gene information at GeneCards" target="_blank">LRP1B</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>MGI Mouse Phenotypes related to Hypermethioninemia Due to Adenosine Kinase Deficiency:</h3>
+<sup title="Mouse Genome Informatics">45</sup>
+<table id="FunctionalDescription_MGI-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>MGI Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>growth/size/body region</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005378" target="_blank">MP:0005378</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="ADK gene information at GeneCards" target="_blank">ADK</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AUTS2&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="AUTS2 gene information at GeneCards" target="_blank">AUTS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="CD4 gene information at GeneCards" target="_blank">CD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MB&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="MB gene information at GeneCards" target="_blank">MB</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>mortality/aging</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0010768" target="_blank">MP:0010768</a></td>
+<td>9.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="ADK gene information at GeneCards" target="_blank">ADK</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AUTS2&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="AUTS2 gene information at GeneCards" target="_blank">AUTS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="CD4 gene information at GeneCards" target="_blank">CD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FHIT&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="FHIT gene information at GeneCards" target="_blank">FHIT</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LRP1B&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="LRP1B gene information at GeneCards" target="_blank">LRP1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MB&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="MB gene information at GeneCards" target="_blank">MB</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Interventional clinical trials:</h3>
+<br/>
+<table id="ClinicalTrial-table" style="table-layout: fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="400">Name</th>
+<th width="80">Status</th>
+<th width="90">NCT ID</th>
+<th width="70">Phase</th>
+<th>Drugs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Universal Genomic Newborn Screening in the Wallonia-Brussels Federation: Baby Detect</td>
+<td>Recruiting</td>
+<td> <a href="https://clinicaltrials.gov/ct2/show/NCT05687474" target="_blank">NCT05687474</a></td>
+<td></td>
+<td style="word-wrap: break-word;"></td>
+</tr>
+</tbody>
+</table>
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Hypermethioninemia Due to Adenosine Kinase Deficiency&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Hypermethioninemia Due to Adenosine Kinase Deficiency</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Hypermethioninemia Due to Adenosine Kinase Deficiency: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="2.583591">Liver</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.6204432">Skeletal Muscle</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Hypermethioninemia Due to Adenosine Kinase Deficiency according to OMIM&#174; and ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Adenosine kinase deficiency disrupts the methionine cycle and causes hypermethioninemia, encephalopathy, and abnormal liver function.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bjursell MK...Wedell A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21963049" target="_blank">21963049</a></td>
+<td>2011</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Homozygosity mapping in consanguineous families reveals extreme heterogeneity of non-syndromic autosomal recessive mental retardation and identifies 8 novel gene loci.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Najmabadi H...Ropers HH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17120046" target="_blank">17120046</a></td>
+<td>2007</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Hypermethioninemia Due to Adenosine Kinase Deficiency according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Homozygosity mapping in outbred families with mental retardation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Schuurs-Hoeijmakers JH...de Vries BB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21248743" target="_blank">21248743</a></td>
+<td>2011</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Hypermethioninemia Due to Adenosine Kinase Deficiency (2 elite genes):</h3>
+<span class="showmore">
+(<a id="RelatedGenes-table_SeeMore" href="javascript:showMoreTable('RelatedGenes-table','RelatedGenes-table_SeeMore', 'show all 19', 'showing 19, show less','collapsable')">show all 19</a>)
+</span>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Adenosine Kinase</td>
+<td>Protein Coding</td>
+<td>1575</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/102750" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation (loss of function)
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=20708" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21963049" title="ClinVar" target="_blank">21963049</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC102723439" title="LOC102723439 gene information at GeneCards" target="_blank">LOC102723439</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Uncharacterized LOC102723439</td>
+<td>RNA Gene</td>
+<td>400</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21963049" title="ClinVar" target="_blank">21963049</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TUSC3" title="TUSC3 gene information at GeneCards" target="_blank">TUSC3</a></div>
+</div>
+</td>
+<td>Tumor Suppressor Candidate 3</td>
+<td>Protein Coding</td>
+<td>6.5</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000424544&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a></div>
+</div>
+</td>
+<td>Contactin Associated Protein 2</td>
+<td>Protein Coding</td>
+<td>5.18</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000354778&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ST3GAL3" title="ST3GAL3 gene information at GeneCards" target="_blank">ST3GAL3</a></div>
+</div>
+</td>
+<td>ST3 Beta-Galactoside Alpha-2,3-Sialyltransferase 3</td>
+<td>Protein Coding</td>
+<td>4.82</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000262915&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PPP1R10" title="PPP1R10 gene information at GeneCards" target="_blank">PPP1R10</a></div>
+</div>
+</td>
+<td>Protein Phosphatase 1 Regulatory Subunit 10</td>
+<td>Protein Coding</td>
+<td>4.76</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000365694&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AUTS2" title="AUTS2 gene information at GeneCards" target="_blank">AUTS2</a></div>
+</div>
+</td>
+<td>Activator Of Transcription And Developmental Regulator AUTS2</td>
+<td>Protein Coding</td>
+<td>4.68</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000344087&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ST6GALNAC1" title="ST6GALNAC1 gene information at GeneCards" target="_blank">ST6GALNAC1</a></div>
+</div>
+</td>
+<td>ST6 N-Acetylgalactosaminide Alpha-2,6-Sialyltransferase 1</td>
+<td>Protein Coding</td>
+<td>4.56</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000156626&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZFHX3" title="ZFHX3 gene information at GeneCards" target="_blank">ZFHX3</a></div>
+</div>
+</td>
+<td>Zinc Finger Homeobox 3</td>
+<td>Protein Coding</td>
+<td>4.43</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000268489&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">10</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRD" title="PTPRD gene information at GeneCards" target="_blank">PTPRD</a></div>
+</div>
+</td>
+<td>Protein Tyrosine Phosphatase Receptor Type D</td>
+<td>Protein Coding</td>
+<td>4.26</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000370593&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_10">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">11</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LRP1B" title="LRP1B gene information at GeneCards" target="_blank">LRP1B</a></div>
+</div>
+</td>
+<td>LDL Receptor Related Protein 1B</td>
+<td>Protein Coding</td>
+<td>4.21</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000374135&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_11">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">12</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROBO1" title="ROBO1 gene information at GeneCards" target="_blank">ROBO1</a></div>
+</div>
+</td>
+<td>Roundabout Guidance Receptor 1</td>
+<td>Protein Coding</td>
+<td>4.15</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000420321&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_12">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">13</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADCY10" title="ADCY10 gene information at GeneCards" target="_blank">ADCY10</a></div>
+</div>
+</td>
+<td>Adenylate Cyclase 10</td>
+<td>Protein Coding</td>
+<td>3.91</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000356825&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_13">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">14</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FHIT" title="FHIT gene information at GeneCards" target="_blank">FHIT</a></div>
+</div>
+</td>
+<td>Fragile Histidine Triad Diadenosine Triphosphatase</td>
+<td>Protein Coding</td>
+<td>3.85</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000417480&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_14">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">15</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SMAD9" title="SMAD9 gene information at GeneCards" target="_blank">SMAD9</a></div>
+</div>
+</td>
+<td>SMAD Family Member 9</td>
+<td>Protein Coding</td>
+<td>3.76</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000369154&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_15">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">16</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTN" title="TTN gene information at GeneCards" target="_blank">TTN</a></div>
+</div>
+</td>
+<td>Titin</td>
+<td>Protein Coding</td>
+<td>3.4</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000467141&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_16">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">17</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MB" title="MB gene information at GeneCards" target="_blank">MB</a></div>
+</div>
+</td>
+<td>Myoglobin</td>
+<td>Protein Coding</td>
+<td>3.24</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000380489&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_17">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">18</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4" title="CD4 gene information at GeneCards" target="_blank">CD4</a></div>
+</div>
+</td>
+<td>CD4 Molecule</td>
+<td>Protein Coding</td>
+<td>3.02</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000011653&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_18">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">19</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a></div>
+</div>
+</td>
+<td>Enolase 2</td>
+<td>Protein Coding</td>
+<td>2.98</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000437402&amp;type2=-26&amp;id2=DOID:0111038" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_19">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Hypermethioninemia Due to Adenosine Kinase Deficiency:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show all 41', 'showing 41, show less','collapsable')">show all 41</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC102723439" title="LOC102723439 gene information at GeneCards" target="_blank">LOC102723439</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.704A&gt;C (p.Asp235Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000022444/" title="RCV000022444" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/29604/?new_evidence=true#id_second" target="_blank">29604</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397514453" target="_blank">rs397514453</a></td>
+<td>GRCh37: 10:76285162-76285162<br/>GRCh38: 10:74525404-74525404</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.89G&gt;A (p.Gly30Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000022445/" title="RCV000022445" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/29605/?new_evidence=true#id_second" target="_blank">29605</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397514454" target="_blank">rs397514454</a></td>
+<td>GRCh37: 10:75960545-75960545<br/>GRCh38: 10:74200787-74200787</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.953C&gt;A (p.Ala318Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000022443/" title="RCV000022443" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/29603/?new_evidence=true#id_second" target="_blank">29603</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397514452" target="_blank">rs397514452</a></td>
+<td>GRCh37: 10:76430016-76430016<br/>GRCh38: 10:74670258-74670258</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.813dup (p.Asn272fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000985064/" title="RCV000985064" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/800875/?new_evidence=true#id_second" target="_blank">800875</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1589286482" target="_blank">rs1589286482</a></td>
+<td>GRCh37: 10:76360186-76360187<br/>GRCh38: 10:74600428-74600429</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.1031C&gt;T (p.Ala344Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000988388/" title="RCV000988388" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/802589/?new_evidence=true#id_second" target="_blank">802589</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1589387419" target="_blank">rs1589387419</a></td>
+<td>GRCh37: 10:76468145-76468145<br/>GRCh38: 10:74708387-74708387</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.741T&gt;A (p.Phe247Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001332841/" title="RCV001332841" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/191003/?new_evidence=true#id_second" target="_blank">191003</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/786205458" target="_blank">rs786205458</a></td>
+<td>GRCh37: 10:76349054-76349054<br/>GRCh38: 10:74589296-74589296</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.71A&gt;T (p.Asn24Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001170034/" title="RCV001170034" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/915419/?new_evidence=true#id_second" target="_blank">915419</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1271395440" target="_blank">rs1271395440</a></td>
+<td>GRCh37: 10:75960527-75960527<br/>GRCh38: 10:74200769-74200769</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.374T&gt;C (p.Val125Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003152918/" title="RCV003152918" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2444120/?new_evidence=true#id_second" target="_blank">2444120</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:76153999-76153999<br/>GRCh38: 10:74394241-74394241</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.441C&gt;T (p.Asp147=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000296601/" title="RCV000296601" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300838/?new_evidence=true#id_second" target="_blank">300838</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886047236" target="_blank">rs886047236</a></td>
+<td>GRCh37: 10:76154066-76154066<br/>GRCh38: 10:74394308-74394308</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.*157G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000302761/" title="RCV000302761" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300844/?new_evidence=true#id_second" target="_blank">300844</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886047237" target="_blank">rs886047237</a></td>
+<td>GRCh37: 10:76468360-76468360<br/>GRCh38: 10:74708602-74708602</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.220A&gt;G (p.Lys74Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000331708/" title="RCV000331708" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300836/?new_evidence=true#id_second" target="_blank">300836</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/201786575" target="_blank">rs201786575</a></td>
+<td>GRCh37: 10:76074450-76074450<br/>GRCh38: 10:74314692-74314692</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.763-9T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000338869/" title="RCV000338869" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300842/?new_evidence=true#id_second" target="_blank">300842</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/780824505" target="_blank">rs780824505</a></td>
+<td>GRCh37: 10:76360128-76360128<br/>GRCh38: 10:74600370-74600370</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.*337T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000359874/" title="RCV000359874" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300845/?new_evidence=true#id_second" target="_blank">300845</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886047238" target="_blank">rs886047238</a></td>
+<td>GRCh37: 10:76468540-76468540<br/>GRCh38: 10:74708782-74708782</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.66-23966T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000384839/" title="RCV000384839" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300834/?new_evidence=true#id_second" target="_blank">300834</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886047235" target="_blank">rs886047235</a></td>
+<td>GRCh37: 10:75936556-75936556<br/>GRCh38: 10:74176798-74176798</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.259A&gt;G (p.Ile87Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000388548/" title="RCV000388548" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300837/?new_evidence=true#id_second" target="_blank">300837</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/201734294" target="_blank">rs201734294</a></td>
+<td>GRCh37: 10:76074489-76074489<br/>GRCh38: 10:74314731-74314731</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.66-24083G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000270477/" title="RCV000270477" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300832/?new_evidence=true#id_second" target="_blank">300832</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886047233" target="_blank">rs886047233</a></td>
+<td>GRCh37: 10:75936439-75936439<br/>GRCh38: 10:74176681-74176681</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.66-24151A&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000324623/" title="RCV000324623" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300830/?new_evidence=true#id_second" target="_blank">300830</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886047232" target="_blank">rs886047232</a></td>
+<td>GRCh37: 10:75936371-75936371<br/>GRCh38: 10:74176613-74176613</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.66-24009G&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000327935/" title="RCV000327935" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300833/?new_evidence=true#id_second" target="_blank">300833</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886047234" target="_blank">rs886047234</a></td>
+<td>GRCh37: 10:75936513-75936513<br/>GRCh38: 10:74176755-74176755</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.66-24133G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001106869/" title="RCV001106869" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/879390/?new_evidence=true#id_second" target="_blank">879390</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1036870011" target="_blank">rs1036870011</a></td>
+<td>GRCh37: 10:75936389-75936389<br/>GRCh38: 10:74176631-74176631</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.429C&gt;T (p.Cys143=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001103920/" title="RCV001103920" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/877826/?new_evidence=true#id_second" target="_blank">877826</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/142477111" target="_blank">rs142477111</a></td>
+<td>GRCh37: 10:76154054-76154054<br/>GRCh38: 10:74394296-74394296</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.494A&gt;C (p.Lys165Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001103921/" title="RCV001103921" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/877827/?new_evidence=true#id_second" target="_blank">877827</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1219524919" target="_blank">rs1219524919</a></td>
+<td>GRCh37: 10:76158276-76158276<br/>GRCh38: 10:74398518-74398518</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.*114T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001104198/" title="RCV001104198" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/877986/?new_evidence=true#id_second" target="_blank">877986</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/560409958" target="_blank">rs560409958</a></td>
+<td>GRCh37: 10:76468317-76468317<br/>GRCh38: 10:74708559-74708559</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.*296G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001104199/" title="RCV001104199" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/877987/?new_evidence=true#id_second" target="_blank">877987</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/527621742" target="_blank">rs527621742</a></td>
+<td>GRCh37: 10:76468499-76468499<br/>GRCh38: 10:74708741-74708741</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.*349T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001104200/" title="RCV001104200" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/877988/?new_evidence=true#id_second" target="_blank">877988</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/896781492" target="_blank">rs896781492</a></td>
+<td>GRCh37: 10:76468552-76468552<br/>GRCh38: 10:74708794-74708794</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.*729T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001106977/" title="RCV001106977" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/879453/?new_evidence=true#id_second" target="_blank">879453</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1307744498" target="_blank">rs1307744498</a></td>
+<td>GRCh37: 10:76468932-76468932<br/>GRCh38: 10:74709174-74709174</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.66-23967G&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001107539/" title="RCV001107539" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/879774/?new_evidence=true#id_second" target="_blank">879774</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1842356778" target="_blank">rs1842356778</a></td>
+<td>GRCh37: 10:75936555-75936555<br/>GRCh38: 10:74176797-74176797</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.66-23885T&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001107540/" title="RCV001107540" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/879775/?new_evidence=true#id_second" target="_blank">879775</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/370191448" target="_blank">rs370191448</a></td>
+<td>GRCh37: 10:75936637-75936637<br/>GRCh38: 10:74176879-74176879</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.1088G&gt;A (p.Ter363=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000391987/" title="RCV000391987" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300843/?new_evidence=true#id_second" target="_blank">300843</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/148819558" target="_blank">rs148819558</a></td>
+<td>GRCh37: 10:76468202-76468202<br/>GRCh38: 10:74708444-74708444</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.*375A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000402780/" title="RCV000402780" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300846/?new_evidence=true#id_second" target="_blank">300846</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/185021662" target="_blank">rs185021662</a></td>
+<td>GRCh37: 10:76468578-76468578<br/>GRCh38: 10:74708820-74708820</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.66-24106T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000362746/" title="RCV000362746" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300831/?new_evidence=true#id_second" target="_blank">300831</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/192064997" target="_blank">rs192064997</a></td>
+<td>GRCh37: 10:75936416-75936416<br/>GRCh38: 10:74176658-74176658</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.66-24289G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001106868/" title="RCV001106868" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/879389/?new_evidence=true#id_second" target="_blank">879389</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/571962706" target="_blank">rs571962706</a></td>
+<td>GRCh37: 10:75936233-75936233<br/>GRCh38: 10:74176475-74176475</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.*740C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000364193/" title="RCV000364193" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300848/?new_evidence=true#id_second" target="_blank">300848</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/150465356" target="_blank">rs150465356</a></td>
+<td>GRCh37: 10:76468943-76468943<br/>GRCh38: 10:74709185-74709185</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC102723439" title="LOC102723439 gene information at GeneCards" target="_blank">LOC102723439</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.726+11T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000391986/" title="RCV000391986" target="_blank">Benign/Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300840/?new_evidence=true#id_second" target="_blank">300840</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/45529443" target="_blank">rs45529443</a></td>
+<td>GRCh37: 10:76285195-76285195<br/>GRCh38: 10:74525437-74525437</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC102723439" title="LOC102723439 gene information at GeneCards" target="_blank">LOC102723439</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.705T&gt;C (p.Asp235=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000335386/" title="RCV000335386" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300839/?new_evidence=true#id_second" target="_blank">300839</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/16931480" target="_blank">rs16931480</a></td>
+<td>GRCh37: 10:76285163-76285163<br/>GRCh38: 10:74525405-74525405</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.*648C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000307240/" title="RCV000307240" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300847/?new_evidence=true#id_second" target="_blank">300847</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1189553" target="_blank">rs1189553</a></td>
+<td>GRCh37: 10:76468851-76468851<br/>GRCh38: 10:74709093-74709093</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.727-11T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000281516/" title="RCV000281516" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300841/?new_evidence=true#id_second" target="_blank">300841</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/12778270" target="_blank">rs12778270</a></td>
+<td>GRCh37: 10:76349029-76349029<br/>GRCh38: 10:74589271-74589271</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.66-23911C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000293153/" title="RCV000293153" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/300835/?new_evidence=true#id_second" target="_blank">300835</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/10824095" target="_blank">rs10824095</a></td>
+<td>GRCh37: 10:75936611-75936611<br/>GRCh38: 10:74176853-74176853</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.727-8del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000988387/" title="RCV000988387" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/802588/?new_evidence=true#id_second" target="_blank">802588</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/112610475" target="_blank">rs112610475</a></td>
+<td>GRCh37: 10:76349021-76349021<br/>GRCh38: 10:74589263-74589263</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.195-18A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002227173/" title="RCV002227173" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/445533/?new_evidence=true#id_second" target="_blank">445533</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/144492760" target="_blank">rs144492760</a></td>
+<td>GRCh37: 10:76074407-76074407<br/>GRCh38: 10:74314649-74314649</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.878-71T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001549249/" title="RCV001549249" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1189011/?new_evidence=true#id_second" target="_blank">1189011</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:76429870-76429870<br/>GRCh38: 10:74670112-74670112</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td style="overflow-wrap:break-word;">NM_006721.4(ADK):c.987T&gt;C (p.Ser329=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001104197/" title="RCV001104197" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/716932/?new_evidence=true#id_second" target="_blank">716932</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/116653664" target="_blank">rs116653664</a></td>
+<td>GRCh37: 10:76468101-76468101<br/>GRCh38: 10:74708343-74708343</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Hypermethioninemia Due to Adenosine Kinase Deficiency:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td>p.Gly30Glu</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_066640.html" target="_blank">VAR_066640</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397514454" target="_blank">rs397514454</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td>p.Asp235Ala</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_066641.html" target="_blank">VAR_066641</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397514453" target="_blank">rs397514453</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADK" title="ADK gene information at GeneCards" target="_blank">ADK</a></td>
+<td>p.Ala318Glu</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_066642.html" target="_blank">VAR_066642</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397514452" target="_blank">rs397514452</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Hypermethioninemia%20Due%20to%20Adenosine%20Kinase%20Deficiency%22%5BMeSH%20Terms%5D%20OR%20%22Hypermethioninemia%20Due%20to%20Adenosine%20Kinase%20Deficiency%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Hypermethioninemia Due to Adenosine Kinase Deficiency.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Biological processes related to Hypermethioninemia Due to Adenosine Kinase Deficiency according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>sialylation</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0097503" target="_blank">GO:0097503</a></td>
+<td>8.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ST6GALNAC1&amp;keywords=sialylation&amp;prefilter=go_proc#go_proc" title="ST6GALNAC1 gene information at GeneCards" target="_blank">ST6GALNAC1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ST3GAL3&amp;keywords=sialylation&amp;prefilter=go_proc#go_proc" title="ST3GAL3 gene information at GeneCards" target="_blank">ST3GAL3</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Hypermethioninemia Due to Adenosine Kinase Deficiency according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>enzyme binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0019899" target="_blank">GO:0019899</a></td>
+<td>9.28</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZFHX3&amp;keywords=enzyme+binding&amp;prefilter=go_func#go_func" title="ZFHX3 gene information at GeneCards" target="_blank">ZFHX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTN&amp;keywords=enzyme+binding&amp;prefilter=go_func#go_func" title="TTN gene information at GeneCards" target="_blank">TTN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ENO2&amp;keywords=enzyme+binding&amp;prefilter=go_func#go_func" title="ENO2 gene information at GeneCards" target="_blank">ENO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNTNAP2&amp;keywords=enzyme+binding&amp;prefilter=go_func#go_func" title="CNTNAP2 gene information at GeneCards" target="_blank">CNTNAP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CD4&amp;keywords=enzyme+binding&amp;prefilter=go_func#go_func" title="CD4 gene information at GeneCards" target="_blank">CD4</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Hypermethioninemia Due to Adenosine Kinase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#80f3f5f0f0eff2f4c0ece9e6e5ede1f0f3e3aee3efed">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ed45cba7c6132',t:'MTY5NTI2MjgzMi44NTYwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

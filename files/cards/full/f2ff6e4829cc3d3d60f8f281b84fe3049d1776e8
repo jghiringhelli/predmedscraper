@@ -1,0 +1,3832 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Chudley-Mccullough Syndrome disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/chudley_mccullough_syndrome" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'chudley_mccullough_syndrome';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+CMCS <div class="symbol">MCID: CHD004</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 40
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Chudley-Mccullough Syndrome</span>
+(<span itemprop="alternateName">CMCS</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Ear diseases, Fetal diseases, Genetic diseases, Neuronal diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#4132202d2432012d2827242c203132226f222e2c" target="_blank"><span class="__cf_email__" data-cfemail="81f2e0ede4f2c1ede8e7e4ece0f1f2e2afe2eeec">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="1 Genes associated with Chudley-Mccullough Syndrome">Genes</a>
+<a href="#genetic_variations" title="83 Variations associated with Chudley-Mccullough Syndrome">Variations</a>
+<a href="#anatomical_context" title="7 Tissues associated with Chudley-Mccullough Syndrome">Tissues</a>
+<a href="#disorders" title="23 Related diseases associated with Chudley-Mccullough Syndrome">Related diseases</a>
+<a href="#publications" title="1315 Publications associated with Chudley-Mccullough Syndrome">Publications</a>
+<a href="#clinical_features" title="18 Symptoms &amp; Phenotypes associated with Chudley-Mccullough Syndrome">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/chudley_mccullough_syndrome?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Chudley-Mccullough Syndrome:</h3>
+<div class="main-name">
+Name: <b>Chudley-Mccullough Syndrome</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/604213" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/86/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=314597" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Chudley%E2%80%93Mccullough_syndrome" title="Wikipedia" target="_blank">75</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02897" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1858695" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/00858" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Cmcs
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/604213" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02897" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Deafness, Sensorineural, with Partial Agenesis of the Corpus Callosum and Arachnoid Cysts
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/604213" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Sensorineural Deafness with Partial Agenesis of the Corpus Callosum and Arachnoid Cysts
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02897" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Deafness, Autosomal Recessive 82, Formerly
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/604213" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Deafness Autosomal Recessive 82
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02897" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Dfnb82, Formerly
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/604213" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Arachnoid Cysts
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<div>
+Dfnb82
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02897" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=314597" target="_blank">58</a></sup>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/604213" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=314597" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+Infancy,Neonatal <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=314597" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/604213" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>hearing loss may be congenital or rapidly progressive leading to severe hearing loss by age 3 years</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/ear_disease_list" target="_blank">Ear diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/XVII" title="XVII" target="_blank">Congenital malformations, deformations and chromosomal abnormalities</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q00-Q07" title="Q00-Q07" target="_blank">Congenital malformations of the nervous system</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q04" title="Q04" target="_blank">Other congenital malformations of brain</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q04.8" title="Q04.8" target="_blank">Other specified congenital malformations of brain</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare neurological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare otorhinolaryngological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Developmental anomalies during embryogenesis <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/604213" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/604213" target="_blank">604213</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D006319" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D006319" target="_blank">D006319</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D016080" target="_blank">D016080</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D061085" target="_blank">D061085</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q04.8" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q04.8" target="_blank">Q04.8</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="UMLS via Orphanet">UMLS via Orphanet</b>
+<sup title="UMLS via Orphanet"><span>72</span> </sup>
+<span>C1858695</span>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_5">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=314597" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=314597" target="_blank">ORPHA314597</a>
+</div>
+<div id="ExternalId_item_6">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1858695" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1858695" target="_blank">C1858695</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/128490007" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/128490007" target="_blank">128490007</a> <a href="http://www.snomedbrowser.com/Codes/Details/128613002" target="_blank">128613002</a> <a href="http://www.snomedbrowser.com/Codes/Details/16026008" target="_blank">16026008</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/204043002" target="_blank">204043002</a> <a href="http://www.snomedbrowser.com/Codes/Details/230745008" target="_blank">230745008</a> <a href="http://www.snomedbrowser.com/Codes/Details/246545002" target="_blank">246545002</a> <a href="http://www.snomedbrowser.com/Codes/Details/253140003" target="_blank">253140003</a> <a href="http://www.snomedbrowser.com/Codes/Details/313307000" target="_blank">313307000</a> <a href="http://www.snomedbrowser.com/Codes/Details/33595009" target="_blank">33595009</a> <a href="http://www.snomedbrowser.com/Codes/Details/416286003" target="_blank">416286003</a> <a href="http://www.snomedbrowser.com/Codes/Details/417338002" target="_blank">417338002</a> <a href="http://www.snomedbrowser.com/Codes/Details/4945003" target="_blank">4945003</a> <a href="http://www.snomedbrowser.com/Codes/Details/84757009" target="_blank">84757009</a> <a href="http://www.snomedbrowser.com/Codes/Details/86765009" target="_blank">86765009</a> <a href="http://www.snomedbrowser.com/Codes/Details/91175000" target="_blank">91175000</a> </span>
+<span class="showmore">
+<a title="show all 15" id="ExternalId_showmore_7" href="javascript:showMoreTable('ExternalId_item_7','ExternalId_showmore_7','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_8">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C0078981</span> <span>C1858695</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="https://rarediseases.info.nih.gov/diseases/86/index" target="_blank">GARD</a>:</b>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/86/index" target="_blank">19</a></sup>
+Chudley-McCullough syndrome is a rare, genetic, syndromic deafness characterized by severe to profound, bilateral, sensorineural hearing loss (congenital or rapidly progressive in infancy) associated with a complex brain malformation including hydrocephalus, varying degrees of partial corpus callosum agenesis, colpocephaly, cerebral and cerebellar cortical dysplasia (bilateral medial frontal polymicrogyria, bilateral frontal subcortical heteropia) and, in some, arachnoid cysts. Major physical abnormalities or psychomotor delay are usually not associated.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Chudley-Mccullough Syndrome, also known as <i>cmcs</i>, is related to <i><a href="/card/arachnoid_cyst" target="_blank">arachnoid cyst</a></i> and <i><a href="/card/sensorineural_hearing_loss" target="_blank">sensorineural hearing loss</a></i>. An important gene associated with Chudley-Mccullough Syndrome is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" target="_blank">GPSM2</a> (G Protein Signaling Modulator 2). Affiliated tissues include <i>brain</i> and <i>pituitary</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0002119" target="_blank">ventriculomegaly</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0002126" target="_blank">polymicrogyria</a></i></p>
+<p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=314597" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=314597" target="_blank">58</a></sup>
+Chudley-McCullough syndrome is a rare, genetic, syndromic deafness characterized by severe to profound, bilateral, sensorineural hearing loss (congenital or rapidly progressive in infancy) associated with a complex brain malformation including hydrocephalus, varying degrees of partial corpus callosum agenesis, colpocephaly, cerebral and cerebellar cortical dysplasia (bilateral medial frontal polymicrogyria, bilateral frontal subcortical heteropia) and, in some, arachnoid cysts. Major physical abnormalities or psychomotor delay are usually not associated.</p><p> <b> <a href="http://omim.org/entry/604213#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/604213#description" target="_blank">57</a></sup>
+Chudley-McCullough syndrome is an autosomal recessive neurologic disorder characterized by early-onset sensorineural deafness and specific brain anomalies on MRI, including hypoplasia of the corpus callosum, enlarged cysterna magna with mild focal cerebellar dysplasia, and nodular heterotopia. Some patients have hydrocephalus. Psychomotor development is normal (summary by Alrashdi et al., 2011). <span> (604213) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="http://www.uniprot.org/diseases/DI-02897" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02897" target="_blank">73</a></sup>
+An autosomal recessive neurologic disorder characterized by early- onset sensorineural deafness and specific brain anomalies on MRI, including hypoplasia of the corpus callosum, enlarged cysterna magna with mild focal cerebellar dysplasia, and nodular heterotopia. Some patients have hydrocephalus. Psychomotor development is normal.</p><p> <b> <a href="https://en.wikipedia.org/wiki/Chudley%E2%80%93Mccullough_syndrome" target="_blank">Wikipedia</a>:</b>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Chudley%E2%80%93Mccullough_syndrome" target="_blank">75</a></sup>
+Chudley-Mccullough syndrome is a rare genetic disorder which is characterized by bilateral congenital... <a href="https://en.wikipedia.org/wiki/Chudley%E2%80%93Mccullough_syndrome" target="_blank">more...</a></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Chudley-Mccullough Syndrome via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 23', 'showing 23, show less','collapsable')">show all 23</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/arachnoid_cyst" target="_blank">arachnoid cyst</a></td>
+<td>11.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=arachnoid+cyst&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/sensorineural_hearing_loss" target="_blank">sensorineural hearing loss</a></td>
+<td>10.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=sensorineural+hearing+loss&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/corpus_callosum_agenesis_of" target="_blank">corpus callosum, agenesis of</a></td>
+<td>10.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=corpus+callosum%2c+agenesis+of&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/hydrocephalus" target="_blank">hydrocephalus</a></td>
+<td>10.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hydrocephalus&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/corpus_callosum_partial_agenesis_of_x_linked" target="_blank">corpus callosum, partial agenesis of, x-linked</a></td>
+<td>10.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=corpus+callosum%2c+partial+agenesis+of%2c+x-linked&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/polymicrogyria" target="_blank">polymicrogyria</a></td>
+<td>10.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=polymicrogyria&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/arachnoid_cysts_intracranial" target="_blank">arachnoid cysts, intracranial</a></td>
+<td>10.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=arachnoid+cysts%2c+intracranial&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/hydrocephalus_congenital_1" target="_blank">hydrocephalus, congenital, 1</a></td>
+<td>10.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hydrocephalus%2c+congenital%2c+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/colpocephaly" target="_blank">colpocephaly</a></td>
+<td>10.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=colpocephaly&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/rare_genetic_deafness" target="_blank">rare genetic deafness</a></td>
+<td>10.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=rare+genetic+deafness&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/nonsyndromic_hearing_loss" target="_blank">nonsyndromic hearing loss</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=nonsyndromic+hearing+loss&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/papillomatosis_confluent_and_reticulated" target="_blank">papillomatosis, confluent and reticulated</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=papillomatosis%2c+confluent+and+reticulated&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/charge_syndrome" target="_blank">charge syndrome</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=charge+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/coronary_heart_disease_1" target="_blank">coronary heart disease 1</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=coronary+heart+disease+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/myocardial_infarction" target="_blank">myocardial infarction</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=myocardial+infarction&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/heart_disease" target="_blank">heart disease</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=heart+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/hypolipoproteinemia" target="_blank">hypolipoproteinemia</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hypolipoproteinemia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/melanoma" target="_blank">melanoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=melanoma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/ischemia" target="_blank">ischemia</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=ischemia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/viral_infectious_disease" target="_blank">viral infectious disease</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=viral+infectious+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/diabetes_mellitus" target="_blank">diabetes mellitus</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=diabetes+mellitus&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/pik3ca_related_overgrowth_spectrum" target="_blank">pik3ca-related overgrowth spectrum</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=pik3ca-related+overgrowth+spectrum&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/pik3ca_related_overgrowth_syndrome" target="_blank">pik3ca-related overgrowth syndrome</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=pik3ca-related+overgrowth+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Chudley-Mccullough Syndrome:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/chudley_mccullough_syndrome_related_diseases.jpg" width="100%" alt="Diseases related to Chudley-Mccullough Syndrome" title="Diseases related to Chudley-Mccullough Syndrome" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Chudley-Mccullough Syndrome:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 15', 'showing 15, show less','collapsable')">show all 15</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+ventriculomegaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002119" target="_blank">HP:0002119</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+polymicrogyria
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002126" target="_blank">HP:0002126</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+partial agenesis of the corpus callosum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001338" target="_blank">HP:0001338</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+gray matter heterotopia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002282" target="_blank">HP:0002282</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+severe sensorineural hearing impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008625" target="_blank">HP:0008625</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+arachnoid cyst
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.8888889%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100702" target="_blank">HP:0100702</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+cerebellar dysplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.8888889%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007033" target="_blank">HP:0007033</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+hydrocephalus
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5833333%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000238" target="_blank">HP:0000238</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+intellectual disability, mild
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.4166667%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001256" target="_blank">HP:0001256</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+motor delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.4166667%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001270" target="_blank">HP:0001270</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+seizure
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1666667%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">HP:0001250</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+cerebellar hypoplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001321" target="_blank">HP:0001321</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+hypoplasia of the corpus callosum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002079" target="_blank">HP:0002079</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+dysplastic corpus callosum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006989" target="_blank">HP:0006989</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+large foramen magnum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002700" target="_blank">HP:0002700</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/604213" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>polymicrogyria</span>
+<br/>
+<span>partial agenesis of the corpus callosum</span>
+<br/>
+<span>dysplastic corpus callosum</span>
+<br/>
+<span>seizures (uncommon)</span>
+<br/>
+<span>arachnoid cysts</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>hydrocephalus (variable)</span>
+<br/>
+<span>ventriculomegaly (variable)</span>
+<br/>
+<span>normal psychomotor development in most</span>
+<br/>
+<span>intellectual disability, mild (uncommon)</span>
+<br/>
+<span>brain mri shows hypoplasia of the corpus callosum</span>
+<br/>
+<span>cerebellar hypoplasia due to enlarged foramen magnum</span>
+<br/>
+<span>focal cerebellar dysplasia</span>
+<br/>
+<span>obstruction of the foramen of monro (variable)</span>
+<br/>
+<span>subcortical nodular gray matter heterotopia</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 14" id="ClinicalSynopsis_showmore_1" href="javascript:showMoreTable('ClinicalSynopsis_item_1','ClinicalSynopsis_showmore_1','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>hearing loss, sensorineural, severe-to-profound</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Head And Neck Head:</u><br/>
+<span>hydrocephalus (variable)</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/604213#clinicalFeatures" target="_blank">604213</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Interventional clinical trials:</h3>
+<br/>
+<table id="ClinicalTrial-table" style="table-layout: fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="400">Name</th>
+<th width="80">Status</th>
+<th width="90">NCT ID</th>
+<th width="70">Phase</th>
+<th>Drugs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>KRANIOPHARYNGEOM Registry 2019 Multicenter Registry for Patients With Childhood-onset Craniopharyngioma, Xanthogranuloma, Cysts of Rathke&#39;s Pouch, Meningioma, Pituitary Adenoma, Arachnoid Cysts</td>
+<td>Recruiting</td>
+<td> <a href="https://clinicaltrials.gov/ct2/show/NCT04158284" target="_blank">NCT04158284</a></td>
+<td></td>
+<td style="word-wrap: break-word;"></td>
+</tr>
+</tbody>
+</table>
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Chudley-Mccullough Syndrome&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Chudley-Mccullough Syndrome</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Chudley-Mccullough Syndrome:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Chudley-Mccullough Syndrome
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1858695" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2&amp;keywords=chudley-mccullough+syndrome&amp;prefilter=diseases#diseases" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Chudley-Mccullough Syndrome: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="7.458902">Brain</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/604213/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="0.4515507">Pituitary</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.4041714">Bone Marrow</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.2532543">Cardiac Myocytes</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.2319956">Placenta</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.2267554">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.2172071">Colon</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Chudley-Mccullough Syndrome according to PubMed, OMIM&#174;, and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 12', 'showing 12, show less','collapsable')">show all 12</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+GPSM2 mutations cause the brain malformations and hearing loss in Chudley-McCullough syndrome.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Doherty D...Zelinski T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22578326" target="_blank">22578326</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A truncating mutation in GPSM2 is associated with recessive non-syndromic hearing loss.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yariz KO...Tekin M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21348867" target="_blank">21348867</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Whole exome sequencing and homozygosity mapping identify mutation in the cell polarity protein GPSM2 as the cause of nonsyndromic hearing loss DFNB82.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Walsh T...Kanaan M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20602914" target="_blank">20602914</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+GPSM2 mutations in Chudley-McCullough syndrome.
+<sup title="PubMed">62</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Diaz-Horta O...Tekin M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22987632" target="_blank">22987632</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chudley-McCullough syndrome: another report and a brief review of the literature.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Alrashdi I...Patton MA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21127420" target="_blank">21127420</a></td>
+<td>2011</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Five novel loci for inherited hearing loss mapped by SNP-based homozygosity profiles in Palestinian families.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Shahin H...Kanaan M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19888295" target="_blank">19888295</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Sensorineural deafness, hydrocephalus and structural brain abnormalities in two sisters: the Chudley-McCullough syndrome.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Matteucci F...Ursino F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16642503" target="_blank">16642503</a></td>
+<td>2006</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Brothers with Chudley-McCullough syndrome: sensorineural deafness, agenesis of the corpus callosum, and other structural brain abnormalities.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ostergaard E...Brondum-Nielsen K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/14679590" target="_blank">14679590</a></td>
+<td>2004</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chudley-McCullough syndrome: expanded phenotype and review of the literature.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Welch KO...Pandya A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12707963" target="_blank">12707963</a></td>
+<td>2003</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chudley-McCullough syndrome: bilateral sensorineural deafness, hydrocephalus, and other structural brain abnormalities.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lemire EG...Stoeber GP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10607951" target="_blank">10607951</a></td>
+<td>2000</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Bilateral sensorineural deafness, partial agenesis of the corpus callosum, and arachnoid cysts in two sisters.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hendriks YM...van Haeringen A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10449658" target="_blank">10449658</a></td>
+<td>1999</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Bilateral sensorineural deafness and hydrocephalus due to foramen of Monro obstruction in sibs: a newly described autosomal recessive disorder.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chudley AE...McCullough DW</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9024571" target="_blank">9024571</a></td>
+<td>1997</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Chudley-Mccullough Syndrome according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('InferredPublications', '1303', 'InferredPublications-table');">show all 1303</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cambial meristematic cell culture: a sustainable technology toward in vitro specialized metabolites production.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Partap M...Kumar S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35658789" target="_blank">35658789</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Changes of physicochemical properties and bioactivities of resveratrol-loaded core-shell biopolymer nanoparticles during in vitro gastrointestinal digestion.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang J...Wu C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37257281" target="_blank">37257281</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Facile preparation of biocompatible and antibacterial water-soluble films using polyvinyl alcohol/carboxymethyl chitosan blend fibers via centrifugal spinning.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang B...Liu X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37364950" target="_blank">37364950</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Carboxymethyl chitosan-quercetin conjugate: A sustainable one-step synthesis and use for food preservation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sela A...Poverenov E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37321704" target="_blank">37321704</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A multi-crosslinking strategy of organic and inorganic compound bio-adhesive polysaccharide-based hydrogel for wound hemostasis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhao P...Wang X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37307771" target="_blank">37307771</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Determining sequential micellization steps of bile salts with multi-CMC modeling.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Rovnyak D...Strein TG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37146486" target="_blank">37146486</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Structurally dynamic self-healable hydrogel cooperatively inhibits intestinal inflammation and promotes mucosal repair for enhanced ulcerative colitis treatment.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ge X...Luo Z</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37276796" target="_blank">37276796</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A label-free colorimetric 3D paper-based device for ochratoxin A detection using G-quadruplex/hemin DNAzyme with a smartphone readout.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang X...Feng L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37141823" target="_blank">37141823</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A photoactive self-healing carboxymethyl chitosan-based hydrogel for accelerated infected wound healing through simultaneously modulating multiple critical tissue repair factors.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liu Y...Ning X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37116834" target="_blank">37116834</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+GE11-modified carboxymethyl chitosan micelles to deliver DOX·PD-L1 siRNA complex for combination of ICD and immune escape inhibition against tumor.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Song P...Zhao X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37059562" target="_blank">37059562</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Polysaccharides based rapid self-crosslinking and wet tissue adhesive hemostatic powders for effective hemostasis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fang Y...Liu H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37059547" target="_blank">37059547</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+High inhabitation activity of CMCS/Phytic acid/Zn2+ nanoparticles via flash nanoprecipitation (FNP) for bacterial and fungal infections.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liang X...Guo X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37150368" target="_blank">37150368</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Fabrication of carboxymethyl chitosan films for cheese packaging containing gliadin-carboxymethyl chitosan nanoparticles co-encapsulating natamycin and theaflavins.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fang M...Zuo X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37406906" target="_blank">37406906</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Accelerated Healing of Infected Diabetic Wounds by a Dual-Layered Adhesive Film Cored with Microsphere-Loaded Hydrogel Composite Dressing.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Qin B...Xie H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37418597" target="_blank">37418597</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Laundry detergents and surfactants-induced eosinophilic airway inflammation by increasing IL-33 expression and activating ILC2s.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Saito K...Morita H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37163231" target="_blank">37163231</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Illness uncertainty, cognitive-emotional arousal, and sleep outcomes among emerging adults with a chronic medical condition.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fisher RS...Mullins LL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37395721" target="_blank">37395721</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Effects of Modified Glucosamine on the Chondrogenic Potential of Circulating Stem Cells under Experimental Inflammation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gasparella M...Di Liddo R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37373540" target="_blank">37373540</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A Biphasic Hydrogel with Self-Healing Properties and a Continuous Layer Structure for Potential Application in Osteochondral Defect Repair.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Jiang Y...Li L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37376390" target="_blank">37376390</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ultralight and highly efficient oil-water selective aerogel from carboxymethyl chitosan and oxidized β-cyclodextrin for marine oil spill cleanup.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Tuo Z...Pan Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37295697" target="_blank">37295697</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Preparation of buffered nano-submicron hierarchical structure hollow SiOx@C anodes for lithium-ion battery materials with carboxymethyl chitosan.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liu T...Wu F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37365671" target="_blank">37365671</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Stability of glycosylated complexes loaded with Epigallocatechin 3-gallate (EGCG).
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang J...Xiong C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36623458" target="_blank">36623458</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Carboxymethyl chitosan-glycerol multi-aldehyde based self-healing hydrogel system.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bayram C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37028621" target="_blank">37028621</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Degradable Temperature-Sensitive Hydrogel Loaded with Heparin Effectively Prevents Post-Operative Tissue Adhesions.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lang P...Zhang L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37179492" target="_blank">37179492</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Alleviating Side Reactions on Zn Anodes for Aqueous Batteries by a Cell Membrane Derived Phosphorylcholine Zwitterionic Protective Layer.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Meng Z...Wu P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37334981" target="_blank">37334981</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A hydrogel-based first-aid tissue adhesive with effective hemostasis and anti-bacteria for trauma emergency management.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang D...Lu Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37269017" target="_blank">37269017</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A Novel Multifunctional Crosslinking PVA/CMCS Hydrogel Containing Cyclic Peptide Actinomycin X2 and PA@Fe with Excellent Antibacterial and Commendable Mechanical Properties.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chen F...Han B</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37349894" target="_blank">37349894</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Carboxymethyl chitosan regulates macrophages polarization to inhibit early subconjunctival inflammation in conjunctival injury.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Geng X...Li Z</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37268068" target="_blank">37268068</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Application of carboxymethyl chitosan-based coating in fresh-cut apple preservation: Incorporation of guava leaf flavonoids and their noncovalent interaction study.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang J...Wu Q</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37121413" target="_blank">37121413</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Molecular mechanism of plant elicitor daphnetin-carboxymethyl chitosan nanoparticles against Ralstonia solanacearum by activating plant system resistance.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang Y...Ding W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37100321" target="_blank">37100321</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Newcastle disease virus LaSota strain induces apoptosis and activates the TNFα/NF-κB pathway in canine mammary carcinoma cells.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang J...Li M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37282822" target="_blank">37282822</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Myocardial Glutathione Synthase and TRXIP Expression Are Significantly Elevated in Hypertension and Diabetes: Influence of Stress on Antioxidant Pathways.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sklifasovskaya A...Goryachev V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37368371" target="_blank">37368371</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cyclosporine A-loaded colon-targeted oral nanomicelles self-assembly by galactosylated carboxymethyl chitosan for efficient ulcerative colitis therapy.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Xiong M...Hu H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37336365" target="_blank">37336365</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Quantification of capture efficiency, purity, and single-cell isolation in the recovery of circulating melanoma cells from peripheral blood by dielectrophoresis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chen H...Anand RK</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37185977" target="_blank">37185977</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pulvinar slits: Cellulose-deficient and de-methyl-esterified pectin-rich structures in a legume motor cell.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Takahara M...Nakata MT</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36849132" target="_blank">36849132</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Applications of photothermally mediated nanohybrids for white spot lesions in orthodontics.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lu X...Hao Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36989816" target="_blank">36989816</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A comparative study on the design and application of new nano benzimidazolium gemini ionic liquids for curing interfacial properties of the crude oil-water system.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Saien J...Zolfigol MA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37235109" target="_blank">37235109</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Preparation and Characterization of Biocompatible Iron/Zirconium/Polydopamine/Carboxymethyl Chitosan Hydrogel with Fenton Catalytic Properties and Photothermal Efficacy.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zheng X...Hu L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37367123" target="_blank">37367123</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Composite Hydrogel for the Targeted Capture and Photothermal Killing of Bacteria toward Facilitating Wound Healing.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Cao Y...Zhou Z</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37126772" target="_blank">37126772</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Engineering ultrasound-activated piezoelectric hydrogels with antibacterial activity to promote wound healing.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Xu M...Chen Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37157875" target="_blank">37157875</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+An injectable elastic hydrogel crosslinked with curcumin-gelatin nanoparticles as a multifunctional dressing for the rapid repair of bacterially infected wounds.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Cai X...Qiu X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36935633" target="_blank">36935633</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Are equitable physical performance tests perceived to be fair? Understanding officer cadets' perceptions of fitness standards.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Deng ME...De France K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37133549" target="_blank">37133549</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Dynamic Crosslinked Injectable Mussel-Inspired Hydrogels with Adhesive, Self-Healing, and Biodegradation Properties.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang R...Wang J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37112024" target="_blank">37112024</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Achieving High Efficacy and Low Safety Risk by Balancing Pesticide Deposition on Leaves and Fruits of Chinese Wolfberry (Lycium barbarum L.).
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ding L...Li Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37125088" target="_blank">37125088</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ga3+ loaded radiation crosslinked gel-Alg-CMC hydrogels for promoting diabetic wound healing.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chen G...Xu L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36879543" target="_blank">36879543</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Biological, surface, and wetting behavior of bio-surfactants tank-mixed with trifloxysulfuron-sodium on Sorghum halepense.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Aliverdi A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36592156" target="_blank">36592156</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Detergent-Mediated Virus Inactivation in Biotechnological Matrices: More than Just CMC.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Farcet JB...Kreil TR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37175626" target="_blank">37175626</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ethyl Vanillin Rapid Crystallization from Carboxymethyl Chitosan Ion-Switchable Hydrogels.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Huang C...Hu Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37102947" target="_blank">37102947</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Kaolin-loaded carboxymethyl chitosan/sodium alginate composite sponges for rapid hemostasis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Song Y...Luo X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36740110" target="_blank">36740110</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chitosan derivative composite nanoparticles as adjuvants enhance the cellular immune response via activation of the cGAS-STING pathway.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhao Z...Zhao K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36933583" target="_blank">36933583</a></td>
+<td>2023</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Preparation and characterization of carboxymethyl chitosan/pullulan composite film incorporated with eugenol and its application in the preservation of chilled meat.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zeng Z...Liu AP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36640716" target="_blank">36640716</a></td>
+<td>2023</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Chudley-Mccullough Syndrome (1 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>G Protein Signaling Modulator 2</td>
+<td>Protein Coding</td>
+<td>1403.13</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/609245" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=19338" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_GPSM2">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2&amp;keywords=Chudley-Mccullough+Syndrome&amp;prefilter=diseases#diseases" title="GPSM2 gene information at GeneCards" target="_blank">Disorders</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2&amp;keywords=Chudley-Mccullough+Syndrome&amp;prefilter=publications#publications" title="GPSM2 gene information at GeneCards" target="_blank">Publications</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2&amp;keywords=Chudley-Mccullough+Syndrome&amp;prefilter=proteins#proteins" title="GPSM2 gene information at GeneCards" target="_blank">Proteins</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_GPSM2_SeeMore" href="javascript:showMoreTable('related_genes_GPSM2','related_genes_GPSM2_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20602914" title="ClinVar" target="_blank">20602914</a> <a href="https://pubmed.ncbi.nlm.nih.gov/21348867" title="ClinVar" target="_blank">21348867</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22578326" title="ClinVar" target="_blank">22578326</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/22987632" title="ClinVar" target="_blank">22987632</a> </span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Chudley-Mccullough Syndrome:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '83', 'ClinVarVariations-table');">show all 83</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1684C&gt;T (p.Gln562Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000023761/" title="RCV000023761" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/30781/?new_evidence=true#id_second" target="_blank">30781</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/387907010" target="_blank">rs387907010</a></td>
+<td>GRCh37: 1:109466705-109466705<br/>GRCh38: 1:108924083-108924083</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1546_1553del (p.Cys516fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000626209/" title="RCV000626209" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/523009/?new_evidence=true#id_second" target="_blank">523009</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1553216524" target="_blank">rs1553216524</a></td>
+<td>GRCh37: 1:109465142-109465149<br/>GRCh38: 1:108922520-108922527</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.379C&gt;T (p.Arg127Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000001897/" title="RCV000001897" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1823/?new_evidence=true#id_second" target="_blank">1823</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/267606854" target="_blank">rs267606854</a></td>
+<td>GRCh37: 1:109440214-109440214<br/>GRCh38: 1:108897592-108897592</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.977G&gt;A (p.Trp326Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001727726/" title="RCV001727726" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/402258/?new_evidence=true#id_second" target="_blank">402258</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1060499797" target="_blank">rs1060499797</a></td>
+<td>GRCh37: 1:109445771-109445771<br/>GRCh38: 1:108903149-108903149</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.832C&gt;T (p.Arg278Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001728014/" title="RCV001728014" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1299315/?new_evidence=true#id_second" target="_blank">1299315</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:109444446-109444446<br/>GRCh38: 1:108901824-108901824</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.742del (p.Gly249fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000029164/" title="RCV000029164" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/35492/?new_evidence=true#id_second" target="_blank">35492</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/528069912" target="_blank">rs528069912</a></td>
+<td>GRCh37: 1:109441560-109441560<br/>GRCh38: 1:108898938-108898938</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1492C&gt;T (p.Arg498Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001727767/" title="RCV001727767" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/504591/?new_evidence=true#id_second" target="_blank">504591</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/370907055" target="_blank">rs370907055</a></td>
+<td>GRCh37: 1:109465090-109465090<br/>GRCh38: 1:108922468-108922468</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1473del (p.Phe492fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002282113/" title="RCV002282113" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291707/?new_evidence=true#id_second" target="_blank">291707</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/772372530" target="_blank">rs772372530</a></td>
+<td>GRCh37: 1:109465069-109465069<br/>GRCh38: 1:108922447-108922447</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1062+1G&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000029166/" title="RCV000029166" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/35494/?new_evidence=true#id_second" target="_blank">35494</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/777695770" target="_blank">rs777695770</a></td>
+<td>GRCh37: 1:109445857-109445857<br/>GRCh38: 1:108903235-108903235</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1501del (p.Ser501fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001072143/" title="RCV001072143" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/864860/?new_evidence=true#id_second" target="_blank">864860</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/761092578" target="_blank">rs761092578</a></td>
+<td>GRCh37: 1:109465097-109465097<br/>GRCh38: 1:108922475-108922475</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1601-2A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001782230/" title="RCV001782230" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1324510/?new_evidence=true#id_second" target="_blank">1324510</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:109466620-109466620<br/>GRCh38: 1:108923998-108923998</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1264-1G&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001807949/" title="RCV001807949" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1333261/?new_evidence=true#id_second" target="_blank">1333261</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:109461234-109461234<br/>GRCh38: 1:108918612-108918612</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1661C&gt;A (p.Ser554Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000029165/" title="RCV000029165" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/35493/?new_evidence=true#id_second" target="_blank">35493</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/145191476" target="_blank">rs145191476</a></td>
+<td>GRCh37: 1:109466682-109466682<br/>GRCh38: 1:108924060-108924060</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.858_859delinsGT (p.Tyr286_Ser287delinsTer)</td>
+<td style="overflow-wrap:break-word;" title="Indel">INDEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001374666/" title="RCV001374666" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1064650/?new_evidence=true#id_second" target="_blank">1064650</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:109444472-109444473<br/>GRCh38: 1:108901850-108901851</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1473_1474delinsAACC (p.Phe492fs)</td>
+<td style="overflow-wrap:break-word;" title="Indel">INDEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001782231/" title="RCV001782231" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1324511/?new_evidence=true#id_second" target="_blank">1324511</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:109465071-109465072<br/>GRCh38: 1:108922449-108922450</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1066G&gt;A (p.Gly356Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001001606/" title="RCV001001606" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/45563/?new_evidence=true#id_second" target="_blank">45563</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61754640" target="_blank">rs61754640</a></td>
+<td>GRCh37: 1:109446750-109446750<br/>GRCh38: 1:108904128-108904128</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1263+11G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000330082/" title="RCV000330082" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291704/?new_evidence=true#id_second" target="_blank">291704</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/201878481" target="_blank">rs201878481</a></td>
+<td>GRCh37: 1:109457041-109457041<br/>GRCh38: 1:108914419-108914419</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CLCC1" title="CLCC1 gene information at GeneCards" target="_blank">CLCC1</a></td>
+<td style="overflow-wrap:break-word;">NM_001377458.1(CLCC1):c.*2600A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001097789/" title="RCV001097789" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/386577/?new_evidence=true#id_second" target="_blank">386577</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/193138520" target="_blank">rs193138520</a></td>
+<td>GRCh37: 1:109472569-109472569<br/>GRCh38: 1:108929947-108929947</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CLCC1" title="CLCC1 gene information at GeneCards" target="_blank">CLCC1</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1941_1942del (p.Arg647fs)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003135440/" title="RCV003135440" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2432254/?new_evidence=true#id_second" target="_blank">2432254</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:109472444-109472445<br/>GRCh38: 1:108929822-108929823</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.683G&gt;A (p.Arg228His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000303477/" title="RCV000303477" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291701/?new_evidence=true#id_second" target="_blank">291701</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/757559568" target="_blank">rs757559568</a></td>
+<td>GRCh37: 1:109441502-109441502<br/>GRCh38: 1:108898880-108898880</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CLCC1" title="CLCC1 gene information at GeneCards" target="_blank">CLCC1</a></td>
+<td style="overflow-wrap:break-word;">NM_001377458.1(CLCC1):c.*2139A&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000312911/" title="RCV000312911" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291717/?new_evidence=true#id_second" target="_blank">291717</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/568302826" target="_blank">rs568302826</a></td>
+<td>GRCh37: 1:109473030-109473030<br/>GRCh38: 1:108930408-108930408</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.-486G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000323751/" title="RCV000323751" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291689/?new_evidence=true#id_second" target="_blank">291689</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/190373749" target="_blank">rs190373749</a></td>
+<td>GRCh37: 1:109419613-109419613<br/>GRCh38: 1:108876991-108876991</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1739C&gt;T (p.Ser580Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000327761/" title="RCV000327761" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/178376/?new_evidence=true#id_second" target="_blank">178376</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/79730689" target="_blank">rs79730689</a></td>
+<td>GRCh37: 1:109466760-109466760<br/>GRCh38: 1:108924138-108924138</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.-369G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000331669/" title="RCV000331669" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291695/?new_evidence=true#id_second" target="_blank">291695</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886045023" target="_blank">rs886045023</a></td>
+<td>GRCh37: 1:109419730-109419730<br/>GRCh38: 1:108877108-108877108</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.186C&gt;T (p.Ser62=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001097694/" title="RCV001097694" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/179453/?new_evidence=true#id_second" target="_blank">179453</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/199575734" target="_blank">rs199575734</a></td>
+<td>GRCh37: 1:109439615-109439615<br/>GRCh38: 1:108896993-108896993</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.274G&gt;A (p.Ala92Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001097695/" title="RCV001097695" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/874608/?new_evidence=true#id_second" target="_blank">874608</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/747080388" target="_blank">rs747080388</a></td>
+<td>GRCh37: 1:109439703-109439703<br/>GRCh38: 1:108897081-108897081</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.279-6T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001097696/" title="RCV001097696" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/874609/?new_evidence=true#id_second" target="_blank">874609</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1648461612" target="_blank">rs1648461612</a></td>
+<td>GRCh37: 1:109440108-109440108<br/>GRCh38: 1:108897486-108897486</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CLCC1" title="CLCC1 gene information at GeneCards" target="_blank">CLCC1</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.2043G&gt;A (p.Ser681=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001097788/" title="RCV001097788" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/45566/?new_evidence=true#id_second" target="_blank">45566</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/140949805" target="_blank">rs140949805</a></td>
+<td>GRCh37: 1:109472550-109472550<br/>GRCh38: 1:108929928-108929928</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CLCC1" title="CLCC1 gene information at GeneCards" target="_blank">CLCC1</a></td>
+<td style="overflow-wrap:break-word;">NM_001377458.1(CLCC1):c.*2399T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001097790/" title="RCV001097790" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/874649/?new_evidence=true#id_second" target="_blank">874649</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/542144752" target="_blank">rs542144752</a></td>
+<td>GRCh37: 1:109472770-109472770<br/>GRCh38: 1:108930148-108930148</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CLCC1" title="CLCC1 gene information at GeneCards" target="_blank">CLCC1</a></td>
+<td style="overflow-wrap:break-word;">NM_001377458.1(CLCC1):c.*2256G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001097791/" title="RCV001097791" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/874650/?new_evidence=true#id_second" target="_blank">874650</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/188296554" target="_blank">rs188296554</a></td>
+<td>GRCh37: 1:109472913-109472913<br/>GRCh38: 1:108930291-108930291</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.529G&gt;A (p.Ala177Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001099470/" title="RCV001099470" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/45569/?new_evidence=true#id_second" target="_blank">45569</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397517232" target="_blank">rs397517232</a></td>
+<td>GRCh37: 1:109440695-109440695<br/>GRCh38: 1:108898073-108898073</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.597G&gt;A (p.Ala199=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001099471/" title="RCV001099471" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/875531/?new_evidence=true#id_second" target="_blank">875531</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/745395767" target="_blank">rs745395767</a></td>
+<td>GRCh37: 1:109441303-109441303<br/>GRCh38: 1:108898681-108898681</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.807A&gt;G (p.Leu269=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001099472/" title="RCV001099472" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/875532/?new_evidence=true#id_second" target="_blank">875532</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/752642372" target="_blank">rs752642372</a></td>
+<td>GRCh37: 1:109444421-109444421<br/>GRCh38: 1:108901799-108901799</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.833G&gt;A (p.Arg278Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001099473/" title="RCV001099473" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/730883/?new_evidence=true#id_second" target="_blank">730883</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/190381417" target="_blank">rs190381417</a></td>
+<td>GRCh37: 1:109444447-109444447<br/>GRCh38: 1:108901825-108901825</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.953+12G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001099474/" title="RCV001099474" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/875533/?new_evidence=true#id_second" target="_blank">875533</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/377727537" target="_blank">rs377727537</a></td>
+<td>GRCh37: 1:109444579-109444579<br/>GRCh38: 1:108901957-108901957</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CLCC1" title="CLCC1 gene information at GeneCards" target="_blank">CLCC1</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1910G&gt;A (p.Arg637Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000340491/" title="RCV000340491" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291709/?new_evidence=true#id_second" target="_blank">291709</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/765367400" target="_blank">rs765367400</a></td>
+<td>GRCh37: 1:109472417-109472417<br/>GRCh38: 1:108929795-108929795</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CLCC1" title="CLCC1 gene information at GeneCards" target="_blank">CLCC1</a></td>
+<td style="overflow-wrap:break-word;">NM_001377458.1(CLCC1):c.*2133A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001099585/" title="RCV001099585" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/875593/?new_evidence=true#id_second" target="_blank">875593</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1017420538" target="_blank">rs1017420538</a></td>
+<td>GRCh37: 1:109473036-109473036<br/>GRCh38: 1:108930414-108930414</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.-453C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001101357/" title="RCV001101357" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/876503/?new_evidence=true#id_second" target="_blank">876503</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057445821" target="_blank">rs1057445821</a></td>
+<td>GRCh37: 1:109419646-109419646<br/>GRCh38: 1:108877024-108877024</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1034C&gt;G (p.Ala345Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001101471/" title="RCV001101471" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/505415/?new_evidence=true#id_second" target="_blank">505415</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/765450533" target="_blank">rs765450533</a></td>
+<td>GRCh37: 1:109445828-109445828<br/>GRCh38: 1:108903206-108903206</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1216C&gt;T (p.Arg406Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001101472/" title="RCV001101472" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/506755/?new_evidence=true#id_second" target="_blank">506755</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/141562079" target="_blank">rs141562079</a></td>
+<td>GRCh37: 1:109456983-109456983<br/>GRCh38: 1:108914361-108914361</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.-469C&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000352935/" title="RCV000352935" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291690/?new_evidence=true#id_second" target="_blank">291690</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/541910644" target="_blank">rs541910644</a></td>
+<td>GRCh37: 1:109419630-109419630<br/>GRCh38: 1:108877008-108877008</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.-248-1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000778932/" title="RCV000778932" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/632077/?new_evidence=true#id_second" target="_blank">632077</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1051372133" target="_blank">rs1051372133</a></td>
+<td>GRCh37: 1:109427896-109427896<br/>GRCh38: 1:108885274-108885274</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.-441G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000261473/" title="RCV000261473" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291691/?new_evidence=true#id_second" target="_blank">291691</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886045022" target="_blank">rs886045022</a></td>
+<td>GRCh37: 1:109419658-109419658<br/>GRCh38: 1:108877036-108877036</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1244T&gt;C (p.Met415Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000263145/" title="RCV000263145" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291703/?new_evidence=true#id_second" target="_blank">291703</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/150152015" target="_blank">rs150152015</a></td>
+<td>GRCh37: 1:109457011-109457011<br/>GRCh38: 1:108914389-108914389</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1358A&gt;G (p.Lys453Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000276225/" title="RCV000276225" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291706/?new_evidence=true#id_second" target="_blank">291706</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200378397" target="_blank">rs200378397</a></td>
+<td>GRCh37: 1:109461329-109461329<br/>GRCh38: 1:108918707-108918707</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.278G&gt;A (p.Arg93Lys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000290642/" title="RCV000290642" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291700/?new_evidence=true#id_second" target="_blank">291700</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/757227955" target="_blank">rs757227955</a></td>
+<td>GRCh37: 1:109439707-109439707<br/>GRCh38: 1:108897085-108897085</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.-397C&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000293161/" title="RCV000293161" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291694/?new_evidence=true#id_second" target="_blank">291694</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/749825634" target="_blank">rs749825634</a></td>
+<td>GRCh37: 1:109419702-109419702<br/>GRCh38: 1:108877080-108877080</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.-306C&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000296434/" title="RCV000296434" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/291697/?new_evidence=true#id_second" target="_blank">291697</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/550061353" target="_blank">rs550061353</a></td>
+<td>GRCh37: 1:109419793-109419793<br/>GRCh38: 1:108877171-108877171</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.358G&gt;A (p.Glu120Lys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002484627/" title="RCV002484627" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1431275/?new_evidence=true#id_second" target="_blank">1431275</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:109440193-109440193<br/>GRCh38: 1:108897571-108897571</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GPSM2" title="GPSM2 gene information at GeneCards" target="_blank">GPSM2</a></td>
+<td style="overflow-wrap:break-word;">NM_013296.5(GPSM2):c.1208T&gt;C (p.Leu403Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002488377/" title="RCV002488377" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1195161/?new_evidence=true#id_second" target="_blank">1195161</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:109456975-109456975<br/>GRCh38: 1:108914353-108914353</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Chudley-Mccullough%20Syndrome%22%5BMeSH%20Terms%5D%20OR%20%22Chudley-Mccullough%20Syndrome%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Chudley-Mccullough Syndrome.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Chudley-Mccullough Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#a1d2d4d1d1ced3d5e1cdc8c7c4ccc0d1d2c28fc2cecc">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ed655aee75a8b',t:'MTY5NTI2MjkxMy44NjYwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

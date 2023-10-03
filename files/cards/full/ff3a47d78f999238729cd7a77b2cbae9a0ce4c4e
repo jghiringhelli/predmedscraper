@@ -1,0 +1,3524 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Satoyoshi Syndrome disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/satoyoshi_syndrome" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'satoyoshi_syndrome';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+<div class="symbol">MCID: STY001</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 31
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Satoyoshi Syndrome</span>
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Bone diseases, Endocrine diseases, Gastrointestinal diseases, Muscle diseases, Rare diseases, Reproductive diseases, Skin diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#d0a3b1bcb5a390bcb9b6b5bdb1a0a3b3feb3bfbd" target="_blank"><span class="__cf_email__" data-cfemail="fe8d9f929b8dbe9297989b939f8e8d9dd09d9193">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#anatomical_context" title="7 Tissues associated with Satoyoshi Syndrome">Tissues</a>
+<a href="#disorders" title="40 Related diseases associated with Satoyoshi Syndrome">Related diseases</a>
+<a href="#publications" title="55 Publications associated with Satoyoshi Syndrome">Publications</a>
+<a href="#clinical_features" title="57 Symptoms &amp; Phenotypes associated with Satoyoshi Syndrome">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/satoyoshi_syndrome?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Satoyoshi Syndrome:</h3>
+<div class="main-name">
+Name: <b>Satoyoshi Syndrome</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/600705" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/160/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=3130" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Satoyoshi_syndrome" title="Wikipedia" target="_blank">75</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Komuragaeri Disease
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/600705" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/160/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=3130" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Muscle Spasms, Intermittent, with Alopecia, Diarrhea, and Skeletal Abnormalities
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/600705" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Isolated cases <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/600705" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=3130" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+Adolescent,Adult,Childhood <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=3130" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/600705" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>onset between 6 and 15 years</span>
+<br/>
+<span>females are more often affected</span>
+<br/>
+<span>isolated cases</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/gastrointestinal_disease_list" target="_blank">Gastrointestinal diseases</a> <a href="https://www.malacards.org/categories/reproductive_disease_list" target="_blank">Reproductive diseases</a> <a href="https://www.malacards.org/categories/bone_disease_list" target="_blank">Bone diseases</a> <a href="https://www.malacards.org/categories/skin_disease_list" target="_blank">Skin diseases</a> <a href="https://www.malacards.org/categories/endocrine_disease_list" target="_blank">Endocrine diseases</a> <a href="https://www.malacards.org/categories/muscle_disease_list" target="_blank">Muscle diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/XIII" title="XIII" target="_blank">Diseases of the musculoskeletal system and connective tissue</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/M30-M36" title="M30-M36" target="_blank">Systemic connective tissue disorders</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/M35" title="M35" target="_blank">Other systemic involvement of connective tissue</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/M35.8" title="M35.8" target="_blank">Other specified systemic involvement of connective tissue</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare gastroenterological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare gynaecological and obstetric diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare systemic and rhumatological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare skin diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare endocrine diseases <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/600705" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/600705" target="_blank">600705</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="MESH via Orphanet">MESH via Orphanet</b>
+<sup title="MESH via Orphanet"><span>44</span> </sup>
+<span>C536616</span>
+</div>
+<div id="ExternalId_item_3">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/M35.8" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/M35.8" target="_blank">M35.8</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="UMLS via Orphanet">UMLS via Orphanet</b>
+<sup title="UMLS via Orphanet"><span>72</span> </sup>
+<span>C1833454</span>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_5">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=3130" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=3130" target="_blank">ORPHA3130</a>
+</div>
+<div id="ExternalId_item_6">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1833454" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1833454" target="_blank">C1833454</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/111395007" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/111395007" target="_blank">111395007</a> <a href="http://www.snomedbrowser.com/Codes/Details/203534009" target="_blank">203534009</a> <a href="http://www.snomedbrowser.com/Codes/Details/237836003" target="_blank">237836003</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/248274002" target="_blank">248274002</a> <a href="http://www.snomedbrowser.com/Codes/Details/249710008" target="_blank">249710008</a> <a href="http://www.snomedbrowser.com/Codes/Details/249768009" target="_blank">249768009</a> <a href="http://www.snomedbrowser.com/Codes/Details/267060006" target="_blank">267060006</a> <a href="http://www.snomedbrowser.com/Codes/Details/271611007" target="_blank">271611007</a> <a href="http://www.snomedbrowser.com/Codes/Details/27201004" target="_blank">27201004</a> <a href="http://www.snomedbrowser.com/Codes/Details/278040002" target="_blank">278040002</a> <a href="http://www.snomedbrowser.com/Codes/Details/299330008" target="_blank">299330008</a> <a href="http://www.snomedbrowser.com/Codes/Details/299331007" target="_blank">299331007</a> <a href="http://www.snomedbrowser.com/Codes/Details/35850006" target="_blank">35850006</a> <a href="http://www.snomedbrowser.com/Codes/Details/37849005" target="_blank">37849005</a> <a href="http://www.snomedbrowser.com/Codes/Details/399269003" target="_blank">399269003</a> <a href="http://www.snomedbrowser.com/Codes/Details/43476002" target="_blank">43476002</a> <a href="http://www.snomedbrowser.com/Codes/Details/53226007" target="_blank">53226007</a> <a href="http://www.snomedbrowser.com/Codes/Details/55300003" target="_blank">55300003</a> <a href="http://www.snomedbrowser.com/Codes/Details/5552004" target="_blank">5552004</a> <a href="http://www.snomedbrowser.com/Codes/Details/56317004" target="_blank">56317004</a> <a href="http://www.snomedbrowser.com/Codes/Details/61960001" target="_blank">61960001</a> <a href="http://www.snomedbrowser.com/Codes/Details/62315008" target="_blank">62315008</a> <a href="http://www.snomedbrowser.com/Codes/Details/63122002" target="_blank">63122002</a> <a href="http://www.snomedbrowser.com/Codes/Details/84229001" target="_blank">84229001</a> <a href="http://www.snomedbrowser.com/Codes/Details/86166000" target="_blank">86166000</a> <a href="http://www.snomedbrowser.com/Codes/Details/93279005" target="_blank">93279005</a> </span>
+<span class="showmore">
+<a title="show all 26" id="ExternalId_showmore_7" href="javascript:showMoreTable('ExternalId_item_7','ExternalId_showmore_7','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_8">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C1833454</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="https://rarediseases.info.nih.gov/diseases/160/index" target="_blank">GARD</a>:</b>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/160/index" target="_blank">19</a></sup>
+Satoyoshi syndrome is a rare syndrome characterized by progressive, painful, intermittent muscle spasms. Other symptoms of the syndrome may include diarrhea and an inability of the digestive tract to absorb certain foods, especially carbohydrates (malabsorption). People affected by Satoyoshi syndrome may also have loss of hair on the head and body (alopecia universalis), short stature, and skeletal abnormalities. Women with Satoyoshi syndrome may not have a menstrual cycle (amenorrhea). The exact cause of the syndrome is unknown. Satoyoshi syndrome can be diagnosed when a doctor sees symptoms that are consistent with the syndrome. The diagnosis can be confirmed by a variety of laboratory tests.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Satoyoshi Syndrome, also known as <i>komuragaeri disease</i>, is related to <i><a href="/card/alopecia" target="_blank">alopecia</a></i> and <i><a href="/card/amenorrhea" target="_blank">amenorrhea</a></i>, and has symptoms including <i>diarrhea</i> and <i>spasm</i>. Affiliated tissues include <i>bone</i> and <i>skin</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0003307" target="_blank">hyperlordosis</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0000252" target="_blank">microcephaly</a></i></p>
+<p> <b> <a href="http://omim.org/entry/600705#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/600705#description" target="_blank">57</a></sup>
+Satoyoshi syndrome is a rare disorder characterized by progressive, painful, intermittent muscle spasms, diarrhea or unusual malabsorption, endocrinopathy with amenorrhea, and secondary skeletal abnormalities. The disorder is also called komuragaeri disease by the Japanese; in Japanese 'komura' means calf and 'gaeri' means 'turnover' or spasm. All cases have apparently been sporadic, even when occurring in large families (Ehlayel and Lacassie, 1995). <span> (600705) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=3130" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=3130" target="_blank">58</a></sup>
+Satoyoshi syndrome is a rare, multisystemic autoimmune disease mainly characterized by intermittent painful muscle spasms, alopecia (totalis or universalis in most cases) and long-lasting diarrhea that could lead to malnutrition, growth retardation, and amenorrhea. Secondary bone deformities and various endocrine anomalies may also be associated. Antinuclear antibodies are reported in many cases.</p><p> <b> <a href="https://en.wikipedia.org/wiki/Satoyoshi_syndrome" target="_blank">Wikipedia</a>:</b>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Satoyoshi_syndrome" target="_blank">75</a></sup>
+Satoyoshi syndrome, also known as Komura-Guerri syndrome, is a rare progressive disorder of presumed... <a href="https://en.wikipedia.org/wiki/Satoyoshi_syndrome" target="_blank">more...</a></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Satoyoshi Syndrome via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 40', 'showing 40, show less','collapsable')">show all 40</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/alopecia" target="_blank">alopecia</a></td>
+<td>10.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=alopecia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/amenorrhea" target="_blank">amenorrhea</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=amenorrhea&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/diarrhea" target="_blank">diarrhea</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=diarrhea&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/autoimmune_disease" target="_blank">autoimmune disease</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=autoimmune+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/alopecia_universalis_congenita" target="_blank">alopecia universalis congenita</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=alopecia+universalis+congenita&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/osteochondrodysplasia" target="_blank">osteochondrodysplasia</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=osteochondrodysplasia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/myasthenia_gravis" target="_blank">myasthenia gravis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=myasthenia+gravis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/alopecia_totalis" target="_blank">alopecia totalis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=alopecia+totalis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/systemic_autoimmune_disease" target="_blank">systemic autoimmune disease</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=systemic+autoimmune+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/orthostatic_hypotension" target="_blank">orthostatic hypotension</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=orthostatic+hypotension&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/spondyloarthropathy_1" target="_blank">spondyloarthropathy 1</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=spondyloarthropathy+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/hashimoto_thyroiditis" target="_blank">hashimoto thyroiditis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hashimoto+thyroiditis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/immune_thrombocytopenia" target="_blank">immune thrombocytopenia</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=immune+thrombocytopenia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/sjogren_syndrome" target="_blank">sjogren syndrome</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=sjogren+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/dermatitis_atopic" target="_blank">dermatitis, atopic</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=dermatitis%2c+atopic&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/exanthem" target="_blank">exanthem</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=exanthem&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/colitis" target="_blank">colitis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=colitis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/lymphocytic_colitis" target="_blank">lymphocytic colitis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lymphocytic+colitis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/vitamin_d_dependent_rickets" target="_blank">vitamin d-dependent rickets</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=vitamin+d-dependent+rickets&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/optic_papillitis" target="_blank">optic papillitis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=optic+papillitis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/rickets" target="_blank">rickets</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=rickets&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/respiratory_failure" target="_blank">respiratory failure</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=respiratory+failure&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/disseminated_intravascular_coagulation" target="_blank">disseminated intravascular coagulation</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=disseminated+intravascular+coagulation&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/uveitis" target="_blank">uveitis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=uveitis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="/card/neuroleptic_malignant_syndrome" target="_blank">neuroleptic malignant syndrome</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=neuroleptic+malignant+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="/card/retinal_vein_occlusion" target="_blank">retinal vein occlusion</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=retinal+vein+occlusion&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="/card/central_retinal_vein_occlusion" target="_blank">central retinal vein occlusion</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=central+retinal+vein+occlusion&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="/card/adenocarcinoma" target="_blank">adenocarcinoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=adenocarcinoma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="/card/acute_kidney_failure" target="_blank">acute kidney failure</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=acute+kidney+failure&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="/card/gingivitis" target="_blank">gingivitis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=gingivitis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="/card/purpura" target="_blank">purpura</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=purpura&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="/card/eosinophilic_gastroenteritis" target="_blank">eosinophilic gastroenteritis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=eosinophilic+gastroenteritis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="/card/neuromuscular_disease" target="_blank">neuromuscular disease</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=neuromuscular+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="/card/movement_disease" target="_blank">movement disease</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=movement+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="/card/nutritional_deficiency_disease" target="_blank">nutritional deficiency disease</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=nutritional+deficiency+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="/card/thyroiditis" target="_blank">thyroiditis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=thyroiditis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="/card/monoclonal_gammopathy_of_uncertain_significance" target="_blank">monoclonal gammopathy of uncertain significance</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=monoclonal+gammopathy+of+uncertain+significance&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="/card/malignant_hyperthermia" target="_blank">malignant hyperthermia</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=malignant+hyperthermia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="/card/alopecia_areata" target="_blank">alopecia areata</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=alopecia+areata&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="/card/myoclonus" target="_blank">myoclonus</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=myoclonus&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Satoyoshi Syndrome:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/satoyoshi_syndrome_related_diseases.jpg" width="100%" alt="Diseases related to Satoyoshi Syndrome" title="Diseases related to Satoyoshi Syndrome" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Satoyoshi Syndrome:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 42', 'showing 42, show less','collapsable')">show all 42</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+hyperlordosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003307" target="_blank">HP:0003307</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+microcephaly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000252" target="_blank">HP:0000252</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+short stature
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004322" target="_blank">HP:0004322</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+nephrogenic diabetes insipidus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009806" target="_blank">HP:0009806</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+abnormality of the ovary
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000137" target="_blank">HP:0000137</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+abnormality of the skeletal system
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000924" target="_blank">HP:0000924</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+abnormality of femur morphology
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002823" target="_blank">HP:0002823</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+abnormality of the uterus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000130" target="_blank">HP:0000130</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+genu varum
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002970" target="_blank">HP:0002970</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+tapered finger
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001182" target="_blank">HP:0001182</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+abnormality of the wrist
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003019" target="_blank">HP:0003019</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+sparse or absent eyelashes
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0200102" target="_blank">HP:0200102</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+abnormality of the humerus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003063" target="_blank">HP:0003063</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+hypoplasia of the uterus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000013" target="_blank">HP:0000013</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+alopecia universalis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002289" target="_blank">HP:0002289</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+abnormality of the knee
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002815" target="_blank">HP:0002815</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+amenorrhea
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000141" target="_blank">HP:0000141</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+abnormal joint morphology
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001367" target="_blank">HP:0001367</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+hypoplasia of the ovary
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008724" target="_blank">HP:0008724</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+intermittent painful muscle spasms
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011964" target="_blank">HP:0011964</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+abnormal hair morphology
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001595" target="_blank">HP:0001595</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+abnormal hip bone morphology
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003272" target="_blank">HP:0003272</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+abnormal epiphysis morphology
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005930" target="_blank">HP:0005930</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+abnormal metaphysis morphology
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000944" target="_blank">HP:0000944</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+brachydactyly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001156" target="_blank">HP:0001156</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+short metacarpal
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010049" target="_blank">HP:0010049</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+short metatarsal
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010743" target="_blank">HP:0010743</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+pes planus
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001763" target="_blank">HP:0001763</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+malabsorption
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002024" target="_blank">HP:0002024</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+fatigue
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012378" target="_blank">HP:0012378</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+abnormality of the metaphysis
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+
+genu valgum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002857" target="_blank">HP:0002857</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+
+abnormality of the hip bone
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+
+alopecia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001596" target="_blank">HP:0001596</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+
+abnormality of epiphysis morphology
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+
+skeletal muscle hypertrophy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003712" target="_blank">HP:0003712</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+
+abnormality of the hair
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+
+abnormality of the musculature
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003011" target="_blank">HP:0003011</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+
+diarrhea
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002014" target="_blank">HP:0002014</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+
+mildly elevated creatine kinase
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008180" target="_blank">HP:0008180</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+
+muscle spasm
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003394" target="_blank">HP:0003394</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+
+osteolytic defects of the phalanges of the hand
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009771" target="_blank">HP:0009771</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/600705" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Skeletal Feet:</u><br/>
+<span>pes planus</span>
+<br/>
+<span>brachydactyly (1 patient)</span>
+<br/>
+<span>short metatarsals (1 patient)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Skeletal Limbs:</u><br/>
+<span>osteolysis</span>
+<br/>
+<span>acroosteolysis</span>
+<br/>
+<span>genu valgus</span>
+<br/>
+<span>slipping of multiple epiphyses</span>
+<br/>
+<span>cystic lesions of metaphyses</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>bone fragmentation at tendinous insertions</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 6" id="ClinicalSynopsis_showmore_2" href="javascript:showMoreTable('ClinicalSynopsis_item_2','ClinicalSynopsis_showmore_2','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Skin Nails Hair Hair:</u><br/>
+<span>alopecia universalis</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Genitourinary Internal Genitalia Female:</u><br/>
+<span>hypoplastic uterus</span>
+<br/>
+<span>hypoplastic ovaries</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Muscle Soft Tissue:</u><br/>
+<span>muscle hypertrophy</span>
+<br/>
+<span>muscle cramps, painful, recurrent</span>
+<br/>
+<span>muscle cramps affect the upper and lower limbs</span>
+<br/>
+<span>muscle cramps may affect jaw muscles</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Chest Breasts:</u><br/>
+<span>atrophic breast tissue</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Immunology:</u><br/>
+<span>antinuclear antibody present, speckled pattern</span>
+<br/>
+<span>increased serum ige (1 patient)</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Growth Height:</u><br/>
+<span>short stature</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Abdomen Gastrointestinal:</u><br/>
+<span>diarrhea</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Endocrine Features:</u><br/>
+<span>amenorrhea</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_11" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>mildly increased serum creatine kinase</span>
+<br/>
+<span>increased serum uric acid</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_12" class="tab">
+<u>Skeletal:</u><br/>
+<span>osteoarthrosis</span>
+<br/>
+<span>fatigue fractures</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_13" class="tab">
+<u>Skeletal Hands:</u><br/>
+<span>brachydactyly (1 patient)</span>
+<br/>
+<span>short metacarpals (1 patient)</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/600705#clinicalFeatures" target="_blank">600705</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div>
+<div class="symptoms_div">
+<h3>UMLS symptoms related to Satoyoshi Syndrome:</h3>
+<br/>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>diarrhea;</span>
+</span>
+</span>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>spasm</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Satoyoshi Syndrome" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Satoyoshi Syndrome&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Satoyoshi Syndrome</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Satoyoshi Syndrome: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="4.098692">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="3.364438">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="1.293418">Uterus</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="1.247174">Ovary</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.6204432">Skeletal Muscle</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.5454429">Breast</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.04548905">Brain</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Satoyoshi Syndrome according to PubMed and OMIM&#174;:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome with unusual skeletal abnormalities and parental consanguinity.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Venegas-Vega CA...Kofman-Alfaro S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19839037" target="_blank">19839037</a></td>
+<td>2009</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glutamic acid decarboxylase antibodies in Satoyoshi syndrome.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Drost G...Zwarts M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/14991831" target="_blank">14991831</a></td>
+<td>2004</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome in a Caucasian girl improved with glucocorticoids--a clinical report.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Cecchin CR...Furlanetto TW</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12605441" target="_blank">12605441</a></td>
+<td>2003</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome: an unusual postnatal multisystemic disorder.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ehlayel MS...Lacassie Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/7573141" target="_blank">7573141</a></td>
+<td>1995</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Recurrent muscle spasms of central origin. A report of two cases.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Satoyoshi E...Yamada K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/6018875" target="_blank">6018875</a></td>
+<td>1967</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Satoyoshi Syndrome according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show all 50', 'showing 50, show less','collapsable')">show all 50</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Is Satoyoshi syndrome an autoimmune disease? A systematic review.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Viana Abreu Montanaro V...Solera J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36749015" target="_blank">36749015</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Impending central retinal vein occlusion and granulomatous uveitis in a patient with Satoyoshi syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Saima Y...Kaburaki T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36930111" target="_blank">36930111</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[A case of adult-onset Satoyoshi syndrome with monoclonal gammopathy of undetermined significance].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sun AP...Fan DS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36631044" target="_blank">36631044</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Adult-Onset Satoyoshi Syndrome and Axial Spondyloarthritis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chee YC...Ong BH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34595874" target="_blank">34595874</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Adenocarcinoma arising in the multiple heterotopic submucosal glands of the intestine in a Satoyoshi syndrome patient: A case report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Tsugeno Y...Kitagawa M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33333628" target="_blank">33333628</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Phenomenology of Muscle Spasms in Satoyoshi Syndrome and Treatment With Botulinum Toxin Injections.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bledsoe IO</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32626802" target="_blank">32626802</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Gastrointestinal manifestations in Satoyoshi syndrome: a systematic review.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Solis-Garcia Del Pozo J...Solera J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32429959" target="_blank">32429959</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[The 477th case: muscular spasms, alopecia, diarrhea].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Xiong YY...Qian JM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32146759" target="_blank">32146759</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Treatment of Satoyoshi syndrome: a systematic review.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Solis-Garcia Del Pozo J...Solera J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31217029" target="_blank">31217029</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome-A case report from India.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mani V...George R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28940615" target="_blank">28940615</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A newly homozygous variant in ZNF808: A possible candidate gene for Satoyoshi Syndrome?
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Solera J...de Cabo C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28716247" target="_blank">28716247</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Adult-onset Satoyoshi syndrome in a young male.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Montanaro VV...Ribas FD</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28215594" target="_blank">28215594</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi Syndrome with Progressive Orofacial Manifestations: A Case History Report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Li J...Avivi-Arber L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28267828" target="_blank">28267828</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome in pregnancy.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sharpe A...Meneni D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26947175" target="_blank">26947175</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Adult-onset Satoyoshi syndrome and response to plasmapheresis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Aghoram R...Kannoth S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27011647" target="_blank">27011647</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+High glycine levels in the cerebrospinal fluid in Satoyoshi syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Solera J...de Cabo C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26190524" target="_blank">26190524</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Alopecia areata. How not to miss Satoyoshi syndrome?
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Rudnicka L...Olszewska M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25289915" target="_blank">25289915</a></td>
+<td>2014</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Adult-onset Satoyoshi syndrome with prominent laterality of clinical features.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ishihara M...Sonoo M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25500444" target="_blank">25500444</a></td>
+<td>2014</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome: a cause of alopecia universalis in association with neurologic and bony abnormalities.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Merino de Paz N...Noda Cabrera A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22612551" target="_blank">22612551</a></td>
+<td>2013</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi's syndrome related muscle spasms: functional study.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Pardal-Fernandez JM...Rodriguez-Vazquez M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22100320" target="_blank">22100320</a></td>
+<td>2012</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mukhopadhyay D...Mukhopadhyay M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21992906" target="_blank">21992906</a></td>
+<td>2011</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Neuronal voltage-gated potassium channel complex autoimmunity in children.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dhamija R...Lennon VA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21397169" target="_blank">21397169</a></td>
+<td>2011</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Satoyoshi syndrome].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Satoyoshi E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21301038" target="_blank">21301038</a></td>
+<td>2011</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Lymphocytic colitis in Satoyoshi syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ishii K...Morishita Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20710153" target="_blank">20710153</a></td>
+<td>2010</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Satoyoshi syndrome: report of one case].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Castiglioni C...Hernandez C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19623421" target="_blank">19623421</a></td>
+<td>2009</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A case of adult-onset Satoyoshi syndrome with gastric ulceration and eosinophilic enteritis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Asherson RA...Strimling M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18607399" target="_blank">18607399</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[A case report of dental abnormality and prosthetic treatment of Satoyoshi syndrome].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Li J...Feng HL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18846940" target="_blank">18846940</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome has antibody against brain and gastrointestinal tissue.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Matsuura E...Arimura K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17405137" target="_blank">17405137</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Involuntary painful muscle contractions in Satoyoshi syndrome: a surface electromyographic study.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Drost G...Zwarts MJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16972238" target="_blank">16972238</a></td>
+<td>2006</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome: a rare multisystemic disorder requiring systemic and symptomatic treatment.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Heger S...Sippell WG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16478652" target="_blank">16478652</a></td>
+<td>2006</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome: comments.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Varkey BM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15269496" target="_blank">15269496</a></td>
+<td>2004</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ashalatha R...Nair MD</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15069249" target="_blank">15069249</a></td>
+<td>2004</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A case of Satoyoshi syndrome: a multisystem disorder.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kamat D...Berry S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/14601924" target="_blank">14601924</a></td>
+<td>2003</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Improvement of Satoyoshi syndrome with tacrolimus and corticosteroids.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Endo K...Homma M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12821760" target="_blank">12821760</a></td>
+<td>2003</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[A case of Satoyoshi syndrome complicating marginal gingivitis of the mandible and dislocation of the temporomandibular joint].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Matsumura T...Shinno S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12710092" target="_blank">12710092</a></td>
+<td>2002</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Contribution of Japanese researchers to progress in the field of neurology in the last 100 years: Satoyoshi syndrome].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Satoyoshi E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12373843" target="_blank">12373843</a></td>
+<td>2002</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A unilateral presentation of 'Satoyoshi syndrome'.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Uddin AB...Brannan T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12039433" target="_blank">12039433</a></td>
+<td>2002</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wisuthsarewong W...Manonukul J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11737686" target="_blank">11737686</a></td>
+<td>2001</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Satoyoshi syndrome].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Saitoh S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11528917" target="_blank">11528917</a></td>
+<td>2001</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Satoyoshi syndrome (disease)].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sunohara N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11596417" target="_blank">11596417</a></td>
+<td>2001</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Oyama M...Kondo S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9923791" target="_blank">9923791</a></td>
+<td>1999</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Satoyoshi's syndrome in an adult: a review of the literature of adult onset cases.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ikeda K...Iwasaki Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9804090" target="_blank">9804090</a></td>
+<td>1998</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[A case of Satoyoshi syndrome with symptoms resembling neuroleptic malignant syndrome].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Adachi H...Kuru S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9868307" target="_blank">9868307</a></td>
+<td>1998</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Radiological and orthopedic abnormalities in Satoyoshi syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Haymon M...Lacassie Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9133353" target="_blank">9133353</a></td>
+<td>1997</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Intravenous gammaglobulin therapy of Satoyoshi syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Arita J...Maekawa K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8891238" target="_blank">8891238</a></td>
+<td>1996</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Masticatory muscle spasm in a non-Japanese patient with Satoyoshi syndrome successfully treated with botulinum toxin.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Merello M...Leiguarda R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8139588" target="_blank">8139588</a></td>
+<td>1994</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[A case of generalized komuragaeri disease (Satoyoshi disease) treated with glucocorticoid].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yamagata T...Yanagisawa M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2044311" target="_blank">2044311</a></td>
+<td>1991</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Positive therapeutic effect of diacarb in the syndrome of progressive muscle spasms, alopecia and diarrhea (Satoyoshi syndrome)].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Aver&#39;ianov IuN...Levina LIa</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/6524180" target="_blank">6524180</a></td>
+<td>1984</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Myasthenia gravis associated with Satoyoshi syndrome: muscle cramps, alopecia, and diarrhea.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Satoh A...Nagataki S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/6684258" target="_blank">6684258</a></td>
+<td>1983</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[A case of generalized komuragaeri disease complicating myasthenia gravis (author's transl)].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Satoh A...Takamori M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/7105598" target="_blank">7105598</a></td>
+<td>1982</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Satoyoshi%20Syndrome%22%5BMeSH%20Terms%5D%20OR%20%22Satoyoshi%20Syndrome%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Satoyoshi Syndrome.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Satoyoshi Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#d1a2a4a1a1bea3a591bdb8b7b4bcb0a1a2b2ffb2bebc">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809eb0ba0895d97b',t:'MTY5NTI2MTM3Mi42MjgwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

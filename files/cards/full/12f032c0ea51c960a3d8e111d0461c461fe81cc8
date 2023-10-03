@@ -1,0 +1,3935 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Asparagine Synthetase Deficiency disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/asparagine_synthetase_deficiency" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'asparagine_synthetase_deficiency';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+ASNSD <div class="symbol">MCID: ASP024</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 38
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Asparagine Synthetase Deficiency</span>
+(<span itemprop="alternateName">ASNSD</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Genetic diseases, Mental diseases, Metabolic diseases, Neuronal diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#c2b1a3aea7b182aeaba4a7afa3b2b1a1eca1adaf" target="_blank"><span class="__cf_email__" data-cfemail="7a091b161f093a16131c1f171b0a091954191517">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="2 Genes associated with Asparagine Synthetase Deficiency">Genes</a>
+<a href="#genetic_variations" title="94 Variations associated with Asparagine Synthetase Deficiency">Variations</a>
+<a href="#anatomical_context" title="4 Tissues associated with Asparagine Synthetase Deficiency">Tissues</a>
+<a href="#disorders" title="24 Related diseases associated with Asparagine Synthetase Deficiency">Related diseases</a>
+<a href="#publications" title="46 Publications associated with Asparagine Synthetase Deficiency">Publications</a>
+<a href="#clinical_features" title="45 Symptoms &amp; Phenotypes associated with Asparagine Synthetase Deficiency">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/asparagine_synthetase_deficiency?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Asparagine Synthetase Deficiency:</h3>
+<div class="main-name">
+Name: <b>Asparagine Synthetase Deficiency</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/615574" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="GeneReviews"> <a href="http://www.ncbi.nlm.nih.gov/books/NBK525916" title="GeneReviews" target="_blank">24</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/asparagine-synthetase-deficiency" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=391376" title="Orphanet" target="_blank">58</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03985" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/04011" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Asns Deficiency
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/615574" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="GeneReviews"> <a href="http://www.ncbi.nlm.nih.gov/books/NBK525916" title="GeneReviews" target="_blank">24</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/asparagine-synthetase-deficiency" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03985" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Asnsd
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/615574" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/asparagine-synthetase-deficiency" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03985" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Congenital Microcephaly - Severe Encephalopathy - Progressive Cerebral Atrophy Syndrome
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C3809971" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td width="390">
+<div>
+Congenital Microcephaly-Severe Encephalopathy-Progressive Cerebral Atrophy Syndrome
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/asparagine-synthetase-deficiency" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=391376" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Disorder of Asparagine Metabolism
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/asparagine-synthetase-deficiency" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=391381" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Asparagine Synthetase Deficiency:</b>
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/615574" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>Congenital Microcephaly-Severe Encephalopathy-Progressive Cerebral Atrophy Syndrome:</b>
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=391376" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+<b>Congenital Microcephaly-Severe Encephalopathy-Progressive Cerebral Atrophy Syndrome:</b>
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=391376" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>Congenital Microcephaly-Severe Encephalopathy-Progressive Cerebral Atrophy Syndrome:</b>
+Infancy,Neonatal <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=391376" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/615574" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>progressive disorder</span>
+<br/>
+<span>onset in utero or at birth</span>
+<br/>
+<span>death usually in infancy</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div class="tab">
+<h3>HPO:</h3> <sup title="The Human Phenotype Ontology">30</sup>
+<div class="tab">
+<u>asparagine synthetase deficiency:</u><br/>
+<span>Onset and clinical course</span>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003676" target="_blank">progressive</a> <br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/mental_disease_list" target="_blank">Mental diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/IV" title="IV" target="_blank">Endocrine, nutritional and metabolic diseases</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70-E90" title="E70-E90" target="_blank">Metabolic disorders</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72" title="E72" target="_blank">Other disorders of amino-acid metabolism</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72.8" title="E72.8" target="_blank">Other specified disorders of amino-acid metabolism</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare neurological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Inborn errors of metabolism <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/615574" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/615574" target="_blank">615574</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D000592" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D000592" target="_blank">D000592</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72.8" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72.8" target="_blank">E72.8</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=391376" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=391376" target="_blank">ORPHA391376</a> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=391381" target="_blank">ORPHA391381</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_5">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C3809971" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C3809971" target="_blank">C3809971</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/CN185291" target="_blank">CN185291</a>
+</div>
+<div id="ExternalId_item_6">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/128613002" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/128613002" target="_blank">128613002</a> <a href="http://www.snomedbrowser.com/Codes/Details/135810007" target="_blank">135810007</a> <a href="http://www.snomedbrowser.com/Codes/Details/16026008" target="_blank">16026008</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/192965001" target="_blank">192965001</a> <a href="http://www.snomedbrowser.com/Codes/Details/19557000" target="_blank">19557000</a> <a href="http://www.snomedbrowser.com/Codes/Details/204043002" target="_blank">204043002</a> <a href="http://www.snomedbrowser.com/Codes/Details/246545002" target="_blank">246545002</a> <a href="http://www.snomedbrowser.com/Codes/Details/249752003" target="_blank">249752003</a> <a href="http://www.snomedbrowser.com/Codes/Details/252157006" target="_blank">252157006</a> <a href="http://www.snomedbrowser.com/Codes/Details/253153000" target="_blank">253153000</a> <a href="http://www.snomedbrowser.com/Codes/Details/255314001" target="_blank">255314001</a> <a href="http://www.snomedbrowser.com/Codes/Details/271611007" target="_blank">271611007</a> <a href="http://www.snomedbrowser.com/Codes/Details/275480001" target="_blank">275480001</a> <a href="http://www.snomedbrowser.com/Codes/Details/28055006" target="_blank">28055006</a> <a href="http://www.snomedbrowser.com/Codes/Details/299462005" target="_blank">299462005</a> <a href="http://www.snomedbrowser.com/Codes/Details/313307000" target="_blank">313307000</a> <a href="http://www.snomedbrowser.com/Codes/Details/32958008" target="_blank">32958008</a> <a href="http://www.snomedbrowser.com/Codes/Details/34168003" target="_blank">34168003</a> <a href="http://www.snomedbrowser.com/Codes/Details/36440009" target="_blank">36440009</a> <a href="http://www.snomedbrowser.com/Codes/Details/409623005" target="_blank">409623005</a> <a href="http://www.snomedbrowser.com/Codes/Details/413924001" target="_blank">413924001</a> <a href="http://www.snomedbrowser.com/Codes/Details/432788009" target="_blank">432788009</a> <a href="http://www.snomedbrowser.com/Codes/Details/68574006" target="_blank">68574006</a> <a href="http://www.snomedbrowser.com/Codes/Details/69056000" target="_blank">69056000</a> <a href="http://www.snomedbrowser.com/Codes/Details/78164000" target="_blank">78164000</a> <a href="http://www.snomedbrowser.com/Codes/Details/81308009" target="_blank">81308009</a> <a href="http://www.snomedbrowser.com/Codes/Details/84757009" target="_blank">84757009</a> <a href="http://www.snomedbrowser.com/Codes/Details/86854008" target="_blank">86854008</a> <a href="http://www.snomedbrowser.com/Codes/Details/91175000" target="_blank">91175000</a> </span>
+<span class="showmore">
+<a title="show all 29" id="ExternalId_showmore_6" href="javascript:showMoreTable('ExternalId_item_6','ExternalId_showmore_6','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_7">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C3809971</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://ghr.nlm.nih.gov/condition/asparagine-synthetase-deficiency" target="_blank">MedlinePlus Genetics</a>:</b>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/asparagine-synthetase-deficiency" target="_blank">42</a></sup>
+Asparagine synthetase deficiency is a condition that causes neurological problems in affected individuals starting soon after birth. Most people with this condition have an unusually small head size (microcephaly) that worsens over time due to loss (atrophy) of brain tissue. They also have severe developmental delay that affects both mental and motor skills (psychomotor delay). Affected individuals cannot sit, crawl, or walk and are unable to communicate verbally or nonverbally. The few affected children who achieve developmental milestones often lose these skills over time (developmental regression).Most individuals with asparagine synthetase deficiency have exaggerated reflexes (hyperreflexia) and weak muscle tone (hypotonia). The muscle problems worsen through childhood and lead to muscle stiffness, uncontrolled movements, and ultimately, paralysis of the arms and legs (spastic quadriplegia). Many affected individuals also have recurrent seizures (epilepsy). Not all affected people experience the same type of seizure. The most common types involve a loss of consciousness, muscle rigidity, and convulsions (tonic-clonic); involuntary muscle twitches (myoclonic); or abnormal muscle contraction (tonic). People with asparagine synthetase deficiency may have an exaggerated startle reaction (hyperekplexia) to unexpected stimuli. Some affected individuals have blindness due to impairment of the area of the brain responsible for processing vision, called the occipital cortex (cortical blindness).People with asparagine synthetase deficiency typically do not survive past childhood.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Asparagine Synthetase Deficiency, also known as <i>asns deficiency</i>, is related to <i><a href="/card/microcephaly" target="_blank">microcephaly</a></i> and <i><a href="/card/cerebral_atrophy" target="_blank">cerebral atrophy</a></i>, and has symptoms including <i>seizures</i>, <i>hyperexplexia</i> and <i>feeling jittery</i>. An important gene associated with Asparagine Synthetase Deficiency is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" target="_blank">ASNS</a> (Asparagine Synthetase (Glutamine-Hydrolyzing)). Affiliated tissues include <i>pons</i> and <i>brain</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0001347" target="_blank">hyperreflexia</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0000252" target="_blank">microcephaly</a></i></p>
+<p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=391376" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=391376" target="_blank">58</a></sup>
+A rare, genetic, neurometabolic disorder characterized by severe, progressive microcephaly, severe to profound global development delay, intellectual disability, seizures (typically tonic and/or myoclonic and frequently intractable), hyperekplexia, and axial hypotonia with appendicular spasticity, as well as hyperreflexia, dyskinetic quadriplegia, and abnormal brain morphology (cerebral atrophy with variable additional features including ventriculomeglay, pons and/or cerebellar hypoplasia, simplified gyral pattern and delayed myelination). Cortical blindness, feeding difficulties and respiratory insufficiency may also be associated.</p><p> <b> <a href="http://omim.org/entry/615574#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/615574#description" target="_blank">57</a></sup>
+ASNS deficiency (ASNSD) is an autosomal recessive severe neurologic disorder characterized by microcephaly, severely delayed psychomotor development, progressive encephalopathy, cortical atrophy, and seizure or hyperekplexic activity. The disorder may show onset in utero or at birth and may result in early death (summary by Ruzzo et al., 2013); it may also present with early normal development followed by infantile-onset seizures and neurodevelopmental delays (Sacharow et al., 2018). <span> (615574) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="http://www.uniprot.org/diseases/DI-03985" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03985" target="_blank">73</a></sup>
+An inborn error of asparagine biosynthesis that results in a severe neurologic disorder characterized by microcephaly, severely delayed psychomotor development, progressive encephalopathy, cortical atrophy, and seizure or hyperekplexic activity.</p>
+</div>
+<div>
+<b>GeneReviews:</b>
+<a href="http://www.ncbi.nlm.nih.gov/books/NBK525916" target="_blank">NBK525916</a> </div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Asparagine Synthetase Deficiency via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 24', 'showing 24, show less','collapsable')">show all 24</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/microcephaly" target="_blank">microcephaly</a></td>
+<td>10.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=microcephaly&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/cerebral_atrophy" target="_blank">cerebral atrophy</a></td>
+<td>10.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=cerebral+atrophy&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/quadriplegia" target="_blank">quadriplegia</a></td>
+<td>10.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=quadriplegia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/spastic_quadriplegic_cerebral_palsy" target="_blank">spastic quadriplegic cerebral palsy</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=spastic+quadriplegic+cerebral+palsy&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/hypotonia" target="_blank">hypotonia</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hypotonia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/spasticity" target="_blank">spasticity</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=spasticity&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/congenital_hemidysplasia_with_ichthyosiform_erythroderma_and_limb_defects" target="_blank">congenital hemidysplasia with ichthyosiform erythroderma and limb defects</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=congenital+hemidysplasia+with+ichthyosiform+erythroderma+and+limb+defects&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/hyperekplexia" target="_blank">hyperekplexia</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hyperekplexia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/visual_epilepsy" target="_blank">visual epilepsy</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=visual+epilepsy&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/epilepsy" target="_blank">epilepsy</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=epilepsy&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/neurometabolic_disease" target="_blank">neurometabolic disease</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=neurometabolic+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/gastroesophageal_reflux" target="_blank">gastroesophageal reflux</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=gastroesophageal+reflux&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/corpus_callosum_agenesis_of" target="_blank">corpus callosum, agenesis of</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=corpus+callosum%2c+agenesis+of&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/west_syndrome" target="_blank">west syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=west+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/scoliosis" target="_blank">scoliosis</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=scoliosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/umbilical_hernia" target="_blank">umbilical hernia</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=umbilical+hernia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/molybdenum_cofactor_deficiency" target="_blank">molybdenum cofactor deficiency</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=molybdenum+cofactor+deficiency&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/diaphragmatic_eventration" target="_blank">diaphragmatic eventration</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=diaphragmatic+eventration&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/cortical_blindness" target="_blank">cortical blindness</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=cortical+blindness&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/status_epilepticus" target="_blank">status epilepticus</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=status+epilepticus&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/dermatitis" target="_blank">dermatitis</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=dermatitis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/brain_edema" target="_blank">brain edema</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=brain+edema&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/inherited_metabolic_disorder" target="_blank">inherited metabolic disorder</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=inherited+metabolic+disorder&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/neuronal_migration_disorders" target="_blank">neuronal migration disorders</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS&amp;keywords=neuronal+migration+disorders&amp;prefilter=diseases#diseases" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS&amp;keywords=neuronal+migration+disorders&amp;prefilter=diseases#diseases" title="ASNS gene information at GeneCards" target="_blank">ASNS</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Asparagine Synthetase Deficiency:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/asparagine_synthetase_deficiency_related_diseases.jpg" width="100%" alt="Diseases related to Asparagine Synthetase Deficiency" title="Diseases related to Asparagine Synthetase Deficiency" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Asparagine Synthetase Deficiency:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 30', 'showing 30, show less','collapsable')">show all 30</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+hyperreflexia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001347" target="_blank">HP:0001347</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+microcephaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000252" target="_blank">HP:0000252</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+severe global developmental delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011344" target="_blank">HP:0011344</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+limb hypertonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002509" target="_blank">HP:0002509</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+hypoplasia of the pons
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.6666667%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012110" target="_blank">HP:0012110</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+simplified gyral pattern
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.6666667%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009879" target="_blank">HP:0009879</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+axial hypotonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5555556%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008936" target="_blank">HP:0008936</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+hypsarrhythmia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.375%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002521" target="_blank">HP:0002521</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+exaggerated startle response
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.3333333%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002267" target="_blank">HP:0002267</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+eeg with burst suppression
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.25%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010851" target="_blank">HP:0010851</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+seizure
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">HP:0001250</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+failure to thrive
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">HP:0001508</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+respiratory insufficiency
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002093" target="_blank">HP:0002093</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+macrotia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000400" target="_blank">HP:0000400</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+spastic tetraplegia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002510" target="_blank">HP:0002510</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+micrognathia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000347" target="_blank">HP:0000347</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+ventriculomegaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002119" target="_blank">HP:0002119</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+profound global developmental delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012736" target="_blank">HP:0012736</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+cerebellar hypoplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001321" target="_blank">HP:0001321</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+large hands
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001176" target="_blank">HP:0001176</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+sloping forehead
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000340" target="_blank">HP:0000340</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+encephalopathy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001298" target="_blank">HP:0001298</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+feeding difficulties
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011968" target="_blank">HP:0011968</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+hypoplasia of the corpus callosum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002079" target="_blank">HP:0002079</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+cerebral visual impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100704" target="_blank">HP:0100704</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+long foot
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001833" target="_blank">HP:0001833</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+delayed myelination
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012448" target="_blank">HP:0012448</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+cortical dysplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002539" target="_blank">HP:0002539</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+progressive microcephaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000253" target="_blank">HP:0000253</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+diaphragmatic eventration
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009110" target="_blank">HP:0009110</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/615574" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>hyperreflexia</span>
+<br/>
+<span>spastic tetraplegia</span>
+<br/>
+<span>cerebellar hypoplasia</span>
+<br/>
+<span>hypsarrhythmia</span>
+<br/>
+<span>delayed myelination</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>cortical dysplasia</span>
+<br/>
+<span>simplified gyral pattern</span>
+<br/>
+<span>thin corpus callosum</span>
+<br/>
+<span>seizures</span>
+<br/>
+<span>axial hypotonia</span>
+<br/>
+<span>enlarged ventricles</span>
+<br/>
+<span>encephalopathy, progressive</span>
+<br/>
+<span>delayed psychomotor development, profound</span>
+<br/>
+<span>pontine hypoplasia</span>
+<br/>
+<span>appendicular hypertonia</span>
+<br/>
+<span>burst suppression pattern seen on eeg</span>
+<br/>
+<span>jitteriness</span>
+<br/>
+<span>hyperekplexia</span>
+<br/>
+<span>multiple independent spike foci</span>
+<br/>
+<span>brain imaging shows cortical atrophy</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 20" id="ClinicalSynopsis_showmore_1" href="javascript:showMoreTable('ClinicalSynopsis_item_1','ClinicalSynopsis_showmore_1','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Respiratory:</u><br/>
+<span>respiratory insufficiency</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Skeletal Hands:</u><br/>
+<span>large hands</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>large ears</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>cortical blindness</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Chest Diaphragm:</u><br/>
+<span>diaphragmatic eventration (in one family)</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Growth Other:</u><br/>
+<span>failure to thrive</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Head And Neck Face:</u><br/>
+<span>micrognathia</span>
+<br/>
+<span>receding forehead</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Skeletal Feet:</u><br/>
+<span>large feet</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Abdomen Gastrointestinal:</u><br/>
+<span>poor feeding</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_11" class="tab">
+<u>Head And Neck Head:</u><br/>
+<span>microcephaly, progressive (up to -7 sd)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_12" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>decreased asparagine levels (in some patients)</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/615574#clinicalFeatures" target="_blank">615574</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div>
+<div class="symptoms_div">
+<h3>UMLS symptoms related to Asparagine Synthetase Deficiency:</h3>
+<br/>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>seizures;</span>
+</span>
+</span>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>hyperexplexia;</span>
+</span>
+</span>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>feeling jittery</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Interventional clinical trials:</h3>
+<br/>
+<table id="ClinicalTrial-table" style="table-layout: fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="400">Name</th>
+<th width="80">Status</th>
+<th width="90">NCT ID</th>
+<th width="70">Phase</th>
+<th>Drugs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Study on the Mechanism of Neurodevelopment Dysplasia of Fetal Brain Caused by ASNS Gene Mutation</td>
+<td>Unknown status</td>
+<td> <a href="https://clinicaltrials.gov/ct2/show/NCT03587155" target="_blank">NCT03587155</a></td>
+<td></td>
+<td style="word-wrap: break-word;"></td>
+</tr>
+</tbody>
+</table>
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Asparagine Synthetase Deficiency&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Asparagine Synthetase Deficiency</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Asparagine Synthetase Deficiency:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Congenital Microcephaly - Severe Encephalopathy - Progressive Cerebral Atrophy Syndrome
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C3809971" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS&amp;keywords=congenital+microcephaly+-+severe+encephalopathy+-+progressive+cerebral+atrophy+syndrome&amp;prefilter=diseases#diseases" title="ASNS gene information at GeneCards" target="_blank">ASNS</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Asparagine Synthetase Deficiency: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="4.050993">Pons</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="3.245259">Brain</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="2.749297">Cortex</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.682166">Fetal Brain</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Asparagine Synthetase Deficiency according to PubMed, GeneReviews, OMIM&#174;, and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 22', 'showing 22, show less','collapsable')">show all 22</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Characterization of a novel variant in siblings with Asparagine Synthetase Deficiency.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sacharow SJ...Kilberg MS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29279279" target="_blank">29279279</a></td>
+<td>2018</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Asparagine Synthetase deficiency-report of a novel mutation and review of literature.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gupta N...Kabra M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28776279" target="_blank">28776279</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Diaphragmatic Eventration in Sisters with Asparagine Synthetase Deficiency: A Novel Homozygous ASNS Mutation and Expanded Phenotype.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sun J...Chopra M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27469131" target="_blank">27469131</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Deficiency of asparagine synthetase causes congenital microcephaly and a progressive form of encephalopathy.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ruzzo EK...Goldstein DB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24139043" target="_blank">24139043</a></td>
+<td>2013</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical whole exome sequencing from dried blood spot identifies novel genetic defect underlying asparagine synthetase deficiency.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Abhyankar A...Jobanputra V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29375865" target="_blank">29375865</a></td>
+<td>2018</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Epileptic Phenotype of Two Siblings with Asparagine Synthesis Deficiency Mimics Neonatal Pyridoxine-Dependent Epilepsy.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gataullina S...Fallet-Bianco C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27522229" target="_blank">27522229</a></td>
+<td>2016</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+An intractable epilepsy phenotype of ASNS novel mutation in two patients with asparagine synthetase deficiency.
+<sup title="PubMed">62</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liu L...Ren C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35469797" target="_blank">35469797</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Report of four novel variants in ASNS causing asparagine synthetase deficiency and review of literature.
+<sup title="PubMed">62</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Galada C...Shukla A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29405484" target="_blank">29405484</a></td>
+<td>2018</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Standardized practices for RNA diagnostics using clinically accessible specimens reclassifies 75% of putative splicing variants.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bournazos AM...Australasian Consortium for RNA Diagnostics</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34906502" target="_blank">34906502</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Diagnostic power and clinical impact of exome sequencing in a cohort of 500 patients with rare diseases.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Quaio CRDC...Baratela WADR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33258288" target="_blank">33258288</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Rapid exome sequencing and adjunct RNA studies confirm the pathogenicity of a novel homozygous ASNS splicing variant in a critically ill neonate.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Akesson LS...Cooper ST</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32906196" target="_blank">32906196</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genomic and phenotypic delineation of congenital microcephaly.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Shaheen R...Alkuraya FS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30214071" target="_blank">30214071</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The first report of Japanese patients with asparagine synthetase deficiency.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yamamoto T...Fukao T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27743885" target="_blank">27743885</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Hyperekplexia, microcephaly and simplified gyral pattern caused by novel ASNS mutations, case report.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Seidahmed MZ...Alkuraya FS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27422383" target="_blank">27422383</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Worsening of Seizures After Asparagine Supplementation in a Child with Asparagine Synthetase Deficiency.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Alrifai MT...Alfadhel M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27268761" target="_blank">27268761</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Asparagine Synthetase Deficiency causes reduced proliferation of cells under conditions of limited asparagine.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Palmer EE...Kirk EP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26318253" target="_blank">26318253</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Asparagine synthetase deficiency detected by whole exome sequencing causes congenital microcephaly, epileptic encephalopathy and psychomotor delay.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ben-Salem S...Al-Gazali L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25227173" target="_blank">25227173</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Prevalence of inherited neurotransmitter disorders in patients with movement disorders and epilepsy: a retrospective cohort study.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mercimek-Mahmutoglu S...Kyriakopoulou L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25758715" target="_blank">25758715</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Asparagine Synthetase Deficiency: New Inborn Errors of Metabolism.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Alfadhel M...Eyaid W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25663424" target="_blank">25663424</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Variation among DNA banking consent forms: points for clinicians to bank on.
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Huang SJ...Sternen DL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35834113" target="_blank">35834113</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology.
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Richards S...ACMG Laboratory Quality Assurance Committee</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25741868" target="_blank">25741868</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Molecular cloning of a gene that is necessary for G1 progression in mammalian cells.
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Greco A...Basilico C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3470743" target="_blank">3470743</a></td>
+<td>1987</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Asparagine Synthetase Deficiency according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show all 24', 'showing 24, show less','collapsable')">show all 24</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ketogenic diet-responsive drug-resistant epilepsy in a case of asparagine synthetase deficiency with a novel compound heterozygous missense variant.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Altintas M...Teber S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37167844" target="_blank">37167844</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Metabolomic Profiling of Asparagine Deprivation in Asparagine Synthetase Deficiency Patient-Derived Cells.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chang MC...Merritt ME</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37111157" target="_blank">37111157</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Characterizing asparagine synthetase deficiency variants in lymphoblastoid cell lines.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Staklinski SJ...Kilberg MS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36873094" target="_blank">36873094</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Analysis of Enzyme Activity and Cellular Function for the N80S and S480F Asparagine Synthetase Variants Expressed in a Child with Asparagine Synthetase Deficiency.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Staklinski SJ...Kilberg MS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36613999" target="_blank">36613999</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cellular and molecular characterization of two novel asparagine synthetase gene mutations linked to asparagine synthetase deficiency.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Staklinski SJ...Kilberg MS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35985424" target="_blank">35985424</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+In vitro functional analysis of four variants of human asparagine synthetase.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Matsumoto H...Ohnishi H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34080208" target="_blank">34080208</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Asparagine Synthetase Deficiency with Intracranial Hemorrhage Can Mimic Molybdenum Cofactor Deficiency.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Abdel-Salam GMH...Abdel-Hamid MS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33271615" target="_blank">33271615</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Effects of A6E Mutation on Protein Expression and Supramolecular Assembly of Yeast Asparagine Synthetase.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Surasiang T...Noree C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33916846" target="_blank">33916846</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical, molecular, and biochemical delineation of asparagine synthetase deficiency in Saudi cohort.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Alharby E...Almontashiri NAM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32741967" target="_blank">32741967</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Fetal MRI and ultrasound findings of a confirmed asparagine synthetase deficiency case.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Churchill LE...Piechan JL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32564386" target="_blank">32564386</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A novel compound heterozygous missense mutation in ASNS broadens the spectrum of asparagine synthetase deficiency.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang C...Lin Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32255274" target="_blank">32255274</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Congenital microcephaly with early onset epileptic encephalopathy caused by ASNS gene mutation: A case report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chen C...Liu X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32481472" target="_blank">32481472</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Asparagine synthetase deficiency: A novel case with an unusual molecular mechanism.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Faoucher M...Acquaviva C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31720226" target="_blank">31720226</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Generation of four induced pluripotent stem cell lines, GZWWTi001-A, GZWTZi001-A, GZWXYi001-A, and GZWXDi001-A, derived from peripheral blood mononuclear cells from a family with asparagine synthetase deficiency.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yingjun X...Xiaofang S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31698190" target="_blank">31698190</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Epileptic encephalopathy with microcephaly in a patient with asparagine synthetase deficiency: a video-EEG report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Costa P...Carrozzi M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31617495" target="_blank">31617495</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Molecular diagnosis of asparagine synthetase (ASNS) deficiency in two Indian families and literature review of 29 ASNS deficient cases.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Radha Rama Devi A...Naushad SM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30978478" target="_blank">30978478</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cyst-Peritoneal Shunt for the Treatment of a Progressive Intracerebral Cyst Associated with ASNS Mutation: Case Report and Literature Review.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chen B...Hong X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30844524" target="_blank">30844524</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical outcomes of two patients with a novel pathogenic variant in ASNS: response to asparagine supplementation and review of the literature.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sprute R...Cirak S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31123592" target="_blank">31123592</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Asparagine Synthetase Deficiency
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Alfadhel M...El-Hattab AW</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30234940" target="_blank">30234940</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Asparagine synthetase: Function, structure, and role in disease.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lomelino CL...Kilberg MS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29084849" target="_blank">29084849</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Erratum to: Asparagine synthetase deficiency-report of a novel mutation and review of literature.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gupta N...Kabra M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28875262" target="_blank">28875262</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Antenatal manifestations of inborn errors of metabolism: autopsy findings suggestive of a metabolic disorder.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Collardeau-Frachon S...Vianey-Saban C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27106218" target="_blank">27106218</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Deficiency in asparagine synthetase expression in rectal cancers receiving concurrent chemoradiotherapy: negative prognostic impact and therapeutic relevance.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lin CY...Chen SH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24729124" target="_blank">24729124</a></td>
+<td>2014</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pancreatic tumor sensitivity to plasma L-asparagine starvation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dufour E...Godfrin Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22513289" target="_blank">22513289</a></td>
+<td>2012</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Asparagine Synthetase Deficiency (2 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Asparagine Synthetase (Glutamine-Hydrolyzing)</td>
+<td>Protein Coding</td>
+<td>1693.18</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/108370" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation (loss of function)
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=22662" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_ASNS">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS&amp;keywords=Asparagine+Synthetase+Deficiency&amp;prefilter=diseases#diseases" title="ASNS gene information at GeneCards" target="_blank">Disorders</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS&amp;keywords=Asparagine+Synthetase+Deficiency&amp;prefilter=publications#publications" title="ASNS gene information at GeneCards" target="_blank">Publications</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_ASNS_SeeMore" href="javascript:showMoreTable('related_genes_ASNS','related_genes_ASNS_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/24139043" title="ClinVar" target="_blank">24139043</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25758715" title="ClinVar" target="_blank">25758715</a> <a href="https://pubmed.ncbi.nlm.nih.gov/27522229" title="ClinVar" target="_blank">27522229</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/28776279" title="ClinVar" target="_blank">28776279</a> <a href="https://pubmed.ncbi.nlm.nih.gov/29375865" title="ClinVar" target="_blank">29375865</a> <a href="https://pubmed.ncbi.nlm.nih.gov/32906196" title="ClinVar" target="_blank">32906196</a> <a href="https://pubmed.ncbi.nlm.nih.gov/34906502" title="ClinVar" target="_blank">34906502</a> <a href="https://pubmed.ncbi.nlm.nih.gov/35469797" title="ClinVar" target="_blank">35469797</a> <a href="https://pubmed.ncbi.nlm.nih.gov/29405484" title="ClinVar" target="_blank">29405484</a> <a href="https://pubmed.ncbi.nlm.nih.gov/30214071" title="ClinVar" target="_blank">30214071</a> <a href="https://pubmed.ncbi.nlm.nih.gov/33258288" title="ClinVar" target="_blank">33258288</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>CZ1P-ASNS Readthrough</td>
+<td>RNA Gene</td>
+<td>433.5</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_CZ1P-ASNS">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS&amp;keywords=Asparagine+Synthetase+Deficiency&amp;prefilter=publications#publications" title="CZ1P-ASNS gene information at GeneCards" target="_blank">Publications</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_CZ1P-ASNS_SeeMore" href="javascript:showMoreTable('related_genes_CZ1P-ASNS','related_genes_CZ1P-ASNS_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/24139043" title="ClinVar" target="_blank">24139043</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25758715" title="ClinVar" target="_blank">25758715</a> <a href="https://pubmed.ncbi.nlm.nih.gov/27522229" title="ClinVar" target="_blank">27522229</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_2_SeeMore" href="javascript:showMoreTable('pubmedids_item_2','pubmedids_item_2_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/28776279" title="ClinVar" target="_blank">28776279</a> <a href="https://pubmed.ncbi.nlm.nih.gov/29375865" title="ClinVar" target="_blank">29375865</a> <a href="https://pubmed.ncbi.nlm.nih.gov/32906196" title="ClinVar" target="_blank">32906196</a> <a href="https://pubmed.ncbi.nlm.nih.gov/34906502" title="ClinVar" target="_blank">34906502</a> <a href="https://pubmed.ncbi.nlm.nih.gov/35469797" title="ClinVar" target="_blank">35469797</a> <a href="https://pubmed.ncbi.nlm.nih.gov/29405484" title="ClinVar" target="_blank">29405484</a> <a href="https://pubmed.ncbi.nlm.nih.gov/30214071" title="ClinVar" target="_blank">30214071</a> <a href="https://pubmed.ncbi.nlm.nih.gov/33258288" title="ClinVar" target="_blank">33258288</a> </span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Asparagine Synthetase Deficiency:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '91', 'ClinVarVariations-table');">show all 91</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1097G&gt;A (p.Gly366Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000787474/" title="RCV000787474" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/635971/?new_evidence=true#id_second" target="_blank">635971</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1584459666" target="_blank">rs1584459666</a></td>
+<td>GRCh37: 7:97484705-97484705<br/>GRCh38: 7:97855393-97855393</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.601del (p.Met201fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000656457/" title="RCV000656457" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/545474/?new_evidence=true#id_second" target="_blank">545474</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1481539409" target="_blank">rs1481539409</a></td>
+<td>GRCh37: 7:97488597-97488597<br/>GRCh38: 7:97859285-97859285</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.213G&gt;A (p.Trp71Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002288413/" title="RCV002288413" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1709129/?new_evidence=true#id_second" target="_blank">1709129</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97498256-97498256<br/>GRCh38: 7:97868944-97868944</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.17C&gt;A (p.Ala6Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000077750/" title="RCV000077750" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/91842/?new_evidence=true#id_second" target="_blank">91842</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/398122975" target="_blank">rs398122975</a></td>
+<td>GRCh37: 7:97498452-97498452<br/>GRCh38: 7:97869140-97869140</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.728T&gt;C (p.Val243Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000787475/" title="RCV000787475" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/377002/?new_evidence=true#id_second" target="_blank">377002</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/148111963" target="_blank">rs148111963</a></td>
+<td>GRCh37: 7:97488213-97488213<br/>GRCh38: 7:97858901-97858901</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.97C&gt;T (p.Arg33Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002244973/" title="RCV002244973" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/434402/?new_evidence=true#id_second" target="_blank">434402</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/759224338" target="_blank">rs759224338</a></td>
+<td>GRCh37: 7:97498372-97498372<br/>GRCh38: 7:97869060-97869060</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.569T&gt;G (p.Leu190Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000761483/" title="RCV000761483" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/623341/?new_evidence=true#id_second" target="_blank">623341</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1562817048" target="_blank">rs1562817048</a></td>
+<td>GRCh37: 7:97488629-97488629<br/>GRCh38: 7:97859317-97859317</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.776-5T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002284991/" title="RCV002284991" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1706454/?new_evidence=true#id_second" target="_blank">1706454</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97487722-97487722<br/>GRCh38: 7:97858410-97858410</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.478del (p.Glu160fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000193384/" title="RCV000193384" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/210339/?new_evidence=true#id_second" target="_blank">210339</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/797045307" target="_blank">rs797045307</a></td>
+<td>GRCh37: 7:97493580-97493580<br/>GRCh38: 7:97864268-97864268</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.413A&gt;T (p.Asp138Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000194969/" title="RCV000194969" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/210338/?new_evidence=true#id_second" target="_blank">210338</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/797045306" target="_blank">rs797045306</a></td>
+<td>GRCh37: 7:97493645-97493645<br/>GRCh38: 7:97864333-97864333</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1476+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001090001/" title="RCV001090001" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/870425/?new_evidence=true#id_second" target="_blank">870425</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1791258447" target="_blank">rs1791258447</a></td>
+<td>GRCh37: 7:97482371-97482371<br/>GRCh38: 7:97853059-97853059</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1137+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001283833/" title="RCV001283833" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/993020/?new_evidence=true#id_second" target="_blank">993020</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1791383191" target="_blank">rs1791383191</a></td>
+<td>GRCh37: 7:97484664-97484664<br/>GRCh38: 7:97855352-97855352</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1138G&gt;T (p.Ala380Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000787476/" title="RCV000787476" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/635973/?new_evidence=true#id_second" target="_blank">635973</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/758183057" target="_blank">rs758183057</a></td>
+<td>GRCh37: 7:97483992-97483992<br/>GRCh38: 7:97854680-97854680</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1084T&gt;G (p.Phe362Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000077748/" title="RCV000077748" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/91840/?new_evidence=true#id_second" target="_blank">91840</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/398122973" target="_blank">rs398122973</a></td>
+<td>GRCh37: 7:97484718-97484718<br/>GRCh38: 7:97855406-97855406</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1648C&gt;T (p.Arg550Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000077749/" title="RCV000077749" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/91841/?new_evidence=true#id_second" target="_blank">91841</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/398122974" target="_blank">rs398122974</a></td>
+<td>GRCh37: 7:97481609-97481609<br/>GRCh38: 7:97852297-97852297</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1393C&gt;T (p.Arg465Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001255830/" title="RCV001255830" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/836319/?new_evidence=true#id_second" target="_blank">836319</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/373774032" target="_blank">rs373774032</a></td>
+<td>GRCh37: 7:97482455-97482455<br/>GRCh38: 7:97853143-97853143</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1649G&gt;A (p.Arg550His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000984516/" title="RCV000984516" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/800534/?new_evidence=true#id_second" target="_blank">800534</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/552452349" target="_blank">rs552452349</a></td>
+<td>GRCh37: 7:97481608-97481608<br/>GRCh38: 7:97852296-97852296</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1211G&gt;A (p.Arg404His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001806244/" title="RCV001806244" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1252063/?new_evidence=true#id_second" target="_blank">1252063</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97483919-97483919<br/>GRCh38: 7:97854607-97854607</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.413A&gt;C (p.Asp138Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001806448/" title="RCV001806448" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1332874/?new_evidence=true#id_second" target="_blank">1332874</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97493645-97493645<br/>GRCh38: 7:97864333-97864333</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1059del (p.Lys354fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001780647/" title="RCV001780647" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1323942/?new_evidence=true#id_second" target="_blank">1323942</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97484743-97484743<br/>GRCh38: 7:97855431-97855431</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1237_1238+5del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003130394/" title="RCV003130394" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2435388/?new_evidence=true#id_second" target="_blank">2435388</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97483887-97483893<br/>GRCh38: 7:97854575-97854581</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1193A&gt;G (p.Tyr398Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000985226/" title="RCV000985226" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/800997/?new_evidence=true#id_second" target="_blank">800997</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1166271142" target="_blank">rs1166271142</a></td>
+<td>GRCh37: 7:97483937-97483937<br/>GRCh38: 7:97854625-97854625</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1165G&gt;T (p.Glu389Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003155373/" title="RCV003155373" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/946671/?new_evidence=true#id_second" target="_blank">946671</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/948326794" target="_blank">rs948326794</a></td>
+<td>GRCh37: 7:97483965-97483965<br/>GRCh38: 7:97854653-97854653</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1192dup (p.Tyr398fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001833514/" title="RCV001833514" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/377228/?new_evidence=true#id_second" target="_blank">377228</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/773348232" target="_blank">rs773348232</a></td>
+<td>GRCh37: 7:97483937-97483938<br/>GRCh38: 7:97854625-97854626</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.750_753del (p.Asp250fs)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002282616/" title="RCV002282616" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1352468/?new_evidence=true#id_second" target="_blank">1352468</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97488188-97488191<br/>GRCh38: 7:97858876-97858879</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.540del (p.Leu181fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002307802/" title="RCV002307802" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1441113/?new_evidence=true#id_second" target="_blank">1441113</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97488658-97488658<br/>GRCh38: 7:97859346-97859346</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.277C&gt;T (p.Gln93Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002497763/" title="RCV002497763" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/951638/?new_evidence=true#id_second" target="_blank">951638</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/757729851" target="_blank">rs757729851</a></td>
+<td>GRCh37: 7:97493781-97493781<br/>GRCh38: 7:97864469-97864469</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1213G&gt;A (p.Ala405Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000987932/" title="RCV000987932" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/802339/?new_evidence=true#id_second" target="_blank">802339</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/749406391" target="_blank">rs749406391</a></td>
+<td>GRCh37: 7:97483917-97483917<br/>GRCh38: 7:97854605-97854605</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.883G&gt;A (p.Asp295Asn)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000987933/" title="RCV000987933" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/802340/?new_evidence=true#id_second" target="_blank">802340</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/781581679" target="_blank">rs781581679</a></td>
+<td>GRCh37: 7:97487610-97487610<br/>GRCh38: 7:97858298-97858298</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1578C&gt;A (p.Tyr526Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002510370/" title="RCV002510370" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1878317/?new_evidence=true#id_second" target="_blank">1878317</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97481679-97481679<br/>GRCh38: 7:97852367-97852367</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.437T&gt;C (p.Phe146Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001255847/" title="RCV001255847" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/977917/?new_evidence=true#id_second" target="_blank">977917</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1476175517" target="_blank">rs1476175517</a></td>
+<td>GRCh37: 7:97493621-97493621<br/>GRCh38: 7:97864309-97864309</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1A&gt;G (p.Met1Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001826128/" title="RCV001826128" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1066640/?new_evidence=true#id_second" target="_blank">1066640</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97498468-97498468<br/>GRCh38: 7:97869156-97869156</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.202C&gt;A (p.Pro68Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000625792/" title="RCV000625792" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/522653/?new_evidence=true#id_second" target="_blank">522653</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1554350554" target="_blank">rs1554350554</a></td>
+<td>GRCh37: 7:97498267-97498267<br/>GRCh38: 7:97868955-97868955</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1165G&gt;C (p.Glu389Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000656456/" title="RCV000656456" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/545473/?new_evidence=true#id_second" target="_blank">545473</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/948326794" target="_blank">rs948326794</a></td>
+<td>GRCh37: 7:97483965-97483965<br/>GRCh38: 7:97854653-97854653</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1160A&gt;G (p.Glu387Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000985208/" title="RCV000985208" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/800982/?new_evidence=true#id_second" target="_blank">800982</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1584458744" target="_blank">rs1584458744</a></td>
+<td>GRCh37: 7:97483970-97483970<br/>GRCh38: 7:97854658-97854658</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.119A&gt;G (p.Tyr40Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001255764/" title="RCV001255764" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/977852/?new_evidence=true#id_second" target="_blank">977852</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1792120689" target="_blank">rs1792120689</a></td>
+<td>GRCh37: 7:97498350-97498350<br/>GRCh38: 7:97869038-97869038</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.666_667del (p.Phe223fs)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001265595/" title="RCV001265595" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/984946/?new_evidence=true#id_second" target="_blank">984946</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/750420071" target="_blank">rs750420071</a></td>
+<td>GRCh37: 7:97488531-97488532<br/>GRCh38: 7:97859219-97859220</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.224A&gt;G (p.Asn75Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001806449/" title="RCV001806449" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1332875/?new_evidence=true#id_second" target="_blank">1332875</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97498245-97498245<br/>GRCh38: 7:97868933-97868933</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1320+1G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002489588/" title="RCV002489588" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/842544/?new_evidence=true#id_second" target="_blank">842544</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1791277284" target="_blank">rs1791277284</a></td>
+<td>GRCh37: 7:97482616-97482616<br/>GRCh38: 7:97853304-97853304</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1030+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000503815/" title="RCV000503815" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/434401/?new_evidence=true#id_second" target="_blank">434401</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/780288372" target="_blank">rs780288372</a></td>
+<td>GRCh37: 7:97486001-97486001<br/>GRCh38: 7:97856689-97856689</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.706del (p.Arg236fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003225983/" title="RCV003225983" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1411238/?new_evidence=true#id_second" target="_blank">1411238</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97488235-97488235<br/>GRCh38: 7:97858923-97858923</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1137+200_1137+205del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003226043/" title="RCV003226043" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2500858/?new_evidence=true#id_second" target="_blank">2500858</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97484460-97484465<br/>GRCh38: 7:97855148-97855153</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1283del (p.Tyr428fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003226880/" title="RCV003226880" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2501283/?new_evidence=true#id_second" target="_blank">2501283</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97482654-97482654<br/>GRCh38: 7:97853342-97853342</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1174_1175dup (p.Leu393fs)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003226881/" title="RCV003226881" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2501284/?new_evidence=true#id_second" target="_blank">2501284</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97483954-97483955<br/>GRCh38: 7:97854642-97854643</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.146G&gt;A (p.Arg49Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000714524/" title="RCV000714524" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/383733/?new_evidence=true#id_second" target="_blank">383733</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/769236847" target="_blank">rs769236847</a></td>
+<td>GRCh37: 7:97498323-97498323<br/>GRCh38: 7:97869011-97869011</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1439C&gt;T (p.Ser480Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001262724/" title="RCV001262724" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/242550/?new_evidence=true#id_second" target="_blank">242550</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/754043007" target="_blank">rs754043007</a></td>
+<td>GRCh37: 7:97482409-97482409<br/>GRCh38: 7:97853097-97853097</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.224A&gt;T (p.Asn75Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001330620/" title="RCV001330620" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1029362/?new_evidence=true#id_second" target="_blank">1029362</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/747624770" target="_blank">rs747624770</a></td>
+<td>GRCh37: 7:97498245-97498245<br/>GRCh38: 7:97868933-97868933</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.1019G&gt;A (p.Arg340His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000787473/" title="RCV000787473" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/635970/?new_evidence=true#id_second" target="_blank">635970</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1360484422" target="_blank">rs1360484422</a></td>
+<td>GRCh37: 7:97486013-97486013<br/>GRCh38: 7:97856701-97856701</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.250-10G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001272337/" title="RCV001272337" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/730793/?new_evidence=true#id_second" target="_blank">730793</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/202126429" target="_blank">rs202126429</a></td>
+<td>GRCh37: 7:97493818-97493818<br/>GRCh38: 7:97864506-97864506</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CZ1P-ASNS" title="CZ1P-ASNS gene information at GeneCards" target="_blank">CZ1P-ASNS</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td style="overflow-wrap:break-word;">NM_001673.5(ASNS):c.164C&gt;T (p.Pro55Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003138481/" title="RCV003138481" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2145064/?new_evidence=true#id_second" target="_blank">2145064</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:97498305-97498305<br/>GRCh38: 7:97868993-97868993</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Asparagine Synthetase Deficiency:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td>p.Ala6Glu</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_070896.html" target="_blank">VAR_070896</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/398122975" target="_blank">rs398122975</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td>p.Phe362Val</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_070897.html" target="_blank">VAR_070897</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/398122973" target="_blank">rs398122973</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ASNS" title="ASNS gene information at GeneCards" target="_blank">ASNS</a></td>
+<td>p.Arg550Cys</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_070898.html" target="_blank">VAR_070898</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/398122974" target="_blank">rs398122974</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Asparagine%20Synthetase%20Deficiency%22%5BMeSH%20Terms%5D%20OR%20%22Asparagine%20Synthetase%20Deficiency%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Asparagine Synthetase Deficiency.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Asparagine Synthetase Deficiency</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#d0a3a5a0a0bfa2a490bcb9b6b5bdb1a0a3b3feb3bfbd">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ed3cb7dbe16f4',t:'MTY5NTI2MjgwOS4wNDAwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

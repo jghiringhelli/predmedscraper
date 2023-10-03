@@ -1,0 +1,3186 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Microcephaly, Amish Type disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/microcephaly_amish_type" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'microcephaly_amish_type';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+MCPHA <div class="symbol">MCID: MCR257</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 36
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Microcephaly, Amish Type</span>
+(<span itemprop="alternateName">MCPHA</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Fetal diseases, Genetic diseases, Liver diseases, Metabolic diseases, Nephrological diseases, Neuronal diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#c5b6a4a9a0b685a9aca3a0a8a4b5b6a6eba6aaa8" target="_blank"><span class="__cf_email__" data-cfemail="1360727f7660537f7a75767e726360703d707c7e">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="2 Genes associated with Microcephaly, Amish Type">Genes</a>
+<a href="#genetic_variations" title="41 Variations associated with Microcephaly, Amish Type">Variations</a>
+<a href="#anatomical_context" title="6 Tissues associated with Microcephaly, Amish Type">Tissues</a>
+<a href="#disorders" title="8 Related diseases associated with Microcephaly, Amish Type">Related diseases</a>
+<a href="#publications" title="17 Publications associated with Microcephaly, Amish Type">Publications</a>
+<a href="#clinical_features" title="46 Symptoms &amp; Phenotypes associated with Microcephaly, Amish Type">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/microcephaly_amish_type?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Microcephaly, Amish Type:</h3>
+<div class="main-name">
+Name: <b>Microcephaly, Amish Type</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/607196" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/amish-lethal-microcephaly" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00750" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=607196" title="diseasecard" target="_blank">12</a></sup>
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/01013" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Amish Lethal Microcephaly
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/607196" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/8606/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/amish-lethal-microcephaly" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=99742" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Amish_lethal_microcephaly" title="Wikipedia" target="_blank">75</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00750" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1846648" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Mcpha
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/607196" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/amish-lethal-microcephaly" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00750" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Thiamine Metabolism Dysfunction Syndrome 3
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/607196" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Amish Microcephaly
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/amish-lethal-microcephaly" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+</div>
+<div>
+Thmd3
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/607196" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Microcephaly, Amish Type:</b>
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/607196" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>Amish Lethal Microcephaly:</b>
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=99742" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+<b>Amish Lethal Microcephaly:</b>
+&gt;1/1000 (Specific population)
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=99742" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>Amish Lethal Microcephaly:</b>
+Infancy,Neonatal <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=99742" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/607196" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>onset at birth</span>
+<br/>
+<span>progression of the disorder is precipitated by viral symptoms</span>
+<br/>
+<span>death usually within first year of life</span>
+<br/>
+<span>incidence of 1 in 480 among old order amish</span>
+<br/>
+<span>carrier rate of 1 in 11 among old order amish</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/nephrological_disease_list" target="_blank">Nephrological diseases</a> <a href="https://www.malacards.org/categories/liver_disease_list" target="_blank">Liver diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/XVII" title="XVII" target="_blank">Congenital malformations, deformations and chromosomal abnormalities</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q00-Q07" title="Q00-Q07" target="_blank">Congenital malformations of the nervous system</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q02" title="Q02" target="_blank">Microcephaly</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare neurological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Inborn errors of metabolism <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Developmental anomalies during embryogenesis <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/607196" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/607196" target="_blank">607196</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS249270" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS249270" target="_blank">PS249270</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D008831" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D008831" target="_blank">D008831</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="MESH via Orphanet">MESH via Orphanet</b>
+<sup title="MESH via Orphanet"><span>44</span> </sup>
+<span>C538247</span>
+</div>
+<div id="ExternalId_item_5">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q02" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q02" target="_blank">Q02</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_6">
+<b title="UMLS via Orphanet">UMLS via Orphanet</b>
+<sup title="UMLS via Orphanet"><span>72</span> </sup>
+<span>C1846648</span>
+</div>
+<div id="ExternalId_item_7">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=99742" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=99742" target="_blank">ORPHA99742</a>
+</div>
+<div id="ExternalId_item_8">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1846648" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1846648" target="_blank">C1846648</a>
+</div>
+<div id="ExternalId_item_9">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/127324008" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/127324008" target="_blank">127324008</a> <a href="http://www.snomedbrowser.com/Codes/Details/16026008" target="_blank">16026008</a> <a href="http://www.snomedbrowser.com/Codes/Details/17450006" target="_blank">17450006</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/190882007" target="_blank">190882007</a> <a href="http://www.snomedbrowser.com/Codes/Details/203598005" target="_blank">203598005</a> <a href="http://www.snomedbrowser.com/Codes/Details/204036008" target="_blank">204036008</a> <a href="http://www.snomedbrowser.com/Codes/Details/253140003" target="_blank">253140003</a> <a href="http://www.snomedbrowser.com/Codes/Details/253980008" target="_blank">253980008</a> <a href="http://www.snomedbrowser.com/Codes/Details/253997002" target="_blank">253997002</a> <a href="http://www.snomedbrowser.com/Codes/Details/271611007" target="_blank">271611007</a> <a href="http://www.snomedbrowser.com/Codes/Details/276369006" target="_blank">276369006</a> <a href="http://www.snomedbrowser.com/Codes/Details/32958008" target="_blank">32958008</a> <a href="http://www.snomedbrowser.com/Codes/Details/36440009" target="_blank">36440009</a> <a href="http://www.snomedbrowser.com/Codes/Details/385522000" target="_blank">385522000</a> <a href="http://www.snomedbrowser.com/Codes/Details/398151007" target="_blank">398151007</a> <a href="http://www.snomedbrowser.com/Codes/Details/398152000" target="_blank">398152000</a> <a href="http://www.snomedbrowser.com/Codes/Details/413924001" target="_blank">413924001</a> <a href="http://www.snomedbrowser.com/Codes/Details/432788009" target="_blank">432788009</a> <a href="http://www.snomedbrowser.com/Codes/Details/5102002" target="_blank">5102002</a> <a href="http://www.snomedbrowser.com/Codes/Details/54200006" target="_blank">54200006</a> <a href="http://www.snomedbrowser.com/Codes/Details/55033002" target="_blank">55033002</a> <a href="http://www.snomedbrowser.com/Codes/Details/57048009" target="_blank">57048009</a> <a href="http://www.snomedbrowser.com/Codes/Details/59455009" target="_blank">59455009</a> <a href="http://www.snomedbrowser.com/Codes/Details/64859006" target="_blank">64859006</a> <a href="http://www.snomedbrowser.com/Codes/Details/67531005" target="_blank">67531005</a> <a href="http://www.snomedbrowser.com/Codes/Details/68574006" target="_blank">68574006</a> <a href="http://www.snomedbrowser.com/Codes/Details/76976005" target="_blank">76976005</a> <a href="http://www.snomedbrowser.com/Codes/Details/78164000" target="_blank">78164000</a> <a href="http://www.snomedbrowser.com/Codes/Details/7890003" target="_blank">7890003</a> <a href="http://www.snomedbrowser.com/Codes/Details/80515008" target="_blank">80515008</a> <a href="http://www.snomedbrowser.com/Codes/Details/88565003" target="_blank">88565003</a> <a href="http://www.snomedbrowser.com/Codes/Details/91273001" target="_blank">91273001</a> </span>
+<span class="showmore">
+<a title="show all 32" id="ExternalId_showmore_9" href="javascript:showMoreTable('ExternalId_item_9','ExternalId_showmore_9','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_10">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C1846648</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://ghr.nlm.nih.gov/condition/amish-lethal-microcephaly" target="_blank">MedlinePlus Genetics</a>:</b>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/amish-lethal-microcephaly" target="_blank">42</a></sup>
+Amish lethal microcephaly is a disorder in which infants are born with a very small head and underdeveloped brain.Infants with Amish lethal microcephaly have a sloping forehead and an extremely small head size. They may also have an unusually small lower jaw and chin (micrognathia) and an enlarged liver (hepatomegaly).Affected infants may have seizures and difficulty maintaining their body temperature. Often they become very irritable starting in the second or third month of life. A compound called alpha-ketoglutaric acid can be detected in their urine (alpha-ketoglutaric aciduria), and during episodes of viral illness they tend to develop elevated levels of acid in the blood and tissues (metabolic acidosis). Infants with this disorder typically feed adequately but do not develop skills such as purposeful movement or the ability to track faces and sounds. Affected infants live only about six months.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Microcephaly, Amish Type, also known as <i>amish lethal microcephaly</i>, is related to <i><a href="/card/metabolic_acidosis" target="_blank">metabolic acidosis</a></i> and <i><a href="/card/microcephaly" target="_blank">microcephaly</a></i>. An important gene associated with Microcephaly, Amish Type is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" target="_blank">SLC25A19</a> (Solute Carrier Family 25 Member 19). Affiliated tissues include <i>brain</i> and <i>liver</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0000252" target="_blank">microcephaly</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0000648" target="_blank">optic atrophy</a></i></p>
+<p> <b> <a href="http://omim.org/entry/607196#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/607196#description" target="_blank">57</a></sup>
+Amish-type microcephaly is a severe autosomal recessive metabolic disorder characterized by severe microcephaly apparent at birth, profoundly delayed psychomotor development, brain malformations, and episodic encephalopathy associated with lactic acidosis and alpha-ketoglutaric aciduria (summary by Kelley et al., 2002).
+For a discussion of genetic heterogeneity of disorders due to thiamine metabolism dysfunction, see THMD1 (249270). <span> (607196) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="http://www.uniprot.org/diseases/DI-00750" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00750" target="_blank">73</a></sup>
+A disorder characterized by severe congenital microcephaly and severe 2-ketoglutaric aciduria leading to death within the first year.</p><p> <b> <a href="https://rarediseases.info.nih.gov/diseases/8606/index" target="_blank">GARD</a>:</b>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/8606/index" target="_blank">19</a></sup>
+A very rare syndrome characterized by extreme microcephaly and early death, within the first year.</p><p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=99742" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=99742" target="_blank">58</a></sup>
+A very rare syndrome characterized by extreme microcephaly and early death, within the first year.</p><p> <b> <a href="https://en.wikipedia.org/wiki/Amish_lethal_microcephaly" target="_blank">Wikipedia</a>:</b>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Amish_lethal_microcephaly" target="_blank">75</a></sup>
+Amish lethal microcephaly is a rare genetic disorder which is characterized by severe microcephaly... <a href="https://en.wikipedia.org/wiki/Amish_lethal_microcephaly" target="_blank">more...</a></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Microcephaly, Amish Type via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/metabolic_acidosis" target="_blank">metabolic acidosis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=metabolic+acidosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/microcephaly" target="_blank">microcephaly</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=microcephaly&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/slc25a19_related_thiamine_metabolism_dysfunction" target="_blank">slc25a19-related thiamine metabolism dysfunction</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=slc25a19-related+thiamine+metabolism+dysfunction&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/corpus_callosum_agenesis_of" target="_blank">corpus callosum, agenesis of</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=corpus+callosum%2c+agenesis+of&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/corpus_callosum_partial_agenesis_of_x_linked" target="_blank">corpus callosum, partial agenesis of, x-linked</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=corpus+callosum%2c+partial+agenesis+of%2c+x-linked&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/lissencephaly" target="_blank">lissencephaly</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lissencephaly&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/lactic_acidosis" target="_blank">lactic acidosis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lactic+acidosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/thiamine_metabolism_dysfunction_syndrome_4" target="_blank">thiamine metabolism dysfunction syndrome 4</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19&amp;keywords=thiamine+metabolism+dysfunction+syndrome+4&amp;prefilter=diseases#diseases" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT&amp;keywords=thiamine+metabolism+dysfunction+syndrome+4&amp;prefilter=diseases#diseases" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Microcephaly, Amish Type:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/microcephaly_amish_type_related_diseases.jpg" width="100%" alt="Diseases related to Microcephaly, Amish Type" title="Diseases related to Microcephaly, Amish Type" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Microcephaly, Amish Type:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 37', 'showing 37, show less','collapsable')">show all 37</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+microcephaly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000252" target="_blank">HP:0000252</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+optic atrophy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000648" target="_blank">HP:0000648</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+micrognathia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000347" target="_blank">HP:0000347</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+irritability
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000737" target="_blank">HP:0000737</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+severe global developmental delay
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011344" target="_blank">HP:0011344</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+sloping forehead
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000340" target="_blank">HP:0000340</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+feeding difficulties
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011968" target="_blank">HP:0011968</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+metabolic acidosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001942" target="_blank">HP:0001942</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+cerebellar vermis hypoplasia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001320" target="_blank">HP:0001320</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+organic aciduria
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001992" target="_blank">HP:0001992</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+agenesis of corpus callosum
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001274" target="_blank">HP:0001274</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+hypotonia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001252" target="_blank">HP:0001252</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+osteoporosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000939" target="_blank">HP:0000939</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+ventriculomegaly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002119" target="_blank">HP:0002119</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+spina bifida
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002414" target="_blank">HP:0002414</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+lissencephaly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001339" target="_blank">HP:0001339</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+limb hypertonia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002509" target="_blank">HP:0002509</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+temperature instability
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005968" target="_blank">HP:0005968</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+hepatomegaly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002240" target="_blank">HP:0002240</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+decreased fetal movement
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001558" target="_blank">HP:0001558</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+limitation of joint mobility
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001376" target="_blank">HP:0001376</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+bilateral tonic-clonic seizure
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002069" target="_blank">HP:0002069</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+decreased skull ossification
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004331" target="_blank">HP:0004331</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+cleft soft palate
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000185" target="_blank">HP:0000185</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+failure to thrive
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">HP:0001508</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+myoclonus
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001336" target="_blank">HP:0001336</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+partial agenesis of the corpus callosum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001338" target="_blank">HP:0001338</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+lactic acidosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003128" target="_blank">HP:0003128</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+poor suck
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002033" target="_blank">HP:0002033</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+hypoplasia of the fovea
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007750" target="_blank">HP:0007750</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+cerebral visual impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100704" target="_blank">HP:0100704</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+
+small anterior fontanelle
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000237" target="_blank">HP:0000237</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+
+primary microcephaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011451" target="_blank">HP:0011451</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+
+axial hypotonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008936" target="_blank">HP:0008936</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+
+flexion contracture
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001371" target="_blank">HP:0001371</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+
+death in infancy
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+
+cerebellar hypoplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001321" target="_blank">HP:0001321</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/607196" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Head And Neck Face:</u><br/>
+<span>micrognathia</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>partial agenesis of the corpus callosum</span>
+<br/>
+<span>limb hypertonia</span>
+<br/>
+<span>hypoplastic cerebellum</span>
+<br/>
+<span>truncal hypotonia</span>
+<br/>
+<span>no psychomotor development</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>immature brain with no gyral development</span>
+<br/>
+<span>hypoplastic pons</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 7" id="ClinicalSynopsis_showmore_2" href="javascript:showMoreTable('ClinicalSynopsis_item_2','ClinicalSynopsis_showmore_2','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Head And Neck Head:</u><br/>
+<span>microcephaly, extreme</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Abdomen Liver:</u><br/>
+<span>hepatomegaly associated with infection</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Metabolic Features:</u><br/>
+<span>lactic acidosis during infection</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Neurologic Behavioral Psychiatric Manifestations:</u><br/>
+<span>irritability</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Skeletal:</u><br/>
+<span>contractures</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>increased urinary lactate</span>
+<br/>
+<span>increased urinary 2-ketoglutarate (variable)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Skeletal Skull:</u><br/>
+<span>nearly absent cranial vault</span>
+<br/>
+<span>absence of anterior and posterior fontanelles</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/607196#clinicalFeatures" target="_blank">607196</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Microcephaly, Amish Type" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Microcephaly, Amish Type&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Microcephaly, Amish Type</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Microcephaly, Amish Type:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Amish Lethal Microcephaly
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1846648" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19&amp;keywords=amish+lethal+microcephaly&amp;prefilter=diseases#diseases" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Microcephaly, Amish Type: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="3.355165">Brain</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/607196/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="2.728735">Liver</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="1.212519">Caudate Nucleus</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.5775527">Pons</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.5092136">Cerebellum</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span>Brain-Basal Ganglia-Caudate Nucleus</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/607196/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Microcephaly, Amish Type according to PubMed, OMIM&#174;, and ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mutant deoxynucleotide carrier is associated with congenital microcephaly.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Rosenberg MJ...Biesecker LG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12185364" target="_blank">12185364</a></td>
+<td>2002</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Amish microcephaly: Long-term survival and biochemical characterization.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Siu VM...Rupar CA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20583149" target="_blank">20583149</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Amish lethal microcephaly: a new metabolic disorder with severe congenital microcephaly and 2-ketoglutaric aciduria.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kelley RI...Morton DH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12376931" target="_blank">12376931</a></td>
+<td>2002</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+SLC25A19 mutation as a cause of neuropathy and bilateral striatal necrosis.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Spiegel R...Elpeleg O</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19798730" target="_blank">19798730</a></td>
+<td>2009</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Microcephaly, Amish Type according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show all 13', 'showing 13, show less','collapsable')">show all 13</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+SLC25A19 deficiency and bilateral striatal necrosis with polyneuropathy: a new case and review of the literature.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Porta F...Spada M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33544541" target="_blank">33544541</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Diseases Caused by Mutations in Mitochondrial Carrier Genes SLC25: A Review.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Palmieri F...Monne M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32340404" target="_blank">32340404</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Functional analysis of the third identified SLC25A19 mutation causative for the thiamine metabolism dysfunction syndrome 4.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bottega R...Faletra F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31506564" target="_blank">31506564</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Defects of thiamine transport and metabolism.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Brown G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24789339" target="_blank">24789339</a></td>
+<td>2014</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mitochondrial transporters of the SLC25 family and associated diseases: a review.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Palmieri F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24797559" target="_blank">24797559</a></td>
+<td>2014</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mitochondrial uptake of thiamin pyrophosphate: physiological and cell biological aspects.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Subramanian VS...Said HM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24023687" target="_blank">24023687</a></td>
+<td>2013</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Diseases caused by defects of mitochondrial carriers: a review.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Palmieri F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18406340" target="_blank">18406340</a></td>
+<td>2008</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The evidence that the DNC (SLC25A19) is not the mitochondrial deoxyribonucleotide carrier.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kang J...Samuels DC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18280798" target="_blank">18280798</a></td>
+<td>2008</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A novel form of lethal microcephaly with simplified gyral pattern and brain stem hypoplasia.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Rajab A...Ross ME</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17975804" target="_blank">17975804</a></td>
+<td>2007</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Knockout of Slc25a19 causes mitochondrial thiamine pyrophosphate depletion, embryonic lethality, CNS malformations, and anemia.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lindhurst MJ...Biesecker LG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17035501" target="_blank">17035501</a></td>
+<td>2006</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The mitochondrial transporter family (SLC25): physiological and pathological implications.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Palmieri F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/14598172" target="_blank">14598172</a></td>
+<td>2004</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+SLC25A19-Related Thiamine Metabolism Dysfunction
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Tabarki B...Alfadhel M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20301539" target="_blank">20301539</a></td>
+<td>2003</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+What's new in neurogenetics? Amish microcephaly.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Korf BR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/14623217" target="_blank">14623217</a></td>
+<td>2003</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Microcephaly, Amish Type (2 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Solute Carrier Family 25 Member 19</td>
+<td>Protein Coding</td>
+<td>1675</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/606521" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=15311" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/12185364" title="ClinVar" target="_blank">12185364</a> <a href="https://pubmed.ncbi.nlm.nih.gov/19798730" title="ClinVar" target="_blank">19798730</a> <a href="https://pubmed.ncbi.nlm.nih.gov/20301539" title target="_blank">20301539</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>MIF4GD Divergent Transcript</td>
+<td>RNA Gene</td>
+<td>400</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Microcephaly, Amish Type:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show all 40', 'showing 40, show less','collapsable')">show all 40</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.530G&gt;C (p.Gly177Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000004490/" title="RCV000004490" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/4269/?new_evidence=true#id_second" target="_blank">4269</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/119473030" target="_blank">rs119473030</a></td>
+<td>GRCh37: 17:73274346-73274346<br/>GRCh38: 17:75278265-75278265</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.775-1G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000853269/" title="RCV000853269" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/692005/?new_evidence=true#id_second" target="_blank">692005</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/372041843" target="_blank">rs372041843</a></td>
+<td>GRCh37: 17:73269721-73269721<br/>GRCh38: 17:75273640-75273640</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.470C&gt;T (p.Thr157Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000853268/" title="RCV000853268" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/692004/?new_evidence=true#id_second" target="_blank">692004</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/554218525" target="_blank">rs554218525</a></td>
+<td>GRCh37: 17:73274406-73274406<br/>GRCh38: 17:75278325-75278325</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.135T&gt;A (p.Leu45=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000356684/" title="RCV000356684" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/197331/?new_evidence=true#id_second" target="_blank">197331</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/373190423" target="_blank">rs373190423</a></td>
+<td>GRCh37: 17:73282538-73282538<br/>GRCh38: 17:75286457-75286457</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.*113G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000288974/" title="RCV000288974" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/325064/?new_evidence=true#id_second" target="_blank">325064</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/780528476" target="_blank">rs780528476</a></td>
+<td>GRCh37: 17:73269419-73269419<br/>GRCh38: 17:75273338-75273338</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.246C&gt;T (p.His82=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000299698/" title="RCV000299698" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/325067/?new_evidence=true#id_second" target="_blank">325067</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/535476833" target="_blank">rs535476833</a></td>
+<td>GRCh37: 17:73282427-73282427<br/>GRCh38: 17:75286346-75286346</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.779G&gt;A (p.Arg260Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001331197/" title="RCV001331197" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1029820/?new_evidence=true#id_second" target="_blank">1029820</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200977389" target="_blank">rs200977389</a></td>
+<td>GRCh37: 17:73269716-73269716<br/>GRCh38: 17:75273635-75273635</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.590G&gt;T (p.Ser197Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000765393/" title="RCV000765393" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/198247/?new_evidence=true#id_second" target="_blank">198247</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/769399113" target="_blank">rs769399113</a></td>
+<td>GRCh37: 17:73274286-73274286<br/>GRCh38: 17:75278205-75278205</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.842T&gt;G (p.Phe281Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001335105/" title="RCV001335105" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/596497/?new_evidence=true#id_second" target="_blank">596497</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/138376525" target="_blank">rs138376525</a></td>
+<td>GRCh37: 17:73269653-73269653<br/>GRCh38: 17:75273572-75273572</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.73T&gt;G (p.Ser25Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000765394/" title="RCV000765394" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/436748/?new_evidence=true#id_second" target="_blank">436748</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/777474053" target="_blank">rs777474053</a></td>
+<td>GRCh37: 17:73282773-73282773<br/>GRCh38: 17:75286692-75286692</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.504C&gt;T (p.Ser168=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001125509/" title="RCV001125509" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/285906/?new_evidence=true#id_second" target="_blank">285906</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/148474667" target="_blank">rs148474667</a></td>
+<td>GRCh37: 17:73274372-73274372<br/>GRCh38: 17:75278291-75278291</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.476G&gt;A (p.Arg159His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001125510/" title="RCV001125510" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/890720/?new_evidence=true#id_second" target="_blank">890720</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/778166940" target="_blank">rs778166940</a></td>
+<td>GRCh37: 17:73274400-73274400<br/>GRCh38: 17:75278319-75278319</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.155G&gt;A (p.Arg52His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001127607/" title="RCV001127607" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/782161/?new_evidence=true#id_second" target="_blank">782161</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/138954932" target="_blank">rs138954932</a></td>
+<td>GRCh37: 17:73282518-73282518<br/>GRCh38: 17:75286437-75286437</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.93G&gt;A (p.Ala31=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001127608/" title="RCV001127608" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/597165/?new_evidence=true#id_second" target="_blank">597165</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/143765189" target="_blank">rs143765189</a></td>
+<td>GRCh37: 17:73282753-73282753<br/>GRCh38: 17:75286672-75286672</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.-170G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001127609/" title="RCV001127609" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/891959/?new_evidence=true#id_second" target="_blank">891959</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/931515557" target="_blank">rs931515557</a></td>
+<td>GRCh37: 17:73285476-73285476<br/>GRCh38: 17:75289395-75289395</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.324C&gt;G (p.His108Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000401790/" title="RCV000401790" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/325066/?new_evidence=true#id_second" target="_blank">325066</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/146573563" target="_blank">rs146573563</a></td>
+<td>GRCh37: 17:73279639-73279639<br/>GRCh38: 17:75283558-75283558</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.930C&gt;A (p.Phe310Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000384560/" title="RCV000384560" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/325065/?new_evidence=true#id_second" target="_blank">325065</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886053391" target="_blank">rs886053391</a></td>
+<td>GRCh37: 17:73269565-73269565<br/>GRCh38: 17:75273484-75273484</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.20A&gt;G (p.Lys7Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000398797/" title="RCV000398797" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/325068/?new_evidence=true#id_second" target="_blank">325068</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/762770947" target="_blank">rs762770947</a></td>
+<td>GRCh37: 17:73282826-73282826<br/>GRCh38: 17:75286745-75286745</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.*408C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001123391/" title="RCV001123391" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/889454/?new_evidence=true#id_second" target="_blank">889454</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/2077766048" target="_blank">rs2077766048</a></td>
+<td>GRCh37: 17:73269124-73269124<br/>GRCh38: 17:75273043-75273043</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.*384C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001123392/" title="RCV001123392" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/889455/?new_evidence=true#id_second" target="_blank">889455</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/192494814" target="_blank">rs192494814</a></td>
+<td>GRCh37: 17:73269148-73269148<br/>GRCh38: 17:75273067-75273067</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.*292A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001123394/" title="RCV001123394" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/889457/?new_evidence=true#id_second" target="_blank">889457</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1004218259" target="_blank">rs1004218259</a></td>
+<td>GRCh37: 17:73269240-73269240<br/>GRCh38: 17:75273159-75273159</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.622C&gt;T (p.Pro208Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000398031/" title="RCV000398031" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/96021/?new_evidence=true#id_second" target="_blank">96021</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200276538" target="_blank">rs200276538</a></td>
+<td>GRCh37: 17:73274254-73274254<br/>GRCh38: 17:75278173-75278173</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.797T&gt;G (p.Met266Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000340152/" title="RCV000340152" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/281113/?new_evidence=true#id_second" target="_blank">281113</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/148372053" target="_blank">rs148372053</a></td>
+<td>GRCh37: 17:73269698-73269698<br/>GRCh38: 17:75273617-75273617</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.*96G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001124498/" title="RCV001124498" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/890140/?new_evidence=true#id_second" target="_blank">890140</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/143419896" target="_blank">rs143419896</a></td>
+<td>GRCh37: 17:73269436-73269436<br/>GRCh38: 17:75273355-75273355</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.642T&gt;C (p.Asn214=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001125508/" title="RCV001125508" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/386288/?new_evidence=true#id_second" target="_blank">386288</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/147091827" target="_blank">rs147091827</a></td>
+<td>GRCh37: 17:73274234-73274234<br/>GRCh38: 17:75278153-75278153</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.*301C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001123393/" title="RCV001123393" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/889456/?new_evidence=true#id_second" target="_blank">889456</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/543638381" target="_blank">rs543638381</a></td>
+<td>GRCh37: 17:73269231-73269231<br/>GRCh38: 17:75273150-75273150</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.288+8G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001125511/" title="RCV001125511" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/506459/?new_evidence=true#id_second" target="_blank">506459</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/144563813" target="_blank">rs144563813</a></td>
+<td>GRCh37: 17:73282377-73282377<br/>GRCh38: 17:75286296-75286296</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_021734.4(SLC25A19):c.-201T&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000277553/" title="RCV000277553" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/325071/?new_evidence=true#id_second" target="_blank">325071</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/576181366" target="_blank">rs576181366</a></td>
+<td>GRCh37: 17:73285523-73285523<br/>GRCh38: 17:75289442-75289442</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.-173AG[2]</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000369527/" title="RCV000369527" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/325070/?new_evidence=true#id_second" target="_blank">325070</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/796850773" target="_blank">rs796850773</a></td>
+<td>GRCh37: 17:73285472-73285475<br/>GRCh38: 17:75289391-75289394</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.483C&gt;T (p.Ala161=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000286760/" title="RCV000286760" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/198248/?new_evidence=true#id_second" target="_blank">198248</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/142281464" target="_blank">rs142281464</a></td>
+<td>GRCh37: 17:73274393-73274393<br/>GRCh38: 17:75278312-75278312</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.*200G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000380971/" title="RCV000380971" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/325063/?new_evidence=true#id_second" target="_blank">325063</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/62622012" target="_blank">rs62622012</a></td>
+<td>GRCh37: 17:73269332-73269332<br/>GRCh38: 17:75273251-75273251</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.-155T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000312441/" title="RCV000312441" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/325069/?new_evidence=true#id_second" target="_blank">325069</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/2291033" target="_blank">rs2291033</a></td>
+<td>GRCh37: 17:73285461-73285461<br/>GRCh38: 17:75289380-75289380</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.*274C&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000333409/" title="RCV000333409" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/325062/?new_evidence=true#id_second" target="_blank">325062</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/7198" target="_blank">rs7198</a></td>
+<td>GRCh37: 17:73269258-73269258<br/>GRCh38: 17:75273177-75273177</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.*437T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000275329/" title="RCV000275329" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/325061/?new_evidence=true#id_second" target="_blank">325061</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/73356384" target="_blank">rs73356384</a></td>
+<td>GRCh37: 17:73269095-73269095<br/>GRCh38: 17:75273014-75273014</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.289-26G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001807517/" title="RCV001807517" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1290939/?new_evidence=true#id_second" target="_blank">1290939</a></td>
+<td><span></span> </td>
+<td>GRCh37: 17:73279700-73279700<br/>GRCh38: 17:75283619-75283619</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.819G&gt;A (p.Leu273=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000282825/" title="RCV000282825" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/130333/?new_evidence=true#id_second" target="_blank">130333</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/4789164" target="_blank">rs4789164</a></td>
+<td>GRCh37: 17:73269676-73269676<br/>GRCh38: 17:75273595-75273595</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.*2T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000327662/" title="RCV000327662" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/130327/?new_evidence=true#id_second" target="_blank">130327</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1809352" target="_blank">rs1809352</a></td>
+<td>GRCh37: 17:73269530-73269530<br/>GRCh38: 17:75273449-75273449</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.339T&gt;C (p.Tyr113=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000334842/" title="RCV000334842" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/130330/?new_evidence=true#id_second" target="_blank">130330</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/7213318" target="_blank">rs7213318</a></td>
+<td>GRCh37: 17:73279624-73279624<br/>GRCh38: 17:75283543-75283543</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIF4GD-DT" title="MIF4GD-DT gene information at GeneCards" target="_blank">MIF4GD-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.*164G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001124497/" title="RCV001124497" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/890139/?new_evidence=true#id_second" target="_blank">890139</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/371154305" target="_blank">rs371154305</a></td>
+<td>GRCh37: 17:73269368-73269368<br/>GRCh38: 17:75273287-75273287</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td style="overflow-wrap:break-word;">NM_001126121.2(SLC25A19):c.373G&gt;A (p.Gly125Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001847622/" title="RCV001847622" target="_blank">Not Provided</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/30590/?new_evidence=true#id_second" target="_blank">30590</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/387906944" target="_blank">rs387906944</a></td>
+<td>GRCh37: 17:73279590-73279590<br/>GRCh38: 17:75283509-75283509</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Microcephaly, Amish Type:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SLC25A19" title="SLC25A19 gene information at GeneCards" target="_blank">SLC25A19</a></td>
+<td>p.Gly177Ala</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_014103.html" target="_blank">VAR_014103</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/119473030" target="_blank">rs119473030</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Microcephaly%2C%20Amish%20Type%22%5BMeSH%20Terms%5D%20OR%20%22Microcephaly%2C%20Amish%20Type%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Microcephaly, Amish Type.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Microcephaly, Amish Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#7b080e0b0b14090f3b17121d1e161a0b081855181416">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ebd068a7bd95f',t:'MTY5NTI2MTg3Ni4zOTMwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

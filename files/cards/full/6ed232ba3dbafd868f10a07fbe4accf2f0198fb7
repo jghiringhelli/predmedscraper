@@ -1,0 +1,4203 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Glomuvenous Malformations disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/glomuvenous_malformations" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'glomuvenous_malformations';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+GVM <div class="symbol">MCID: GLM012</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 39
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Glomuvenous Malformations</span>
+(<span itemprop="alternateName">GVM</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Cardiovascular diseases, Fetal diseases, Genetic diseases, Muscle diseases, Neuronal diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#7704161b1204371b1e11121a160704145914181a" target="_blank"><span class="__cf_email__" data-cfemail="e291838e8791a28e8b84878f83929181cc818d8f">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="2 Genes associated with Glomuvenous Malformations">Genes</a>
+<a href="#genetic_variations" title="63 Variations associated with Glomuvenous Malformations">Variations</a>
+<a href="#anatomical_context" title="6 Tissues associated with Glomuvenous Malformations">Tissues</a>
+<a href="#disorders" title="60 Related diseases associated with Glomuvenous Malformations">Related diseases</a>
+<a href="#publications" title="225 Publications associated with Glomuvenous Malformations">Publications</a>
+<a href="#clinical_features" title="22 Symptoms &amp; Phenotypes associated with Glomuvenous Malformations">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/glomuvenous_malformations?search%3dRare+diseases=&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Glomuvenous Malformations:</h3>
+<div class="main-name">
+Name: <b>Glomuvenous Malformations</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/138000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01668" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=138000" title="diseasecard" target="_blank">12</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Glomuvenous Malformation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1841984" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Venous Malformations with Glomus Cells
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/138000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Glomus Tumors, Multiple
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/138000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Novoseek"><span title="Novoseek">53</span> </sup>
+</div>
+<div>
+Glomangiomatosis
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<div>
+Vmglom
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/138000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Hereditary Multiple Glomangiomas
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Malformations, Glomuvenous
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/01349" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<div>
+Glomangiomas, Multiple
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/138000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Multiple Glomus Tumors
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Gvms
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01668" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Gvm
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/138000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Glomuvenous Malformations:</b>
+Autosomal dominant <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/138000" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>Glomuvenous Malformation:</b>
+Autosomal dominant <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>Glomuvenous Malformation:</b>
+Adolescent,Adult,Childhood,Infancy,Neonatal <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/cardiovascular_disease_list" target="_blank">Cardiovascular diseases</a> <a href="https://www.malacards.org/categories/muscle_disease_list" target="_blank">Muscle diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/XVII" title="XVII" target="_blank">Congenital malformations, deformations and chromosomal abnormalities</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q20-Q28" title="Q20-Q28" target="_blank">Congenital malformations of the circulatory system</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q27" title="Q27" target="_blank">Other congenital malformations of peripheral vascular system</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q27.8" title="Q27.8" target="_blank">Other specified congenital malformations of peripheral vascular system</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare neurological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare circulatory system diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Developmental anomalies during embryogenesis <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/138000" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/138000" target="_blank">138000</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="MESH via Orphanet">MESH via Orphanet</b>
+<sup title="MESH via Orphanet"><span>44</span> </sup>
+<span>C536827</span>
+</div>
+<div id="ExternalId_item_3">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q27.8" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q27.8" target="_blank">Q27.8</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="UMLS via Orphanet">UMLS via Orphanet</b>
+<sup title="UMLS via Orphanet"><span>72</span> </sup>
+<span>C1841984</span>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_5">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" target="_blank">ORPHA83454</a>
+</div>
+<div id="ExternalId_item_6">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1841984" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1841984" target="_blank">C1841984</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/128177006" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/128177006" target="_blank">128177006</a> <a href="http://www.snomedbrowser.com/Codes/Details/199879009" target="_blank">199879009</a> <a href="http://www.snomedbrowser.com/Codes/Details/234141001" target="_blank">234141001</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/24551003" target="_blank">24551003</a> <a href="http://www.snomedbrowser.com/Codes/Details/25694009" target="_blank">25694009</a> <a href="http://www.snomedbrowser.com/Codes/Details/276322001" target="_blank">276322001</a> <a href="http://www.snomedbrowser.com/Codes/Details/297222002" target="_blank">297222002</a> <a href="http://www.snomedbrowser.com/Codes/Details/443871003" target="_blank">443871003</a> <a href="http://www.snomedbrowser.com/Codes/Details/44513007" target="_blank">44513007</a> <a href="http://www.snomedbrowser.com/Codes/Details/449715001" target="_blank">449715001</a> <a href="http://www.snomedbrowser.com/Codes/Details/47125007" target="_blank">47125007</a> <a href="http://www.snomedbrowser.com/Codes/Details/95319004" target="_blank">95319004</a> <a href="http://www.snomedbrowser.com/Codes/Details/95320005" target="_blank">95320005</a> </span>
+<span class="showmore">
+<a title="show all 13" id="ExternalId_showmore_7" href="javascript:showMoreTable('ExternalId_item_7','ExternalId_showmore_7','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_8">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C1333824</span> <span>C1841984</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://omim.org/entry/138000#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/138000#description" target="_blank">57</a></sup>
+Glomuvenous malformations, also known as 'venous malformations with glomus cells' or glomangiomas, are similar to mucocutaneous venous malformations (VMCM; 600195), but clinically are distinguishable: they have a cobble-stone appearance, have a consistency harder than that of venous malformations, and are painful on palpation. Histologically, GVMs are distinguishable by the presence of pathognomonic rounded cells (glomus cells) around the distended vein-like channels. The term glomus (Latin for ball) stems from the morphologically similar contractile cells of the Sucquet-Hoyer arteriovenous anastomoses in glomus bodies that are involved in cutaneous thermoregulation. Glomus cells in GVMs appear to be incompletely or improperly differentiated vascular smooth muscle cells, since they stain positively with smooth muscle cell alpha-actin (102620) and vimentin (193060) (summary by Brouillard et al., 2002). The genetic distinctness of glomuvenous malformations from mucocutaneous venous malformations is indicated by the fact that mutations have been found in the TIE2/TEK gene (600221) in mucocutaneous venous malformations and not in glomuvenous malformations. <span> (138000) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Glomuvenous Malformations, also known as <i>glomuvenous malformation</i>, is related to <i><a href="/card/venous_malformations_multiple_cutaneous_and_mucosal" target="_blank">venous malformations, multiple cutaneous and mucosal</a></i> and <i><a href="/card/arteriovenous_malformation" target="_blank">arteriovenous malformation</a></i>. An important gene associated with Glomuvenous Malformations is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" target="_blank">GLMN</a> (Glomulin, FKBP Associated Protein). Affiliated tissues include <i>smooth muscle</i> and <i>skin</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0100026" target="_blank">arteriovenous malformation</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0012721" target="_blank">venous malformation</a></i></p>
+<p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=83454" target="_blank">58</a></sup>
+A rare vascular anomaly or angioma characterized by the presence of small, multifocal bluish-purple venous lesions mainly involving the skin.</p><p> <b> <a href="http://www.uniprot.org/diseases/DI-01668" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01668" target="_blank">73</a></sup>
+Characterized by the presence of smooth-muscle-like glomus cells in the media surrounding distended vascular lumens.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Glomuvenous Malformations via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('RelatedDiseases', '60', 'RelatedDiseases-table');">show all 60</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/venous_malformations_multiple_cutaneous_and_mucosal" target="_blank">venous malformations, multiple cutaneous and mucosal</a></td>
+<td>31.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRIT1&amp;keywords=venous+malformations%2c+multiple+cutaneous+and+mucosal&amp;prefilter=diseases#diseases" title="KRIT1 gene information at GeneCards" target="_blank">KRIT1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN&amp;keywords=venous+malformations%2c+multiple+cutaneous+and+mucosal&amp;prefilter=diseases#diseases" title="GLMN gene information at GeneCards" target="_blank">GLMN</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/arteriovenous_malformation" target="_blank">arteriovenous malformation</a></td>
+<td>29.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRIT1&amp;keywords=arteriovenous+malformation&amp;prefilter=diseases#diseases" title="KRIT1 gene information at GeneCards" target="_blank">KRIT1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN&amp;keywords=arteriovenous+malformation&amp;prefilter=diseases#diseases" title="GLMN gene information at GeneCards" target="_blank">GLMN</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/glomus_tumor" target="_blank">glomus tumor</a></td>
+<td>11.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=glomus+tumor&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/tek_related_venous_malformations" target="_blank">tek-related venous malformations</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=tek-related+venous+malformations&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/contractures_pterygia_and_spondylocarpotarsal_fusion_syndrome_1a" target="_blank">contractures, pterygia, and spondylocarpotarsal fusion syndrome 1a</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=contractures%2c+pterygia%2c+and+spondylocarpotarsal+fusion+syndrome+1a&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/familial_glomangioma" target="_blank">familial glomangioma</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=familial+glomangioma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/blue_rubber_bleb_nevus" target="_blank">blue rubber bleb nevus</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=blue+rubber+bleb+nevus&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/glomangioma" target="_blank">glomangioma</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=glomangioma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/glomangiomatosis" target="_blank">glomangiomatosis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=glomangiomatosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/paragangliomas_1" target="_blank">paragangliomas 1</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=paragangliomas+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/fanconi_anemia_complementation_group_e" target="_blank">fanconi anemia, complementation group e</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=fanconi+anemia%2c+complementation+group+e&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/vascular_cancer" target="_blank">vascular cancer</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=vascular+cancer&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/blepharocheilodontic_syndrome_1" target="_blank">blepharocheilodontic syndrome 1</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=blepharocheilodontic+syndrome+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/distichiasis" target="_blank">distichiasis</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=distichiasis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/lymphedema_distichiasis_syndrome" target="_blank">lymphedema-distichiasis syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lymphedema-distichiasis+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/nevus_epidermal" target="_blank">nevus, epidermal</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=nevus%2c+epidermal&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/capillary_malformations_congenital" target="_blank">capillary malformations, congenital</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=capillary+malformations%2c+congenital&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/wilms_tumor_1" target="_blank">wilms tumor 1</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=wilms+tumor+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/alopecia_congenital" target="_blank">alopecia, congenital</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=alopecia%2c+congenital&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/wilms_tumor_5" target="_blank">wilms tumor 5</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=wilms+tumor+5&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/capillary_malformation_arteriovenous_malformation_1" target="_blank">capillary malformation-arteriovenous malformation 1</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=capillary+malformation-arteriovenous+malformation+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/hereditary_lymphedema_i" target="_blank">hereditary lymphedema i</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hereditary+lymphedema+i&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/microcephaly" target="_blank">microcephaly</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=microcephaly&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/allergic_disease" target="_blank">allergic disease</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=allergic+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="/card/vesicoureteral_reflux" target="_blank">vesicoureteral reflux</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=vesicoureteral+reflux&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="/card/alopecia" target="_blank">alopecia</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=alopecia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="/card/lipoblastoma" target="_blank">lipoblastoma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lipoblastoma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="/card/familial_cold_autoinflammatory_syndrome_1" target="_blank">familial cold autoinflammatory syndrome 1</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=familial+cold+autoinflammatory+syndrome+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="/card/melanocytic_nevus_syndrome_congenital" target="_blank">melanocytic nevus syndrome, congenital</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=melanocytic+nevus+syndrome%2c+congenital&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="/card/macrodactyly" target="_blank">macrodactyly</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=macrodactyly&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="/card/ascites_chylous" target="_blank">ascites, chylous</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=ascites%2c+chylous&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="/card/congenital_lipomatous_overgrowth_vascular_malformations_and_epidermal_nevi" target="_blank">congenital lipomatous overgrowth, vascular malformations, and epidermal nevi</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=congenital+lipomatous+overgrowth%2c+vascular+malformations%2c+and+epidermal+nevi&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="/card/melanoma_in_congenital_melanocytic_nevus" target="_blank">melanoma in congenital melanocytic nevus</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=melanoma+in+congenital+melanocytic+nevus&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="/card/hemangioma" target="_blank">hemangioma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hemangioma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="/card/phakomatosis_pigmentovascularis" target="_blank">phakomatosis pigmentovascularis</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=phakomatosis+pigmentovascularis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="/card/spitz_nevus" target="_blank">spitz nevus</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=spitz+nevus&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="/card/transposition_of_the_great_arteries" target="_blank">transposition of the great arteries</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=transposition+of+the+great+arteries&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="/card/overgrowth_syndrome" target="_blank">overgrowth syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=overgrowth+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="/card/myeloma_multiple" target="_blank">myeloma, multiple</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=myeloma%2c+multiple&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="/card/carcinoid_tumors_intestinal" target="_blank">carcinoid tumors, intestinal</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=carcinoid+tumors%2c+intestinal&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="/card/factor_viii_deficiency" target="_blank">factor viii deficiency</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=factor+viii+deficiency&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="/card/neurofibromatosis_type_i" target="_blank">neurofibromatosis, type i</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=neurofibromatosis%2c+type+i&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="/card/pheochromocytoma" target="_blank">pheochromocytoma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=pheochromocytoma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="/card/connective_tissue_benign_neoplasm" target="_blank">connective tissue benign neoplasm</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=connective+tissue+benign+neoplasm&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="/card/purpura" target="_blank">purpura</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=purpura&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="/card/mesenchymal_cell_neoplasm" target="_blank">mesenchymal cell neoplasm</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=mesenchymal+cell+neoplasm&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="/card/glomangiosarcoma" target="_blank">glomangiosarcoma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=glomangiosarcoma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="/card/pulmonary_coin_lesion" target="_blank">pulmonary coin lesion</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=pulmonary+coin+lesion&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="/card/autoerythrocyte_sensitization_syndrome" target="_blank">autoerythrocyte sensitization syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=autoerythrocyte+sensitization+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="/card/lentigo_maligna_melanoma" target="_blank">lentigo maligna melanoma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lentigo+maligna+melanoma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Glomuvenous Malformations:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/glomuvenous_malformations_related_diseases.jpg" width="100%" alt="Diseases related to Glomuvenous Malformations" title="Diseases related to Glomuvenous Malformations" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Glomuvenous Malformations:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 20', 'showing 20, show less','collapsable')">show all 20</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+arteriovenous malformation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100026" target="_blank">HP:0100026</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+venous malformation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012721" target="_blank">HP:0012721</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+skin nodule
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0200036" target="_blank">HP:0200036</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+abnormal digit morphology
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011297" target="_blank">HP:0011297</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+generalized abnormality of skin
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011354" target="_blank">HP:0011354</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+abnormality of the upper limb
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002817" target="_blank">HP:0002817</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+papule
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0200034" target="_blank">HP:0200034</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+abnormality of the lower limb
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002814" target="_blank">HP:0002814</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+skin plaque
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0200035" target="_blank">HP:0200035</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+localized skin lesion
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011355" target="_blank">HP:0011355</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+abnormal renal morphology
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very rare (&lt;4-1%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012210" target="_blank">HP:0012210</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+gastrointestinal arteriovenous malformation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very rare (&lt;4-1%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002629" target="_blank">HP:0002629</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+abnormality of the nasal cavity
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very rare (&lt;4-1%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010640" target="_blank">HP:0010640</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+oral mucosa nodule
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very rare (&lt;4-1%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0031445" target="_blank">HP:0031445</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+abnormal tracheal morphology
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002778" target="_blank">HP:0002778</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+abnormal mediastinum morphology
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0045026" target="_blank">HP:0045026</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+abnormality of metabolism/homeostasis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001939" target="_blank">HP:0001939</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+abnormality of the skin
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000951" target="_blank">HP:0000951</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+abnormality of the mediastinum
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Very rare (&lt;4-1%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+abnormal trachea morphology
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Very rare (&lt;4-1%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/138000" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Skin:</u><br/>
+<span>multiple glomus tumors</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Lab:</u><br/>
+<span>multiple layers of glomus cells lining blood-filled cavities</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/138000#clinicalFeatures" target="_blank">138000</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div class="section-data">
+<h3>MGI Mouse Phenotypes related to Glomuvenous Malformations:</h3>
+<sup title="Mouse Genome Informatics">45</sup>
+<table id="FunctionalDescription_MGI-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>MGI Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>craniofacial</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005382" target="_blank">MP:0005382</a></td>
+<td>8.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN&amp;keywords=craniofacial&amp;prefilter=function#function" title="GLMN gene information at GeneCards" target="_blank">GLMN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRIT1&amp;keywords=craniofacial&amp;prefilter=function#function" title="KRIT1 gene information at GeneCards" target="_blank">KRIT1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Glomuvenous Malformations" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Glomuvenous Malformations&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Glomuvenous Malformations</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Glomuvenous Malformations:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Glomuvenous Malformation
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1841984" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN&amp;keywords=glomuvenous+malformation&amp;prefilter=diseases#diseases" title="GLMN gene information at GeneCards" target="_blank">GLMN</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Glomuvenous Malformations: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="7.534762">Smooth Muscle</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="2.51689">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.7519885">Trachea</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.07125637">Lung</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.04893733">Liver</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.04628624">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Glomuvenous Malformations according to Novoseek, PubMed, OMIM&#174;, and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 17', 'showing 17, show less','collapsable')">show all 17</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mutations in a novel factor, glomulin, are responsible for glomuvenous malformations ("glomangiomas").
+<sup title="Novoseek">53</sup>
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Brouillard P...Vikkula M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11845407" target="_blank">11845407</a></td>
+<td>2002</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Somatic uniparental isodisomy explains multifocality of glomuvenous malformations.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Amyere M...Vikkula M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23375657" target="_blank">23375657</a></td>
+<td>2013</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Linkage disequilibrium narrows locus for venous malformation with glomus cells (VMGLOM) to a single 1.48 Mbp YAC.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Irrthum A...Vikkula M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11175297" target="_blank">11175297</a></td>
+<td>2001</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Four common glomulin mutations cause two thirds of glomuvenous malformations ("familial glomangiomas"): evidence for a founder effect.
+<sup title="Novoseek">53</sup>
+<sup title="PubMed">62</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Brouillard P...Vikkula M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15689436" target="_blank">15689436</a></td>
+<td>2005</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genotypes and phenotypes of 162 families with a glomulin mutation.
+<sup title="PubMed">62</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Brouillard P...GVM Study Group</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23801931" target="_blank">23801931</a></td>
+<td>2013</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+High-resolution physical and transcript map of the locus for venous malformations with glomus cells (VMGLOM) on chromosome 1p21-p22.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Brouillard P...Vikkula M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10945476" target="_blank">10945476</a></td>
+<td>2000</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A gene for inherited cutaneous venous anomalies ("glomangiomas") localizes to chromosome 1p21-22.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Boon LM...Vikkula M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10364524" target="_blank">10364524</a></td>
+<td>1999</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Type 2 segmental manifestation of multiple glomus tumors: A review and reclassification of 5 case reports.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Happle R...Konig A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10393451" target="_blank">10393451</a></td>
+<td>1999</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Hereditary multiple glomangiomas.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Iqbal A...Scerri G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9577316" target="_blank">9577316</a></td>
+<td>1998</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Germ-line mutations in nonsyndromic pheochromocytoma.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Strauchen JA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12226162" target="_blank">12226162</a></td>
+<td>2002</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Additional glomangioma families link to chromosome 1p: no evidence for genetic heterogeneity.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Calvert JT...Marchuk DA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11173970" target="_blank">11173970</a></td>
+<td>2001</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A rule concerning the segmental manifestation of autosomal dominant skin disorders. Review of clinical examples providing evidence for dichotomous types of severity.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Happle R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9420534" target="_blank">9420534</a></td>
+<td>1997</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Hereditary multiple glomus tumours.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Beasley SW...Jones PG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3017240" target="_blank">3017240</a></td>
+<td>1986</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Pathology and clinical aspect of multiple familial glomus tumors].
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Reinhard M...Luders G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/4331901" target="_blank">4331901</a></td>
+<td>1970</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Genetic aspects in dermatology].
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Reed WB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/4333915" target="_blank">4333915</a></td>
+<td>1970</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Familial glomus tumors: 6 cases in 4 generations].
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">CHASSEUIL R...GAUTARD J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/13878383" target="_blank">13878383</a></td>
+<td>1961</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Multiple glomus tumor of the pseudocavernous hemangioma type; report of case manifesting a dominant inheritance pattern.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">GORLIN RJ...BENTON JW</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/13707266" target="_blank">13707266</a></td>
+<td>1960</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Glomuvenous Malformations according to Novoseek and PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('InferredPublications', '208', 'InferredPublications-table');">show all 208</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Type 2 segmental glomangiomas.
+<sup title="Novoseek">53</sup>
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hoekzema R...van der Wal AC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20137750" target="_blank">20137750</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Glomulin mutations in glomuvenous malformation (glomangioma)].
+<sup title="Novoseek">53</sup>
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dereure O</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17384560" target="_blank">17384560</a></td>
+<td>2007</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Pathogenesis and genetics of vascular anomalies].
+<sup title="Novoseek">53</sup>
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Vikkula M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16997448" target="_blank">16997448</a></td>
+<td>2006</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Update on the molecular genetics of vascular anomalies.
+<sup title="Novoseek">53</sup>
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang QK</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16379592" target="_blank">16379592</a></td>
+<td>2005</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Autosomal dominant genodermatoses in adults being heralded by superimposed skin lesions in children.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Happle R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37288730" target="_blank">37288730</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomus Extradigital Tumor: A Case Report of an Extradigital Glomus Tumor on the Wrist and Comprehensive Review of Glomus Tumors.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Cohen PR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37292537" target="_blank">37292537</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomuvenous Malformation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Huang JS...Wang D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36728817" target="_blank">36728817</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Two cases of familial glomuvenous malformation and description of a novel pathogenic mutation in glomulin gene (GLMN).
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Couselo-Rodriguez C...Florez A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35506490" target="_blank">35506490</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A Curious Case of Paroxysmal Painful Thumb: Glomus Tumor Re-visited.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Pathania V...Majumdar A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37035587" target="_blank">37035587</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Polidocanol: A Review of Off-Label Dermatologic Uses.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Nguyen QD...Silapunt S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36054050" target="_blank">36054050</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+GLMN causing vascular malformations: the clinical and genetic differentiation of cutaneous venous malformations.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">McMahon MH...Balasubramanian M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35732373" target="_blank">35732373</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomangiomatosis - immunohistochemical study: A case report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wu RC...Zhang SP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35812671" target="_blank">35812671</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Dermoscopic Analysis of Vascular Malformations and Tumors Based Upon Dominant Vascular Dermoscopic Features: A Retrospective Analysis From a Tertiary Care Center of East India.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Viswan P...Ayyanar P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35898363" target="_blank">35898363</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomangiomatosis of the lower leg.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Glynn D...Kavanagh E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35106104" target="_blank">35106104</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Surgical administration of multiple glomus tumors in uncommon anatomic regions in a 17-year-old female. A rare case report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mariolis-Sapsakos T...Paraskevas G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35079338" target="_blank">35079338</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Venous Malformations in Childhood: Clinical, Histopathological and Genetics Update.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Colmenero I...Knopfel N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34698142" target="_blank">34698142</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Posterior mediastinal glomangiomatosis: Exceptional location of a rare tumour].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Machboua A...Alloubi I</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34116882" target="_blank">34116882</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Sclerotherapy in a rare case of glomuvenous malformation (GVM) with severe skin manifestation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Schiffmann ML...Goerge T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33891331" target="_blank">33891331</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomangiomatosis of the Upper Extremity.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kumar A...Murray PM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33341297" target="_blank">33341297</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Surgical and non-surgical treatment modalities for glomuvenous malformations.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Shah A...Torbeck R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34391342" target="_blank">34391342</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Anomalous Presentation of Venous Malformations in an Adolescent Male.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Whisonant CT...Shetty AK</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34290933" target="_blank">34290933</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomangioma of the elbow.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Stumpf N...Lee J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34387064" target="_blank">34387064</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomuvenous Malformation of the Neck.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Khan MS...Maan MHA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33268980" target="_blank">33268980</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomus tumors associated with the bone and joints: a review of 91 cases.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang Y...Weng X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33313205" target="_blank">33313205</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Multiple Glomus Tumors in the Left Foot of 41-year-old Woman. A Case Report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liszka H...Gadek A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32732446" target="_blank">32732446</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Identification and characterization of a GLMN splice site variant in a family with glomuvenous malformations.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Skowronek D...Rath M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32538359" target="_blank">32538359</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Low-Grade Malignancy Glomus Tumor in a Setting of Multiple Glomus Tumors - Case Report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Vasilevska-Nikodinovska V...Janevska V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32165957" target="_blank">32165957</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A case of familial glomuvenous malformation with report of a novel genetic mutation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Esteves M...Mota A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31483481" target="_blank">31483481</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Glomuvenous malformations].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Heiberg Brix AT...Bygum A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31036144" target="_blank">31036144</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Acclimation and adaptation components of the temperature dependence of plant photosynthesis at the global scale.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kumarathunge DP...Way DA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30597597" target="_blank">30597597</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomulin gene c.157_161del mutation in a family with multiple glomuvenous malformations.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Suarez-Magdalena O...Gomez-Perez MI</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30460983" target="_blank">30460983</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Glomuvenous malformations can be very painful and cause diagnostic challenges].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Heiberg Brix AT...Bygum A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30729920" target="_blank">30729920</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Multiple Bluish Nodules in a 20-Year-Old Female with Similar Lesions in Her Father.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ongsri P...Varothai S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31827943" target="_blank">31827943</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+FKBP51 and FKBP12.6-Novel and tight interactors of Glomulin.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hahle A...Hausch F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31490997" target="_blank">31490997</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomuvenous malformations: dual PDL-Nd:YAG laser approach.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Moreno-Arrones OM...Boixeda P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29594737" target="_blank">29594737</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomulin mutation and glomuvenous malformations: two case reports with the same mutation but different phenotypes.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Collantes-Rodriguez C...Linares-Barrios M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30325312" target="_blank">30325312</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Macrodactyly with a complex glomuvenous malformation in congenital lipomatous overgrowth with vascular malformations, epidermal naevi and skeletal anomalies (CLOVES) syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Song W...Suurmeijer AJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29882992" target="_blank">29882992</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomuvenous malformations in a young man.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Abbas A...Brodell RT</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30677819" target="_blank">30677819</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Color Doppler Ultrasound Study of Glomuvenous Malformations with its Clinical and Histologic Correlations.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wortsman X...Aranibar L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28683898" target="_blank">28683898</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomangiomatosis: a case report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fitzhugh VA...Blacksin M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28656356" target="_blank">28656356</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Evaluation of climate-related carbon turnover processes in global vegetation models for boreal and temperate forests.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Thurner M...Carvalhais N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28192628" target="_blank">28192628</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomus Tumor in the Tarsal Tunnel: A Case Report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yoneda A...Tanaka Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28633794" target="_blank">28633794</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomangiomatosis of the sciatic nerve: a case report and review of the literature.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kumar R...Bird JE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28303299" target="_blank">28303299</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Multiple, neonatal, self-healing, cutaneous glomuvenous malformations.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Conde-Taboada A...Lopez-Bran E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28164891" target="_blank">28164891</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glomuvenous Malformation: A Rare Periorbital Lesion of the Thermoregulatory Apparatus.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Whipple KM...Kikkawa DO</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27065433" target="_blank">27065433</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Smoothelin and WT-1 expression in glomus tumors and glomuvenous malformations.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Aneiros-Fernandez J...Aneiros-Cachaza J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27184662" target="_blank">27184662</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Congenital Plaque-type Glomuvenous Malformation: 11 Years of Follow-up and Response to Treatment With the Combined Pulsed-Dye and Neodymium:Yttrium-Aluminum-Garnet Laser.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Vargas-Navia N...Puig L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27555518" target="_blank">27555518</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Familial Disseminated Cutaneous Glomuvenous Malformation: Treatment with Polidocanol Sclerotherapy.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Jha A...Singh A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28163461" target="_blank">28163461</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A Case of Glomangiomatosis of the Ankle and Foot: Ultrasonographic Appearance Correlated With the Magnetic Resonance Imaging Findings.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kim M...Joo JE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25831152" target="_blank">25831152</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Multiple glomangiomatosis: report of a case].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fan S...Qi Q</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27264326" target="_blank">27264326</a></td>
+<td>2016</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Glomuvenous Malformations (1 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Glomulin, FKBP Associated Protein</td>
+<td>Protein Coding</td>
+<td>1415.82</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/601749" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=16140" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Novoseek inferred
+<sup title="Novoseek"><span title="Novoseek">53</span> </sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_GLMN">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN&amp;keywords=Glomuvenous+Malformations&amp;prefilter=diseases#diseases" title="GLMN gene information at GeneCards" target="_blank">Disorders</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN&amp;keywords=Glomuvenous+Malformations&amp;prefilter=publications#publications" title="GLMN gene information at GeneCards" target="_blank">Publications</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN&amp;keywords=Glomuvenous+Malformations&amp;prefilter=summaries#summaries" title="GLMN gene information at GeneCards" target="_blank">Summaries</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_GLMN_SeeMore" href="javascript:showMoreTable('related_genes_GLMN','related_genes_GLMN_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/11175297" title="ClinVar" target="_blank">11175297</a> <a href="https://pubmed.ncbi.nlm.nih.gov/11845407" title="ClinVar" target="_blank">11845407</a> <a href="https://pubmed.ncbi.nlm.nih.gov/15689436" title="ClinVar" target="_blank">15689436</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/23375657" title="ClinVar" target="_blank">23375657</a> <a href="https://pubmed.ncbi.nlm.nih.gov/23801931" title="ClinVar" target="_blank">23801931</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22092580" title target="_blank">22092580</a> <a href="https://pubmed.ncbi.nlm.nih.gov/17384560" title target="_blank">17384560</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16379592" title target="_blank">16379592</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16997448" title target="_blank">16997448</a> <a href="https://pubmed.ncbi.nlm.nih.gov/20137750" title target="_blank">20137750</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRIT1" title="KRIT1 gene information at GeneCards" target="_blank">KRIT1</a></div>
+</div>
+</td>
+<td>KRIT1 Ankyrin Repeat Containing</td>
+<td>Protein Coding</td>
+<td>6.18</td>
+<td>
+<div>
+Novoseek inferred
+<sup title="Novoseek"><span title="Novoseek">53</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16379592" title target="_blank">16379592</a> </span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Glomuvenous Malformations:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '63', 'ClinVarVariations-table');">show all 63</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.980_984del</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000008248/" title="RCV000008248" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7805/?new_evidence=true#id_second" target="_blank">7805</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:92733686-92733690<br/>GRCh38: 1:92268129-92268133</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.736-2886_1214+254delinsGG</td>
+<td style="overflow-wrap:break-word;" title="Indel">INDEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000008247/" title="RCV000008247" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7804/?new_evidence=true#id_second" target="_blank">7804</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:92731722-92740095<br/>GRCh38: 1:92266165-92274538</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.844_847del (p.Leu282fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001196048/" title="RCV001196048" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/930408/?new_evidence=true#id_second" target="_blank">930408</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/773060450" target="_blank">rs773060450</a></td>
+<td>GRCh37: 1:92737098-92737101<br/>GRCh38: 1:92271541-92271544</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1179_1181del (p.Asn393del)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000008250/" title="RCV000008250" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7807/?new_evidence=true#id_second" target="_blank">7807</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/773442562" target="_blank">rs773442562</a></td>
+<td>GRCh37: 1:92732009-92732011<br/>GRCh38: 1:92266452-92266454</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.743dup (p.Leu248fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002470969/" title="RCV002470969" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/618144/?new_evidence=true#id_second" target="_blank">618144</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:92737201-92737202<br/>GRCh38: 1:92271644-92271645</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1376del (p.Gly459fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001783384/" title="RCV001783384" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1323020/?new_evidence=true#id_second" target="_blank">1323020</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:92729213-92729213<br/>GRCh38: 1:92263656-92263656</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.586_589del (p.Glu196fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001802610/" title="RCV001802610" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1330951/?new_evidence=true#id_second" target="_blank">1330951</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:92754514-92754517<br/>GRCh38: 1:92288957-92288960</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.108C&gt;A (p.Cys36Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001254162/" title="RCV001254162" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/523551/?new_evidence=true#id_second" target="_blank">523551</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/770780171" target="_blank">rs770780171</a></td>
+<td>GRCh37: 1:92763018-92763018<br/>GRCh38: 1:92297461-92297461</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.157_161del (p.Glu52_Lys53insTer)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000008249/" title="RCV000008249" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7806/?new_evidence=true#id_second" target="_blank">7806</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/762515373" target="_blank">rs762515373</a></td>
+<td>GRCh37: 1:92762965-92762969<br/>GRCh38: 1:92297408-92297412</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1323dup (p.Thr442fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003117608/" title="RCV003117608" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/660874/?new_evidence=true#id_second" target="_blank">660874</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/771252983" target="_blank">rs771252983</a></td>
+<td>GRCh37: 1:92729265-92729266<br/>GRCh38: 1:92263708-92263709</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.394+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000677646/" title="RCV000677646" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/559861/?new_evidence=true#id_second" target="_blank">559861</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1258933474" target="_blank">rs1258933474</a></td>
+<td>GRCh37: 1:92755754-92755754<br/>GRCh38: 1:92290197-92290197</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1473+2T&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001782202/" title="RCV001782202" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1324482/?new_evidence=true#id_second" target="_blank">1324482</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:92728418-92728418<br/>GRCh38: 1:92262861-92262861</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1141-1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001814848/" title="RCV001814848" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1334667/?new_evidence=true#id_second" target="_blank">1334667</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:92732050-92732050<br/>GRCh38: 1:92266493-92266493</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.554_558delinsG (p.Lys185fs)</td>
+<td style="overflow-wrap:break-word;" title="Indel">INDEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000826167/" title="RCV000826167" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/667406/?new_evidence=true#id_second" target="_blank">667406</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1570964992" target="_blank">rs1570964992</a></td>
+<td>GRCh37: 1:92754545-92754549<br/>GRCh38: 1:92288988-92288992</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.148C&gt;T (p.Gln50Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003145862/" title="RCV003145862" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2440517/?new_evidence=true#id_second" target="_blank">2440517</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:92762978-92762978<br/>GRCh38: 1:92297421-92297421</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1355del (p.Leu452fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000826168/" title="RCV000826168" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/667407/?new_evidence=true#id_second" target="_blank">667407</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/773435694" target="_blank">rs773435694</a></td>
+<td>GRCh37: 1:92729234-92729234<br/>GRCh38: 1:92263677-92263677</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.465_468del (p.Leu156fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002289456/" title="RCV002289456" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1709641/?new_evidence=true#id_second" target="_blank">1709641</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:92754635-92754638<br/>GRCh38: 1:92289078-92289081</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1083del (p.Thr363fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000986337/" title="RCV000986337" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/801500/?new_evidence=true#id_second" target="_blank">801500</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1570898051" target="_blank">rs1570898051</a></td>
+<td>GRCh37: 1:92733485-92733485<br/>GRCh38: 1:92267928-92267928</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.743T&gt;A (p.Leu248Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001171315/" title="RCV001171315" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/915841/?new_evidence=true#id_second" target="_blank">915841</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1656251554" target="_blank">rs1656251554</a></td>
+<td>GRCh37: 1:92737202-92737202<br/>GRCh38: 1:92271645-92271645</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.437C&gt;T (p.Ala146Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000269071/" title="RCV000269071" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298145/?new_evidence=true#id_second" target="_blank">298145</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/756248885" target="_blank">rs756248885</a></td>
+<td>GRCh37: 1:92754666-92754666<br/>GRCh38: 1:92289109-92289109</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.-85G&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000282352/" title="RCV000282352" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298154/?new_evidence=true#id_second" target="_blank">298154</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886046549" target="_blank">rs886046549</a></td>
+<td>GRCh37: 1:92764536-92764536<br/>GRCh38: 1:92298979-92298979</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.*92T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000321079/" title="RCV000321079" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298126/?new_evidence=true#id_second" target="_blank">298126</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/534277037" target="_blank">rs534277037</a></td>
+<td>GRCh37: 1:92711995-92711995<br/>GRCh38: 1:92246438-92246438</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.526T&gt;C (p.Cys176Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000322960/" title="RCV000322960" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298143/?new_evidence=true#id_second" target="_blank">298143</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886046547" target="_blank">rs886046547</a></td>
+<td>GRCh37: 1:92754577-92754577<br/>GRCh38: 1:92289020-92289020</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.-46G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001101470/" title="RCV001101470" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/876542/?new_evidence=true#id_second" target="_blank">876542</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1423000415" target="_blank">rs1423000415</a></td>
+<td>GRCh37: 1:92764497-92764497<br/>GRCh38: 1:92298940-92298940</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.-44G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000336247/" title="RCV000336247" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298152/?new_evidence=true#id_second" target="_blank">298152</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886046548" target="_blank">rs886046548</a></td>
+<td>GRCh37: 1:92764495-92764495<br/>GRCh38: 1:92298938-92298938</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.40-6dup</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000389643/" title="RCV000389643" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298150/?new_evidence=true#id_second" target="_blank">298150</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/372630078" target="_blank">rs372630078</a></td>
+<td>GRCh37: 1:92763091-92763092<br/>GRCh38: 1:92297534-92297535</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1145_1148dup (p.Ser384fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000778994/" title="RCV000778994" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/632117/?new_evidence=true#id_second" target="_blank">632117</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1379272170" target="_blank">rs1379272170</a></td>
+<td>GRCh37: 1:92732041-92732042<br/>GRCh38: 1:92266484-92266485</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1224G&gt;A (p.Leu408=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001095908/" title="RCV001095908" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/873603/?new_evidence=true#id_second" target="_blank">873603</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/368361041" target="_blank">rs368361041</a></td>
+<td>GRCh37: 1:92730186-92730186<br/>GRCh38: 1:92264629-92264629</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1154T&gt;C (p.Leu385Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001095909/" title="RCV001095909" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/873604/?new_evidence=true#id_second" target="_blank">873604</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1255634217" target="_blank">rs1255634217</a></td>
+<td>GRCh37: 1:92732036-92732036<br/>GRCh38: 1:92266479-92266479</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1093C&gt;T (p.Pro365Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001095910/" title="RCV001095910" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/873605/?new_evidence=true#id_second" target="_blank">873605</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1655830610" target="_blank">rs1655830610</a></td>
+<td>GRCh37: 1:92733475-92733475<br/>GRCh38: 1:92267918-92267918</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1474-7T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001101346/" title="RCV001101346" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/876495/?new_evidence=true#id_second" target="_blank">876495</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1433214230" target="_blank">rs1433214230</a></td>
+<td>GRCh37: 1:92713553-92713553<br/>GRCh38: 1:92247996-92247996</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1318T&gt;C (p.Trp440Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001101347/" title="RCV001101347" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/876496/?new_evidence=true#id_second" target="_blank">876496</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/755342217" target="_blank">rs755342217</a></td>
+<td>GRCh37: 1:92729271-92729271<br/>GRCh38: 1:92263714-92263714</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1635G&gt;A (p.Glu545=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000380120/" title="RCV000380120" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298127/?new_evidence=true#id_second" target="_blank">298127</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/376960198" target="_blank">rs376960198</a></td>
+<td>GRCh37: 1:92712652-92712652<br/>GRCh38: 1:92247095-92247095</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1215-9G&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000381407/" title="RCV000381407" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298130/?new_evidence=true#id_second" target="_blank">298130</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/774161019" target="_blank">rs774161019</a></td>
+<td>GRCh37: 1:92730204-92730204<br/>GRCh38: 1:92264647-92264647</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1410-19AT[2]</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000326836/" title="RCV000326836" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298129/?new_evidence=true#id_second" target="_blank">298129</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/555041177" target="_blank">rs555041177</a></td>
+<td>GRCh37: 1:92728497-92728498<br/>GRCh38: 1:92262940-92262941</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.978-4T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000351035/" title="RCV000351035" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298135/?new_evidence=true#id_second" target="_blank">298135</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/750401776" target="_blank">rs750401776</a></td>
+<td>GRCh37: 1:92733696-92733696<br/>GRCh38: 1:92268139-92268139</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1474-15_1474-12del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000285921/" title="RCV000285921" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298128/?new_evidence=true#id_second" target="_blank">298128</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/535813981" target="_blank">rs535813981</a></td>
+<td>GRCh37: 1:92713558-92713561<br/>GRCh38: 1:92248001-92248004</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.2(GLMN):c.*143G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000275236/" title="RCV000275236" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/368880/?new_evidence=true#id_second" target="_blank">368880</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/41301245" target="_blank">rs41301245</a></td>
+<td>GRCh37: 1:92711944-92711944<br/>GRCh38: 1:92246387-92246387</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.*115G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000265970/" title="RCV000265970" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298125/?new_evidence=true#id_second" target="_blank">298125</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/2046620" target="_blank">rs2046620</a></td>
+<td>GRCh37: 1:92711972-92711972<br/>GRCh38: 1:92246415-92246415</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.542T&gt;C (p.Ile181Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000267980/" title="RCV000267980" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298142/?new_evidence=true#id_second" target="_blank">298142</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/139873200" target="_blank">rs139873200</a></td>
+<td>GRCh37: 1:92754561-92754561<br/>GRCh38: 1:92289004-92289004</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.40-6del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001001605/" title="RCV001001605" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/811575/?new_evidence=true#id_second" target="_blank">811575</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/372630078" target="_blank">rs372630078</a></td>
+<td>GRCh37: 1:92763092-92763092<br/>GRCh38: 1:92297535-92297535</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1099-4C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001002134/" title="RCV001002134" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/811779/?new_evidence=true#id_second" target="_blank">811779</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200121766" target="_blank">rs200121766</a></td>
+<td>GRCh37: 1:92732302-92732302<br/>GRCh38: 1:92266745-92266745</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1159A&gt;G (p.Met387Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000290147/" title="RCV000290147" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298131/?new_evidence=true#id_second" target="_blank">298131</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/78101774" target="_blank">rs78101774</a></td>
+<td>GRCh37: 1:92732031-92732031<br/>GRCh38: 1:92266474-92266474</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.165+10A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000294090/" title="RCV000294090" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298148/?new_evidence=true#id_second" target="_blank">298148</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/201467961" target="_blank">rs201467961</a></td>
+<td>GRCh37: 1:92762951-92762951<br/>GRCh38: 1:92297394-92297394</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.-34G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000295331/" title="RCV000295331" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298151/?new_evidence=true#id_second" target="_blank">298151</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/556956035" target="_blank">rs556956035</a></td>
+<td>GRCh37: 1:92764485-92764485<br/>GRCh38: 1:92298928-92298928</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.1007T&gt;C (p.Leu336Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000296027/" title="RCV000296027" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298134/?new_evidence=true#id_second" target="_blank">298134</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/35258161" target="_blank">rs35258161</a></td>
+<td>GRCh37: 1:92733663-92733663<br/>GRCh38: 1:92268106-92268106</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.977+7T&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000297362/" title="RCV000297362" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298137/?new_evidence=true#id_second" target="_blank">298137</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61758979" target="_blank">rs61758979</a></td>
+<td>GRCh37: 1:92735273-92735273<br/>GRCh38: 1:92269716-92269716</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.761C&gt;G (p.Pro254Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000303243/" title="RCV000303243" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298140/?new_evidence=true#id_second" target="_blank">298140</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/145762716" target="_blank">rs145762716</a></td>
+<td>GRCh37: 1:92737184-92737184<br/>GRCh38: 1:92271627-92271627</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.899T&gt;C (p.Ile300Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000356910/" title="RCV000356910" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298138/?new_evidence=true#id_second" target="_blank">298138</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/34062020" target="_blank">rs34062020</a></td>
+<td>GRCh37: 1:92737046-92737046<br/>GRCh38: 1:92271489-92271489</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GLMN" title="GLMN gene information at GeneCards" target="_blank">GLMN</a></td>
+<td style="overflow-wrap:break-word;">NM_053274.3(GLMN):c.581A&gt;G (p.Asn194Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000358006/" title="RCV000358006" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/298141/?new_evidence=true#id_second" target="_blank">298141</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/532530906" target="_blank">rs532530906</a></td>
+<td>GRCh37: 1:92754522-92754522<br/>GRCh38: 1:92288965-92288965</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Glomuvenous%20Malformations%22%5BMeSH%20Terms%5D%20OR%20%22Glomuvenous%20Malformations%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Glomuvenous Malformations.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Glomuvenous Malformations</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#8efdfbfefee1fcfacee2e7e8ebe3effefdeda0ede1e3">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ed842d9a0d2f4',t:'MTY5NTI2Mjk5Mi40MzIwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

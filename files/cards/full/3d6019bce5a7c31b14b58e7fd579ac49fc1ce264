@@ -1,0 +1,3080 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Pancreatic Cancer 4 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/pancreatic_cancer_4" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'pancreatic_cancer_4';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+PNCA4 <div class="symbol">MCID: PNC103</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 28
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Pancreatic Cancer 4</span>
+(<span itemprop="alternateName">PNCA4</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Cancer diseases, Endocrine diseases, Gastrointestinal diseases, Genetic diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#ee9d8f828b9dae8287888b838f9e9d8dc08d8183" target="_blank"><span class="__cf_email__" data-cfemail="35465459504675595c535058544546561b565a58">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="2 Genes associated with Pancreatic Cancer 4">Genes</a>
+<a href="#genetic_variations" title="136 Variations associated with Pancreatic Cancer 4">Variations</a>
+<a href="#anatomical_context" title="4 Tissues associated with Pancreatic Cancer 4">Tissues</a>
+<a href="#disorders" title="10 Related diseases associated with Pancreatic Cancer 4">Related diseases</a>
+<a href="#publications" title="49 Publications associated with Pancreatic Cancer 4">Publications</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/pancreatic_cancer_4?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Pancreatic Cancer 4:</h3>
+<div class="main-name">
+Name: <b>Pancreatic Cancer 4</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/614320" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03281" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Pancreatic Cancer, Susceptibility to, 4
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/614320" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C3280442" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Pnca4
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/614320" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03281" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Cancer, Pancreatic, Susceptibility to, Type 4
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/03603" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/cancer_disease_list" target="_blank">Cancer diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/endocrine_disease_list" target="_blank">Endocrine diseases</a> <a href="https://www.malacards.org/categories/gastrointestinal_disease_list" target="_blank">Gastrointestinal diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/614320" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/614320" target="_blank">614320</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D010190" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D010190" target="_blank">D010190</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_3">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C3280442" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C3280442" target="_blank">C3280442</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/CN071477" target="_blank">CN071477</a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-03281" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03281" target="_blank">73</a></sup>
+A malignant neoplasm of the pancreas. Tumors can arise from both the exocrine and endocrine portions of the pancreas, but 95% of them develop from the exocrine portion, including the ductal epithelium, acinar cells, connective tissue, and lymphatic tissue.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Pancreatic Cancer 4, also known as <i>pancreatic cancer, susceptibility to, 4</i>, is related to <i><a href="/card/pancreatic_cancer" target="_blank">pancreatic cancer</a></i> and <i><a href="/card/pancreatic_ductal_adenocarcinoma" target="_blank">pancreatic ductal adenocarcinoma</a></i>. An important gene associated with Pancreatic Cancer 4 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" target="_blank">BRCA1</a> (BRCA1 DNA Repair Associated). Affiliated tissues include <i>pancreas</i> and <i>breast</i>.</p>
+</div>
+<div>
+<b>More information from OMIM:</b>
+<a href="http://omim.org/entry/614320#description" target="_blank">614320</a> </div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases in the <a href="/card/pancreatic_cancer" target="_blank">Pancreatic Cancer</a> family:</h3>
+<table class="family borderless">
+<tr>
+<td>
+<a href="/card/pancreatic_cancer_1" target="_blank">Pancreatic Cancer 1</a> </td>
+<td>
+<a href="/card/pancreatic_cancer_2" target="_blank">Pancreatic Cancer 2</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/pancreatic_cancer_3" target="_blank">Pancreatic Cancer 3</a> </td>
+<td>
+<b>Pancreatic Cancer 4</b>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/card/pancreatic_cancer_5" target="_blank">Pancreatic Cancer 5</a> </td>
+</tr>
+</table>
+<br/>
+<h3>Diseases related to Pancreatic Cancer 4 via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/pancreatic_cancer" target="_blank">pancreatic cancer</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=pancreatic+cancer&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/pancreatic_ductal_adenocarcinoma" target="_blank">pancreatic ductal adenocarcinoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=pancreatic+ductal+adenocarcinoma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/pancreatic_adenocarcinoma" target="_blank">pancreatic adenocarcinoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=pancreatic+adenocarcinoma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/fanconi_anemia_complementation_group_s" target="_blank">fanconi anemia, complementation group s</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571&amp;keywords=fanconi+anemia%2c+complementation+group+s&amp;prefilter=diseases#diseases" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1&amp;keywords=fanconi+anemia%2c+complementation+group+s&amp;prefilter=diseases#diseases" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/breast_ovarian_cancer_familial_1_2" target="_blank">breast-ovarian cancer, familial 1</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571&amp;keywords=breast-ovarian+cancer%2c+familial+1&amp;prefilter=diseases#diseases" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1&amp;keywords=breast-ovarian+cancer%2c+familial+1&amp;prefilter=diseases#diseases" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/ovarian_cancer_1" target="_blank">ovarian cancer 1</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571&amp;keywords=ovarian+cancer+1&amp;prefilter=diseases#diseases" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1&amp;keywords=ovarian+cancer+1&amp;prefilter=diseases#diseases" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/bilateral_breast_cancer" target="_blank">bilateral breast cancer</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571&amp;keywords=bilateral+breast+cancer&amp;prefilter=diseases#diseases" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1&amp;keywords=bilateral+breast+cancer&amp;prefilter=diseases#diseases" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/inherited_cancer_predisposing_syndrome" target="_blank">inherited cancer-predisposing syndrome</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571&amp;keywords=inherited+cancer-predisposing+syndrome&amp;prefilter=diseases#diseases" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1&amp;keywords=inherited+cancer-predisposing+syndrome&amp;prefilter=diseases#diseases" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/hereditary_breast_ovarian_cancer_syndrome" target="_blank">hereditary breast ovarian cancer syndrome</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571&amp;keywords=hereditary+breast+ovarian+cancer+syndrome&amp;prefilter=diseases#diseases" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1&amp;keywords=hereditary+breast+ovarian+cancer+syndrome&amp;prefilter=diseases#diseases" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/lynch_syndrome" target="_blank">lynch syndrome</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571&amp;keywords=lynch+syndrome&amp;prefilter=diseases#diseases" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1&amp;keywords=lynch+syndrome&amp;prefilter=diseases#diseases" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Pancreatic Cancer 4:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/pancreatic_cancer_4_related_diseases.jpg" width="100%" alt="Diseases related to Pancreatic Cancer 4" title="Diseases related to Pancreatic Cancer 4" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Symptoms">
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/614320#clinicalFeatures" target="_blank">614320</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Pancreatic Cancer 4" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Pancreatic Cancer 4&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Pancreatic Cancer 4</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Pancreatic Cancer 4:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Pancreatic Cancer, Susceptibility to, 4
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C3280442" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1&amp;keywords=pancreatic+cancer%2c+susceptibility+to%2c+4&amp;prefilter=diseases#diseases" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Pancreatic Cancer 4: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="3.948567">Pancreas</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.09286111">Breast</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.05030444">Heart</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.04893733">Liver</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Pancreatic Cancer 4 according to OMIM&#174; and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 13', 'showing 13, show less','collapsable')">show all 13</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Germline BRCA1 mutations predispose to pancreatic adenocarcinoma.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Al-Sukhni W...Gallinger S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18762988" target="_blank">18762988</a></td>
+<td>2008</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Maintenance Olaparib for Germline BRCA-Mutated Metastatic Pancreatic Cancer.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Golan T...Kindler HL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31157963" target="_blank">31157963</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+BRCA1, BRCA2, PALB2, and CDKN2A mutations in familial pancreatic cancer: a PACGENE study.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhen DB...Petersen GM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25356972" target="_blank">25356972</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The 185delAG mutation (c.68_69delAG) in the BRCA1 gene triggers translation reinitiation at a downstream AUG codon.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Buisson M...Mazoyer S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16941470" target="_blank">16941470</a></td>
+<td>2006</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Haplotype analysis of a BRCA1: 185delAG mutation in a Chilean family supports its Ashkenazi origins.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ah Mew N...Foulkes WD</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12220453" target="_blank">12220453</a></td>
+<td>2002</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+BRCA1 gene mutations in women with papillary serous carcinoma of the peritoneum.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bandera CA...Mok SC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9764635" target="_blank">9764635</a></td>
+<td>1998</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Molecular evidence for multifocal papillary serous carcinoma of the peritoneum in patients with germline BRCA1 mutations.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Schorge JO...Mok SC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9625172" target="_blank">9625172</a></td>
+<td>1998</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The 185delAG BRCA1 mutation originated before the dispersion of Jews in the diaspora and is not limited to Ashkenazim.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bar-Sade RB...Friedman E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9536083" target="_blank">9536083</a></td>
+<td>1998</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Could the 185delAG BRCA1 mutation be an ancient Jewish mutation?
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bar-Sade RB...Friedman E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9450187" target="_blank">9450187</a></td>
+<td>1997</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ashkenazi Jewish population frequencies for common mutations in BRCA1 and BRCA2.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Roa BB...Richards CS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8841191" target="_blank">8841191</a></td>
+<td>1996</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The carrier frequency of the BRCA1 185delAG mutation is approximately 1 percent in Ashkenazi Jewish individuals.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Struewing JP...Brody LC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/7550349" target="_blank">7550349</a></td>
+<td>1995</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Common origins of BRCA1 mutations in Canadian breast and ovarian cancer families.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Simard J...Dion F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/7894492" target="_blank">7894492</a></td>
+<td>1994</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Miki Y...Ding W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/7545954" target="_blank">7545954</a></td>
+<td>1994</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Pancreatic Cancer 4 according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show all 36', 'showing 36, show less','collapsable')">show all 36</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Rare germline variants in pancreatic cancer and multiple primary cancers: an autopsy study.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fujitani H...Okazaki Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36896836" target="_blank">36896836</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Assessment of a Peer Physician Coaching Partnership Between a Designated Cancer Center Genetics Service and a Community Cancer Network Hospital.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Santos LG...Dubard-Gault ME</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36877518" target="_blank">36877518</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Urokinase plasminogen activator induces epithelial-mesenchymal and metastasis of pancreatic cancer through plasmin/MMP14/TGF-β axis, which is inhibited by 4-acetyl-antroquinonol B treatment.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wu CZ...Chen JS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35366491" target="_blank">35366491</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Evaluation of biomarkers, genetic mutations, and epigenetic modifications in early diagnosis of pancreatic cancer.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Rah B...Afroze D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34629822" target="_blank">34629822</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Development of a Novel Multiparametric MRI Radiomic Nomogram for Preoperative Evaluation of Early Recurrence in Resectable Pancreatic Cancer.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Tang TY...Liang TB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31867839" target="_blank">31867839</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pancreatic Fibrosis and Chronic Pancreatitis: Mini-Review of Non-Histologic Diagnosis for Clinical Applications.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Huang CT...Liang YJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32045995" target="_blank">32045995</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Conversion surgery for initially unresectable pancreatic ductal adenocarcinoma with synchronous liver metastasis after treatment with FOLFIRINOX.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ozaki K...Takamori H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30993652" target="_blank">30993652</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Patterns of Recurrence After Resection of Pancreatic Ductal Adenocarcinoma: A Secondary Analysis of the ESPAC-4 Randomized Adjuvant Chemotherapy Trial.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Jones RP...European Study Group for Pancreatic Cancer</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31483448" target="_blank">31483448</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Targeting Mechanoresponsive Proteins in Pancreatic Cancer: 4-Hydroxyacetophenone Blocks Dissemination and Invasion by Activating MYH14.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Surcel A...Robinson DN</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31358530" target="_blank">31358530</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Surgical Outcomes of Totally Laparoscopic Stomach-partitioning Gastrojejunostomy for Gastric Outlet Obstruction: A Retrospective, Cohort Study.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kushibiki T...Hirano S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29252935" target="_blank">29252935</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A case of pancreatic cancer with severe vomiting treated by endoscopic ultrasound-guided celiac ganglia neurolysis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kawai A...Terada S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28815450" target="_blank">28815450</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Male Breast Cancer.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Serdy KM...Bhargava R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28171879" target="_blank">28171879</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Updated therapeutic outcome for patients with periampullary and pancreatic cancer related to recent translational research.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Buanes TA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28082802" target="_blank">28082802</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Possible association between hepatitis C virus and malignancies different from hepatocellular carcinoma: A systematic review.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fiorino S...Jovine E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26668515" target="_blank">26668515</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Resection of metachronous pancreatic cancer 4 years after pancreaticoduodenectomy for stage III pancreatic adenocarcinoma.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hamner JB...Singh G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26419361" target="_blank">26419361</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Folate intake and pancreatic cancer risk: an overall and dose-response meta-analysis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lin HL...Liu CX</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23769243" target="_blank">23769243</a></td>
+<td>2013</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+DPC4 expression in the small intestinal adenocarcinomas.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lee SJ...Korean Small Intestinal Cancer Study Group</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23136567" target="_blank">23136567</a></td>
+<td>2012</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pancreatic cancer and diabetes.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Morrison M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23393682" target="_blank">23393682</a></td>
+<td>2012</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A case of pancreatic cancer after heart transplantation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Imamura T...Nagai R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22790692" target="_blank">22790692</a></td>
+<td>2012</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Novel tumor suppressive function of Smad4 in serum starvation-induced cell death through PAK1-PUMA pathway.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lee SH...Park BJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22130069" target="_blank">22130069</a></td>
+<td>2011</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Physical activity and pancreatic cancer risk: a systematic review.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bao Y...Michaud DS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18843009" target="_blank">18843009</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+In situ telomerase activity in pancreatic juice may discriminate pancreatic cancer from other pancreatic diseases.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Uehara H...Ishikawa O</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18362835" target="_blank">18362835</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Usefulness of diffusion-weighted imaging (DWI) for the detection of pancreatic cancer: 4 case reports.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Shinya S...Yamashita Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18507125" target="_blank">18507125</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[The first report from Sapporo Tsukisamu Hospital--chemotherapy and chemoradiotherapy for patients with advanced pancreatic cancer].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yamamitsu S...Shirasaka T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17637542" target="_blank">17637542</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pathogenesis of colorectal carcinoma and therapeutic implications: the roles of the ubiquitin-proteasome system and Cox-2.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Voutsadakis IA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17488476" target="_blank">17488476</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Contrast-enhanced ultrasonography depicts small tumor vessels for the evaluation of pancreatic tumors.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Okamoto Y...Shiratori Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17049428" target="_blank">17049428</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Long-term repeatable chemotherapy for patients with advanced pancreatic cancer].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yamamitsu S...Shirasada T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16898005" target="_blank">16898005</a></td>
+<td>2006</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Nutritional links to plausible mechanisms underlying pancreatic cancer: a conference report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hine RJ...Ross SA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/14576500" target="_blank">14576500</a></td>
+<td>2003</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Frequent loss of SMAD4/DPC4 protein in colorectal cancers.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Salovaara R...Aaltonen LA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12077092" target="_blank">12077092</a></td>
+<td>2002</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Familial pancreatic cancer--concept for study of the National Case Collection and early diagnosis program for high risk people].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gerdes B...Bartsch DK</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12068743" target="_blank">12068743</a></td>
+<td>2002</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Infrequent DPC4 gene mutation in esophageal cancer, gastric cancer and ulcerative colitis-associated neoplasms.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lei J...Meltzer SJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8957088" target="_blank">8957088</a></td>
+<td>1996</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Recombinant human tumor necrosis factor causes regression in patients with advanced malignancies.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Watanabe N...Niitsu Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8208522" target="_blank">8208522</a></td>
+<td>1994</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Serum lipase assay. A test of choice in acute pancreatitis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Pezzilli R...Fontana G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/1589255" target="_blank">1589255</a></td>
+<td>1992</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[An anatomical and pathological study of autopsy material on the metastasis of pancreatic cancer to para-aortic lymph nodes].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Nagai H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3600584" target="_blank">3600584</a></td>
+<td>1987</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pancreatic carcinogenicity of N-nitrosobis(2-oxopropyl)-amine in diabetic and non-diabetic Chinese hamsters.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bell RH...Pour PM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3815330" target="_blank">3815330</a></td>
+<td>1987</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Induction of cytochromes P-450 in pancreatic disease: consequence, coincidence or cause?
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Acheson DW...Braganza JM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/4064344" target="_blank">4064344</a></td>
+<td>1985</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Pancreatic Cancer 4 (2 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+<div class="cc_icon" title="Cancer Census gene in COSMIC"></div>
+</div>
+</td>
+<td>BRCA1 DNA Repair Associated</td>
+<td>Protein Coding</td>
+<td>1082.68</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/113705" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Susceptibility factor
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/113705" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Risk factor
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_BRCA1">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1&amp;keywords=Pancreatic+Cancer+4&amp;prefilter=diseases#diseases" title="BRCA1 gene information at GeneCards" target="_blank">Disorders</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_BRCA1_SeeMore" href="javascript:showMoreTable('related_genes_BRCA1','related_genes_BRCA1_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/7894492" title="ClinVar" target="_blank">7894492</a> <a href="https://pubmed.ncbi.nlm.nih.gov/7550349" title="ClinVar" target="_blank">7550349</a> <a href="https://pubmed.ncbi.nlm.nih.gov/8841191" title="ClinVar" target="_blank">8841191</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/9450187" title="ClinVar" target="_blank">9450187</a> <a href="https://pubmed.ncbi.nlm.nih.gov/9536083" title="ClinVar" target="_blank">9536083</a> <a href="https://pubmed.ncbi.nlm.nih.gov/9764635" title="ClinVar" target="_blank">9764635</a> <a href="https://pubmed.ncbi.nlm.nih.gov/9625172" title="ClinVar" target="_blank">9625172</a> <a href="https://pubmed.ncbi.nlm.nih.gov/12220453" title="ClinVar" target="_blank">12220453</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16941470" title="ClinVar" target="_blank">16941470</a> <a href="https://pubmed.ncbi.nlm.nih.gov/18762988" title="ClinVar" target="_blank">18762988</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>BRD4-Independent Group 4 Enhancer GRCh37_chr17:41243136-41244335</td>
+<td>Functional Element</td>
+<td>400</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Pancreatic Cancer 4:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '136', 'ClinVarVariations-table');">show all 136</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.117T&gt;A (p.Cys39Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763400/" title="RCV000763400" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/479243/?new_evidence=true#id_second" target="_blank">479243</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886040898" target="_blank">rs886040898</a></td>
+<td>GRCh37: 17:41267760-41267760<br/>GRCh38: 17:43115743-43115743</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.4976del (p.Pro1659fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002500838/" title="RCV002500838" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/252399/?new_evidence=true#id_second" target="_blank">252399</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/879255295" target="_blank">rs879255295</a></td>
+<td>GRCh37: 17:41222955-41222955<br/>GRCh38: 17:43070938-43070938</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.3097G&gt;T (p.Glu1033Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763004/" title="RCV000763004" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/54769/?new_evidence=true#id_second" target="_blank">54769</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/273899698" target="_blank">rs273899698</a></td>
+<td>GRCh37: 17:41244451-41244451<br/>GRCh38: 17:43092434-43092434</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.1407_1408del (p.Ser470fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002479951/" title="RCV002479951" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/252863/?new_evidence=true#id_second" target="_blank">252863</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/879255476" target="_blank">rs879255476</a></td>
+<td>GRCh37: 17:41246140-41246141<br/>GRCh38: 17:43094123-43094124</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.5194-12G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000762996/" title="RCV000762996" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55451/?new_evidence=true#id_second" target="_blank">55451</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80358079" target="_blank">rs80358079</a></td>
+<td>GRCh37: 17:41209164-41209164<br/>GRCh38: 17:43057147-43057147</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.4675+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000762997/" title="RCV000762997" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55256/?new_evidence=true#id_second" target="_blank">55256</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80358044" target="_blank">rs80358044</a></td>
+<td>GRCh37: 17:41226347-41226347<br/>GRCh38: 17:43074330-43074330</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.4524G&gt;A (p.Trp1508Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000762998/" title="RCV000762998" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55221/?new_evidence=true#id_second" target="_blank">55221</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80356885" target="_blank">rs80356885</a></td>
+<td>GRCh37: 17:41226499-41226499<br/>GRCh38: 17:43074482-43074482</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.4485-1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000762999/" title="RCV000762999" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55213/?new_evidence=true#id_second" target="_blank">55213</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80358189" target="_blank">rs80358189</a></td>
+<td>GRCh37: 17:41226539-41226539<br/>GRCh38: 17:43074522-43074522</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.4327C&gt;T (p.Arg1443Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763000/" title="RCV000763000" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/17675/?new_evidence=true#id_second" target="_blank">17675</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/41293455" target="_blank">rs41293455</a></td>
+<td>GRCh37: 17:41234451-41234451<br/>GRCh38: 17:43082434-43082434</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.3893C&gt;A (p.Ser1298Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763002/" title="RCV000763002" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55039/?new_evidence=true#id_second" target="_blank">55039</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357440" target="_blank">rs80357440</a></td>
+<td>GRCh37: 17:41243655-41243655<br/>GRCh38: 17:43091638-43091638</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.3598C&gt;T (p.Gln1200Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763003/" title="RCV000763003" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/54929/?new_evidence=true#id_second" target="_blank">54929</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/62625307" target="_blank">rs62625307</a></td>
+<td>GRCh37: 17:41243950-41243950<br/>GRCh38: 17:43091933-43091933</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.2722G&gt;T (p.Glu908Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763005/" title="RCV000763005" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/54657/?new_evidence=true#id_second" target="_blank">54657</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80356978" target="_blank">rs80356978</a></td>
+<td>GRCh37: 17:41244826-41244826<br/>GRCh38: 17:43092809-43092809</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.1687C&gt;T (p.Gln563Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763006/" title="RCV000763006" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37426/?new_evidence=true#id_second" target="_blank">37426</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80356898" target="_blank">rs80356898</a></td>
+<td>GRCh37: 17:41245861-41245861<br/>GRCh38: 17:43093844-43093844</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.925A&gt;T (p.Lys309Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763007/" title="RCV000763007" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/266592/?new_evidence=true#id_second" target="_blank">266592</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/879255498" target="_blank">rs879255498</a></td>
+<td>GRCh37: 17:41246623-41246623<br/>GRCh38: 17:43094606-43094606</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.241C&gt;T (p.Gln81Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763008/" title="RCV000763008" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/54565/?new_evidence=true#id_second" target="_blank">54565</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357350" target="_blank">rs80357350</a></td>
+<td>GRCh37: 17:41256945-41256945<br/>GRCh38: 17:43104928-43104928</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.211A&gt;G (p.Arg71Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763009/" title="RCV000763009" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/17693/?new_evidence=true#id_second" target="_blank">17693</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357382" target="_blank">rs80357382</a></td>
+<td>GRCh37: 17:41258474-41258474<br/>GRCh38: 17:43106457-43106457</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.181T&gt;G (p.Cys61Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763010/" title="RCV000763010" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/17661/?new_evidence=true#id_second" target="_blank">17661</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/28897672" target="_blank">rs28897672</a></td>
+<td>GRCh37: 17:41258504-41258504<br/>GRCh38: 17:43106487-43106487</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.131G&gt;T (p.Cys44Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763011/" title="RCV000763011" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/54200/?new_evidence=true#id_second" target="_blank">54200</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357446" target="_blank">rs80357446</a></td>
+<td>GRCh37: 17:41267746-41267746<br/>GRCh38: 17:43115729-43115729</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.5444G&gt;A (p.Trp1815Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763398/" title="RCV000763398" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55580/?new_evidence=true#id_second" target="_blank">55580</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80356962" target="_blank">rs80356962</a></td>
+<td>GRCh37: 17:41199683-41199683<br/>GRCh38: 17:43047666-43047666</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.5251C&gt;T (p.Arg1751Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763399/" title="RCV000763399" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55480/?new_evidence=true#id_second" target="_blank">55480</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357123" target="_blank">rs80357123</a></td>
+<td>GRCh37: 17:41209095-41209095<br/>GRCh38: 17:43057078-43057078</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.110C&gt;A (p.Thr37Lys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763401/" title="RCV000763401" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/54131/?new_evidence=true#id_second" target="_blank">54131</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80356880" target="_blank">rs80356880</a></td>
+<td>GRCh37: 17:41267767-41267767<br/>GRCh38: 17:43115750-43115750</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.3G&gt;T (p.Met1Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763402/" title="RCV000763402" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55072/?new_evidence=true#id_second" target="_blank">55072</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357475" target="_blank">rs80357475</a></td>
+<td>GRCh37: 17:41276111-41276111<br/>GRCh38: 17:43124094-43124094</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.4054G&gt;T (p.Glu1352Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763001/" title="RCV000763001" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/91620/?new_evidence=true#id_second" target="_blank">91620</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357202" target="_blank">rs80357202</a></td>
+<td>GRCh37: 17:41243494-41243494<br/>GRCh38: 17:43091477-43091477</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.2138C&gt;G (p.Ser713Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002477031/" title="RCV002477031" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37451/?new_evidence=true#id_second" target="_blank">37451</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357233" target="_blank">rs80357233</a></td>
+<td>GRCh37: 17:41245410-41245410<br/>GRCh38: 17:43093393-43093393</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.2594del (p.Lys865fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002477167/" title="RCV002477167" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/54612/?new_evidence=true#id_second" target="_blank">54612</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357756" target="_blank">rs80357756</a></td>
+<td>GRCh37: 17:41244954-41244954<br/>GRCh38: 17:43092937-43092937</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.4041_4042del (p.Gly1348fs)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002477172/" title="RCV002477172" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55082/?new_evidence=true#id_second" target="_blank">55082</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357727" target="_blank">rs80357727</a></td>
+<td>GRCh37: 17:41243506-41243507<br/>GRCh38: 17:43091489-43091490</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.2457del (p.Asp821fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002482927/" title="RCV002482927" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37471/?new_evidence=true#id_second" target="_blank">37471</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357669" target="_blank">rs80357669</a></td>
+<td>GRCh37: 17:41245091-41245091<br/>GRCh38: 17:43093074-43093074</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.2475del (p.Asp825fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002482928/" title="RCV002482928" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37472/?new_evidence=true#id_second" target="_blank">37472</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357970" target="_blank">rs80357970</a></td>
+<td>GRCh37: 17:41245073-41245073<br/>GRCh38: 17:43093056-43093056</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.3759_3760del (p.Lys1254fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002482929/" title="RCV002482929" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37544/?new_evidence=true#id_second" target="_blank">37544</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357520" target="_blank">rs80357520</a></td>
+<td>GRCh37: 17:41243788-41243789<br/>GRCh38: 17:43091771-43091772</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.1204del (p.Glu402fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002483061/" title="RCV002483061" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/54162/?new_evidence=true#id_second" target="_blank">54162</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357859" target="_blank">rs80357859</a></td>
+<td>GRCh37: 17:41246344-41246344<br/>GRCh38: 17:43094327-43094327</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.3648dup (p.Ser1217fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002490430/" title="RCV002490430" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37535/?new_evidence=true#id_second" target="_blank">37535</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357902" target="_blank">rs80357902</a></td>
+<td>GRCh37: 17:41243900-41243900<br/>GRCh38: 17:43091882-43091883</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.5030_5033del (p.Thr1677fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002490431/" title="RCV002490431" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37623/?new_evidence=true#id_second" target="_blank">37623</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357580" target="_blank">rs80357580</a></td>
+<td>GRCh37: 17:41219666-41219669<br/>GRCh38: 17:43067649-43067652</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.798_799del (p.Ser267fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002490432/" title="RCV002490432" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37698/?new_evidence=true#id_second" target="_blank">37698</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357724" target="_blank">rs80357724</a></td>
+<td>GRCh37: 17:41246749-41246750<br/>GRCh38: 17:43094732-43094733</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.5368del (p.Ser1790fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002479945/" title="RCV002479945" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/246134/?new_evidence=true#id_second" target="_blank">246134</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/879254116" target="_blank">rs879254116</a></td>
+<td>GRCh37: 17:41201176-41201176<br/>GRCh38: 17:43049159-43049159</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.744del (p.Thr249fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002481437/" title="RCV002481437" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/409361/?new_evidence=true#id_second" target="_blank">409361</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1060502360" target="_blank">rs1060502360</a></td>
+<td>GRCh37: 17:41246804-41246804<br/>GRCh38: 17:43094787-43094787</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126862571" title="LOC126862571 gene information at GeneCards" target="_blank">LOC126862571</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.4065_4068del (p.Asn1355fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002490392/" title="RCV002490392" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/17674/?new_evidence=true#id_second" target="_blank">17674</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357508" target="_blank">rs80357508</a></td>
+<td>GRCh37: 17:41243480-41243483<br/>GRCh38: 17:43091463-43091466</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.68_69del (p.Glu23fs)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496414/" title="RCV002496414" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000019231/" title="RCV000019231" target="_blank">Risk Factor</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/17662/?new_evidence=true#id_second" target="_blank">17662</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357914" target="_blank">rs80357914</a></td>
+<td>GRCh37: 17:41276045-41276046<br/>GRCh38: 17:43124028-43124029</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.843_846del (p.Ser282fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496415/" title="RCV002496415" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/17683/?new_evidence=true#id_second" target="_blank">17683</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357919" target="_blank">rs80357919</a></td>
+<td>GRCh37: 17:41246702-41246705<br/>GRCh38: 17:43094685-43094688</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.2433del (p.Lys812fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496472/" title="RCV002496472" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37469/?new_evidence=true#id_second" target="_blank">37469</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357524" target="_blank">rs80357524</a></td>
+<td>GRCh37: 17:41245115-41245115<br/>GRCh38: 17:43093098-43093098</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.2563C&gt;T (p.Gln855Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496473/" title="RCV002496473" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37475/?new_evidence=true#id_second" target="_blank">37475</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357131" target="_blank">rs80357131</a></td>
+<td>GRCh37: 17:41244985-41244985<br/>GRCh38: 17:43092968-43092968</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.2806_2809del (p.Asp936fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496474/" title="RCV002496474" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37491/?new_evidence=true#id_second" target="_blank">37491</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357832" target="_blank">rs80357832</a></td>
+<td>GRCh37: 17:41244739-41244742<br/>GRCh38: 17:43092722-43092725</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.470_471del (p.Leu156_Ser157insTer)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496476/" title="RCV002496476" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37608/?new_evidence=true#id_second" target="_blank">37608</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357887" target="_blank">rs80357887</a></td>
+<td>GRCh37: 17:41251868-41251869<br/>GRCh38: 17:43099851-43099852</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.5096G&gt;A (p.Arg1699Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496477/" title="RCV002496477" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37636/?new_evidence=true#id_second" target="_blank">37636</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/41293459" target="_blank">rs41293459</a></td>
+<td>GRCh37: 17:41215947-41215947<br/>GRCh38: 17:43063930-43063930</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.2309C&gt;A (p.Ser770Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496716/" title="RCV002496716" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/54527/?new_evidence=true#id_second" target="_blank">54527</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357063" target="_blank">rs80357063</a></td>
+<td>GRCh37: 17:41245239-41245239<br/>GRCh38: 17:43093222-43093222</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.5503C&gt;T (p.Arg1835Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496720/" title="RCV002496720" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55601/?new_evidence=true#id_second" target="_blank">55601</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/41293465" target="_blank">rs41293465</a></td>
+<td>GRCh37: 17:41197784-41197784<br/>GRCh38: 17:43045767-43045767</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.815_824dup (p.Thr276fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496721/" title="RCV002496721" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55723/?new_evidence=true#id_second" target="_blank">55723</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/387906563" target="_blank">rs387906563</a></td>
+<td>GRCh37: 17:41246723-41246724<br/>GRCh38: 17:43094706-43094707</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.5153-2del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496718/" title="RCV002496718" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/55431/?new_evidence=true#id_second" target="_blank">55431</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/273901746" target="_blank">rs273901746</a></td>
+<td>GRCh37: 17:41215392-41215392<br/>GRCh38: 17:43063375-43063375</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.5266dup (p.Gln1756fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002504809/" title="RCV002504809" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/17677/?new_evidence=true#id_second" target="_blank">17677</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80357906" target="_blank">rs80357906</a></td>
+<td>GRCh37: 17:41209079-41209080<br/>GRCh38: 17:43057062-43057063</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.135-1G&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002504838/" title="RCV002504838" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37404/?new_evidence=true#id_second" target="_blank">37404</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80358158" target="_blank">rs80358158</a></td>
+<td>GRCh37: 17:41258551-41258551<br/>GRCh38: 17:43106534-43106534</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BRCA1" title="BRCA1 gene information at GeneCards" target="_blank">BRCA1</a></td>
+<td style="overflow-wrap:break-word;">NM_007294.4(BRCA1):c.213-12A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002504839/" title="RCV002504839" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37450/?new_evidence=true#id_second" target="_blank">37450</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80358163" target="_blank">rs80358163</a></td>
+<td>GRCh37: 17:41256985-41256985<br/>GRCh38: 17:43104968-43104968</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Pancreatic%20Cancer%204%22%5BMeSH%20Terms%5D%20OR%20%22Pancreatic%20Cancer%204%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Pancreatic Cancer 4.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Pancreatic Cancer 4</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#790a0c0909160b0d3915101f1c1418090a1a571a1614">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809eccd2ee529d3d',t:'MTY5NTI2MjUyMy41MzMwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

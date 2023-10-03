@@ -1,0 +1,4076 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Immunodeficiency 104 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/immunodeficiency_104" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'immunodeficiency_104';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+IMD104 <div class="symbol">MCID: IMM275</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 46
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Immunodeficiency 104</span>
+(<span itemprop="alternateName">IMD104</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Blood diseases, Genetic diseases, Immune diseases, Liver diseases, Oral diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#2b584a474e586b47424d4e464a5b584805484446" target="_blank"><span class="__cf_email__" data-cfemail="80f3e1ece5f3c0ece9e6e5ede1f0f3e3aee3efed">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="2 Genes associated with Immunodeficiency 104">Genes</a>
+<a href="#genetic_variations" title="934 Variations associated with Immunodeficiency 104">Variations</a>
+<a href="#anatomical_context" title="9 Tissues associated with Immunodeficiency 104">Tissues</a>
+<a href="#disorders" title="16 Related diseases associated with Immunodeficiency 104">Related diseases</a>
+<a href="#publications" title="29 Publications associated with Immunodeficiency 104">Publications</a>
+<a href="#clinical_features" title="55 Symptoms &amp; Phenotypes associated with Immunodeficiency 104">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/immunodeficiency_104?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Immunodeficiency 104:</h3>
+<div class="main-name">
+Name: <b>Immunodeficiency 104</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608971" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01018" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C5676890" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Positive, Nk Cell-Positive
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608971" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0090014" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Imd104
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608971" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01018" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Immunodeficiency, Severe Combined, Autosomal Recessive, T Cell-Negative, B Cell-Positive, Nk Cell-Positive
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/02806" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<div>
+Severe Combined Immunodeficiency, Autosomal Recessive, T Cell Negative, B Cell Positive, Nk Cell Positive
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=C563822" title="Medical Subject Headings" target="_blank">43</a></sup>
+</div>
+<div>
+Severe Combined Immunodeficiency Autosomal Recessive T Cell-Negative/b Cell-Positive/nk Cell-Positive
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01018" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Severe Combined Immunodeficiency Autosomal Recessive T-Cell Negative/b-Cell Positive/nk-Cell Positive
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01018" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Scid, Autosomal Recessive, T Cell-Negative, B Cell-Positive, Nk Cell-Positive
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608971" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Autosomal Recessive T Cell-Negative, B-Cell Positive, Nk Cell-Positive Scid
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0090014" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+T-B+ Severe Combined Immunodeficiency Due to Il-7ralpha Deficiency
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169154" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+T-B+ Severe Combined Immunodeficiency Due to Cd45 Deficiency
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169157" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Immunodeficiency 104, Susceptibility to
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+T-B+ Scid Due to Il-7ralpha Deficiency
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169154" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Immunodeficiency 104, Severe Combined
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608971" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+T-B+ Scid Due to Cd45 Deficiency
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169157" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Scidbnk
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01018" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Immunodeficiency 104:</b>
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/608971" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>T-B+ Severe Combined Immunodeficiency Due to Il-7ralpha Deficiency:</b>
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169154" target="_blank">58</a></sup>
+</div>
+<div class="tab">
+<b>T-B+ Severe Combined Immunodeficiency Due to Cd45 Deficiency:</b>
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169157" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+<b>T-B+ Severe Combined Immunodeficiency Due to Il-7ralpha Deficiency:</b>
+1-9/1000000 (Worldwide)
+&lt;1/1000000 (Chile) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169154" target="_blank">58</a></sup>
+</div>
+<div class="tab">
+<b>T-B+ Severe Combined Immunodeficiency Due to Cd45 Deficiency:</b>
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169157" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>T-B+ Severe Combined Immunodeficiency Due to Il-7ralpha Deficiency:</b>
+Infancy <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169154" target="_blank">58</a></sup>
+</div>
+<div class="tab">
+<b>T-B+ Severe Combined Immunodeficiency Due to Cd45 Deficiency:</b>
+Infancy <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169157" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/608971" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>variable phenotype</span>
+<br/>
+<span>onset in early infancy</span>
+<br/>
+<span>incomplete penetrance (in some families)</span>
+<br/>
+<span>variable expressivity (in some families)</span>
+<br/>
+<span>hematopoietic bone marrow transplant may be curative</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/blood_disease_list" target="_blank">Blood diseases</a> <a href="https://www.malacards.org/categories/immune_disease_list" target="_blank">Immune diseases</a> <a href="https://www.malacards.org/categories/oral_disease_list" target="_blank">Oral diseases</a> <a href="https://www.malacards.org/categories/liver_disease_list" target="_blank">Liver diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="International Classification of Diseases, 10th Revision">31</sup>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/III" title="III" target="_blank">Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D80-D89" title="D80-D89" target="_blank">Certain disorders involving the immune mechanism</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D81" title="D81" target="_blank">Combined immunodeficiencies</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D81.2" title="D81.2" target="_blank">Severe combined immunodeficiency [SCID] with low or normal B-cell numbers</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare immunological diseases <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0090014" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0090014" target="_blank">DOID:0090014</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608971" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/608971" target="_blank">608971</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS300755,PS601457" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS300755,PS601457" target="_blank">PS300755,PS601457</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=C563822" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=C563822" target="_blank">C563822</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D016511" target="_blank">D016511</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="International Classification of Diseases, 10th Revision">ICD10</b>
+<sup title="International Classification of Diseases, 10th Revision"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D81.2" target="_blank">31</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D81.2" target="_blank">D81.2</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_6">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D81.2" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D81.2" target="_blank">D81.2</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="UMLS via Orphanet">UMLS via Orphanet</b>
+<sup title="UMLS via Orphanet"><span>72</span> </sup>
+<span>C1837028</span>
+</div>
+<div id="ExternalId_item_8">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169154" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169154" target="_blank">ORPHA169154</a> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169157" target="_blank">ORPHA169157</a>
+</div>
+<div id="ExternalId_item_9">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1837028" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1837028" target="_blank">C1837028</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/C5676890" target="_blank">C5676890</a>
+</div>
+<div id="ExternalId_item_10">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/127388009" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/127388009" target="_blank">127388009</a> <a href="http://www.snomedbrowser.com/Codes/Details/128091003" target="_blank">128091003</a> <a href="http://www.snomedbrowser.com/Codes/Details/129646001" target="_blank">129646001</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/13172003" target="_blank">13172003</a> <a href="http://www.snomedbrowser.com/Codes/Details/16294009" target="_blank">16294009</a> <a href="http://www.snomedbrowser.com/Codes/Details/16331000" target="_blank">16331000</a> <a href="http://www.snomedbrowser.com/Codes/Details/165517008" target="_blank">165517008</a> <a href="http://www.snomedbrowser.com/Codes/Details/195708003" target="_blank">195708003</a> <a href="http://www.snomedbrowser.com/Codes/Details/200948000" target="_blank">200948000</a> <a href="http://www.snomedbrowser.com/Codes/Details/206376005" target="_blank">206376005</a> <a href="http://www.snomedbrowser.com/Codes/Details/233604007" target="_blank">233604007</a> <a href="http://www.snomedbrowser.com/Codes/Details/234490009" target="_blank">234490009</a> <a href="http://www.snomedbrowser.com/Codes/Details/234568006" target="_blank">234568006</a> <a href="http://www.snomedbrowser.com/Codes/Details/235595009" target="_blank">235595009</a> <a href="http://www.snomedbrowser.com/Codes/Details/236071009" target="_blank">236071009</a> <a href="http://www.snomedbrowser.com/Codes/Details/26284000" target="_blank">26284000</a> <a href="http://www.snomedbrowser.com/Codes/Details/267060006" target="_blank">267060006</a> <a href="http://www.snomedbrowser.com/Codes/Details/278040002" target="_blank">278040002</a> <a href="http://www.snomedbrowser.com/Codes/Details/281104002" target="_blank">281104002</a> <a href="http://www.snomedbrowser.com/Codes/Details/30746006" target="_blank">30746006</a> <a href="http://www.snomedbrowser.com/Codes/Details/31323000" target="_blank">31323000</a> <a href="http://www.snomedbrowser.com/Codes/Details/32273002" target="_blank">32273002</a> <a href="http://www.snomedbrowser.com/Codes/Details/36440009" target="_blank">36440009</a> <a href="http://www.snomedbrowser.com/Codes/Details/36760000" target="_blank">36760000</a> <a href="http://www.snomedbrowser.com/Codes/Details/386661006" target="_blank">386661006</a> <a href="http://www.snomedbrowser.com/Codes/Details/396349005" target="_blank">396349005</a> <a href="http://www.snomedbrowser.com/Codes/Details/396350005" target="_blank">396350005</a> <a href="http://www.snomedbrowser.com/Codes/Details/399992009" target="_blank">399992009</a> <a href="http://www.snomedbrowser.com/Codes/Details/400005007" target="_blank">400005007</a> <a href="http://www.snomedbrowser.com/Codes/Details/43116000" target="_blank">43116000</a> <a href="http://www.snomedbrowser.com/Codes/Details/432788009" target="_blank">432788009</a> <a href="http://www.snomedbrowser.com/Codes/Details/448739000" target="_blank">448739000</a> <a href="http://www.snomedbrowser.com/Codes/Details/48813009" target="_blank">48813009</a> <a href="http://www.snomedbrowser.com/Codes/Details/50177009" target="_blank">50177009</a> <a href="http://www.snomedbrowser.com/Codes/Details/50417007" target="_blank">50417007</a> <a href="http://www.snomedbrowser.com/Codes/Details/56317004" target="_blank">56317004</a> <a href="http://www.snomedbrowser.com/Codes/Details/62315008" target="_blank">62315008</a> <a href="http://www.snomedbrowser.com/Codes/Details/65363002" target="_blank">65363002</a> <a href="http://www.snomedbrowser.com/Codes/Details/67023009" target="_blank">67023009</a> <a href="http://www.snomedbrowser.com/Codes/Details/698065002" target="_blank">698065002</a> <a href="http://www.snomedbrowser.com/Codes/Details/80515008" target="_blank">80515008</a> </span>
+<span class="showmore">
+<a title="show all 41" id="ExternalId_showmore_10" href="javascript:showMoreTable('ExternalId_item_10','ExternalId_showmore_10','more','less','collapsable')">more</a>
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://omim.org/entry/608971#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608971#description" target="_blank">57</a></sup>
+Immunodeficiency-104 (IMD104) is an autosomal recessive disorder characterized by the onset of recurrent infections in early infancy. Manifestations may include oral thrush, fever, and failure to thrive. Some patients have lymphadenopathy and hepatosplenomegaly, whereas others have absence of lymph nodes and lack a thymic shadow. Laboratory studies show decreased or absent numbers of nonfunctional T cells, normal or increased levels of B cells, variable hypogammaglobulinemia, and normal NK cells. The disorder is caused by a defect in IL7 (146660) signaling due to a mutant IL7 receptor. Hematopoietic stem cell transplantation may be curative (Roifman et al., 2000 and Giliani et al., 2005).
+Giliani et al. (2005) provided a detailed review of IL7R deficiency, including discussion of the IL7R gene and its function in the immune system, clinical features of the disorder, and experiences with hematopoietic stem cell transplant as treatment.
+For a general phenotypic description and a discussion of genetic heterogeneity of autosomal recessive SCID, see 601457. <span> (608971) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Immunodeficiency 104, also known as <i>severe combined immunodeficiency, autosomal recessive, t cell-negative, b cell-positive, nk cell-positive</i>, is related to <i><a href="/card/immunodeficiency_105" target="_blank">immunodeficiency 105</a></i> and <i><a href="/card/t_cell_deficiency" target="_blank">t cell deficiency</a></i>. An important gene associated with Immunodeficiency 104 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" target="_blank">IL7R</a> (Interleukin 7 Receptor), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/overview_of_interferons-mediated_signaling_pathway" target="_blank">Overview of interferons-mediated signaling pathway</a></i> and <i><a href="https://pathcards.genecards.org/card/hematopoietic_stem_cells_and_lineage-specific_markers" target="_blank">Hematopoietic Stem Cells and Lineage-specific Markers</a></i>. Affiliated tissues include <i>t cells</i> and <i>nk cells</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0002719" target="_blank">recurrent infections</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">failure to thrive</a></i></p>
+<p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169154" target="_blank">Orphanet</a></b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169154" target="_blank">58</a></sup>
+<span> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169154" target="_blank">T-b+ severe combined immunodeficiency due to il-7ralpha deficiency</a>:</span>
+A rare T-B+ severe combined immunodeficiency characterized by markedly decreased numbers of T-cells and normal or increased numbers of B-cells and natural killer (NK) cells. Patients generally present in infancy with recurrent infections, failure to thrive, fever, diarrhea, and dermatitis.</p>
+<p> <span> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=169157" target="_blank">T-b+ severe combined immunodeficiency due to cd45 deficiency</a>:</span>
+A rare T-B+ severe combined immunodeficiency characterized by markedly decreased numbers of T-cells and normal or increased numbers of B-cells and natural killer (NK) cells. Hypogammaglobulinemia has also been reported. Patients generally present in infancy with recurrent infections, failure to thrive, rash, fever, hepatosplenomegaly, lymphadenopathy, and pancytopenia.</p>
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-01018" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01018" target="_blank">73</a></sup>
+A form of severe combined immunodeficiency (SCID), a genetically and clinically heterogeneous group of rare congenital disorders characterized by impairment of both humoral and cell-mediated immunity, leukopenia, and low or absent antibody levels. Patients present in infancy recurrent, persistent infections by opportunistic organisms. The common characteristic of all types of SCID is absence of T-cell-mediated cellular immunity due to a defect in T-cell development.</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0090014" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0090014" target="_blank">11</a></sup>
+A severe combined immunodeficiency characterized by being T cell-negative, B cell-positive and natural killer cell-positive and that has material basis in homozygous or compound heterozygous mutation in the IL7R gene on chromosome 5p13 or the CD45 gene on chromosome 1q31.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Immunodeficiency 104 via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 16', 'showing 16, show less','collapsable')">show all 16</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/immunodeficiency_105" target="_blank">immunodeficiency 105</a></td>
+<td>12.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=immunodeficiency+105&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/t_cell_deficiency" target="_blank">t cell deficiency</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=t+cell+deficiency&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=t+cell+deficiency&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/listeriosis" target="_blank">listeriosis</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=listeriosis&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=listeriosis&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/omenn_syndrome" target="_blank">omenn syndrome</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=omenn+syndrome&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=omenn+syndrome&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/human_immunodeficiency_virus_infectious_disease" target="_blank">human immunodeficiency virus infectious disease</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=human+immunodeficiency+virus+infectious+disease&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=human+immunodeficiency+virus+infectious+disease&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/demyelinating_disease" target="_blank">demyelinating disease</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=demyelinating+disease&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=demyelinating+disease&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/plasma_cell_neoplasm" target="_blank">plasma cell neoplasm</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=plasma+cell+neoplasm&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=plasma+cell+neoplasm&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/celiac_disease_1" target="_blank">celiac disease 1</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=celiac+disease+1&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=celiac+disease+1&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/severe_combined_immunodeficiency" target="_blank">severe combined immunodeficiency</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=severe+combined+immunodeficiency&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=severe+combined+immunodeficiency&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/combined_immunodeficiency" target="_blank">combined immunodeficiency</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=combined+immunodeficiency&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=combined+immunodeficiency&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/leukemia_acute_lymphoblastic" target="_blank">leukemia, acute lymphoblastic</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=leukemia%2c+acute+lymphoblastic&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=leukemia%2c+acute+lymphoblastic&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/myeloma_multiple" target="_blank">myeloma, multiple</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=myeloma%2c+multiple&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=myeloma%2c+multiple&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/immune_deficiency_disease" target="_blank">immune deficiency disease</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=immune+deficiency+disease&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=immune+deficiency+disease&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/skin_disease" target="_blank">skin disease</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=skin+disease&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=skin+disease&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/multiple_sclerosis" target="_blank">multiple sclerosis</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=multiple+sclerosis&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=multiple+sclerosis&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/leukemia_acute_myeloid" target="_blank">leukemia, acute myeloid</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=leukemia%2c+acute+myeloid&amp;prefilter=diseases#diseases" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=leukemia%2c+acute+myeloid&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Immunodeficiency 104:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/immunodeficiency_104_related_diseases.jpg" width="100%" alt="Diseases related to Immunodeficiency 104" title="Diseases related to Immunodeficiency 104" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Immunodeficiency 104:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 45', 'showing 45, show less','collapsable')">show all 45</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+recurrent infections
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002719" target="_blank">HP:0002719</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+failure to thrive
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">HP:0001508</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+lymphopenia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001888" target="_blank">HP:0001888</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+decreased lymphocyte proliferation in response to mitogen
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0031381" target="_blank">HP:0031381</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+decreased proportion of cd8-positive t cells
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005415" target="_blank">HP:0005415</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+decreased proportion of cd3-positive t cells
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0045080" target="_blank">HP:0045080</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+recurrent viral infections
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004429" target="_blank">HP:0004429</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+t lymphocytopenia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005403" target="_blank">HP:0005403</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+decreased proportion of cd4-positive helper t cells
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005407" target="_blank">HP:0005407</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+fever
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001945" target="_blank">HP:0001945</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+recurrent upper respiratory tract infections
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002788" target="_blank">HP:0002788</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+alopecia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001596" target="_blank">HP:0001596</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+recurrent lower respiratory tract infections
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002783" target="_blank">HP:0002783</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+neutropenia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001875" target="_blank">HP:0001875</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+chronic diarrhea
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002028" target="_blank">HP:0002028</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+erythroderma
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001019" target="_blank">HP:0001019</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+eosinophilia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001880" target="_blank">HP:0001880</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+lymphadenopathy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002716" target="_blank">HP:0002716</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+hepatosplenomegaly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001433" target="_blank">HP:0001433</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+oral ulcer
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000155" target="_blank">HP:0000155</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+increased circulating ige level
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003212" target="_blank">HP:0003212</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+lymphocytosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100827" target="_blank">HP:0100827</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+increased circulating iga level
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003261" target="_blank">HP:0003261</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+autoimmune thrombocytopenia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001973" target="_blank">HP:0001973</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+recurrent candida infections
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005401" target="_blank">HP:0005401</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+increased circulating igg level
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003237" target="_blank">HP:0003237</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+neonatal sepsis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0040187" target="_blank">HP:0040187</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+psoriasiform lesion
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0025526" target="_blank">HP:0025526</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+increased circulating antibody level
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010702" target="_blank">HP:0010702</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+gastroesophageal reflux
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002020" target="_blank">HP:0002020</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+recurrent otitis media
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000403" target="_blank">HP:0000403</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+
+chronic mucocutaneous candidiasis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002728" target="_blank">HP:0002728</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+
+splenomegaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001744" target="_blank">HP:0001744</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+
+hepatomegaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002240" target="_blank">HP:0002240</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+
+otitis media
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000388" target="_blank">HP:0000388</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+
+eczema
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000964" target="_blank">HP:0000964</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+
+increased antibody level in blood
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+
+pneumonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002090" target="_blank">HP:0002090</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+
+diarrhea
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002014" target="_blank">HP:0002014</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+
+severe combined immunodeficiency
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004430" target="_blank">HP:0004430</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+
+decrease in t cell count
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+
+severe viral infections
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+
+decreased proportion of cd4-positive t cells
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+
+recurrent opportunistic infections
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005390" target="_blank">HP:0005390</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+
+failure to thrive secondary to recurrent infections
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008866" target="_blank">HP:0008866</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/608971" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Abdomen Spleen:</u><br/>
+<span>splenomegaly</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Immunology:</u><br/>
+<span>immunodeficiency</span>
+<br/>
+<span>recurrent infections</span>
+<br/>
+<span>lymphadenopathy</span>
+<br/>
+<span>t-cell lymphopenia</span>
+<br/>
+<span>decreased trecs</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>lack of lymph nodes (in some patients)</span>
+<br/>
+<span>absent thymic shadow (in some patients)</span>
+<br/>
+<span>defective t-cell proliferation in response to stimulation</span>
+<br/>
+<span>normal or elevated numbers of functional natural killer cells (nk)</span>
+<br/>
+<span>normal or elevated number of peripheral blood b cells</span>
+<br/>
+<span>serum immunoglobulins may be absent, normal, or increased</span>
+<br/>
+<span>defective il7 signaling</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 12" id="ClinicalSynopsis_showmore_2" href="javascript:showMoreTable('ClinicalSynopsis_item_2','ClinicalSynopsis_showmore_2','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Respiratory Lung:</u><br/>
+<span>recurrent pneumonia</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Growth Other:</u><br/>
+<span>failure to thrive secondary to recurrent infections</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Head And Neck Mouth:</u><br/>
+<span>candida albicans infection</span>
+<br/>
+<span>thrush</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Abdomen Liver:</u><br/>
+<span>hepatomegaly</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>otitis media</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Abdomen Gastrointestinal:</u><br/>
+<span>diarrhea</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Skin Nails Hair Skin:</u><br/>
+<span>rash</span>
+<br/>
+<span>dermatitis</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Hematology:</u><br/>
+<span>hemolytic anemia (1 patient)</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/608971#clinicalFeatures" target="_blank">608971</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div>
+<div>
+<h3>GenomeRNAi Phenotypes related to Immunodeficiency 104 according to GeneCards Suite gene sharing:</h3>
+<sup title="GenomeRNAi">25</sup>
+<span class="showmore">
+(<a id="FunctionalDescription_GEN-table_SeeMore" href="javascript:showMoreTable('FunctionalDescription_GEN-table','FunctionalDescription_GEN-table_SeeMore', 'show all 14', 'showing 14, show less','collapsable')">show all 14</a>)
+</span>
+</div>
+<table id="FunctionalDescription_GEN-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>GenomeRNAi Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-109" target="_blank">GR00366-A-109</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-112" target="_blank">GR00366-A-112</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-119" target="_blank">GR00366-A-119</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-121" target="_blank">GR00366-A-121</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-134" target="_blank">GR00366-A-134</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-143" target="_blank">GR00366-A-143</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-149" target="_blank">GR00366-A-149</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-156" target="_blank">GR00366-A-156</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-197" target="_blank">GR00366-A-197</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-2" target="_blank">GR00366-A-2</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-213" target="_blank">GR00366-A-213</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-214" target="_blank">GR00366-A-214</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-50" target="_blank">GR00366-A-50</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-87" target="_blank">GR00366-A-87</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Immunodeficiency 104" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Immunodeficiency 104&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Immunodeficiency 104</text>
+</p>
+</div>
+<h3>
+Cochrane evidence based reviews: <a href="http://onlinelibrary.wiley.com/cochranelibrary/search/mesh?searchRow.searchCriteria.meshTerm=severe combined immunodeficiency, autosomal recessive, t cell negative, b cell positive, nk cell positive&amp;searchMesh=Lookup" target="_blank">severe combined immunodeficiency, autosomal recessive, t cell negative, b cell positive, nk cell positive</a>
+</h3>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Immunodeficiency 104:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Immunodeficiency 104
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C5676890" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=immunodeficiency+104&amp;prefilter=diseases#diseases" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Immunodeficiency 104: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="8.840899">T Cells</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="8.207652">Nk Cells</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="7.333307">B Cells</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="6.972998">Bone Marrow</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="3.323763">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.3126501">Lung</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span>Blood And Bone Marrow</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/608971/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span>Respiratory System-Lung</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/608971/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span>Respiratory System</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/608971/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Immunodeficiency 104 according to OMIM&#174; and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 29', 'showing 29, show less','collapsable')">show all 29</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Diagnosis and Treatment of a Patient With Severe Combined Immunodeficiency Due to a Novel Homozygous Mutation in the IL-7Rα Chain.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mansour R...Massaad MJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35418989" target="_blank">35418989</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Reduced Function and Diversity of T Cell Repertoire and Distinct Clinical Course in Patients With IL7RA Mutation.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lev A...Somech R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31379863" target="_blank">31379863</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Interleukin-7 receptor alpha (IL-7Ralpha) deficiency: cellular and molecular bases. Analysis of clinical, immunological, and molecular features in 16 novel patients.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Giliani S...Notarangelo LD</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15661025" target="_blank">15661025</a></td>
+<td>2005</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A partial deficiency of interleukin-7R alpha is sufficient to abrogate T-cell development and cause severe combined immunodeficiency.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Roifman CM...Sharfe N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11023514" target="_blank">11023514</a></td>
+<td>2000</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mutations in the gene for the IL-7 receptor result in T(-)B(+)NK(+) severe combined immunodeficiency disease.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Puel A...Leonard WJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10899029" target="_blank">10899029</a></td>
+<td>2000</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Defective IL7R expression in T(-)B(+)NK(+) severe combined immunodeficiency.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Puel A...Leonard WJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9843216" target="_blank">9843216</a></td>
+<td>1998</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Efficacy and economics of targeted panel versus whole-exome sequencing in 878 patients with suspected primary immunodeficiency.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Platt CD...International Consortium for Immunodeficiencies</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32888943" target="_blank">32888943</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+CNVs cause autosomal recessive genetic diseases with or without involvement of SNV/indels.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yuan B...Bi W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32576985" target="_blank">32576985</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A novel pathogenic mutation on Interleukin-7 receptor leading to severe combined immunodeficiency identified with newborn screening and whole exome sequencing.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liao CY...Shieh CC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29551298" target="_blank">29551298</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Rethinking newborn screening for severe combined immunodeficiency: Lessons from an international partnership for patients with primary immunodeficiencies in Pakistan.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wallace JG...Chou J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30858051" target="_blank">30858051</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Targeted NGS Platforms for Genetic Screening and Gene Discovery in Primary Immunodeficiencies.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Cifaldi C...Di Matteo G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31031743" target="_blank">31031743</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Identification of Heterozygous Single- and Multi-exon Deletions in IL7R by Whole Exome Sequencing.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Engelhardt KR...Hambleton S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27807805" target="_blank">27807805</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Family History of Early Infant Death Correlates with Earlier Age at Diagnosis But Not Shorter Time to Diagnosis for Severe Combined Immunodeficiency.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Luk ADW...Lau YL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28747913" target="_blank">28747913</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A Case of IL-7R Deficiency Caused by a Novel Synonymous Mutation and Implications for Mutation Screening in SCID Diagnosis.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gallego-Bustos F...Allende LM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27833609" target="_blank">27833609</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Hypomorphic interleukin-7 receptor α-chain mutations and T-cell deficiency: a delay in diagnosis.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Leiding JW...Fleisher TA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26123418" target="_blank">26123418</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Vaccine-associated varicella and rubella infections in severe combined immunodeficiency with isolated CD4 lymphocytopenia and mutations in IL7R detected by tandem whole exome sequencing and chromosomal microarray.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bayer DK...Stray-Pedersen A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25046553" target="_blank">25046553</a></td>
+<td>2014</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Autoimmune manifestations in SCID due to IL7R mutations: Omenn syndrome and cytopenias.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zago CA...Carneiro-Sampaio M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24759676" target="_blank">24759676</a></td>
+<td>2014</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Newborn screening for SCID in New York State: experience from the first two years.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Vogel BH...Caggana M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24578017" target="_blank">24578017</a></td>
+<td>2014</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Newborn screening for severe combined immunodeficiency and T-cell lymphopenia in California: results of the first 2 years.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kwan A...Puck JM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23810098" target="_blank">23810098</a></td>
+<td>2013</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical and immunological manifestations of patients with atypical severe combined immunodeficiency.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Felgentreff K...Ehl S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21664875" target="_blank">21664875</a></td>
+<td>2011</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[A compound heterozygosity mutation in the interleukin-7 receptor-alpha gene resulted in severe combined immunodeficiency in a Chinese patient].
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang ZY...Yang XQ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20021794" target="_blank">20021794</a></td>
+<td>2009</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mutations causing severe combined immunodeficiency: detection with a custom resequencing microarray.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lebet T...Puck JM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18641513" target="_blank">18641513</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genetically determined lymphopenia and autoimmune manifestations.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Villa A...Notarangelo LD</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18403192" target="_blank">18403192</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+IL-7 receptor deficient SCID with a unique intronic mutation and post-transplant autoimmunity due to chronic GVHD.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Butte MJ...Puck J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17827065" target="_blank">17827065</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Interleukin 7 receptor alpha-chain-mutation severe combined immunodeficiency without lymphopenia: correction with haploidentical T-cell-depleted bone marrow transplantation.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ponda P...Bonagura VR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17201233" target="_blank">17201233</a></td>
+<td>2006</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Omenn syndrome in an infant with IL7RA gene mutation.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Giliani S...Le Deist F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16492442" target="_blank">16492442</a></td>
+<td>2006</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Splicing in action: assessing disease causing sequence changes.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Baralle D...Baralle M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16199547" target="_blank">16199547</a></td>
+<td>2005</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Characterization of a novel nonsense mutation in the interleukin-7 receptor alpha gene in a Korean patient with severe combined immunodeficiency.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Jo EK...Kumaki S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15615257" target="_blank">15615257</a></td>
+<td>2004</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mutations in the tyrosine phosphatase CD45 gene in a child with severe combined immunodeficiency disease.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kung C...Thomas ML</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10700239" target="_blank">10700239</a></td>
+<td>2000</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Immunodeficiency 104 (2 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Interleukin 7 Receptor</td>
+<td>Protein Coding</td>
+<td>1675</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/146661" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=17386" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/9843216" title="ClinVar" target="_blank">9843216</a> <a href="https://pubmed.ncbi.nlm.nih.gov/10899029" title="ClinVar" target="_blank">10899029</a> <a href="https://pubmed.ncbi.nlm.nih.gov/11023514" title="ClinVar" target="_blank">11023514</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/15615257" title="ClinVar" target="_blank">15615257</a> <a href="https://pubmed.ncbi.nlm.nih.gov/15661025" title="ClinVar" target="_blank">15661025</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16199547" title="ClinVar" target="_blank">16199547</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16492442" title="ClinVar" target="_blank">16492442</a> <a href="https://pubmed.ncbi.nlm.nih.gov/17201233" title="ClinVar" target="_blank">17201233</a> <a href="https://pubmed.ncbi.nlm.nih.gov/17827065" title="ClinVar" target="_blank">17827065</a> <a href="https://pubmed.ncbi.nlm.nih.gov/18403192" title="ClinVar" target="_blank">18403192</a> <a href="https://pubmed.ncbi.nlm.nih.gov/18641513" title="ClinVar" target="_blank">18641513</a> <a href="https://pubmed.ncbi.nlm.nih.gov/20021794" title="ClinVar" target="_blank">20021794</a> <a href="https://pubmed.ncbi.nlm.nih.gov/21664875" title="ClinVar" target="_blank">21664875</a> <a href="https://pubmed.ncbi.nlm.nih.gov/24578017" title="ClinVar" target="_blank">24578017</a> <a href="https://pubmed.ncbi.nlm.nih.gov/24759676" title="ClinVar" target="_blank">24759676</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25046553" title="ClinVar" target="_blank">25046553</a> <a href="https://pubmed.ncbi.nlm.nih.gov/26123418" title="ClinVar" target="_blank">26123418</a> <a href="https://pubmed.ncbi.nlm.nih.gov/27807805" title="ClinVar" target="_blank">27807805</a> <a href="https://pubmed.ncbi.nlm.nih.gov/27833609" title="ClinVar" target="_blank">27833609</a> <a href="https://pubmed.ncbi.nlm.nih.gov/28747913" title="ClinVar" target="_blank">28747913</a> <a href="https://pubmed.ncbi.nlm.nih.gov/29551298" title="ClinVar" target="_blank">29551298</a> <a href="https://pubmed.ncbi.nlm.nih.gov/30858051" title="ClinVar" target="_blank">30858051</a> <a href="https://pubmed.ncbi.nlm.nih.gov/32576985" title="ClinVar" target="_blank">32576985</a> <a href="https://pubmed.ncbi.nlm.nih.gov/32888943" title="ClinVar" target="_blank">32888943</a> <a href="https://pubmed.ncbi.nlm.nih.gov/35418989" title="ClinVar" target="_blank">35418989</a> <a href="https://pubmed.ncbi.nlm.nih.gov/23810098" title="ClinVar" target="_blank">23810098</a> <a href="https://pubmed.ncbi.nlm.nih.gov/31031743" title="ClinVar" target="_blank">31031743</a> <a href="https://pubmed.ncbi.nlm.nih.gov/31379863" title="ClinVar" target="_blank">31379863</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Protein Tyrosine Phosphatase Receptor Type C</td>
+<td>Protein Coding</td>
+<td>775</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=15171" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/10700239" title="ClinVar" target="_blank">10700239</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16199547" title="ClinVar" target="_blank">16199547</a> <a href="https://pubmed.ncbi.nlm.nih.gov/11145714" title target="_blank">11145714</a> </span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Immunodeficiency 104:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '933', 'ClinVarVariations-table');">show all 933</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.651G&gt;A (p.Trp217Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000015967/" title="RCV000015967" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/14842/?new_evidence=true#id_second" target="_blank">14842</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/104893893" target="_blank">rs104893893</a></td>
+<td>GRCh37: 5:35873695-35873695<br/>GRCh38: 5:35873593-35873593</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.394C&gt;T (p.Pro132Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000015968/" title="RCV000015968" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/14843/?new_evidence=true#id_second" target="_blank">14843</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/104893894" target="_blank">rs104893894</a></td>
+<td>GRCh37: 5:35871172-35871172<br/>GRCh38: 5:35871070-35871070</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">Single allele</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000210429/" title="RCV000210429" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/224842/?new_evidence=true#id_second" target="_blank">224842</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35862009-35867620<br/>GRCh38: </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.291_294del (p.Lys97fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000640050/" title="RCV000640050" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/533056/?new_evidence=true#id_second" target="_blank">533056</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1554066684" target="_blank">rs1554066684</a></td>
+<td>GRCh37: 5:35867474-35867477<br/>GRCh38: 5:35867372-35867375</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NC_000005.10:g.(?_35867286)_(35867483_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000640089/" title="RCV000640089" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/533085/?new_evidence=true#id_second" target="_blank">533085</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35867388-35867585<br/>GRCh38: 5:35867286-35867483</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.704C&gt;G (p.Ser235Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000701107/" title="RCV000701107" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/578174/?new_evidence=true#id_second" target="_blank">578174</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/766555082" target="_blank">rs766555082</a></td>
+<td>GRCh37: 5:35873748-35873748<br/>GRCh38: 5:35873646-35873646</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a></td>
+<td style="overflow-wrap:break-word;">NM_002838.5(PTPRC):c.2295C&gt;G (p.Tyr765Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000787279/" title="RCV000787279" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/635760/?new_evidence=true#id_second" target="_blank">635760</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1571880832" target="_blank">rs1571880832</a></td>
+<td>GRCh37: 1:198704273-198704273<br/>GRCh38: 1:198735144-198735144</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">GRCh37/hg19 5p13.2(chr5:35867357-35867581)</td>
+<td style="overflow-wrap:break-word;" title="Copy Number Loss">CN LOSS</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001195149/" title="RCV001195149" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/915995/?new_evidence=true#id_second" target="_blank">915995</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35867357-35867581<br/>GRCh38: </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.379G&gt;A (p.Val127Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001843964/" title="RCV001843964" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1339483/?new_evidence=true#id_second" target="_blank">1339483</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35867565-35867565<br/>GRCh38: 5:35867463-35867463</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.753dup (p.Ser252fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000535007/" title="RCV000535007" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/464438/?new_evidence=true#id_second" target="_blank">464438</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1554067182" target="_blank">rs1554067182</a></td>
+<td>GRCh37: 5:35874596-35874597<br/>GRCh38: 5:35874494-35874495</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.361dup (p.Ile121fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000210421/" title="RCV000210421" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/224841/?new_evidence=true#id_second" target="_blank">224841</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/869312857" target="_blank">rs869312857</a></td>
+<td>GRCh37: 5:35867540-35867541<br/>GRCh38: 5:35867438-35867439</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.355A&gt;T (p.Lys119Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000796316/" title="RCV000796316" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/642787/?new_evidence=true#id_second" target="_blank">642787</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1448018291" target="_blank">rs1448018291</a></td>
+<td>GRCh37: 5:35867541-35867541<br/>GRCh38: 5:35867439-35867439</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a></td>
+<td style="overflow-wrap:break-word;">NM_002838.5(PTPRC):c.2362_2363delinsT (p.Arg788fs)</td>
+<td style="overflow-wrap:break-word;" title="Indel">INDEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000820287/" title="RCV000820287" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/662609/?new_evidence=true#id_second" target="_blank">662609</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1571880941" target="_blank">rs1571880941</a></td>
+<td>GRCh37: 1:198704340-198704341<br/>GRCh38: 1:198735211-198735212</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.675C&gt;A (p.Tyr225Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000822917/" title="RCV000822917" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/664754/?new_evidence=true#id_second" target="_blank">664754</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1390410878" target="_blank">rs1390410878</a></td>
+<td>GRCh37: 5:35873719-35873719<br/>GRCh38: 5:35873617-35873617</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a></td>
+<td style="overflow-wrap:break-word;">NM_002838.5(PTPRC):c.2940T&gt;A (p.Tyr980Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001236197/" title="RCV001236197" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/962354/?new_evidence=true#id_second" target="_blank">962354</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/779246448" target="_blank">rs779246448</a></td>
+<td>GRCh37: 1:198718546-198718546<br/>GRCh38: 1:198749417-198749417</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a></td>
+<td style="overflow-wrap:break-word;">NM_002838.5(PTPRC):c.1625_1626dup (p.Asp543fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001914067/" title="RCV001914067" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1420165/?new_evidence=true#id_second" target="_blank">1420165</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:198687394-198687395<br/>GRCh38: 1:198718265-198718266</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.37del (p.Ser13fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001941548/" title="RCV001941548" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1453790/?new_evidence=true#id_second" target="_blank">1453790</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35857111-35857111<br/>GRCh38: 5:35857009-35857009</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.514del (p.Glu172fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001962844/" title="RCV001962844" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1437489/?new_evidence=true#id_second" target="_blank">1437489</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35871291-35871291<br/>GRCh38: 5:35871189-35871189</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a></td>
+<td style="overflow-wrap:break-word;">NM_002838.5(PTPRC):c.308C&gt;G (p.Ser103Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001963234/" title="RCV001963234" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1460093/?new_evidence=true#id_second" target="_blank">1460093</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:198668702-198668702<br/>GRCh38: 1:198699573-198699573</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NC_000005.10:g.(?_35860832)_(35871233_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000805916/" title="RCV000805916" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/650715/?new_evidence=true#id_second" target="_blank">650715</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35860934-35871335<br/>GRCh38: 5:35860832-35871233</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NC_000005.9:g.(?_35857060)_(35857181_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001387106/" title="RCV001387106" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1073963/?new_evidence=true#id_second" target="_blank">1073963</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35857060-35857181<br/>GRCh38: </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.126C&gt;G (p.Cys42Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001998094/" title="RCV001998094" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1465004/?new_evidence=true#id_second" target="_blank">1465004</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35860997-35860997<br/>GRCh38: 5:35860895-35860895</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.562del (p.Lys187_Leu188insTer)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002651894/" title="RCV002651894" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2203628/?new_evidence=true#id_second" target="_blank">2203628</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35873606-35873606<br/>GRCh38: 5:35873504-35873504</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.662G&gt;T (p.Ser221Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000688209/" title="RCV000688209" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/134528/?new_evidence=true#id_second" target="_blank">134528</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/587778405" target="_blank">rs587778405</a></td>
+<td>GRCh37: 5:35873706-35873706<br/>GRCh38: 5:35873604-35873604</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.333T&gt;A (p.Val111=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000416601/" title="RCV000416601" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/208851/?new_evidence=true#id_second" target="_blank">208851</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/199641706" target="_blank">rs199641706</a></td>
+<td>GRCh37: 5:35867519-35867519<br/>GRCh38: 5:35867417-35867417</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.235G&gt;T (p.Glu79Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001783479/" title="RCV001783479" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1323115/?new_evidence=true#id_second" target="_blank">1323115</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35867421-35867421<br/>GRCh38: 5:35867319-35867319</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.265C&gt;T (p.Gln89Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001869366/" title="RCV001869366" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/804345/?new_evidence=true#id_second" target="_blank">804345</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/141698985" target="_blank">rs141698985</a></td>
+<td>GRCh37: 5:35867451-35867451<br/>GRCh38: 5:35867349-35867349</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.616C&gt;T (p.Arg206Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002032697/" title="RCV002032697" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1298987/?new_evidence=true#id_second" target="_blank">1298987</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35873660-35873660<br/>GRCh38: 5:35873558-35873558</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.538-1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000015966/" title="RCV000015966" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/14841/?new_evidence=true#id_second" target="_blank">14841</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1315265916" target="_blank">rs1315265916</a></td>
+<td>GRCh37: 5:35873581-35873581<br/>GRCh38: 5:35873479-35873479</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.83-1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000689926/" title="RCV000689926" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/569326/?new_evidence=true#id_second" target="_blank">569326</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200803157" target="_blank">rs200803157</a></td>
+<td>GRCh37: 5:35860953-35860953<br/>GRCh38: 5:35860851-35860851</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.221+2T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763140/" title="RCV000763140" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/265195/?new_evidence=true#id_second" target="_blank">265195</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200044623" target="_blank">rs200044623</a></td>
+<td>GRCh37: 5:35861094-35861094<br/>GRCh38: 5:35860992-35860992</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.134A&gt;C (p.Gln45Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000766122/" title="RCV000766122" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/624585/?new_evidence=true#id_second" target="_blank">624585</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1561418803" target="_blank">rs1561418803</a></td>
+<td>GRCh37: 5:35861005-35861005<br/>GRCh38: 5:35860903-35860903</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.537+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001233554/" title="RCV001233554" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/624613/?new_evidence=true#id_second" target="_blank">624613</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/777878144" target="_blank">rs777878144</a></td>
+<td>GRCh37: 5:35871316-35871316<br/>GRCh38: 5:35871214-35871214</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.221+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001030043/" title="RCV001030043" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/830061/?new_evidence=true#id_second" target="_blank">830061</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1580851910" target="_blank">rs1580851910</a></td>
+<td>GRCh37: 5:35861093-35861093<br/>GRCh38: 5:35860991-35860991</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.437_438del (p.Phe146fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000685277/" title="RCV000685277" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/565662/?new_evidence=true#id_second" target="_blank">565662</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1561423197" target="_blank">rs1561423197</a></td>
+<td>GRCh37: 5:35871214-35871215<br/>GRCh38: 5:35871112-35871113</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.353G&gt;A (p.Cys118Tyr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000820355/" title="RCV000820355" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/36392/?new_evidence=true#id_second" target="_blank">36392</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/193922641" target="_blank">rs193922641</a></td>
+<td>GRCh37: 5:35867539-35867539<br/>GRCh38: 5:35867437-35867437</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a></td>
+<td style="overflow-wrap:break-word;">NM_002838.5(PTPRC):c.905-2A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001968938/" title="RCV001968938" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1468346/?new_evidence=true#id_second" target="_blank">1468346</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:198677260-198677260<br/>GRCh38: 1:198708131-198708131</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a></td>
+<td style="overflow-wrap:break-word;">NM_002838.5(PTPRC):c.1864+2T&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001379776/" title="RCV001379776" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1068274/?new_evidence=true#id_second" target="_blank">1068274</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:198698302-198698302<br/>GRCh38: 1:198729173-198729173</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a></td>
+<td style="overflow-wrap:break-word;">NM_002838.5(PTPRC):c.2403+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000640060/" title="RCV000640060" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/533063/?new_evidence=true#id_second" target="_blank">533063</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1553243550" target="_blank">rs1553243550</a></td>
+<td>GRCh37: 1:198704382-198704382<br/>GRCh38: 1:198735253-198735253</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.644G&gt;T (p.Gly215Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002513253/" title="RCV002513253" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/36396/?new_evidence=true#id_second" target="_blank">36396</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/193922645" target="_blank">rs193922645</a></td>
+<td>GRCh37: 5:35873688-35873688<br/>GRCh38: 5:35873586-35873586</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.2T&gt;G (p.Met1Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001219210/" title="RCV001219210" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/948034/?new_evidence=true#id_second" target="_blank">948034</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200076125" target="_blank">rs200076125</a></td>
+<td>GRCh37: 5:35857081-35857081<br/>GRCh38: 5:35856979-35856979</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.135G&gt;C (p.Gln45His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001900777/" title="RCV001900777" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1393864/?new_evidence=true#id_second" target="_blank">1393864</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35861006-35861006<br/>GRCh38: 5:35860904-35860904</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.120C&gt;G (p.Phe40Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002260878/" title="RCV002260878" target="_blank">Risk Factor</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1693469/?new_evidence=true#id_second" target="_blank">1693469</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35860991-35860991<br/>GRCh38: 5:35860889-35860889</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.41T&gt;C (p.Leu14Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002244108/" title="RCV002244108" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1683587/?new_evidence=true#id_second" target="_blank">1683587</a></td>
+<td><span></span> </td>
+<td>GRCh37: 5:35857120-35857120<br/>GRCh38: 5:35857018-35857018</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.160T&gt;C (p.Ser54Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000766123/" title="RCV000766123" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/624586/?new_evidence=true#id_second" target="_blank">624586</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1002396899" target="_blank">rs1002396899</a></td>
+<td>GRCh37: 5:35861031-35861031<br/>GRCh38: 5:35860929-35860929</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.339A&gt;C (p.Glu113Asp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000640071/" title="RCV000640071" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/377977/?new_evidence=true#id_second" target="_blank">377977</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/11567735" target="_blank">rs11567735</a></td>
+<td>GRCh37: 5:35867525-35867525<br/>GRCh38: 5:35867423-35867423</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a></td>
+<td style="overflow-wrap:break-word;">NM_002838.5(PTPRC):c.782G&gt;T (p.Gly261Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000768296/" title="RCV000768296" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/379207/?new_evidence=true#id_second" target="_blank">379207</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/142941257" target="_blank">rs142941257</a></td>
+<td>GRCh37: 1:198675959-198675959<br/>GRCh38: 1:198706830-198706830</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.1096T&gt;C (p.Ser366Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000640061/" title="RCV000640061" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/134539/?new_evidence=true#id_second" target="_blank">134539</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/201671392" target="_blank">rs201671392</a></td>
+<td>GRCh37: 5:35876304-35876304<br/>GRCh38: 5:35876202-35876202</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td style="overflow-wrap:break-word;">NM_002185.5(IL7R):c.778G&gt;A (p.Ala260Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001087188/" title="RCV001087188" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/418258/?new_evidence=true#id_second" target="_blank">418258</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/147153824" target="_blank">rs147153824</a></td>
+<td>GRCh37: 5:35874622-35874622<br/>GRCh38: 5:35874520-35874520</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a></td>
+<td style="overflow-wrap:break-word;">NM_002838.5(PTPRC):c.3073-6A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000640067/" title="RCV000640067" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/533069/?new_evidence=true#id_second" target="_blank">533069</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/191867796" target="_blank">rs191867796</a></td>
+<td>GRCh37: 1:198719615-198719615<br/>GRCh38: 1:198750486-198750486</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Immunodeficiency 104:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R" title="IL7R gene information at GeneCards" target="_blank">IL7R</a></td>
+<td>p.Pro132Ser</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_034870.html" target="_blank">VAR_034870</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/104893894" target="_blank">rs104893894</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Immunodeficiency%20104%22%5BMeSH%20Terms%5D%20OR%20%22Immunodeficiency%20104%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Immunodeficiency 104.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Immunodeficiency 104 according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Overview_of_interferons-mediated_signaling_pathway_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/overview_of_interferons-mediated_signaling_pathway" target="_blank">Overview of interferons-mediated signaling pathway</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP4558" target="_blank">74</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>all-trans-Retinoic Acid Mediated Apoptosis</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>Cytokine Network</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>Immune response IFN alpha/beta signaling pathway</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-909733" target="_blank">Interferon alpha/beta signaling</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://www.rndsystems.com/pathways/jak-stat-signaling-pathway?utm_source=genecards&amp;utm_medium=referral&amp;utm_campaign=product&amp;utm_content=pathway" target="_blank">Jak/STAT Signaling Pathway</a>
+<sup title="R&amp;D Systems">65</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-912694" target="_blank">Regulation of IFNA/IFNB signaling</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP2113" target="_blank">Type III interferon signaling</a>
+<sup title="WikiPathways">74</sup>
+</div>
+</div>
+</td>
+<td>11.77</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=Overview+of+interferons-mediated+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Overview+of+interferons-mediated+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+<tr id="Hematopoietic_Stem_Cells_and_Lineage-specific_Markers_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/hematopoietic_stem_cells_and_lineage-specific_markers" target="_blank">Hematopoietic Stem Cells and Lineage-specific Markers</a>
+<sup title="R&amp;D Systems"> <a href="https://www.rndsystems.com/pathways/hematopoietic-stem-cells-lineage-specific-markers?utm_source=genecards&amp;utm_medium=referral&amp;utm_campaign=product&amp;utm_content=pathway" target="_blank">65</a></sup>
+</div>
+</td>
+<td>11.22</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=Hematopoietic+Stem+Cells+and+Lineage-specific+Markers&amp;prefilter=pathways_interactions#pathways_interactions" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Hematopoietic+Stem+Cells+and+Lineage-specific+Markers&amp;prefilter=pathways_interactions#pathways_interactions" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+<tr id="Innate_Lymphoid_Cells_Differentiation_3">
+<td>3</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/innate_lymphoid_cells_differentiation" target="_blank">Innate Lymphoid Cells Differentiation</a>
+<sup title="R&amp;D Systems"> <a href="https://www.rndsystems.com/pathways/innate-lymphoid-cells-differentiation?utm_source=genecards&amp;utm_medium=referral&amp;utm_campaign=product&amp;utm_content=pathway" target="_blank">65</a></sup>
+</div>
+</td>
+<td>10.86</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=Innate+Lymphoid+Cells+Differentiation&amp;prefilter=pathways_interactions#pathways_interactions" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Innate+Lymphoid+Cells+Differentiation&amp;prefilter=pathways_interactions#pathways_interactions" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+<tr id="Dendritic_Cells_Developmental_Lineage_Pathway_4">
+<td>4</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/dendritic_cells_developmental_lineage_pathway" target="_blank">Dendritic Cells Developmental Lineage Pathway</a>
+<sup title="R&amp;D Systems"> <a href="https://www.rndsystems.com/pathways/dendritic-cells-developmental-lineage-pathway?utm_source=genecards&amp;utm_medium=referral&amp;utm_campaign=product&amp;utm_content=pathway" target="_blank">65</a></sup>
+</div>
+</td>
+<td>10.49</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=Dendritic+Cells+Developmental+Lineage+Pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=Dendritic+Cells+Developmental+Lineage+Pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Cellular components related to Immunodeficiency 104 according to GeneCards Suite gene sharing:</h3>
+<table id="go_cc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>external side of plasma membrane</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0009897" target="_blank">GO:0009897</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=external+side+of+plasma+membrane&amp;prefilter=go_cc#go_cc" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=external+side+of+plasma+membrane&amp;prefilter=go_cc#go_cc" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Biological processes related to Immunodeficiency 104 according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>cell surface receptor signaling pathway</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0007166" target="_blank">GO:0007166</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=cell+surface+receptor+signaling+pathway&amp;prefilter=go_proc#go_proc" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=cell+surface+receptor+signaling+pathway&amp;prefilter=go_proc#go_proc" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>B cell proliferation</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0042100" target="_blank">GO:0042100</a></td>
+<td>9.46</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=B+cell+proliferation&amp;prefilter=go_proc#go_proc" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=B+cell+proliferation&amp;prefilter=go_proc#go_proc" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>T cell differentiation</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0030217" target="_blank">GO:0030217</a></td>
+<td>9.13</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=T+cell+differentiation&amp;prefilter=go_proc#go_proc" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=T+cell+differentiation&amp;prefilter=go_proc#go_proc" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>negative regulation of T cell mediated cytotoxicity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0001915" target="_blank">GO:0001915</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTPRC&amp;keywords=negative+regulation+of+T+cell+mediated+cytotoxicity&amp;prefilter=go_proc#go_proc" title="PTPRC gene information at GeneCards" target="_blank">PTPRC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL7R&amp;keywords=negative+regulation+of+T+cell+mediated+cytotoxicity&amp;prefilter=go_proc#go_proc" title="IL7R gene information at GeneCards" target="_blank">IL7R</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Immunodeficiency 104</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#7c0f090c0c130e083c10151a19111d0c0f1f521f1311">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809edadf0e144991',t:'MTY5NTI2MzA5OS4yODcwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

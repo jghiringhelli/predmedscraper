@@ -1,0 +1,4417 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Mandibuloacral Dysplasia with Type B Lipodystrophy disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/mandibuloacral_dysplasia_with_type_b_lipodystrophy" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'mandibuloacral_dysplasia_with_type_b_lipodystrophy';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+MADB <div class="symbol">MCID: MND002</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 38
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Mandibuloacral Dysplasia with Type B Lipodystrophy</span>
+(<span itemprop="alternateName">MADB</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Bone diseases, Endocrine diseases, Eye diseases, Fetal diseases, Genetic diseases, Metabolic diseases, Oral diseases, Rare diseases, Skin diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#3744565b5244775b5e51525a564744541954585a" target="_blank"><span class="__cf_email__" data-cfemail="90e3f1fcf5e3d0fcf9f6f5fdf1e0e3f3bef3fffd">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="1 Genes associated with Mandibuloacral Dysplasia with Type B Lipodystrophy">Genes</a>
+<a href="#genetic_variations" title="57 Variations associated with Mandibuloacral Dysplasia with Type B Lipodystrophy">Variations</a>
+<a href="#anatomical_context" title="10 Tissues associated with Mandibuloacral Dysplasia with Type B Lipodystrophy">Tissues</a>
+<a href="#disorders" title="4 Related diseases associated with Mandibuloacral Dysplasia with Type B Lipodystrophy">Related diseases</a>
+<a href="#publications" title="72 Publications associated with Mandibuloacral Dysplasia with Type B Lipodystrophy">Publications</a>
+<a href="#clinical_features" title="73 Symptoms &amp; Phenotypes associated with Mandibuloacral Dysplasia with Type B Lipodystrophy">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/mandibuloacral_dysplasia_with_type_b_lipodystrophy?search%3dEndocrine+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Mandibuloacral Dysplasia with Type B Lipodystrophy:</h3>
+<div class="main-name">
+Name: <b>Mandibuloacral Dysplasia with Type B Lipodystrophy</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608612" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/9989/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=90154" title="Orphanet" target="_blank">58</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01933" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1837756" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=608612" title="diseasecard" target="_blank">12</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Madb
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608612" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01933" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/MADB" title="Wikipedia" target="_blank">75</a></sup>
+</div>
+<div>
+Lipodystrophy, Type B, Associated with Mandibuloacral Dysplasia
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608612" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Lipodystrophy Type B Associated with Mandibuloacral Dysplasia
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01933" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Dysplasia, Mandibuloacral, with Type B Lipodystrophy
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/02771" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<div>
+Mandibuloacral Dysplasia Type B Lipodystrophy
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0081129" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=90154" target="_blank">58</a></sup>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/608612" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/608612" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>onset in early childhood</span>
+<br/>
+<span>genetic heterogeneity (see mada, )</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/eye_disease_list" target="_blank">Eye diseases</a> <a href="https://www.malacards.org/categories/bone_disease_list" target="_blank">Bone diseases</a> <a href="https://www.malacards.org/categories/skin_disease_list" target="_blank">Skin diseases</a> <a href="https://www.malacards.org/categories/endocrine_disease_list" target="_blank">Endocrine diseases</a> <a href="https://www.malacards.org/categories/oral_disease_list" target="_blank">Oral diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/XVII" title="XVII" target="_blank">Congenital malformations, deformations and chromosomal abnormalities</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q80-Q89" title="Q80-Q89" target="_blank">Other congenital malformations</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q87" title="Q87" target="_blank">Other specified congenital malformation syndromes affecting multiple systems</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q87.5" title="Q87.5" target="_blank">Other congenital malformation syndromes with other skeletal changes</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare eye diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare bone diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare skin diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare endocrine diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Developmental anomalies during embryogenesis <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0081129" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0081129" target="_blank">DOID:0081129</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608612" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/608612" target="_blank">608612</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS248370" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS248370" target="_blank">PS248370</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D008060" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D008060" target="_blank">D008060</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D019588" target="_blank">D019588</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D030981" target="_blank">D030981</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="MESH via Orphanet">MESH via Orphanet</b>
+<sup title="MESH via Orphanet"><span>44</span> </sup>
+<span>C535706</span>
+</div>
+<div id="ExternalId_item_6">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q87.5" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q87.5" target="_blank">Q87.5</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_7">
+<b title="UMLS via Orphanet">UMLS via Orphanet</b>
+<sup title="UMLS via Orphanet"><span>72</span> </sup>
+<span>C1837756</span>
+</div>
+<div id="ExternalId_item_8">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=90154" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=90154" target="_blank">ORPHA90154</a>
+</div>
+<div id="ExternalId_item_9">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1837756" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1837756" target="_blank">C1837756</a>
+</div>
+<div id="ExternalId_item_10">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/113194005" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/113194005" target="_blank">113194005</a> <a href="http://www.snomedbrowser.com/Codes/Details/12351004" target="_blank">12351004</a> <a href="http://www.snomedbrowser.com/Codes/Details/123526007" target="_blank">123526007</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/14582003" target="_blank">14582003</a> <a href="http://www.snomedbrowser.com/Codes/Details/18265008" target="_blank">18265008</a> <a href="http://www.snomedbrowser.com/Codes/Details/203522001" target="_blank">203522001</a> <a href="http://www.snomedbrowser.com/Codes/Details/203598005" target="_blank">203598005</a> <a href="http://www.snomedbrowser.com/Codes/Details/234974002" target="_blank">234974002</a> <a href="http://www.snomedbrowser.com/Codes/Details/237598005" target="_blank">237598005</a> <a href="http://www.snomedbrowser.com/Codes/Details/237836003" target="_blank">237836003</a> <a href="http://www.snomedbrowser.com/Codes/Details/249310005" target="_blank">249310005</a> <a href="http://www.snomedbrowser.com/Codes/Details/25159003" target="_blank">25159003</a> <a href="http://www.snomedbrowser.com/Codes/Details/27272007" target="_blank">27272007</a> <a href="http://www.snomedbrowser.com/Codes/Details/276617005" target="_blank">276617005</a> <a href="http://www.snomedbrowser.com/Codes/Details/276709006" target="_blank">276709006</a> <a href="http://www.snomedbrowser.com/Codes/Details/277797007" target="_blank">277797007</a> <a href="http://www.snomedbrowser.com/Codes/Details/278040002" target="_blank">278040002</a> <a href="http://www.snomedbrowser.com/Codes/Details/284449005" target="_blank">284449005</a> <a href="http://www.snomedbrowser.com/Codes/Details/298390003" target="_blank">298390003</a> <a href="http://www.snomedbrowser.com/Codes/Details/30425001" target="_blank">30425001</a> <a href="http://www.snomedbrowser.com/Codes/Details/32958008" target="_blank">32958008</a> <a href="http://www.snomedbrowser.com/Codes/Details/385522000" target="_blank">385522000</a> <a href="http://www.snomedbrowser.com/Codes/Details/399979006" target="_blank">399979006</a> <a href="http://www.snomedbrowser.com/Codes/Details/400003000" target="_blank">400003000</a> <a href="http://www.snomedbrowser.com/Codes/Details/400190005" target="_blank">400190005</a> <a href="http://www.snomedbrowser.com/Codes/Details/40052002" target="_blank">40052002</a> <a href="http://www.snomedbrowser.com/Codes/Details/422775003" target="_blank">422775003</a> <a href="http://www.snomedbrowser.com/Codes/Details/42756003" target="_blank">42756003</a> <a href="http://www.snomedbrowser.com/Codes/Details/433146000" target="_blank">433146000</a> <a href="http://www.snomedbrowser.com/Codes/Details/444896005" target="_blank">444896005</a> <a href="http://www.snomedbrowser.com/Codes/Details/4830009" target="_blank">4830009</a> <a href="http://www.snomedbrowser.com/Codes/Details/48606007" target="_blank">48606007</a> <a href="http://www.snomedbrowser.com/Codes/Details/49765009" target="_blank">49765009</a> <a href="http://www.snomedbrowser.com/Codes/Details/53602002" target="_blank">53602002</a> <a href="http://www.snomedbrowser.com/Codes/Details/55033002" target="_blank">55033002</a> <a href="http://www.snomedbrowser.com/Codes/Details/55822004" target="_blank">55822004</a> <a href="http://www.snomedbrowser.com/Codes/Details/56317004" target="_blank">56317004</a> <a href="http://www.snomedbrowser.com/Codes/Details/56558005" target="_blank">56558005</a> <a href="http://www.snomedbrowser.com/Codes/Details/57048009" target="_blank">57048009</a> <a href="http://www.snomedbrowser.com/Codes/Details/59576002" target="_blank">59576002</a> <a href="http://www.snomedbrowser.com/Codes/Details/6595006" target="_blank">6595006</a> <a href="http://www.snomedbrowser.com/Codes/Details/699222000" target="_blank">699222000</a> <a href="http://www.snomedbrowser.com/Codes/Details/7890003" target="_blank">7890003</a> <a href="http://www.snomedbrowser.com/Codes/Details/80394007" target="_blank">80394007</a> <a href="http://www.snomedbrowser.com/Codes/Details/82779003" target="_blank">82779003</a> <a href="http://www.snomedbrowser.com/Codes/Details/83469008" target="_blank">83469008</a> <a href="http://www.snomedbrowser.com/Codes/Details/86907008" target="_blank">86907008</a> <a href="http://www.snomedbrowser.com/Codes/Details/87065009" target="_blank">87065009</a> <a href="http://www.snomedbrowser.com/Codes/Details/88565003" target="_blank">88565003</a> <a href="http://www.snomedbrowser.com/Codes/Details/93250003" target="_blank">93250003</a> </span>
+<span class="showmore">
+<a title="show all 50" id="ExternalId_showmore_10" href="javascript:showMoreTable('ExternalId_item_10','ExternalId_showmore_10','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_11">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C1837756</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="https://rarediseases.info.nih.gov/diseases/9989/index" target="_blank">GARD</a>:</b>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/9989/index" target="_blank">19</a></sup>
+Mandibuloacral dysplasia is a condition that causes a variety of abnormalities involving bone development, skin coloring (pigmentation), and fat distribution. People with this condition may grow slowly after birth. Most affected individuals are born with an underdeveloped lower jaw bone (mandible) and small collar bones (clavicles), leading to the characteristic features of a small chin and sloped shoulders. Other bone problems include loss of bone from the tips of the fingers (acroosteolysis), which causes bulbous finger tips; delayed closure of certain skull bones; and joint deformities (contractures).People with mandibuloacral dysplasia can have mottled or patchy skin pigmentation or other skin abnormalities. Some people with this condition have features of premature aging (a condition called progeria), such as thin skin, loss of teeth, loss of hair, and a beaked nose. Some individuals with mandibuloacral dysplasia have metabolic problems, such as diabetes.A common feature of mandibuloacral dysplasia is a lack of fatty tissue under the skin (lipodystrophy) in certain regions of the body. The two types of this disorder, mandibuloacral dysplasia with type A lipodystrophy (MADA) and mandibuloacral dysplasia with type B lipodystrophy (MADB) are distinguished by the pattern of fat distribution throughout the body. Type A is described as partial lipodystrophy; affected individuals have a loss of fatty tissue from the torso and limbs, but it may build up around the neck and shoulders. Type B is a generalized lipodystrophy, with loss of fatty tissue in the face, torso, and limbs.MADA usually begins in adulthood, although children can be affected. MADB begins earlier, often just after birth. Many babies with MADB are born prematurely.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Mandibuloacral Dysplasia with Type B Lipodystrophy, also known as <i>madb</i>, is related to <i><a href="/card/mandibuloacral_dysplasia_with_type_a_lipodystrophy" target="_blank">mandibuloacral dysplasia with type a lipodystrophy</a></i> and <i><a href="/card/calcinosis" target="_blank">calcinosis</a></i>. An important gene associated with Mandibuloacral Dysplasia with Type B Lipodystrophy is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" target="_blank">ZMPSTE24</a> (Zinc Metallopeptidase STE24). Affiliated tissues include <i>skin</i> and <i>bone</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0000347" target="_blank">micrognathia</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0000924" target="_blank">abnormality of the skeletal system</a></i></p>
+<p> <b> <a href="http://omim.org/entry/608612#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/608612#description" target="_blank">57</a></sup>
+Mandibuloacral dysplasia with type B lipodystrophy (MADB) is a rare autosomal recessive disorder characterized by postnatal growth retardation, craniofacial anomalies such as mandibular hypoplasia, skeletal anomalies such as progressive osteolysis of the terminal phalanges and clavicles, and skin changes such as mottled hyperpigmentation and atrophy. The lipodystrophy is characterized by generalized loss of subcutaneous fat involving the face, trunk, and extremities. Some patients have a progeroid appearance. Metabolic complications associated with insulin resistance have been reported (Schrander-Stumpel et al., 1992; summary by Simha et al., 2003).
+For a general phenotypic description of lipodystrophy associated with mandibuloacral dysplasia, see MADA (248370). <span> (608612) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="http://www.uniprot.org/diseases/DI-01933" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01933" target="_blank">73</a></sup>
+A form of mandibuloacral dysplasia, a rare progeroid disorder with clinical and genetic heterogeneity, characterized by growth retardation, craniofacial dysmorphic features due to distal bone resorption, musculoskeletal and skin abnormalities associated with lipodystrophy. MADB is a disease characterized by mandibular and clavicular hypoplasia, acroosteolysis, delayed closure of the cranial suture, joint contractures, and generalized lipodystrophy with loss of subcutaneous fat from the extremities, face, neck and trunk.</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0081129" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0081129" target="_blank">11</a></sup>
+A mandibuloacral dysplasia that has material basis in compound heterozygous mutation in the ZMPSTE24 gene on chromosome 1p34 and that is characterized by postnatal growth retardation, craniofacial anomalies such as mandibular hypoplasia, skeletal anomalies such as progressive osteolysis of the terminal phalanges and clavicles, and skin changes such as mottled hyperpigmentation and atrophy. The lipodystrophy is characterized by generalized loss of subcutaneous fat involving the face, trunk, and extremities.</p><p> <b> <a href="https://en.wikipedia.org/wiki/MADB" target="_blank">Wikipedia</a>:</b>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/MADB" target="_blank">75</a></sup>
+Madb or MADB can refer... <a href="https://en.wikipedia.org/wiki/MADB" target="_blank">more...</a></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases in the <a href="/card/mandibuloacral_dysplasia_with_type_a_lipodystrophy" target="_blank">Mandibuloacral Dysplasia with Type a Lipodystrophy</a> family:</h3>
+<table class="family borderless">
+<tr>
+<td>
+<b>Mandibuloacral Dysplasia with Type B Lipodystrophy</b>
+</td>
+</tr>
+</table>
+<br/>
+<h3>Diseases related to Mandibuloacral Dysplasia with Type B Lipodystrophy via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/mandibuloacral_dysplasia_with_type_a_lipodystrophy" target="_blank">mandibuloacral dysplasia with type a lipodystrophy</a></td>
+<td>11.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=mandibuloacral+dysplasia+with+type+a+lipodystrophy&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/calcinosis" target="_blank">calcinosis</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=calcinosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/congenital_generalized_lipodystrophy" target="_blank">congenital generalized lipodystrophy</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=congenital+generalized+lipodystrophy&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/premature_aging" target="_blank">premature aging</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=premature+aging&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Mandibuloacral Dysplasia with Type B Lipodystrophy:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('HPO_Symptoms', '56', 'HPO_Symptoms-table');">show all 56</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+micrognathia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000347" target="_blank">HP:0000347</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+abnormality of the skeletal system
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000924" target="_blank">HP:0000924</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+narrow mouth
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000160" target="_blank">HP:0000160</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+large fontanelles
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000239" target="_blank">HP:0000239</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+short distal phalanx of finger
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009882" target="_blank">HP:0009882</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+osteolysis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002797" target="_blank">HP:0002797</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+thin skin
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000963" target="_blank">HP:0000963</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+dermal atrophy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004334" target="_blank">HP:0004334</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+osteolytic defects of the distal phalanges of the hand
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009839" target="_blank">HP:0009839</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+acroosteolysis of distal phalanges (feet)
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001870" target="_blank">HP:0001870</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+aplasia/hypoplasia of the clavicles
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006710" target="_blank">HP:0006710</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+abnormality of the dentition
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000164" target="_blank">HP:0000164</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+short nose
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003196" target="_blank">HP:0003196</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+short stature
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004322" target="_blank">HP:0004322</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+alopecia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001596" target="_blank">HP:0001596</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+hyperlipidemia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003077" target="_blank">HP:0003077</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+prematurely aged appearance
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007495" target="_blank">HP:0007495</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+proptosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000520" target="_blank">HP:0000520</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+convex nasal ridge
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000444" target="_blank">HP:0000444</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+nail dystrophy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008404" target="_blank">HP:0008404</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+insulin resistance
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000855" target="_blank">HP:0000855</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+hyperpigmentation of the skin
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000953" target="_blank">HP:0000953</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+progeroid facial appearance
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005328" target="_blank">HP:0005328</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+generalized lipodystrophy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009064" target="_blank">HP:0009064</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+calcinosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003761" target="_blank">HP:0003761</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+abnormal fingertip morphology
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001211" target="_blank">HP:0001211</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+abnormal hair morphology
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001595" target="_blank">HP:0001595</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+delayed puberty
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000823" target="_blank">HP:0000823</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+flexion contracture
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001371" target="_blank">HP:0001371</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+growth delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001510" target="_blank">HP:0001510</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+sparse hair
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008070" target="_blank">HP:0008070</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+
+delayed cranial suture closure
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000270" target="_blank">HP:0000270</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+
+short clavicles
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000894" target="_blank">HP:0000894</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+
+stage 5 chronic kidney disease
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003774" target="_blank">HP:0003774</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+
+brittle hair
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002299" target="_blank">HP:0002299</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+
+mottled pigmentation
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001070" target="_blank">HP:0001070</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+
+loss of subcutaneous adipose tissue in limbs
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003635" target="_blank">HP:0003635</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+
+prominent superficial veins
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001015" target="_blank">HP:0001015</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+
+loss of facial adipose tissue
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000292" target="_blank">HP:0000292</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+
+narrow nasal ridge
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000418" target="_blank">HP:0000418</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+
+high palate
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000218" target="_blank">HP:0000218</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+
+glucose intolerance
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001952" target="_blank">HP:0001952</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+
+hyperinsulinemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000842" target="_blank">HP:0000842</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+
+dental crowding
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000678" target="_blank">HP:0000678</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+
+abnormality of the neck
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000464" target="_blank">HP:0000464</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td>
+
+wormian bones
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002645" target="_blank">HP:0002645</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td>
+
+abnormality of the hair
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td>
+
+short phalanx of finger
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009803" target="_blank">HP:0009803</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td>
+
+premature loss of teeth
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006480" target="_blank">HP:0006480</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td>
+
+hypoplasia of teeth
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000685" target="_blank">HP:0000685</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/608612" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Endocrine Features:</u><br/>
+<span>glucose intolerance</span>
+<br/>
+<span>insulin-resistant diabetes mellitus</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Skin Nails Hair Hair:</u><br/>
+<span>sparse hair</span>
+<br/>
+<span>brittle hair</span>
+<br/>
+<span>alopecia, partial</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Skin Nails Hair Skin:</u><br/>
+<span>mottled pigmentation</span>
+<br/>
+<span>skin atrophy</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Muscle Soft Tissue:</u><br/>
+<span>loss of facial adipose tissue</span>
+<br/>
+<span>loss of subcutaneous adipose tissue from extremities</span>
+<br/>
+<span>generalized lipodystrophy (abnormal distribution of subcutaneous fat)</span>
+<br/>
+<span>loss of truncal adipose tissue</span>
+<br/>
+<span>loss of adipose tissue around the neck</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Genitourinary Kidneys:</u><br/>
+<span>renal failure</span>
+<br/>
+<span>interstitial fibrosis</span>
+<br/>
+<span>tubular atrophy</span>
+<br/>
+<span>focal segmental glomerulosclerosis (classic or collapsing)</span>
+<br/>
+<span>segmental or global sclerosis of glomeruli</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>tuft collapse</span>
+<br/>
+<span>interstitial lymphocyte infiltrate</span>
+<br/>
+<span>podocyte hypertrophy</span>
+<br/>
+<span>podocyte hyperplasia</span>
+<br/>
+<span>segmental mesangial igm staining</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 10" id="ClinicalSynopsis_showmore_5" href="javascript:showMoreTable('ClinicalSynopsis_item_5','ClinicalSynopsis_showmore_5','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Skeletal:</u><br/>
+<span>joint contractures</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Chest Ribs Sternum Clavicles And Scapulae:</u><br/>
+<span>clavicular hypoplasia</span>
+<br/>
+<span>progressive acroosteolysis of the clavicle</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Skeletal Feet:</u><br/>
+<span>acroosteolysis of distal phalanges</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Head And Neck Nose:</u><br/>
+<span>pinched nose</span>
+<br/>
+<span>pointed nose</span>
+<br/>
+<span>beak nose</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>hyperinsulinemia</span>
+<br/>
+<span>hyperlipidemia</span>
+<br/>
+<span>hyperglycemia</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_11" class="tab">
+<u>Skeletal Skull:</u><br/>
+<span>wormian bones</span>
+<br/>
+<span>delayed closure of cranial sutures</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_12" class="tab">
+<u>Head And Neck Face:</u><br/>
+<span>bird-like facies</span>
+<br/>
+<span>mandibular hypoplasia</span>
+<br/>
+<span>loss of facial subcutaneous adipose tissue</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_13" class="tab">
+<u>Head And Neck Neck:</u><br/>
+<span>decreased adipose tissue around neck</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_14" class="tab">
+<u>Head And Neck Mouth:</u><br/>
+<span>high-arched palate</span>
+<br/>
+<span>small mouth</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_15" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>prominent eyes</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_16" class="tab">
+<u>Skeletal Hands:</u><br/>
+<span>acroosteolysis of distal phalanges</span>
+<br/>
+<span>shortened phalanges</span>
+<br/>
+<span>phalangeal &#39;bony knots&#39; (calcified sclerotic tissue)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_17" class="tab">
+<u>Head And Neck Teeth:</u><br/>
+<span>hypoplastic teeth</span>
+<br/>
+<span>dental overcrowding</span>
+<br/>
+<span>loss of teeth</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/608612#clinicalFeatures" target="_blank">608612</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Mandibuloacral Dysplasia with Type B Lipodystrophy" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Mandibuloacral Dysplasia with Type B Lipodystrophy&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Mandibuloacral Dysplasia with Type B Lipodystrophy</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Mandibuloacral Dysplasia with Type B Lipodystrophy:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Mandibuloacral Dysplasia with Type B Lipodystrophy
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1837756" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24&amp;keywords=mandibuloacral+dysplasia+with+type+b+lipodystrophy&amp;prefilter=diseases#diseases" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Mandibuloacral Dysplasia with Type B Lipodystrophy: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="8.659456">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/608612/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="8.128068">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="3.356653">Eye</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.3888164">Kidney</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.1620957">Cingulate Cortex</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.117535">Smooth Muscle</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.1079419">Spinal Cord</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span>Adipose-Subcutaneous</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/608612/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span>Adipose</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/608612/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span>Adipose-Visceral</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/608612/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Mandibuloacral Dysplasia with Type B Lipodystrophy according to OMIM&#174; and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 14', 'showing 14, show less','collapsable')">show all 14</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Early onset mandibuloacral dysplasia due to compound heterozygous mutations in ZMPSTE24.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ahmad Z...Garg A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20814950" target="_blank">20814950</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Severe mandibuloacral dysplasia caused by novel compound heterozygous ZMPSTE24 mutations in two Japanese siblings.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Miyoshi Y...Ozono K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18435794" target="_blank">18435794</a></td>
+<td>2008</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Zinc metalloproteinase, ZMPSTE24, is mutated in mandibuloacral dysplasia.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Agarwal AK...Garg A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12913070" target="_blank">12913070</a></td>
+<td>2003</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A shared founder mutation underlies restrictive dermopathy in Old Colony (Dutch-German) Mennonite and Hutterite patients in North America.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Loucks C...Innes AM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22495976" target="_blank">22495976</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Restrictive dermopathy and ZMPSTE24 mutations in Mennonites: Evidence for allelic heterogeneity.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Miner JH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20635340" target="_blank">20635340</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Homozygosity for the common mutation c.1085dupT in the ZMPSTE24 gene in a Mennonite baby with restrictive dermopathy and placenta abruption.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Li C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20034068" target="_blank">20034068</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Focal segmental glomerulosclerosis in patients with mandibuloacral dysplasia owing to ZMPSTE24 deficiency.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Agarwal AK...Garg A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17152860" target="_blank">17152860</a></td>
+<td>2006</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Homozygous and compound heterozygous mutations in ZMPSTE24 cause the laminopathy restrictive dermopathy.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Moulson CL...Miner JH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16297189" target="_blank">16297189</a></td>
+<td>2005</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Lamin A and ZMPSTE24 (FACE-1) defects cause nuclear disorganization and identify restrictive dermopathy as a lethal neonatal laminopathy.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Navarro CL...Levy N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15317753" target="_blank">15317753</a></td>
+<td>2004</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genetic and phenotypic heterogeneity in patients with mandibuloacral dysplasia-associated lipodystrophy.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Simha V...Garg A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12788894" target="_blank">12788894</a></td>
+<td>2003</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Body fat distribution and metabolic derangements in patients with familial partial lipodystrophy associated with mandibuloacral dysplasia.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Simha V...Garg A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11836320" target="_blank">11836320</a></td>
+<td>2002</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Restrictive dermopathy.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Reed MH...Wilmot DM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8152880" target="_blank">8152880</a></td>
+<td>1993</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A severe case of mandibuloacral dysplasia in a girl.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Schrander-Stumpel C...Dumon J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/1642279" target="_blank">1642279</a></td>
+<td>1992</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Congenital contractures, edema, hyperkeratosis, and intrauterine growth retardation: a fatal syndrome in Hutterite and Mennonite kindreds.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lowry RB...Marx L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3840649" target="_blank">3840649</a></td>
+<td>1985</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Mandibuloacral Dysplasia with Type B Lipodystrophy according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('InferredPublications', '58', 'InferredPublications-table');">show all 58</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Analysis of a non-lethal biallelic frameshift mutation in ZMPSTE24 reveals utilization of alternative translation initiation codons.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kaufmann L...Windpassinger C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37270786" target="_blank">37270786</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Impact of Combined Baricitinib and FTI Treatment on Adipogenesis in Hutchinson-Gilford Progeria Syndrome and Other Lipodystrophic Laminopathies.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hartinger R...Djabali K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37408186" target="_blank">37408186</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Initiation of fatty acid biosynthesis in Pseudomonas putida KT2440.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">McNaught KJ...Beckham GT</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36796578" target="_blank">36796578</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+An exceptional biallelic N-terminal frame shift mutation in ZMPSTE24 leads to non-lethal progeria due to possible utilization of a downstream alternative start codon.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Schaflinger E...Windpassinger C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35597529" target="_blank">35597529</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Malonyl-acyl carrier protein decarboxylase activity promotes fatty acid and cell envelope biosynthesis in Proteobacteria.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Whaley SG...Rock CO</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34801557" target="_blank">34801557</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Transcriptome Sequencing Explores the Mechanism of Baicalin on Bone Cancer Pain.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang A...Yun Z</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34815689" target="_blank">34815689</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Benchmarking Force Field and the ANI Neural Network Potentials for the Torsional Potential Energy Surface of Biaryl Drug Fragments.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lahey SJ...Rowley CN</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33263401" target="_blank">33263401</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Global transcriptomic analysis of Cronobacter sakazakii CICC 21544 by RNA-seq under inorganic acid and organic acid stresses.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhou A...Li X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32156398" target="_blank">32156398</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Therapeutic Breast Reconstruction Using Gene Therapy-Delivered IFNγ Immunotherapy.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Davis CR...Gurtner GC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31658961" target="_blank">31658961</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mandibuloacral dysplasia type B (MADB): a cohort of eight patients from Suriname with a homozygous founder mutation in ZMPSTE24 (FACE1), clinical diagnostic criteria and management guidelines.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hitzert MM...Zijlmans CWR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31856865" target="_blank">31856865</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mandibuloacral dysplasia with type B lipodystrophy in a patient from Chile.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Alarcon PI...Gilgenkrantz S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30919593" target="_blank">30919593</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mammalian Annotation Database for improved annotation and functional classification of Omics datasets from less well-annotated organisms.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bick JT...Bauersachs S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31353404" target="_blank">31353404</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Stimulatory effect of desipramine on lung metastases of adenocarcinoma MADB 106 in stress highly-sensitive and stress non-reactive rats.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Grygier B...Lason W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28433460" target="_blank">28433460</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Dexmedetomidine promotes metastasis in rodent models of breast, lung, and colon cancers.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lavon H...Ben-Eliyahu S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29397129" target="_blank">29397129</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The inhibition of mating in Phycomyces blakesleeanus by light is dependent on the MadA-MadB complex that acts in a sex-specific manner.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Shakya VPS...Idnurm A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28214601" target="_blank">28214601</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Myosin-driven transport network in plants.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kurth EG...Dolja VV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28096376" target="_blank">28096376</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Progeroid syndrome patients with ZMPSTE24 deficiency could benefit when treated with rapamycin and dimethylsulfoxide.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Akinci B...Agarwal AK</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28050601" target="_blank">28050601</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Effect of the ifenprodil administered into rostral anterior cingulate cortex on pain-related aversion in rats with bone cancer pain.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Feng H...Liu Z</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27871230" target="_blank">27871230</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Failure of ossification of the occipital bone in mandibuloacral dysplasia type B.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Haye D...Verloes A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27410998" target="_blank">27410998</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Anti-phagocytosis and tumor cell targeting micelles prepared from multifunctional cell membrane mimetic polymers.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Jiang HT...Gong YK</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32263470" target="_blank">32263470</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Rapid screening of different types of antitumor compound groups from traditional chinese medicine by hollow fiber cell fishing with high performance liquid chromatography.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang LS...Bai XH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25360674" target="_blank">25360674</a></td>
+<td>2014</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Inhibitory effects of intrathecal p38β antisense oligonucleotide on bone cancer pain in rats.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dong H...Tian XB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25550805" target="_blank">25550805</a></td>
+<td>2014</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Incomplete tumour control following DNA vaccination against rat gliomas expressing a model antigen.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ginzkey C...Hamel W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23132370" target="_blank">23132370</a></td>
+<td>2013</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Increase in tumor size following intratumoral injection of immunostimulatory CpG-containing oligonucleotides in a rat glioma model.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ginzkey C...Hamel W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19798500" target="_blank">19798500</a></td>
+<td>2010</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Does analgesia and condition influence immunity after surgery? Effects of fentanyl, ketamine and clonidine on natural killer activity at different ages.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Forget P...De Kock M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19487949" target="_blank">19487949</a></td>
+<td>2010</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Web2OHS: a Web2.0-based omnibearing homecare system.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ku HH...Huang CM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20007036" target="_blank">20007036</a></td>
+<td>2010</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Phycomyces MADB interacts with MADA to form the primary photoreceptor complex for fungal phototropism.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sanz C...Eslava AP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19380729" target="_blank">19380729</a></td>
+<td>2009</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Using genetically modified microvascular free flaps to deliver local cancer immunotherapy with minimal systemic toxicity.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dempsey MP...Gurtner GC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18453976" target="_blank">18453976</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[The cellular location and significance of p38alpha/beta isoforms in the lumbar spinal cord of the bone cancer pain rats].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dong H...Jin XG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17403314" target="_blank">17403314</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Microarray analysis in clinical oncology: pre-clinical optimization using needle core biopsies from xenograft tumors.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Goley EM...Camphausen K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15151703" target="_blank">15151703</a></td>
+<td>2004</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The NCI/CIT microArray database (mAdb) system - bioinformatics for the management and analysis of Affymetrix and spotted gene expression microarrays.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Greene JM...Powell J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/14728569" target="_blank">14728569</a></td>
+<td>2003</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Combination of stereotactic radiosurgery and cytokine gene-transduced tumor cell vaccination: a new strategy against metastatic brain tumors.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Nakahara N...Pollack IF</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11765844" target="_blank">11765844</a></td>
+<td>2001</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The effects of a Chinese herb formula, anti-cancer number one (ACNO), on NK cell activity and tumor metastasis in rats.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hong-Fen L...Ben-Eliyahu S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11606026" target="_blank">11606026</a></td>
+<td>2001</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Social stress in laboratory rats: behavior, immune function, and tumor metastasis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Stefanski V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11438366" target="_blank">11438366</a></td>
+<td>2001</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A comparison of microarray databases.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gardiner-Garden M...Littlejohn TG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11465732" target="_blank">11465732</a></td>
+<td>2001</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Potent antitumor effects of intra-arterial injection of fibroblasts genetically engineered to express IL-12 in liver metastasis model of rat: no additional benefit of using retroviral producer cell.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Iwazawa T...Tahara H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11219489" target="_blank">11219489</a></td>
+<td>2001</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Light-induced absorbance changes in Phycomyces: evidence for cryptochrome-associated flavosemiquinones.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Schmidt W...Galland P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10333590" target="_blank">10333590</a></td>
+<td>1999</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Sequence of a gene cluster from Malonomonas rubra encoding components of the malonate decarboxylase Na+ pump and evidence for their function.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Berg M...Dimroth P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9128730" target="_blank">9128730</a></td>
+<td>1997</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Electron-microscopic observations on the muscular coat of swell bodies in human nasal mucosa.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Grevers G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/7934603" target="_blank">7934603</a></td>
+<td>1994</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Altered flavin patterns in photobehavioral mutants of Phycomyces blakesleeanus.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hohl N...Senger H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/1542706" target="_blank">1542706</a></td>
+<td>1992</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Altered pterin patterns in photobehavioral mutants of Phycomyces blakesleeanus.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hohl N...Senger H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/1542705" target="_blank">1542705</a></td>
+<td>1992</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A new gene (madI) involved in the phototropic response of Phycomyces.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Campuzano V...Alvarez MI</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2259336" target="_blank">2259336</a></td>
+<td>1990</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+High-and low-intensity photosystems in Phycomyces phototropism: Effects of mutations in genes madA, madB, and madC.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Palit A...Lipson ED</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24212497" target="_blank">24212497</a></td>
+<td>1989</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mechanism of immunotherapeutic activity of OK-432 in the treatment of peritoneal carcinomatosis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fukui H...Talmadge JE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2784999" target="_blank">2784999</a></td>
+<td>1989</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+System analysis of Phycomyces light-growth response in single and double night-blind mutants.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Palit A...Lipson ED</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2706288" target="_blank">2706288</a></td>
+<td>1989</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Arrangement of desmin intermediate filaments in smooth muscle cells as shown by high-resolution immunocytochemistry.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Stromer MH...Bendayan M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3191532" target="_blank">3191532</a></td>
+<td>1988</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Induction of tumouricidal macrophages by MTP-PE: its enhancement by a factor produced spontaneously by tumour cells.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yamagami S...Schumann G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3621354" target="_blank">3621354</a></td>
+<td>1987</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+System analysis of Phycomyces light-growth response. Photoreceptor and hypertropic mutants.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Palit A...Lipson ED</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3779005" target="_blank">3779005</a></td>
+<td>1986</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+System analysis of Phycomyces light-growth response: single mutants.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Poe RC...Lipson ED</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3801541" target="_blank">3801541</a></td>
+<td>1986</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Electrophoretic analysis of proteins from night-blind mutants of Phycomyces.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Pollock JA...Sullivan DT</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/4038250" target="_blank">4038250</a></td>
+<td>1985</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Mandibuloacral Dysplasia with Type B Lipodystrophy (1 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Zinc Metallopeptidase STE24</td>
+<td>Protein Coding</td>
+<td>1692.68</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/606480" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=15747" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_ZMPSTE24">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24&amp;keywords=Mandibuloacral+Dysplasia+with+Type+B+Lipodystrophy&amp;prefilter=diseases#diseases" title="ZMPSTE24 gene information at GeneCards" target="_blank">Disorders</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24&amp;keywords=Mandibuloacral+Dysplasia+with+Type+B+Lipodystrophy&amp;prefilter=publications#publications" title="ZMPSTE24 gene information at GeneCards" target="_blank">Publications</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_ZMPSTE24_SeeMore" href="javascript:showMoreTable('related_genes_ZMPSTE24','related_genes_ZMPSTE24_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/3840649" title="ClinVar" target="_blank">3840649</a> <a href="https://pubmed.ncbi.nlm.nih.gov/8152880" title="ClinVar" target="_blank">8152880</a> <a href="https://pubmed.ncbi.nlm.nih.gov/12913070" title="ClinVar" target="_blank">12913070</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/15317753" title="ClinVar" target="_blank">15317753</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16297189" title="ClinVar" target="_blank">16297189</a> <a href="https://pubmed.ncbi.nlm.nih.gov/18435794" title="ClinVar" target="_blank">18435794</a> <a href="https://pubmed.ncbi.nlm.nih.gov/20034068" title="ClinVar" target="_blank">20034068</a> <a href="https://pubmed.ncbi.nlm.nih.gov/20635340" title="ClinVar" target="_blank">20635340</a> <a href="https://pubmed.ncbi.nlm.nih.gov/20814950" title="ClinVar" target="_blank">20814950</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22495976" title="ClinVar" target="_blank">22495976</a> </span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Mandibuloacral Dysplasia with Type B Lipodystrophy:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '54', 'ClinVarVariations-table');">show all 54</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1018T&gt;C (p.Trp340Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000004493/" title="RCV000004493" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/4272/?new_evidence=true#id_second" target="_blank">4272</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908093" target="_blank">rs121908093</a></td>
+<td>GRCh37: 1:40751660-40751660<br/>GRCh38: 1:40285988-40285988</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.121C&gt;T (p.Gln41Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000004495/" title="RCV000004495" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/4274/?new_evidence=true#id_second" target="_blank">4274</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908094" target="_blank">rs121908094</a></td>
+<td>GRCh37: 1:40724064-40724064<br/>GRCh38: 1:40258392-40258392</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.743C&gt;T (p.Pro248Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000004496/" title="RCV000004496" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/4275/?new_evidence=true#id_second" target="_blank">4275</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908095" target="_blank">rs121908095</a></td>
+<td>GRCh37: 1:40737681-40737681<br/>GRCh38: 1:40272009-40272009</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1349G&gt;A (p.Trp450Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000023550/" title="RCV000023550" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/30586/?new_evidence=true#id_second" target="_blank">30586</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/281875376" target="_blank">rs281875376</a></td>
+<td>GRCh37: 1:40758262-40758262<br/>GRCh38: 1:40292590-40292590</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.691G&gt;T (p.Glu231Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003147343/" title="RCV003147343" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/140536/?new_evidence=true#id_second" target="_blank">140536</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/281875369" target="_blank">rs281875369</a></td>
+<td>GRCh37: 1:40737629-40737629<br/>GRCh38: 1:40271957-40271957</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1133_1137del (p.Gly377_Phe378insTer)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003147886/" title="RCV003147886" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2441655/?new_evidence=true#id_second" target="_blank">2441655</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:40756598-40756602<br/>GRCh38: 1:40290926-40290930</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1085dup (p.Leu362fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000004492/" title="RCV000004492" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002490308/" title="RCV002490308" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/4271/?new_evidence=true#id_second" target="_blank">4271</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/137854889" target="_blank">rs137854889</a></td>
+<td>GRCh37: 1:40756542-40756543<br/>GRCh38: 1:40290870-40290871</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.709G&gt;T (p.Glu237Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002492493/" title="RCV002492493" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/140537/?new_evidence=true#id_second" target="_blank">140537</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/281875370" target="_blank">rs281875370</a></td>
+<td>GRCh37: 1:40737647-40737647<br/>GRCh38: 1:40271975-40271975</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1416G&gt;T (p.Met472Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002482675/" title="RCV002482675" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1386345/?new_evidence=true#id_second" target="_blank">1386345</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:40758329-40758329<br/>GRCh38: 1:40292657-40292657</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.260C&gt;T (p.Thr87Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002486715/" title="RCV002486715" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1514530/?new_evidence=true#id_second" target="_blank">1514530</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:40726647-40726647<br/>GRCh38: 1:40260975-40260975</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*1492A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000263864/" title="RCV000263864" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297277/?new_evidence=true#id_second" target="_blank">297277</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057515561" target="_blank">rs1057515561</a></td>
+<td>GRCh37: 1:40759833-40759833<br/>GRCh38: 1:40294161-40294161</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.555A&gt;G (p.Leu185=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000272347/" title="RCV000272347" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297261/?new_evidence=true#id_second" target="_blank">297261</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057515520" target="_blank">rs1057515520</a></td>
+<td>GRCh37: 1:40735727-40735727<br/>GRCh38: 1:40270055-40270055</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*536C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000274919/" title="RCV000274919" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297271/?new_evidence=true#id_second" target="_blank">297271</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057515564" target="_blank">rs1057515564</a></td>
+<td>GRCh37: 1:40758877-40758877<br/>GRCh38: 1:40293205-40293205</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1050T&gt;C (p.Ile350=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000280702/" title="RCV000280702" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297264/?new_evidence=true#id_second" target="_blank">297264</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057515559" target="_blank">rs1057515559</a></td>
+<td>GRCh37: 1:40751692-40751692<br/>GRCh38: 1:40286020-40286020</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.30G&gt;T (p.Leu10Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000299107/" title="RCV000299107" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297259/?new_evidence=true#id_second" target="_blank">297259</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057515519" target="_blank">rs1057515519</a></td>
+<td>GRCh37: 1:40723973-40723973<br/>GRCh38: 1:40258301-40258301</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.325T&gt;G (p.Cys109Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000304896/" title="RCV000304896" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/130790/?new_evidence=true#id_second" target="_blank">130790</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/141386841" target="_blank">rs141386841</a></td>
+<td>GRCh37: 1:40733512-40733512<br/>GRCh38: 1:40267840-40267840</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.-13G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000312040/" title="RCV000312040" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297258/?new_evidence=true#id_second" target="_blank">297258</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/140415968" target="_blank">rs140415968</a></td>
+<td>GRCh37: 1:40723931-40723931<br/>GRCh38: 1:40258259-40258259</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*1140T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000314242/" title="RCV000314242" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297275/?new_evidence=true#id_second" target="_blank">297275</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057515452" target="_blank">rs1057515452</a></td>
+<td>GRCh37: 1:40759481-40759481<br/>GRCh38: 1:40293809-40293809</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.770-14T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000333363/" title="RCV000333363" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297262/?new_evidence=true#id_second" target="_blank">297262</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/770003597" target="_blank">rs770003597</a></td>
+<td>GRCh37: 1:40747001-40747001<br/>GRCh38: 1:40281329-40281329</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*296T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000363740/" title="RCV000363740" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297269/?new_evidence=true#id_second" target="_blank">297269</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/990763063" target="_blank">rs990763063</a></td>
+<td>GRCh37: 1:40758637-40758637<br/>GRCh38: 1:40292965-40292965</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*696A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000378621/" title="RCV000378621" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297273/?new_evidence=true#id_second" target="_blank">297273</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057515522" target="_blank">rs1057515522</a></td>
+<td>GRCh37: 1:40759037-40759037<br/>GRCh38: 1:40293365-40293365</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*1313T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000392483/" title="RCV000392483" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297276/?new_evidence=true#id_second" target="_blank">297276</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/975014449" target="_blank">rs975014449</a></td>
+<td>GRCh37: 1:40759654-40759654<br/>GRCh38: 1:40293982-40293982</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1028G&gt;A (p.Gly343Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001098659/" title="RCV001098659" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/875107/?new_evidence=true#id_second" target="_blank">875107</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/554224406" target="_blank">rs554224406</a></td>
+<td>GRCh37: 1:40751670-40751670<br/>GRCh38: 1:40285998-40285998</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*710T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001098750/" title="RCV001098750" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/875155/?new_evidence=true#id_second" target="_blank">875155</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1643862310" target="_blank">rs1643862310</a></td>
+<td>GRCh37: 1:40759051-40759051<br/>GRCh38: 1:40293379-40293379</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.52C&gt;T (p.Arg18Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001100332/" title="RCV001100332" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/875987/?new_evidence=true#id_second" target="_blank">875987</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1472639374" target="_blank">rs1472639374</a></td>
+<td>GRCh37: 1:40723995-40723995<br/>GRCh38: 1:40258323-40258323</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1165T&gt;C (p.Leu389=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001100459/" title="RCV001100459" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/725823/?new_evidence=true#id_second" target="_blank">725823</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/138014589" target="_blank">rs138014589</a></td>
+<td>GRCh37: 1:40756631-40756631<br/>GRCh38: 1:40290959-40290959</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1259C&gt;G (p.Ala420Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001100461/" title="RCV001100461" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/876056/?new_evidence=true#id_second" target="_blank">876056</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200751802" target="_blank">rs200751802</a></td>
+<td>GRCh37: 1:40758172-40758172<br/>GRCh38: 1:40292500-40292500</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1277G&gt;A (p.Gly426Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001100463/" title="RCV001100463" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/876057/?new_evidence=true#id_second" target="_blank">876057</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/371030454" target="_blank">rs371030454</a></td>
+<td>GRCh37: 1:40758190-40758190<br/>GRCh38: 1:40292518-40292518</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*38T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001100464/" title="RCV001100464" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/876058/?new_evidence=true#id_second" target="_blank">876058</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/374249092" target="_blank">rs374249092</a></td>
+<td>GRCh37: 1:40758379-40758379<br/>GRCh38: 1:40292707-40292707</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*800T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001100568/" title="RCV001100568" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/876118/?new_evidence=true#id_second" target="_blank">876118</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1643862681" target="_blank">rs1643862681</a></td>
+<td>GRCh37: 1:40759141-40759141<br/>GRCh38: 1:40293469-40293469</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*909G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001100570/" title="RCV001100570" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/876119/?new_evidence=true#id_second" target="_blank">876119</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/770029830" target="_blank">rs770029830</a></td>
+<td>GRCh37: 1:40759250-40759250<br/>GRCh38: 1:40293578-40293578</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1106G&gt;A (p.Arg369Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000402216/" title="RCV000402216" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297265/?new_evidence=true#id_second" target="_blank">297265</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/41268053" target="_blank">rs41268053</a></td>
+<td>GRCh37: 1:40756572-40756572<br/>GRCh38: 1:40290900-40290900</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*212G&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000408275/" title="RCV000408275" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297268/?new_evidence=true#id_second" target="_blank">297268</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057515560" target="_blank">rs1057515560</a></td>
+<td>GRCh37: 1:40758553-40758553<br/>GRCh38: 1:40292881-40292881</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.715G&gt;A (p.Glu239Lys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001096901/" title="RCV001096901" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/874177/?new_evidence=true#id_second" target="_blank">874177</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/267607181" target="_blank">rs267607181</a></td>
+<td>GRCh37: 1:40737653-40737653<br/>GRCh38: 1:40271981-40271981</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*663T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001097011/" title="RCV001097011" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/874230/?new_evidence=true#id_second" target="_blank">874230</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1254121202" target="_blank">rs1254121202</a></td>
+<td>GRCh37: 1:40759004-40759004<br/>GRCh38: 1:40293332-40293332</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*1462A&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001097103/" title="RCV001097103" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/874276/?new_evidence=true#id_second" target="_blank">874276</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/907545770" target="_blank">rs907545770</a></td>
+<td>GRCh37: 1:40759803-40759803<br/>GRCh38: 1:40294131-40294131</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*1503G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001097104/" title="RCV001097104" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/874277/?new_evidence=true#id_second" target="_blank">874277</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/899307859" target="_blank">rs899307859</a></td>
+<td>GRCh37: 1:40759844-40759844<br/>GRCh38: 1:40294172-40294172</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.467A&gt;G (p.Asn156Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001102303/" title="RCV001102303" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/876968/?new_evidence=true#id_second" target="_blank">876968</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/747896764" target="_blank">rs747896764</a></td>
+<td>GRCh37: 1:40734200-40734200<br/>GRCh38: 1:40268528-40268528</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.474G&gt;A (p.Gln158=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001102305/" title="RCV001102305" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/874176/?new_evidence=true#id_second" target="_blank">874176</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/777632184" target="_blank">rs777632184</a></td>
+<td>GRCh37: 1:40734207-40734207<br/>GRCh38: 1:40268535-40268535</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*248G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001102415/" title="RCV001102415" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/877016/?new_evidence=true#id_second" target="_blank">877016</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1200838897" target="_blank">rs1200838897</a></td>
+<td>GRCh37: 1:40758589-40758589<br/>GRCh38: 1:40292917-40292917</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*1042G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001102508/" title="RCV001102508" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/876120/?new_evidence=true#id_second" target="_blank">876120</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1643863795" target="_blank">rs1643863795</a></td>
+<td>GRCh37: 1:40759383-40759383<br/>GRCh38: 1:40293711-40293711</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*1240A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001102510/" title="RCV001102510" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/877069/?new_evidence=true#id_second" target="_blank">877069</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/181730348" target="_blank">rs181730348</a></td>
+<td>GRCh37: 1:40759581-40759581<br/>GRCh38: 1:40293909-40293909</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*733A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001100566/" title="RCV001100566" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/875156/?new_evidence=true#id_second" target="_blank">875156</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/75849141" target="_blank">rs75849141</a></td>
+<td>GRCh37: 1:40759074-40759074<br/>GRCh38: 1:40293402-40293402</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.237C&gt;T (p.Phe79=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000353857/" title="RCV000353857" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297260/?new_evidence=true#id_second" target="_blank">297260</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/115173390" target="_blank">rs115173390</a></td>
+<td>GRCh37: 1:40726624-40726624<br/>GRCh38: 1:40260952-40260952</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*678G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000375075/" title="RCV000375075" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297272/?new_evidence=true#id_second" target="_blank">297272</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/67294434" target="_blank">rs67294434</a></td>
+<td>GRCh37: 1:40759019-40759019<br/>GRCh38: 1:40293347-40293347</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.1338T&gt;C (p.Pro446=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002489354/" title="RCV002489354" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/779855/?new_evidence=true#id_second" target="_blank">779855</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/370202496" target="_blank">rs370202496</a></td>
+<td>GRCh37: 1:40758251-40758251<br/>GRCh38: 1:40292579-40292579</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.954+3G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002502694/" title="RCV002502694" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/731062/?new_evidence=true#id_second" target="_blank">731062</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/112612481" target="_blank">rs112612481</a></td>
+<td>GRCh37: 1:40747202-40747202<br/>GRCh38: 1:40281530-40281530</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*59C&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000341728/" title="RCV000341728" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297266/?new_evidence=true#id_second" target="_blank">297266</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/193076795" target="_blank">rs193076795</a></td>
+<td>GRCh37: 1:40758400-40758400<br/>GRCh38: 1:40292728-40292728</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*521A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000367157/" title="RCV000367157" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/297270/?new_evidence=true#id_second" target="_blank">297270</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/75622994" target="_blank">rs75622994</a></td>
+<td>GRCh37: 1:40758862-40758862<br/>GRCh38: 1:40293190-40293190</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td style="overflow-wrap:break-word;">NM_005857.5(ZMPSTE24):c.*723C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000399297/" title="RCV000399297" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/140500/?new_evidence=true#id_second" target="_blank">140500</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/10489431" target="_blank">rs10489431</a></td>
+<td>GRCh37: 1:40759064-40759064<br/>GRCh38: 1:40293392-40293392</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Mandibuloacral Dysplasia with Type B Lipodystrophy:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td>p.Trp340Arg</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_019308.html" target="_blank">VAR_019308</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908093" target="_blank">rs121908093</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td>p.Pro248Leu</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_064501.html" target="_blank">VAR_064501</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908095" target="_blank">rs121908095</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZMPSTE24" title="ZMPSTE24 gene information at GeneCards" target="_blank">ZMPSTE24</a></td>
+<td>p.Asn265Ser</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_064502.html" target="_blank">VAR_064502</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/281875371" target="_blank">rs281875371</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Mandibuloacral%20Dysplasia%20with%20Type%20B%20Lipodystrophy%22%5BMeSH%20Terms%5D%20OR%20%22Mandibuloacral%20Dysplasia%20with%20Type%20B%20Lipodystrophy%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Mandibuloacral Dysplasia with Type B Lipodystrophy.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Mandibuloacral Dysplasia with Type B Lipodystrophy</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#b3c0c6c3c3dcc1c7f3dfdad5d6ded2c3c0d09dd0dcde">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809eaa468c0d4e12',t:'MTY5NTI2MTEwOC4zOTUwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

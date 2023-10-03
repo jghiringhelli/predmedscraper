@@ -1,0 +1,4105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Chondrodysplasia Punctata 1, X-Linked Recessive disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/chondrodysplasia_punctata_1_x_linked_recessive" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'chondrodysplasia_punctata_1_x_linked_recessive';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+CDPX1 <div class="symbol">MCID: CHN028</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 35
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Chondrodysplasia Punctata 1, X-Linked Recessive</span>
+(<span itemprop="alternateName">CDPX1</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Bone diseases, Eye diseases, Fetal diseases, Genetic diseases, Metabolic diseases, Rare diseases, Skin diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#196a78757c6a5975707f7c7478696a7a377a7674" target="_blank"><span class="__cf_email__" data-cfemail="186b79747d6b5874717e7d7579686b7b367b7775">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="1 Genes associated with Chondrodysplasia Punctata 1, X-Linked Recessive">Genes</a>
+<a href="#genetic_variations" title="55 Variations associated with Chondrodysplasia Punctata 1, X-Linked Recessive">Variations</a>
+<a href="#anatomical_context" title="4 Tissues associated with Chondrodysplasia Punctata 1, X-Linked Recessive">Tissues</a>
+<a href="#disorders" title="19 Related diseases associated with Chondrodysplasia Punctata 1, X-Linked Recessive">Related diseases</a>
+<a href="#publications" title="322 Publications associated with Chondrodysplasia Punctata 1, X-Linked Recessive">Publications</a>
+<a href="#clinical_features" title="25 Symptoms &amp; Phenotypes associated with Chondrodysplasia Punctata 1, X-Linked Recessive">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/chondrodysplasia_punctata_1_x_linked_recessive?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Chondrodysplasia Punctata 1, X-Linked Recessive:</h3>
+<div class="main-name">
+Name: <b>Chondrodysplasia Punctata 1, X-Linked Recessive</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/302950" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Chondrodysplasia_punctata_1,_x-linked_recessive" title="Wikipedia" target="_blank">75</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00302" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Chondrodysplasia Punctata, Brachytelephalangic
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/302950" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Chondrodysplasia_punctata,_brachytelephalangic" title="Wikipedia" target="_blank">75</a></sup>
+</div>
+<div>
+Chondrodysplasia Punctata, X-Linked Recessive
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/302950" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=302950" title="diseasecard" target="_blank">12</a></sup>
+</div>
+<div>
+Cdpx1
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/302950" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00302" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Chondrodysplasia Punctata, Type 1, X-Linked Recessive
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/02221" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Brachytelephalangic Chondrodysplasia Punctata
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<div>
+Chondrodysplasia Punctata Brachytelephalangic
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00302" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+X-Linked Chondrodysplasia Punctata 1
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<div>
+Cpxr
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/302950" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+X-linked recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/302950" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/302950" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>some patients have a contiguous gene syndrome due to loss of adjacent genes (sts, ) on xp22.3 via deletions and translocations</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/bone_disease_list" target="_blank">Bone diseases</a> <a href="https://www.malacards.org/categories/eye_disease_list" target="_blank">Eye diseases</a> <a href="https://www.malacards.org/categories/skin_disease_list" target="_blank">Skin diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/302950" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/302950" target="_blank">302950</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D002806" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D002806" target="_blank">D002806</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1844853" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1844853" target="_blank">C1844853</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/C3669395" target="_blank">C3669395</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_4">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/103276001" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/103276001" target="_blank">103276001</a> <a href="http://www.snomedbrowser.com/Codes/Details/128306009" target="_blank">128306009</a> <a href="http://www.snomedbrowser.com/Codes/Details/15188001" target="_blank">15188001</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/193570009" target="_blank">193570009</a> <a href="http://www.snomedbrowser.com/Codes/Details/224958001" target="_blank">224958001</a> <a href="http://www.snomedbrowser.com/Codes/Details/237836003" target="_blank">237836003</a> <a href="http://www.snomedbrowser.com/Codes/Details/247053007" target="_blank">247053007</a> <a href="http://www.snomedbrowser.com/Codes/Details/249310005" target="_blank">249310005</a> <a href="http://www.snomedbrowser.com/Codes/Details/271611007" target="_blank">271611007</a> <a href="http://www.snomedbrowser.com/Codes/Details/343087000" target="_blank">343087000</a> <a href="http://www.snomedbrowser.com/Codes/Details/360507004" target="_blank">360507004</a> <a href="http://www.snomedbrowser.com/Codes/Details/44169009" target="_blank">44169009</a> <a href="http://www.snomedbrowser.com/Codes/Details/48130008" target="_blank">48130008</a> <a href="http://www.snomedbrowser.com/Codes/Details/95828007" target="_blank">95828007</a> </span>
+<span class="showmore">
+<a title="show all 14" id="ExternalId_showmore_4" href="javascript:showMoreTable('ExternalId_item_4','ExternalId_showmore_4','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_5">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C1844853</span> <span>C3669395</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-00302" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00302" target="_blank">73</a></sup>
+A clinically and genetically heterogeneous disorder characterized by punctiform calcification of the bones. CDPX1 is a congenital defect of bone and cartilage development characterized by aberrant bone mineralization, severe underdevelopment of nasal cartilage, and distal phalangeal hypoplasia. This disease can also be induced by inhibition with the drug warfarin.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Chondrodysplasia Punctata 1, X-Linked Recessive, also known as <i>chondrodysplasia punctata, brachytelephalangic</i>, is related to <i><a href="/card/chondrodysplasia_punctata_brachytelephalangic_autosomal" target="_blank">chondrodysplasia punctata, brachytelephalangic, autosomal</a></i> and <i><a href="/card/x_linked_chondrodysplasia_punctata_1" target="_blank">x-linked chondrodysplasia punctata 1</a></i>. An important gene associated with Chondrodysplasia Punctata 1, X-Linked Recessive is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" target="_blank">ARSL</a> (Arylsulfatase L). Affiliated tissues include <i>bone</i> and <i>skin</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0000365" target="_blank">hearing impairment</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0000518" target="_blank">cataract</a></i></p>
+<p> <b> <a href="https://en.wikipedia.org/wiki/Chondrodysplasia_punctata_1,_x-linked_recessive" target="_blank">Wikipedia</a>:</b>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Chondrodysplasia_punctata_1,_x-linked_recessive" target="_blank">75</a></sup>
+X-linked recessive chondrodysplasia punctata is a type of chondrodysplasia punctata that can involve the... <a href="https://en.wikipedia.org/wiki/Chondrodysplasia_punctata_1,_x-linked_recessive" target="_blank">more...</a></p>
+</div>
+<div>
+<b>More information from OMIM:</b>
+<a href="http://omim.org/entry/302950#description" target="_blank">302950</a> </div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases in the <a href="/card/chondrodysplasia_punctata_2_x_linked_dominant_2" target="_blank">Chondrodysplasia Punctata 2, X-Linked Dominant</a> family:</h3>
+<table class="family borderless">
+<tr>
+<td>
+<b>Chondrodysplasia Punctata 1, X-Linked Recessive</b>
+</td>
+<td>
+<a href="/card/x_linked_chondrodysplasia_punctata_1" target="_blank">X-Linked Chondrodysplasia Punctata 1</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/x_linked_chondrodysplasia_punctata_2" target="_blank">X-Linked Chondrodysplasia Punctata 2</a> </td>
+</tr>
+</table>
+<br/>
+<h3>Diseases related to Chondrodysplasia Punctata 1, X-Linked Recessive via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 19', 'showing 19, show less','collapsable')">show all 19</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/chondrodysplasia_punctata_brachytelephalangic_autosomal" target="_blank">chondrodysplasia punctata, brachytelephalangic, autosomal</a></td>
+<td>11.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=chondrodysplasia+punctata%2c+brachytelephalangic%2c+autosomal&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/x_linked_chondrodysplasia_punctata_1" target="_blank">x-linked chondrodysplasia punctata 1</a></td>
+<td>11.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=x-linked+chondrodysplasia+punctata+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/chondrodysplasia_punctata_syndrome" target="_blank">chondrodysplasia punctata syndrome</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=chondrodysplasia+punctata+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/legionnaire_disease" target="_blank">legionnaire disease</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=legionnaire+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/glutamine_deficiency_congenital" target="_blank">glutamine deficiency, congenital</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=glutamine+deficiency%2c+congenital&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/salmonellosis" target="_blank">salmonellosis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=salmonellosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/typhoid_fever" target="_blank">typhoid fever</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=typhoid+fever&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/pleuropneumonia" target="_blank">pleuropneumonia</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=pleuropneumonia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/bone_disease" target="_blank">bone disease</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=bone+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/spinal_stenosis" target="_blank">spinal stenosis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=spinal+stenosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/polyhydramnios" target="_blank">polyhydramnios</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=polyhydramnios&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/cataract_4_multiple_types" target="_blank">cataract 4, multiple types</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=cataract+4%2c+multiple+types&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/papillomatosis_confluent_and_reticulated" target="_blank">papillomatosis, confluent and reticulated</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=papillomatosis%2c+confluent+and+reticulated&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/renal_tubular_acidosis_proximal" target="_blank">renal tubular acidosis, proximal</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=renal+tubular+acidosis%2c+proximal&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/chondrodysplasia_punctata_2_x_linked_dominant_2" target="_blank">chondrodysplasia punctata 2, x-linked dominant</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=chondrodysplasia+punctata+2%2c+x-linked+dominant&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/cataract_3_multiple_types" target="_blank">cataract 3, multiple types</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=cataract+3%2c+multiple+types&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/common_cold" target="_blank">common cold</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=common+cold&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/heart_disease" target="_blank">heart disease</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=heart+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/chancroid" target="_blank">chancroid</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=chancroid&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Chondrodysplasia Punctata 1, X-Linked Recessive:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/chondrodysplasia_punctata_1_x_linked_recessive_related_diseases.jpg" width="100%" alt="Diseases related to Chondrodysplasia Punctata 1, X-Linked Recessive" title="Diseases related to Chondrodysplasia Punctata 1, X-Linked Recessive" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Chondrodysplasia Punctata 1, X-Linked Recessive:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 14', 'showing 14, show less','collapsable')">show all 14</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+hearing impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000365" target="_blank">HP:0000365</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+cataract
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000518" target="_blank">HP:0000518</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+global developmental delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001263" target="_blank">HP:0001263</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+depressed nasal bridge
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005280" target="_blank">HP:0005280</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+short nose
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003196" target="_blank">HP:0003196</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+microcephaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000252" target="_blank">HP:0000252</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+short stature
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004322" target="_blank">HP:0004322</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+ichthyosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008064" target="_blank">HP:0008064</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+epiphyseal stippling
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010655" target="_blank">HP:0010655</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+anosmia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000458" target="_blank">HP:0000458</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+abnormality of the vertebral column
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000925" target="_blank">HP:0000925</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+short distal phalanx of finger
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009882" target="_blank">HP:0009882</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+hypogonadism
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000135" target="_blank">HP:0000135</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+short nasal septum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000420" target="_blank">HP:0000420</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/302950" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Head And Neck Nose:</u><br/>
+<span>depressed nasal bridge</span>
+<br/>
+<span>short nasal septum</span>
+<br/>
+<span>nasal hypoplasia</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Growth Height:</u><br/>
+<span>short stature</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>developmental delay</span>
+<br/>
+<span>anosmia (in contiguous gene syndrome patients)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>cataracts</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Genitourinary External Genitalia Male:</u><br/>
+<span>hypogonadism (in contiguous gene syndrome patients)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Skin Nails Hair Skin:</u><br/>
+<span>ichthyosis (in contiguous gene syndrome patients)</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Head And Neck Head:</u><br/>
+<span>microcephaly</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Skeletal Limbs:</u><br/>
+<span>epiphyseal stippling</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>hearing loss</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Skeletal Hands:</u><br/>
+<span>distal phalangeal hypoplasia</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_11" class="tab">
+<u>Skeletal Spine:</u><br/>
+<span>paravertebral stippling</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/302950#clinicalFeatures" target="_blank">302950</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Chondrodysplasia Punctata 1, X-Linked Recessive" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Chondrodysplasia Punctata 1, X-Linked Recessive&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Chondrodysplasia Punctata 1, X-Linked Recessive</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Chondrodysplasia Punctata 1, X-Linked Recessive: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="2.493604">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="1.510042">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.1526529">Spinal Cord</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.05030444">Heart</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Chondrodysplasia Punctata 1, X-Linked Recessive according to PubMed, OMIM&#174;, and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 33', 'showing 33, show less','collapsable')">show all 33</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A prospective study of brachytelephalangic chondrodysplasia punctata: identification of arylsulfatase E mutations, functional analysis of novel missense alleles, and determination of potential phenocopies.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Matos-Miranda C...Braverman N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23470839" target="_blank">23470839</a></td>
+<td>2013</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical and molecular analysis of arylsulfatase E in patients with brachytelephalangic chondrodysplasia punctata.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Nino M...Braverman N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18348268" target="_blank">18348268</a></td>
+<td>2008</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+X-linked recessive chondrodysplasia punctata: spectrum of arylsulfatase E gene mutations and expanded clinical variability.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Brunetti-Pierri N...Parenti G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12567415" target="_blank">12567415</a></td>
+<td>2003</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Segregation of mutations in arylsulphatase E and correlation with the clinical presentation of chondrodysplasia punctata.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sheffield LJ...Dahl HH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9863597" target="_blank">9863597</a></td>
+<td>1998</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A cluster of sulfatase genes on Xp22.3: mutations in chondrodysplasia punctata (CDPX) and implications for warfarin embryopathy.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Franco B...Ballabio A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/7720070" target="_blank">7720070</a></td>
+<td>1995</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Brachytelephalangic chondrodysplasia punctata: a possible X-linked recessive form.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Maroteaux P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2722194" target="_blank">2722194</a></td>
+<td>1989</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Uniparental disomy as a mechanism for X-linked chondrodysplasia punctata.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Woods E...Balasubramanian M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35256563" target="_blank">35256563</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical and genetic analysis of a Korean patient with X-linked chondrodysplasia punctata: identification of a novel splicing mutation in the ARSE gene.
+<sup title="PubMed">62</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Jeon GW...Ki CS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23462608" target="_blank">23462608</a></td>
+<td>2013</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Prenatal findings in a fetus with contiguous gene syndrome caused by deletion of Xp22.3 that includes locus for X-linked recessive type of chondrodysplasia punctata (CDPX1).
+<sup title="PubMed">62</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Horikoshi T...Harada N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20598055" target="_blank">20598055</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Brachytelephalangic chondrodysplasia punctata with severe spinal cord compression: report of four new cases.
+<sup title="PubMed">62</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Garnier A...Baumann C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16937129" target="_blank">16937129</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Male infant with ichthyosis, Kallmann syndrome, chondrodysplasia punctata, and an Xp chromosome deletion.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bick D...Moore CM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2750777" target="_blank">2750777</a></td>
+<td>1989</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Short-term costs of integrating whole-genome sequencing into primary care and cardiology settings: a pilot randomized trial.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Christensen KD...MedSeq Project</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29565423" target="_blank">29565423</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Comparative and evolutionary studies of mammalian arylsulfatase and sterylsulfatase genes and proteins encoded on the X-chromosome.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Holmes RS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28257906" target="_blank">28257906</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chondrodysplasia punctata in siblings and maternal lupus erythematosus.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kozlowski K...Beighton P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15521983" target="_blank">15521983</a></td>
+<td>2004</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Brachytelephalangic dwarfism due to the loss of ARSE and SHOX genes resulting from an X;Y translocation.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Seidel J...Rappold GA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11260213" target="_blank">11260213</a></td>
+<td>2001</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Neonatal lupus syndrome: a case with chondrodysplasia punctata and other unusual manifestations.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Austin-Ward E...Bloomfield J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9719383" target="_blank">9719383</a></td>
+<td>1998</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chondrodysplasia punctata and maternal systemic lupus erythematosus.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Toriello HV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9719384" target="_blank">9719384</a></td>
+<td>1998</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Maternal systemic lupus erythematosus and chondrodysplasia punctata in two sibs: phenocopy or coincidence?
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Elcioglu N...Hall CM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9719382" target="_blank">9719382</a></td>
+<td>1998</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Biochemical characterization of arylsulfatase E and functional analysis of mutations found in patients with X-linked chondrodysplasia punctata.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Daniele A...Meroni G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9497243" target="_blank">9497243</a></td>
+<td>1998</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+X-linked recessive chondrodysplasia punctata due to a new point mutation of the ARSE gene.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Parenti G...Andria G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9409863" target="_blank">9409863</a></td>
+<td>1997</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A 45,X male with an X;Y translocation: implications for the mapping of the genes responsible for Turner syndrome and X-linked chondrodysplasia punctata.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Weil D...Petit C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8281147" target="_blank">8281147</a></td>
+<td>1993</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chondrodysplasia punctata: a boy with X-linked recessive chondrodysplasia punctata due to an inherited X-Y translocation with a current classification of these disorders.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wulfsberg EA...Jayne CH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/1642270" target="_blank">1642270</a></td>
+<td>1992</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Prenatal diagnosis and investigation of a fetus with chondrodysplasia punctata, ichthyosis, and Kallmann syndrome due to an Xp deletion.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bick DP...Moore CM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/1557308" target="_blank">1557308</a></td>
+<td>1992</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Deletion of the distal short arm of the X chromosome (Xp) in a patient with short stature, chondrodysplasia punctata, and X-linked ichthyosis due to steroid sulfatase deficiency.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ballabio A...Strisciuglio P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/1785631" target="_blank">1785631</a></td>
+<td>1991</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+X-linked recessive chondrodysplasia punctata with XY translocation in a stillborn fetus.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Van Maldergem L...Gillerot Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/1937466" target="_blank">1937466</a></td>
+<td>1991</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+An interstitial deletion in Xp22.3 in a family with X-linked recessive chondrodysplasia punctata and short stature.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Petit C...Maroteaux P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2370057" target="_blank">2370057</a></td>
+<td>1990</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Contiguous gene syndromes due to deletions in the distal short arm of the human X chromosome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ballabio A...Fraccaro M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2602357" target="_blank">2602357</a></td>
+<td>1989</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chondrodysplasia punctata with X;Y translocation.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Agematsu K...Akabane T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3417299" target="_blank">3417299</a></td>
+<td>1988</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Inherited chondrodysplasia punctata due to a deletion of the terminal short arm of an X chromosome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Curry CJ...Shapiro LJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/6482910" target="_blank">6482910</a></td>
+<td>1984</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+X-linked dominant inherited diseases with lethality in hemizygous males.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wettke-Schafer R...Kantner G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/6873941" target="_blank">6873941</a></td>
+<td>1983</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chondrodysplasia punctata-23 cases of a mild and relatively common variety.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sheffield LJ...Hutchinson AL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/993917" target="_blank">993917</a></td>
+<td>1976</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Bare-patches, a new sex-linked gene in the mouse, associated with a high production of XO females. II. Investigations into the nature and mechanism of the XO production.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Phillips RJ...Kaufman MH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/4435359" target="_blank">4435359</a></td>
+<td>1974</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Bare-patches, a new sex-linked gene in the mouse, associated with a high production of XO females. I. A preliminary report of breeding experiments.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Phillips RJ...Moseley HJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/4588955" target="_blank">4588955</a></td>
+<td>1973</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Chondrodysplasia Punctata 1, X-Linked Recessive according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('InferredPublications', '289', 'InferredPublications-table');">show all 289</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Regulation of adhesin synthesis in Aggregatibacter actinomycetemcomitans.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Tristano J...Mintz KP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36871155" target="_blank">36871155</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Analysis of Regulatory Mechanism of AcrB and CpxR on Colistin Susceptibility Based on Transcriptome and Metabolome of Salmonella Typhimurium.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhai YJ...Hu GZ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37358428" target="_blank">37358428</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Role of the stress-responsive two-component system CpxAR in regulating fimbriae expression in Klebsiella pneumoniae CG43.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kuo CH...Peng HL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36898943" target="_blank">36898943</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ceftolozane/tazobactam plus tobramycin against free-floating and biofilm bacteria of hypermutable Pseudomonas aeruginosa epidemic strains: resistance mechanisms and synergistic activity: Running title: Ceftolozane/tazobactam plus tobramycin against Pseudomonas biofilm.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Agyeman AA...Landersdorfer CB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37315906" target="_blank">37315906</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Uncovering the Important Genetic Factors for Growth during Cefotaxime-Gentamicin Combination Treatment in blaCTX-M-1 Encoding Escherichia coli.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Alobaidallah MSA...Olsen JE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37370312" target="_blank">37370312</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Residue Lys219 of CpxR is critical in the regulation of the antibiotic resistance of Escherichia coli.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lei D...Sun X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37288948" target="_blank">37288948</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The CpxRA two-component system represses gene expression of the heat-labile toxin of enterotoxigenic Escherichia coli.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Rodriguez-Valverde D...De la Cruz MA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37043376" target="_blank">37043376</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+An automated system for interrogating the evolution of microbial endosymbiosis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Huang C...de Figueiredo P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36227118" target="_blank">36227118</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Two-Component System CpxRA Affects Antibiotic Susceptibility and Biofilm Formation in Avian Pathogenic Escherichia coli.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ma K...Xue T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36766272" target="_blank">36766272</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Anthropogenic impact accelerates antibiotic resistome diversity in the mangrove sediment of Indian Sundarban.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mukherji S...Ghosh A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36220439" target="_blank">36220439</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+CpxR negatively regulates IncFII-replicon plasmid pEC011 conjugation by directly binding to multi-promoter regions.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Jia Y...Yuan L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35809419" target="_blank">35809419</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+CpxAR of Actinobacillus pleuropneumoniae Contributes to Heat Stress Response by Repressing Expression of Type IV Pilus Gene apfA.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liu F...Bei W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36259970" target="_blank">36259970</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Characterization of the Role of Two-Component Systems in Antibiotic Resistance Formation in Salmonella enterica Serovar Enteritidis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hu M...Shi X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36286534" target="_blank">36286534</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Prospective lipid-A altered live attenuated Salmonella Gallinarum confers protectivity, DIVA capability, safety and low endotoxicity against fowl typhoid.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Senevirathne A...Lee JH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36113357" target="_blank">36113357</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Two-Component System CpxRA Represses Salmonella Pathogenicity Island 2 by Directly Acting on the ssrAB Regulatory Operon.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Leon-Montes N...De la Cruz MA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36073960" target="_blank">36073960</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Systematic Identification of CpxRA-Regulated Genes and Their Roles in Escherichia coli Stress Response.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhao Z...Zhao G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36069452" target="_blank">36069452</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Safety assessment of compliant, highly invasive, lipid A-altered, O-antigen-defected Salmonella strains as prospective vaccine delivery systems.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Aganja RP...Lee JH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36183131" target="_blank">36183131</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Roles of Two-Component Signal Transduction Systems in Shigella Virulence.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Pasqua M...Colonna B</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36139160" target="_blank">36139160</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Assessing an O-antigen deficient, live attenuated Salmonella Gallinarium strain that is DIVA compatible, environmentally safe, and protects chickens against fowl typhoid.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Senevirathne A...Lee JH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35568244" target="_blank">35568244</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Indole Sensing Regulator (IsrR) Promotes Virulence Gene Expression in Enteric Pathogens.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kumar A...Sperandio V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35916401" target="_blank">35916401</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The phytopathogen Dickeya dadantii 3937 cpxR locus gene participates in the regulation of virulence and the global c-di-GMP network.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Jiang D...Yang CH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35460168" target="_blank">35460168</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cloning, expression, purification, and biochemical characterization of CpxR protein from pectobacterium carotovorum.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">He X...Zhou X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33811674" target="_blank">33811674</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+CpxA Phosphatase Inhibitor Activates CpxRA and Is a Potential Treatment for Uropathogenic Escherichia coli in a Murine Model of Infection.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fortney KR...Spinola SM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35297652" target="_blank">35297652</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cpx-signalling facilitates Hms-dependent biofilm formation by Yersinia pseudotuberculosis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gahlot DK...Francis MS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35351893" target="_blank">35351893</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The CpxA/CpxR two-component system mediates regulation of Actinobacillus pleuropneumoniae cold growth.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yao Q...Liu F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36619992" target="_blank">36619992</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The two-component system CpxA/CpxR is critical for full virulence in Actinobacillus pleuropneumoniae.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liu F...Lei L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36312949" target="_blank">36312949</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Antimicrobial photodynamic inactivation as an alternative approach to inhibit the growth of Cronobacter sakazakii by fine-tuning the activity of CpxRA two-component system.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Xu J...Xu Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36733775" target="_blank">36733775</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Glutamine promotes antibiotic uptake to kill multidrug-resistant uropathogenic bacteria.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhao XL...Peng XX</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34936385" target="_blank">34936385</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Reducing the Periplasmic Glutathione Content Makes Escherichia coli Resistant to Trimethoprim and Other Antimicrobial Drugs.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Song Y...Deng J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34908461" target="_blank">34908461</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Double deletion of cpxR and tolC significantly increases the susceptibility of Salmonella enterica serovar Typhimurium to colistin.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang MK...Hu GZ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34499729" target="_blank">34499729</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Two component system CpxR/A regulates the prodigiosin biosynthesis by negative control in Serratia marcescens FS14.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Qiu S...Xu D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34600298" target="_blank">34600298</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Novel Insight into the Effects of CpxR on Salmonella enteritidis Cells during the Chlorhexidine Treatment and Non-Stressful Growing Conditions.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liu X...Vidovic S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34445643" target="_blank">34445643</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Progress on the function and regulatory mechanisms of bacterial Cpx signal transduction system].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wu LW...Zhao XL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34413015" target="_blank">34413015</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genomic insights into the molecular mechanisms of a Pseudomonas strain significant in its survival in Kongsfjorden, an Arctic fjord.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sinha RK...Krishnan KP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33909166" target="_blank">33909166</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Emergence of Imipenem Resistance in a CpxA-H208P-Variant-Producing Proteus mirabilis Clinical Isolate.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lecuru M...Mammeri H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33232636" target="_blank">33232636</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+BING, a novel antimicrobial peptide isolated from Japanese medaka plasma, targets bacterial envelope stress response by suppressing cpxR expression.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dong M...Lam YW</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34108601" target="_blank">34108601</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Metagenomic analysis reveals the shared and distinct features of the soil resistome across tundra, temperate prairie, and tropical ecosystems.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Qian X...Tiedje JM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33990222" target="_blank">33990222</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Characterization and Genomic Analysis of ɸSHP3, a New Transposable Bacteriophage Infecting Stenotrophomonas maltophilia.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wu H...Huang YP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33536173" target="_blank">33536173</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Tail-Specific Protease Is Important for Legionella pneumophila To Survive Thermal Stress in Water and inside Amoebae.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Saoud J...Faucher SP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33608288" target="_blank">33608288</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Contribution of the Locus of Heat Resistance to Growth and Survival of Escherichia coli at Alkaline pH and at Alkaline pH in the Presence of Chlorine.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhu T...Ganzle MG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33800639" target="_blank">33800639</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genome-Wide Identification of Genes Involved in Acid Stress Resistance of Salmonella Derby.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gu D...Jiao X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33806186" target="_blank">33806186</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Outer Membrane Channel Protein TolC Regulates Escherichia coli K12 Sensitivity to Plantaricin BM-1 via the CpxR/CpxA Two-Component Regulatory System.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang H...Xie Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32529293" target="_blank">32529293</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Metagenomic insights into the antibiotic resistome of mangrove sediments and their association to socioeconomic status.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Imchen M...Kumavath R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33068846" target="_blank">33068846</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Role of cpxA Mutations in the Resistance to Aminoglycosides and β-Lactams in Salmonella enterica serovar Typhimurium.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Jing W...Liu Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33613478" target="_blank">33613478</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+CpxR regulates the Rcs phosphorelay system in controlling the Ysc-Yop type III secretion system in Yersinia pseudotuberculosis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fei K...Chen S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33295859" target="_blank">33295859</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Loss of cell wall integrity genes cpxA and mrcB causes flocculation in Escherichia coli.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sugawara K...Uozumi N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33196080" target="_blank">33196080</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Dual Regulation of Phosphatidylserine Decarboxylase Expression by Envelope Stress Responses.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hassoun Y...Bouveret E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34026837" target="_blank">34026837</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Prenatal Diagnosis in a Fetus With X-Linked Recessive Chondrodysplasia Punctata: Identification and Functional Study of a Novel Missense Mutation in ARSE.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang L...Wu L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34630518" target="_blank">34630518</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Identification of Z nucleotides as an ancient signal for two-component system activation in bacteria.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Vazquez-Ciros OJ...Georgellis D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33318202" target="_blank">33318202</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Characterization of the TyrR Regulon in the Rhizobacterium Enterobacter ludwigii UW5 Reveals Overlap with the CpxR Envelope Stress Response.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Coulson TJD...Patten CL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33046562" target="_blank">33046562</a></td>
+<td>2020</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Chondrodysplasia Punctata 1, X-Linked Recessive (1 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Arylsulfatase L</td>
+<td>Protein Coding</td>
+<td>1233.28</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300180" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_ARSL">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL&amp;keywords=Chondrodysplasia+Punctata+1%2c+X-Linked+Recessive&amp;prefilter=diseases#diseases" title="ARSL gene information at GeneCards" target="_blank">Disorders</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_ARSL_SeeMore" href="javascript:showMoreTable('related_genes_ARSL','related_genes_ARSL_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/2722194" title="ClinVar" target="_blank">2722194</a> <a href="https://pubmed.ncbi.nlm.nih.gov/7720070" title="ClinVar" target="_blank">7720070</a> <a href="https://pubmed.ncbi.nlm.nih.gov/9409863" title="ClinVar" target="_blank">9409863</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/9863597" title="ClinVar" target="_blank">9863597</a> <a href="https://pubmed.ncbi.nlm.nih.gov/12567415" title="ClinVar" target="_blank">12567415</a> <a href="https://pubmed.ncbi.nlm.nih.gov/23470839" title="ClinVar" target="_blank">23470839</a> <a href="https://pubmed.ncbi.nlm.nih.gov/1557308" title="ClinVar" target="_blank">1557308</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16937129" title="ClinVar" target="_blank">16937129</a> <a href="https://pubmed.ncbi.nlm.nih.gov/18348268" title="ClinVar" target="_blank">18348268</a> <a href="https://pubmed.ncbi.nlm.nih.gov/20598055" title="ClinVar" target="_blank">20598055</a> <a href="https://pubmed.ncbi.nlm.nih.gov/23462608" title="ClinVar" target="_blank">23462608</a> <a href="https://pubmed.ncbi.nlm.nih.gov/28257906" title="ClinVar" target="_blank">28257906</a> <a href="https://pubmed.ncbi.nlm.nih.gov/29565423" title="ClinVar" target="_blank">29565423</a> </span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Chondrodysplasia Punctata 1, X-Linked Recessive:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show all 46', 'showing 46, show less','collapsable')">show all 46</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.332G&gt;C (p.Arg111Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012280/" title="RCV000012280" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11524/?new_evidence=true#id_second" target="_blank">11524</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/122460153" target="_blank">rs122460153</a></td>
+<td>GRCh37: X:2871282-2871282<br/>GRCh38: X:2953241-2953241</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.733G&gt;C (p.Gly245Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012282/" title="RCV000012282" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11526/?new_evidence=true#id_second" target="_blank">11526</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/122460154" target="_blank">rs122460154</a></td>
+<td>GRCh37: X:2867466-2867466<br/>GRCh38: X:2949425-2949425</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1475G&gt;A (p.Cys492Tyr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012283/" title="RCV000012283" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11527/?new_evidence=true#id_second" target="_blank">11527</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/122460155" target="_blank">rs122460155</a></td>
+<td>GRCh37: X:2853168-2853168<br/>GRCh38: X:2935127-2935127</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NC_000023.11:g.(?_2934812)_(2960420_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000814628/" title="RCV000814628" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/657917/?new_evidence=true#id_second" target="_blank">657917</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2852853-2878461<br/>GRCh38: X:2934812-2960420</td>
+</tr>
+<tr>
+<td>5</td>
+<td><span title="overlap with 2 genes gene information at GeneCards">overlap with 2 genes</span> </td>
+<td style="overflow-wrap:break-word;">NC_000023.10:g.(?_2838632)_(2878441_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001386246/" title="RCV001386246" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1073287/?new_evidence=true#id_second" target="_blank">1073287</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2838632-2878441<br/>GRCh38: </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.410G&gt;T (p.Gly137Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012281/" title="RCV000012281" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11525/?new_evidence=true#id_second" target="_blank">11525</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80338711" target="_blank">rs80338711</a></td>
+<td>GRCh37: X:2871204-2871204<br/>GRCh38: X:2953163-2953163</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1732C&gt;T (p.Pro578Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012284/" title="RCV000012284" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11528/?new_evidence=true#id_second" target="_blank">11528</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/28935474" target="_blank">rs28935474</a></td>
+<td>GRCh37: X:2852911-2852911<br/>GRCh38: X:2934870-2934870</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.916A&gt;G (p.Thr306Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002306434/" title="RCV002306434" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1723873/?new_evidence=true#id_second" target="_blank">1723873</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2864114-2864114<br/>GRCh38: X:2946073-2946073</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NC_000023.11:g.(?_2934812)_(2958455_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001032717/" title="RCV001032717" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/832204/?new_evidence=true#id_second" target="_blank">832204</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2852853-2876496<br/>GRCh38: </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.349G&gt;A (p.Gly117Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012279/" title="RCV000012279" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11523/?new_evidence=true#id_second" target="_blank">11523</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/122460152" target="_blank">rs122460152</a></td>
+<td>GRCh37: X:2871265-2871265<br/>GRCh38: X:2953224-2953224</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.24-1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003152790/" title="RCV003152790" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1683210/?new_evidence=true#id_second" target="_blank">1683210</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2876477-2876477<br/>GRCh38: X:2958436-2958436</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.217G&gt;A (p.Gly73Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001376980/" title="RCV001376980" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1066074/?new_evidence=true#id_second" target="_blank">1066074</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2873547-2873547<br/>GRCh38: X:2955506-2955506</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.337C&gt;T (p.Leu113Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000145030/" title="RCV000145030" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/157732/?new_evidence=true#id_second" target="_blank">157732</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/145946864" target="_blank">rs145946864</a></td>
+<td>GRCh37: X:2871277-2871277<br/>GRCh38: X:2953236-2953236</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1289+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002238739/" title="RCV002238739" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1683481/?new_evidence=true#id_second" target="_blank">1683481</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2856135-2856135<br/>GRCh38: X:2938094-2938094</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1219G&gt;T (p.Glu407Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002272711/" title="RCV002272711" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1698854/?new_evidence=true#id_second" target="_blank">1698854</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2856206-2856206<br/>GRCh38: X:2938165-2938165</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.430G&gt;A (p.Gly144Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002472154/" title="RCV002472154" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1805736/?new_evidence=true#id_second" target="_blank">1805736</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2871184-2871184<br/>GRCh38: X:2953143-2953143</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.410G&gt;C (p.Gly137Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000020092/" title="RCV000020092" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/21033/?new_evidence=true#id_second" target="_blank">21033</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80338711" target="_blank">rs80338711</a></td>
+<td>GRCh37: X:2871204-2871204<br/>GRCh38: X:2953163-2953163</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1189G&gt;A (p.Gly397Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000625879/" title="RCV000625879" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/522724/?new_evidence=true#id_second" target="_blank">522724</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/201424543" target="_blank">rs201424543</a></td>
+<td>GRCh37: X:2856236-2856236<br/>GRCh38: X:2938195-2938195</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1743G&gt;A (p.Trp581Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012285/" title="RCV000012285" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11529/?new_evidence=true#id_second" target="_blank">11529</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80338714" target="_blank">rs80338714</a></td>
+<td>GRCh37: X:2852900-2852900<br/>GRCh38: X:2934859-2934859</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1265C&gt;T (p.Ala422Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003141546/" title="RCV003141546" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2439211/?new_evidence=true#id_second" target="_blank">2439211</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2856160-2856160<br/>GRCh38: X:2938119-2938119</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.910_918del (p.Leu304_Thr306del)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003141547/" title="RCV003141547" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2439212/?new_evidence=true#id_second" target="_blank">2439212</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2864112-2864120<br/>GRCh38: X:2946071-2946079</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.36G&gt;C (p.Arg12Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012278/" title="RCV000012278" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11522/?new_evidence=true#id_second" target="_blank">11522</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/122460151" target="_blank">rs122460151</a></td>
+<td>GRCh37: X:2876464-2876464<br/>GRCh38: X:2958423-2958423</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.684C&gt;G (p.Ile228Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001002070/" title="RCV001002070" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/811748/?new_evidence=true#id_second" target="_blank">811748</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1359359899" target="_blank">rs1359359899</a></td>
+<td>GRCh37: X:2867515-2867515<br/>GRCh38: X:2949474-2949474</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1694T&gt;G (p.Ile565Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000660393/" title="RCV000660393" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/547861/?new_evidence=true#id_second" target="_blank">547861</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/142375403" target="_blank">rs142375403</a></td>
+<td>GRCh37: X:2852949-2852949<br/>GRCh38: X:2934908-2934908</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1239C&gt;A (p.Asp413Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000796979/" title="RCV000796979" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/643307/?new_evidence=true#id_second" target="_blank">643307</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/142382411" target="_blank">rs142382411</a></td>
+<td>GRCh37: X:2856186-2856186<br/>GRCh38: X:2938145-2938145</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.898G&gt;A (p.Val300Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001007931/" title="RCV001007931" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/816918/?new_evidence=true#id_second" target="_blank">816918</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/752354785" target="_blank">rs752354785</a></td>
+<td>GRCh37: X:2864132-2864132<br/>GRCh38: X:2946091-2946091</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1022G&gt;T (p.Gly341Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001253559/" title="RCV001253559" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/976306/?new_evidence=true#id_second" target="_blank">976306</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/2089304436" target="_blank">rs2089304436</a></td>
+<td>GRCh37: X:2861210-2861210<br/>GRCh38: X:2943169-2943169</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.512A&gt;G (p.Tyr171Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002489562/" title="RCV002489562" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/838161/?new_evidence=true#id_second" target="_blank">838161</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/368359145" target="_blank">rs368359145</a></td>
+<td>GRCh37: X:2867687-2867687<br/>GRCh38: X:2949646-2949646</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.467G&gt;A (p.Ser156Asn)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000606976/" title="RCV000606976" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/518419/?new_evidence=true#id_second" target="_blank">518419</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/41310272" target="_blank">rs41310272</a></td>
+<td>GRCh37: X:2867732-2867732<br/>GRCh38: X:2949691-2949691</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1692C&gt;T (p.Asn564=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001510334/" title="RCV001510334" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/157730/?new_evidence=true#id_second" target="_blank">157730</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/11222" target="_blank">rs11222</a></td>
+<td>GRCh37: X:2852951-2852951<br/>GRCh38: X:2934910-2934910</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.78A&gt;G (p.Ala26=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000539008/" title="RCV000539008" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/157737/?new_evidence=true#id_second" target="_blank">157737</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/35718384" target="_blank">rs35718384</a></td>
+<td>GRCh37: X:2876422-2876422<br/>GRCh38: X:2958381-2958381</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.548G&gt;A (p.Arg183His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001000012/" title="RCV001000012" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/157734/?new_evidence=true#id_second" target="_blank">157734</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/34412194" target="_blank">rs34412194</a></td>
+<td>GRCh37: X:2867651-2867651<br/>GRCh38: X:2949610-2949610</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.897C&gt;T (p.His299=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001002374/" title="RCV001002374" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/811901/?new_evidence=true#id_second" target="_blank">811901</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/148471739" target="_blank">rs148471739</a></td>
+<td>GRCh37: X:2864133-2864133<br/>GRCh38: X:2946092-2946092</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1127-141GA[10]</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001554167/" title="RCV001554167" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1175208/?new_evidence=true#id_second" target="_blank">1175208</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2856421-2856422<br/>GRCh38: X:2938380-2938381</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.992-219C&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001554168/" title="RCV001554168" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/667510/?new_evidence=true#id_second" target="_blank">667510</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/211643" target="_blank">rs211643</a></td>
+<td>GRCh37: X:2861459-2861459<br/>GRCh38: X:2943418-2943418</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.24-26C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001554169/" title="RCV001554169" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1192478/?new_evidence=true#id_second" target="_blank">1192478</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:2876502-2876502<br/>GRCh38: X:2958461-2958461</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.-14GA[3]</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003103749/" title="RCV003103749" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/254741/?new_evidence=true#id_second" target="_blank">254741</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200332753" target="_blank">rs200332753</a></td>
+<td>GRCh37: X:2878446-2878449<br/>GRCh38: X:2960405-2960408</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.157A&gt;G (p.Ile53Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000526439/" title="RCV000526439" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/157729/?new_evidence=true#id_second" target="_blank">157729</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61733256" target="_blank">rs61733256</a></td>
+<td>GRCh37: X:2876343-2876343<br/>GRCh38: X:2958302-2958302</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.430+8C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001001562/" title="RCV001001562" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/513003/?new_evidence=true#id_second" target="_blank">513003</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/56393981" target="_blank">rs56393981</a></td>
+<td>GRCh37: X:2871176-2871176<br/>GRCh38: X:2953135-2953135</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.775C&gt;G (p.His259Asp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001088865/" title="RCV001088865" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/235491/?new_evidence=true#id_second" target="_blank">235491</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/138149353" target="_blank">rs138149353</a></td>
+<td>GRCh37: X:2867424-2867424<br/>GRCh38: X:2949383-2949383</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1270G&gt;A (p.Gly424Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001510335/" title="RCV001510335" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/157728/?new_evidence=true#id_second" target="_blank">157728</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/35143646" target="_blank">rs35143646</a></td>
+<td>GRCh37: X:2856155-2856155<br/>GRCh38: X:2938114-2938114</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.549C&gt;T (p.Arg183=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001510942/" title="RCV001510942" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/157735/?new_evidence=true#id_second" target="_blank">157735</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/5982618" target="_blank">rs5982618</a></td>
+<td>GRCh37: X:2867650-2867650<br/>GRCh38: X:2949609-2949609</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.495T&gt;C (p.His165=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001518159/" title="RCV001518159" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/516293/?new_evidence=true#id_second" target="_blank">516293</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/35274634" target="_blank">rs35274634</a></td>
+<td>GRCh37: X:2867704-2867704<br/>GRCh38: X:2949663-2949663</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.119T&gt;G (p.Ile40Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000020090/" title="RCV000020090" target="_blank">Not Provided</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/21031/?new_evidence=true#id_second" target="_blank">21031</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80338710" target="_blank">rs80338710</a></td>
+<td>GRCh37: X:2876381-2876381<br/>GRCh38: X:2958340-2958340</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.1442C&gt;T (p.Thr481Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000020091/" title="RCV000020091" target="_blank">Not Provided</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/21032/?new_evidence=true#id_second" target="_blank">21032</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80338713" target="_blank">rs80338713</a></td>
+<td>GRCh37: X:2853201-2853201<br/>GRCh38: X:2935160-2935160</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td style="overflow-wrap:break-word;">NM_000047.3(ARSL):c.23G&gt;C (p.Cys8Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001824764/" title="RCV001824764" target="_blank">Not Provided</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/383365/?new_evidence=true#id_second" target="_blank">383365</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057521599" target="_blank">rs1057521599</a></td>
+<td>GRCh37: X:2878419-2878419<br/>GRCh38: X:2960378-2960378</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Chondrodysplasia Punctata 1, X-Linked Recessive:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td>p.Arg12Ser</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_007307.html" target="_blank">VAR_007307</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/122460151" target="_blank">rs122460151</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td>p.Arg111Pro</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_007308.html" target="_blank">VAR_007308</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/122460153" target="_blank">rs122460153</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td>p.Gly117Arg</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_007309.html" target="_blank">VAR_007309</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/122460152" target="_blank">rs122460152</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td>p.Gly137Val</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_007310.html" target="_blank">VAR_007310</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80338711" target="_blank">rs80338711</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td>p.Gly245Arg</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_007311.html" target="_blank">VAR_007311</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/122460154" target="_blank">rs122460154</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td>p.Cys492Tyr</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_007312.html" target="_blank">VAR_007312</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/122460155" target="_blank">rs122460155</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td>p.Ile80Asn</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_023570.html" target="_blank">VAR_023570</a></td>
+<td><span></span> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td>p.Thr481Met</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_023571.html" target="_blank">VAR_023571</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/80338713" target="_blank">rs80338713</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARSL" title="ARSL gene information at GeneCards" target="_blank">ARSL</a></td>
+<td>p.Pro578Ser</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_023572.html" target="_blank">VAR_023572</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/28935474" target="_blank">rs28935474</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Chondrodysplasia%20Punctata%201%2C%20X-Linked%20Recessive%22%5BMeSH%20Terms%5D%20OR%20%22Chondrodysplasia%20Punctata%201%2C%20X-Linked%20Recessive%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Chondrodysplasia Punctata 1, X-Linked Recessive.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Chondrodysplasia Punctata 1, X-Linked Recessive</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#fe8d8b8e8e918c8abe9297989b939f8e8d9dd09d9193">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809eb2dbce73f11c',t:'MTY5NTI2MTQ2MC4xNzAwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

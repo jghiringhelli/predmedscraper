@@ -1,0 +1,2830 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Baker-Gordon Syndrome disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/baker_gordon_syndrome" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'baker_gordon_syndrome';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+BAGOS <div class="symbol">MCID: BKR002</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 29
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Baker-Gordon Syndrome</span>
+(<span itemprop="alternateName">BAGOS</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Eye diseases, Genetic diseases, Mental diseases, Neuronal diseases, Oral diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#c0b3a1aca5b380aca9a6a5ada1b0b3a3eea3afad" target="_blank"><span class="__cf_email__" data-cfemail="ea998b868f99aa86838c8f878b9a9989c4898587">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="1 Genes associated with Baker-Gordon Syndrome">Genes</a>
+<a href="#genetic_variations" title="24 Variations associated with Baker-Gordon Syndrome">Variations</a>
+<a href="#anatomical_context" title="1 Tissues associated with Baker-Gordon Syndrome">Tissues</a>
+<a href="#publications" title="4 Publications associated with Baker-Gordon Syndrome">Publications</a>
+<a href="#clinical_features" title="80 Symptoms &amp; Phenotypes associated with Baker-Gordon Syndrome">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/baker_gordon_syndrome?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Baker-Gordon Syndrome:</h3>
+<div class="main-name">
+Name: <b>Baker-Gordon Syndrome</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/618218" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-05432" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/06191" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/SYT1-associated_neurodevelopmental_disorder" title="Wikipedia" target="_blank">75</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Infantile Hypotonia-Oculomotor Anomalies-Hyperkinetic Movements-Developmental Delay Syndrome
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=522077" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4748715" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Neurodevelopmental Disorder with Involuntary Movement and Abnormal Electroencephalogram
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/618218" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-05432" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Nedimae
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/618218" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-05432" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Bagos
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/618218" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-05432" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Syt1-Related Neurodevelopmental Disorder
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=522077" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Autosomal dominant <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/618218" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+<b>Infantile Hypotonia-Oculomotor Anomalies-Hyperkinetic Movements-Developmental Delay Syndrome:</b>
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=522077" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>Infantile Hypotonia-Oculomotor Anomalies-Hyperkinetic Movements-Developmental Delay Syndrome:</b>
+Infancy <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=522077" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/618218" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>onset in infancy</span>
+<br/>
+<span>de novo mutation</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/eye_disease_list" target="_blank">Eye diseases</a> <a href="https://www.malacards.org/categories/oral_disease_list" target="_blank">Oral diseases</a> <a href="https://www.malacards.org/categories/mental_disease_list" target="_blank">Mental diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare neurological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare eye diseases <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/618218" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/618218" target="_blank">618218</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D065886" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D065886" target="_blank">D065886</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=522077" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=522077" target="_blank">ORPHA522077</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_4">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C4748715" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C4748715" target="_blank">C4748715</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/CN257498" target="_blank">CN257498</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/102542000" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/102542000" target="_blank">102542000</a> <a href="http://www.snomedbrowser.com/Codes/Details/111266001" target="_blank">111266001</a> <a href="http://www.snomedbrowser.com/Codes/Details/128602000" target="_blank">128602000</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/130968006" target="_blank">130968006</a> <a href="http://www.snomedbrowser.com/Codes/Details/135810007" target="_blank">135810007</a> <a href="http://www.snomedbrowser.com/Codes/Details/16331000" target="_blank">16331000</a> <a href="http://www.snomedbrowser.com/Codes/Details/16596007" target="_blank">16596007</a> <a href="http://www.snomedbrowser.com/Codes/Details/205145001" target="_blank">205145001</a> <a href="http://www.snomedbrowser.com/Codes/Details/205294008" target="_blank">205294008</a> <a href="http://www.snomedbrowser.com/Codes/Details/22066006" target="_blank">22066006</a> <a href="http://www.snomedbrowser.com/Codes/Details/224958001" target="_blank">224958001</a> <a href="http://www.snomedbrowser.com/Codes/Details/229844004" target="_blank">229844004</a> <a href="http://www.snomedbrowser.com/Codes/Details/230780007" target="_blank">230780007</a> <a href="http://www.snomedbrowser.com/Codes/Details/235595009" target="_blank">235595009</a> <a href="http://www.snomedbrowser.com/Codes/Details/246635007" target="_blank">246635007</a> <a href="http://www.snomedbrowser.com/Codes/Details/248062006" target="_blank">248062006</a> <a href="http://www.snomedbrowser.com/Codes/Details/248072009" target="_blank">248072009</a> <a href="http://www.snomedbrowser.com/Codes/Details/249310005" target="_blank">249310005</a> <a href="http://www.snomedbrowser.com/Codes/Details/249497008" target="_blank">249497008</a> <a href="http://www.snomedbrowser.com/Codes/Details/249803006" target="_blank">249803006</a> <a href="http://www.snomedbrowser.com/Codes/Details/253366007" target="_blank">253366007</a> <a href="http://www.snomedbrowser.com/Codes/Details/271700006" target="_blank">271700006</a> <a href="http://www.snomedbrowser.com/Codes/Details/274521009" target="_blank">274521009</a> <a href="http://www.snomedbrowser.com/Codes/Details/275344002" target="_blank">275344002</a> <a href="http://www.snomedbrowser.com/Codes/Details/27911000" target="_blank">27911000</a> <a href="http://www.snomedbrowser.com/Codes/Details/282145008" target="_blank">282145008</a> <a href="http://www.snomedbrowser.com/Codes/Details/298203008" target="_blank">298203008</a> <a href="http://www.snomedbrowser.com/Codes/Details/300359004" target="_blank">300359004</a> <a href="http://www.snomedbrowser.com/Codes/Details/38086007" target="_blank">38086007</a> <a href="http://www.snomedbrowser.com/Codes/Details/38101003" target="_blank">38101003</a> <a href="http://www.snomedbrowser.com/Codes/Details/397540003" target="_blank">397540003</a> <a href="http://www.snomedbrowser.com/Codes/Details/405752007" target="_blank">405752007</a> <a href="http://www.snomedbrowser.com/Codes/Details/412786000" target="_blank">412786000</a> <a href="http://www.snomedbrowser.com/Codes/Details/422400008" target="_blank">422400008</a> <a href="http://www.snomedbrowser.com/Codes/Details/43105007" target="_blank">43105007</a> <a href="http://www.snomedbrowser.com/Codes/Details/44548000" target="_blank">44548000</a> <a href="http://www.snomedbrowser.com/Codes/Details/45352006" target="_blank">45352006</a> <a href="http://www.snomedbrowser.com/Codes/Details/53888004" target="_blank">53888004</a> <a href="http://www.snomedbrowser.com/Codes/Details/5507002" target="_blank">5507002</a> <a href="http://www.snomedbrowser.com/Codes/Details/563001" target="_blank">563001</a> <a href="http://www.snomedbrowser.com/Codes/Details/64217002" target="_blank">64217002</a> <a href="http://www.snomedbrowser.com/Codes/Details/66637005" target="_blank">66637005</a> <a href="http://www.snomedbrowser.com/Codes/Details/68978004" target="_blank">68978004</a> <a href="http://www.snomedbrowser.com/Codes/Details/698065002" target="_blank">698065002</a> <a href="http://www.snomedbrowser.com/Codes/Details/70142008" target="_blank">70142008</a> <a href="http://www.snomedbrowser.com/Codes/Details/73430006" target="_blank">73430006</a> <a href="http://www.snomedbrowser.com/Codes/Details/75019001" target="_blank">75019001</a> <a href="http://www.snomedbrowser.com/Codes/Details/78164000" target="_blank">78164000</a> <a href="http://www.snomedbrowser.com/Codes/Details/7973008" target="_blank">7973008</a> <a href="http://www.snomedbrowser.com/Codes/Details/84328007" target="_blank">84328007</a> <a href="http://www.snomedbrowser.com/Codes/Details/85102008" target="_blank">85102008</a> <a href="http://www.snomedbrowser.com/Codes/Details/9748009" target="_blank">9748009</a> </span>
+<span class="showmore">
+<a title="show all 52" id="ExternalId_showmore_5" href="javascript:showMoreTable('ExternalId_item_5','ExternalId_showmore_5','more','less','collapsable')">more</a>
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=522077" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=522077" target="_blank">58</a></sup>
+A rare genetic neurological disorder characterized by infantile hypotonia, congenital ophthalmic anomalies (including strabismus, esotropia, nystagmus, and central visual impairment), global developmental delay and intellectual disability, behavioral abnormalities, and movement disorder (such as dystonia, chorea, hyperkinesia, stereotypies). Mild facial dysmorphism and skeletal deformities have also been reported. EEG testing shows marked abnormalities in the absence of overt epileptic seizures.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Baker-Gordon Syndrome, is also known as <i>infantile hypotonia-oculomotor anomalies-hyperkinetic movements-developmental delay syndrome</i>. An important gene associated with Baker-Gordon Syndrome is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" target="_blank">SYT1</a> (Synaptotagmin 1). Affiliated tissues include <i>eye</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0002353" target="_blank">eeg abnormality</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0001344" target="_blank">absent speech</a></i></p>
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-05432" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-05432" target="_blank">73</a></sup>
+An autosomal dominant neurodevelopmental disorder characterized by infantile hypotonia, congenital ophthalmic abnormalities, involuntary and hyperkinetic movements, stereotypic behavior, poor or absent speech, EEG abnormalities, and global developmental delay varying in severity from moderate to profound. Behavioral characteristics include sleep disturbance and episodic agitation.</p><p> <b> <a href="http://omim.org/entry/618218#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/618218#description" target="_blank">57</a></sup>
+Baker-Gordon syndrome (BAGOS) is a neurodevelopmental disorder characterized by infantile hypotonia, ophthalmic abnormalities, moderate to profound global developmental delay, poor or absent speech, behavioral abnormalities, hyperkinetic movements, and EEG abnormalities in the absence of overt seizures (summary by Baker et al., 2018). <span> (618218) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="https://en.wikipedia.org/wiki/SYT1-associated_neurodevelopmental_disorder" target="_blank">Wikipedia</a>:</b>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/SYT1-associated_neurodevelopmental_disorder" target="_blank">75</a></sup>
+SYT1-associated neurodevelopmental disorder, also known as Baker-Gordon Syndrome, is a rare genetic... <a href="https://en.wikipedia.org/wiki/SYT1-associated_neurodevelopmental_disorder" target="_blank">more...</a></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Baker-Gordon Syndrome:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('HPO_Symptoms', '68', 'HPO_Symptoms-table');">show all 68</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+eeg abnormality
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002353" target="_blank">HP:0002353</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+absent speech
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.8181818%</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001344" target="_blank">HP:0001344</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+motor delay
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001270" target="_blank">HP:0001270</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+severe global developmental delay
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011344" target="_blank">HP:0011344</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+autistic behavior
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000729" target="_blank">HP:0000729</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+infantile muscular hypotonia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008947" target="_blank">HP:0008947</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+sleep disturbance
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002360" target="_blank">HP:0002360</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+nystagmus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.4545455%</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000639" target="_blank">HP:0000639</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+gastroesophageal reflux
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.3636364%</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002020" target="_blank">HP:0002020</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+vomiting
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002013" target="_blank">HP:0002013</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+strabismus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1818182%</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000486" target="_blank">HP:0000486</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+esotropia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000565" target="_blank">HP:0000565</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+hyperkinetic movements
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.09090909%</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002487" target="_blank">HP:0002487</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+poor visual behavior for age
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0025152" target="_blank">HP:0025152</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+repetitive compulsive behavior
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008762" target="_blank">HP:0008762</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+abnormal repetitive mannerisms
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.3636364%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000733" target="_blank">HP:0000733</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+reduced eye contact
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000817" target="_blank">HP:0000817</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+scoliosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002650" target="_blank">HP:0002650</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+ataxia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.09090909%</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001251" target="_blank">HP:0001251</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+sleep apnea
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.09090909%</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010535" target="_blank">HP:0010535</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+chorea
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002072" target="_blank">HP:0002072</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+short nose
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003196" target="_blank">HP:0003196</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+smooth philtrum
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000319" target="_blank">HP:0000319</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+epicanthus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000286" target="_blank">HP:0000286</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+atrial septal defect
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001631" target="_blank">HP:0001631</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+joint laxity
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001388" target="_blank">HP:0001388</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+laryngomalacia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001601" target="_blank">HP:0001601</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+thin upper lip vermilion
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000219" target="_blank">HP:0000219</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+dystonia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.2727273%</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001332" target="_blank">HP:0001332</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+hemiballismus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100248" target="_blank">HP:0100248</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+brachyturricephaly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000244" target="_blank">HP:0000244</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+
+feeding difficulties
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1818182%</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011968" target="_blank">HP:0011968</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+
+lumbar hyperlordosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002938" target="_blank">HP:0002938</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+
+bilateral talipes equinovarus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001776" target="_blank">HP:0001776</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+
+choreoathetosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1818182%</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001266" target="_blank">HP:0001266</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+
+almond-shaped palpebral fissure
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007874" target="_blank">HP:0007874</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+
+central apnea
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002871" target="_blank">HP:0002871</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+
+progressive flexion contractures
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005876" target="_blank">HP:0005876</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+
+self-mutilation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000742" target="_blank">HP:0000742</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+
+widow&#39;s peak
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000349" target="_blank">HP:0000349</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+
+2-3 toe syndactyly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004691" target="_blank">HP:0004691</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+
+poor speech
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002465" target="_blank">HP:0002465</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+
+horizontal eyebrow
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011228" target="_blank">HP:0011228</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+
+dermoid cyst
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0025247" target="_blank">HP:0025247</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+
+hypermetropia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000540" target="_blank">HP:0000540</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td>
+
+hyperventilation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002883" target="_blank">HP:0002883</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td>
+
+delayed myelination
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012448" target="_blank">HP:0012448</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td>
+
+prominent nasal tip
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005274" target="_blank">HP:0005274</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td>
+
+eeg with spike-wave complexes
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010850" target="_blank">HP:0010850</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td>
+
+self-biting
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012169" target="_blank">HP:0012169</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/618218" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Skeletal Spine:</u><br/>
+<span>scoliosis</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>ataxia</span>
+<br/>
+<span>global developmental delay</span>
+<br/>
+<span>dyskinesia</span>
+<br/>
+<span>involuntary movements</span>
+<br/>
+<span>dystonia</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>choreoathetosis</span>
+<br/>
+<span>inability to walk</span>
+<br/>
+<span>hyperkinetic movements</span>
+<br/>
+<span>delayed walking</span>
+<br/>
+<span>abnormal eeg</span>
+<br/>
+<span>poor or absent speech</span>
+<br/>
+<span>impaired intellectual development, moderate to severe</span>
+<br/>
+<span>no overt seizures</span>
+<br/>
+<span>nonspecific white matter abnormalities (in some patients)</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 14" id="ClinicalSynopsis_showmore_2" href="javascript:showMoreTable('ClinicalSynopsis_item_2','ClinicalSynopsis_showmore_2','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Head And Neck Nose:</u><br/>
+<span>short nose</span>
+<br/>
+<span>prominent nasal tip</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Abdomen Gastrointestinal:</u><br/>
+<span>gastroesophageal reflux</span>
+<br/>
+<span>feeding difficulties</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Head And Neck Mouth:</u><br/>
+<span>thin upper lip</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Muscle Soft Tissue:</u><br/>
+<span>hypotonia, neonatal</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>nystagmus</span>
+<br/>
+<span>strabismus</span>
+<br/>
+<span>epicanthal folds</span>
+<br/>
+<span>almond-shaped eyes</span>
+<br/>
+<span>central visual impairment</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>poor or absent eye contact</span>
+<br/>
+<span>low-set eyebrows</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 7" id="ClinicalSynopsis_showmore_7" href="javascript:showMoreTable('ClinicalSynopsis_item_7','ClinicalSynopsis_showmore_7','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Respiratory:</u><br/>
+<span>sleep apnea</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Head And Neck Face:</u><br/>
+<span>smooth philtrum</span>
+<br/>
+<span>high forehead</span>
+<br/>
+<span>fine facial features</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Skeletal:</u><br/>
+<span>joint laxity</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_11" class="tab">
+<u>Skeletal Feet:</u><br/>
+<span>foot deformities</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_12" class="tab">
+<u>Neurologic Behavioral Psychiatric Manifestations:</u><br/>
+<span>stereotypic behavior</span>
+<br/>
+<span>angry outbursts</span>
+<br/>
+<span>self-harm</span>
+<br/>
+<span>unpredictable behavior</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/618218#clinicalFeatures" target="_blank">618218</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Baker-Gordon Syndrome" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Baker-Gordon Syndrome&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Baker-Gordon Syndrome</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Baker-Gordon Syndrome:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Infantile Hypotonia-Oculomotor Anomalies-Hyperkinetic Movements-Developmental Delay Syndrome
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4748715" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1&amp;keywords=infantile+hypotonia-oculomotor+anomalies-hyperkinetic+movements-developmental+delay+syndrome&amp;prefilter=diseases#diseases" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Baker-Gordon Syndrome: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="3.969475">Eye</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Baker-Gordon Syndrome according to OMIM&#174; and ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+SYT1-associated neurodevelopmental disorder: a case series.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Baker K...Raymond FL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30107533" target="_blank">30107533</a></td>
+<td>2018</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Novel de novo heterozygous loss-of-function variants in MED13L and further delineation of the MED13L haploinsufficiency syndrome.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Cafiero C...Zollino M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25712080" target="_blank">25712080</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Identification of a human synaptotagmin-1 mutation that perturbs synaptic vesicle cycling.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Baker K...Raymond FL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25705886" target="_blank">25705886</a></td>
+<td>2015</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Baker-Gordon Syndrome according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pyroglutamic acid in cheese: presence, origin, and correlation with ripening time of Grana Padano cheese.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mucchetti G...Marchelli R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10791780" target="_blank">10791780</a></td>
+<td>2000</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Baker-Gordon Syndrome (1 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Synaptotagmin 1</td>
+<td>Protein Coding</td>
+<td>1692.9</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/185605" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic/Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=24960" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_SYT1">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1&amp;keywords=Baker-Gordon+Syndrome&amp;prefilter=diseases#diseases" title="SYT1 gene information at GeneCards" target="_blank">Disorders</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1&amp;keywords=Baker-Gordon+Syndrome&amp;prefilter=summaries#summaries" title="SYT1 gene information at GeneCards" target="_blank">Summaries</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_SYT1_SeeMore" href="javascript:showMoreTable('related_genes_SYT1','related_genes_SYT1_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30107533" title="ClinVar" target="_blank">30107533</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25705886" title="ClinVar" target="_blank">25705886</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25712080" title="ClinVar" target="_blank">25712080</a> </span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Baker-Gordon Syndrome:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show all 19', 'showing 19, show less','collapsable')">show all 19</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.1198C&gt;T (p.Arg400Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001788529/" title="RCV001788529" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1164047/?new_evidence=true#id_second" target="_blank">1164047</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79842833-79842833<br/>GRCh38: 12:79449053-79449053</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.1098C&gt;A (p.Asp366Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000735269/" title="RCV000735269" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/590280/?new_evidence=true#id_second" target="_blank">590280</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1565962725" target="_blank">rs1565962725</a></td>
+<td>GRCh37: 12:79842733-79842733<br/>GRCh38: 12:79448953-79448953</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.926C&gt;T (p.Ser309Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002246756/" title="RCV002246756" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1686243/?new_evidence=true#id_second" target="_blank">1686243</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79747397-79747397<br/>GRCh38: 12:79353617-79353617</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.1103T&gt;C (p.Ile368Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000735268/" title="RCV000735268" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/431484/?new_evidence=true#id_second" target="_blank">431484</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1135402761" target="_blank">rs1135402761</a></td>
+<td>GRCh37: 12:79842738-79842738<br/>GRCh38: 12:79448958-79448958</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.1101_1103dup (p.Lys367_Ile368insMet)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002283762/" title="RCV002283762" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1705448/?new_evidence=true#id_second" target="_blank">1705448</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79842735-79842736<br/>GRCh38: 12:79448955-79448956</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.920G&gt;A (p.Gly307Asp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002289190/" title="RCV002289190" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1709375/?new_evidence=true#id_second" target="_blank">1709375</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79747391-79747391<br/>GRCh38: 12:79353611-79353611</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.551T&gt;C (p.Val184Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002510484/" title="RCV002510484" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1878431/?new_evidence=true#id_second" target="_blank">1878431</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79689925-79689925<br/>GRCh38: 12:79296145-79296145</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.1113C&gt;G (p.Asn371Lys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000735270/" title="RCV000735270" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/590281/?new_evidence=true#id_second" target="_blank">590281</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/144900171" target="_blank">rs144900171</a></td>
+<td>GRCh37: 12:79842748-79842748<br/>GRCh38: 12:79448968-79448968</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.908T&gt;A (p.Met303Lys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000735271/" title="RCV000735271" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/590278/?new_evidence=true#id_second" target="_blank">590278</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1565922388" target="_blank">rs1565922388</a></td>
+<td>GRCh37: 12:79747379-79747379<br/>GRCh38: 12:79353599-79353599</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.911A&gt;G (p.Asp304Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000735272/" title="RCV000735272" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/590279/?new_evidence=true#id_second" target="_blank">590279</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1565922395" target="_blank">rs1565922395</a></td>
+<td>GRCh37: 12:79747382-79747382<br/>GRCh38: 12:79353602-79353602</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.1100_1102dup (p.Lys367dup)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001027965/" title="RCV001027965" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/828098/?new_evidence=true#id_second" target="_blank">828098</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1593076474" target="_blank">rs1593076474</a></td>
+<td>GRCh37: 12:79842733-79842734<br/>GRCh38: 12:79448953-79448954</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.928G&gt;A (p.Asp310Asn)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001724785/" title="RCV001724785" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1297049/?new_evidence=true#id_second" target="_blank">1297049</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79747399-79747399<br/>GRCh38: 12:79353619-79353619</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.1114G&gt;A (p.Asp372Asn)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001808291/" title="RCV001808291" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1333603/?new_evidence=true#id_second" target="_blank">1333603</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79842749-79842749<br/>GRCh38: 12:79448969-79448969</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.1043T&gt;C (p.Val348Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001809004/" title="RCV001809004" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1333789/?new_evidence=true#id_second" target="_blank">1333789</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79837967-79837967<br/>GRCh38: 12:79444187-79444187</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.520A&gt;G (p.Met174Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003140836/" title="RCV003140836" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2436916/?new_evidence=true#id_second" target="_blank">2436916</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79689894-79689894<br/>GRCh38: 12:79296114-79296114</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.1049T&gt;A (p.Phe350Tyr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003151954/" title="RCV003151954" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2443347/?new_evidence=true#id_second" target="_blank">2443347</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79837973-79837973<br/>GRCh38: 12:79444193-79444193</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.1076T&gt;C (p.Val359Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002250828/" title="RCV002250828" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1687146/?new_evidence=true#id_second" target="_blank">1687146</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79842711-79842711<br/>GRCh38: 12:79448931-79448931</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.474+3C&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001815640/" title="RCV001815640" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1334917/?new_evidence=true#id_second" target="_blank">1334917</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79685913-79685913<br/>GRCh38: 12:79292133-79292133</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td style="overflow-wrap:break-word;">NM_005639.3(SYT1):c.75C&gt;T (p.Asn25=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001816031/" title="RCV001816031" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1334916/?new_evidence=true#id_second" target="_blank">1334916</a></td>
+<td><span></span> </td>
+<td>GRCh37: 12:79611374-79611374<br/>GRCh38: 12:79217594-79217594</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Baker-Gordon Syndrome:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td>p.Ile368Thr</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_072911.html" target="_blank">VAR_072911</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1135402761" target="_blank">rs1135402761</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td>p.Met303Lys</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_081536.html" target="_blank">VAR_081536</a></td>
+<td><span></span> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td>p.Asp304Gly</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_081537.html" target="_blank">VAR_081537</a></td>
+<td><span></span> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td>p.Asp366Glu</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_081538.html" target="_blank">VAR_081538</a></td>
+<td><span></span> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYT1" title="SYT1 gene information at GeneCards" target="_blank">SYT1</a></td>
+<td>p.Asn371Lys</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_081539.html" target="_blank">VAR_081539</a></td>
+<td><span></span> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Baker-Gordon%20Syndrome%22%5BMeSH%20Terms%5D%20OR%20%22Baker-Gordon%20Syndrome%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Baker-Gordon Syndrome.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Baker-Gordon Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#ff8c8a8f8f908d8bbf9396999a929e8f8c9cd19c9092">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809eccd8c8b21660',t:'MTY5NTI2MjUyNC40NTIwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

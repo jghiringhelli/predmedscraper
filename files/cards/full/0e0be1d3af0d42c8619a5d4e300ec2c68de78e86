@@ -1,0 +1,3348 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Albinism, Ocular, with Late-Onset Sensorineural Deafness disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/albinism_ocular_with_late_onset_sensorineural_deafness" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'albinism_ocular_with_late_onset_sensorineural_deafness';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+OASD <div class="symbol">MCID: ALB025</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 45
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Albinism, Ocular, with Late-Onset Sensorineural Deafness</span>
+(<span itemprop="alternateName">OASD</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Ear diseases, Eye diseases, Fetal diseases, Genetic diseases, Metabolic diseases, Neuronal diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#3f4c5e535a4c7f5356595a525e4f4c5c115c5052" target="_blank"><span class="__cf_email__" data-cfemail="0c7f6d60697f4c60656a69616d7c7f6f226f6361">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="16 Genes associated with Albinism, Ocular, with Late-Onset Sensorineural Deafness">Genes</a>
+<a href="#genetic_variations" title="12 Variations associated with Albinism, Ocular, with Late-Onset Sensorineural Deafness">Variations</a>
+<a href="#anatomical_context" title="1 Tissues associated with Albinism, Ocular, with Late-Onset Sensorineural Deafness">Tissues</a>
+<a href="#disorders" title="63 Related diseases associated with Albinism, Ocular, with Late-Onset Sensorineural Deafness">Related diseases</a>
+<a href="#publications" title="12 Publications associated with Albinism, Ocular, with Late-Onset Sensorineural Deafness">Publications</a>
+<a href="#clinical_features" title="17 Symptoms &amp; Phenotypes associated with Albinism, Ocular, with Late-Onset Sensorineural Deafness">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/albinism_ocular_with_late_onset_sensorineural_deafness?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Albinism, Ocular, with Late-Onset Sensorineural Deafness:</h3>
+<div class="main-name">
+Name: <b>Albinism, Ocular, with Late-Onset Sensorineural Deafness</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300650" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Ocular Albinism with Late-Onset Sensorineural Deafness
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/592/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1000" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1845069" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Ocular Albinism with Sensorineural Deafness
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300650" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0090100" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<div>
+Ocular Albinism with Late-Onset Sensorineural Hearing Loss
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/592/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1000" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Albinism, Ocular, with Sensorineural Deafness
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<div>
+Autosomal Recessive Waardenburg Syndrome Type 2 with Ocular Albinism
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0090100" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Albinism Ocular Late Onset Sensorineural Deafness
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Albinism_ocular_late_onset_sensorineural_deafness" title="Wikipedia" target="_blank">75</a></sup>
+</div>
+<div>
+Ocular Albinism Late Onset Sensorineural Deafness
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Ocular_albinism_late_onset_sensorineural_deafness" title="Wikipedia" target="_blank">75</a></sup>
+</div>
+<div>
+Waardenburg Syndrome/ocular Albinism, Digenic
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/CN260016" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Digenic Waardenburg Syndrome/ocular Albinism
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0090100" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Ocular Albinism and Sensorineural Deafness
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=300650" title="diseasecard" target="_blank">12</a></sup>
+</div>
+<div>
+Waardenburg Syndrome/albinism, Digenic
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/CN260015" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Digenic Waardenburg Syndrome/albinism
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0090100" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Deafness and Ocular Albinism
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300650" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Ws2-Oa
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0090100" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Oasd
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300650" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Albinism, Ocular, with Late-Onset Sensorineural Deafness:</b>
+X-linked <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/300650" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>Ocular Albinism with Late-Onset Sensorineural Deafness:</b>
+X-linked recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1000" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+<b>Ocular Albinism with Late-Onset Sensorineural Deafness:</b>
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1000" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>Ocular Albinism with Late-Onset Sensorineural Deafness:</b>
+Adult <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1000" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/eye_disease_list" target="_blank">Eye diseases</a> <a href="https://www.malacards.org/categories/ear_disease_list" target="_blank">Ear diseases</a> <a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="International Classification of Diseases, 10th Revision">31</sup>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/IV" title="IV" target="_blank">Endocrine, nutritional and metabolic diseases</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70-E90" title="E70-E90" target="_blank">Metabolic disorders</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70" title="E70" target="_blank">Disorders of aromatic amino-acid metabolism</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70.3" title="E70.3" target="_blank">Albinism</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare eye diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare otorhinolaryngological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Inborn errors of metabolism <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Developmental anomalies during embryogenesis <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0090100" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0090100" target="_blank">DOID:0090100</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300650" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/300650" target="_blank">300650</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="International Classification of Diseases, 10th Revision">ICD10</b>
+<sup title="International Classification of Diseases, 10th Revision"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70.3" target="_blank">31</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70.3" target="_blank">E70.3</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="MESH via Orphanet">MESH via Orphanet</b>
+<sup title="MESH via Orphanet"><span>44</span> </sup>
+<span>C537043</span>
+</div>
+<div id="ExternalId_item_5">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70.3" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70.3" target="_blank">E70.3</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_6">
+<b title="UMLS via Orphanet">UMLS via Orphanet</b>
+<sup title="UMLS via Orphanet"><span>72</span> </sup>
+<span>C1845069</span>
+</div>
+<div id="ExternalId_item_7">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1000" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1000" target="_blank">ORPHA1000</a>
+</div>
+<div id="ExternalId_item_8">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1845069" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1845069" target="_blank">C1845069</a>
+</div>
+<div id="ExternalId_item_9">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/128602000" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/128602000" target="_blank">128602000</a> <a href="http://www.snomedbrowser.com/Codes/Details/15890002" target="_blank">15890002</a> <a href="http://www.snomedbrowser.com/Codes/Details/18064000" target="_blank">18064000</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/22066006" target="_blank">22066006</a> <a href="http://www.snomedbrowser.com/Codes/Details/246622003" target="_blank">246622003</a> <a href="http://www.snomedbrowser.com/Codes/Details/246635007" target="_blank">246635007</a> <a href="http://www.snomedbrowser.com/Codes/Details/26399002" target="_blank">26399002</a> <a href="http://www.snomedbrowser.com/Codes/Details/397540003" target="_blank">397540003</a> <a href="http://www.snomedbrowser.com/Codes/Details/409668002" target="_blank">409668002</a> <a href="http://www.snomedbrowser.com/Codes/Details/563001" target="_blank">563001</a> <a href="http://www.snomedbrowser.com/Codes/Details/60700002" target="_blank">60700002</a> <a href="http://www.snomedbrowser.com/Codes/Details/7973008" target="_blank">7973008</a> </span>
+<span class="showmore">
+<a title="show all 12" id="ExternalId_showmore_9" href="javascript:showMoreTable('ExternalId_item_9','ExternalId_showmore_9','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_10">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C1845069</span> <span>C1863198</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="https://rarediseases.info.nih.gov/diseases/592/index" target="_blank">GARD</a>:</b>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/592/index" target="_blank">19</a></sup>
+Ocular albinism with late-onset sensorineural deafness is a rare, X-linked inherited subtype of ocular albinism characterized by severe visual impairment, translucent pale-blue irises, a reduction in the retinal pigment and moderately severe deafness with onset ranging from adolescence to fourth or fifth decade of life.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Albinism, Ocular, with Late-Onset Sensorineural Deafness, also known as <i>ocular albinism with late-onset sensorineural deafness</i>, is related to <i><a href="/card/albinism" target="_blank">albinism</a></i> and <i><a href="/card/albinism_ocular_type_i" target="_blank">albinism, ocular, type i</a></i>. An important gene associated with Albinism, Ocular, with Late-Onset Sensorineural Deafness is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" target="_blank">TYR</a> (Tyrosinase), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/peroxisomal_lipid_metabolism" target="_blank">Peroxisomal lipid metabolism</a></i> and <i><a href="https://pathcards.genecards.org/card/protein_ubiquitination" target="_blank">Protein ubiquitination</a></i>. Affiliated tissues include <i>eye</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0000639" target="_blank">nystagmus</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0000407" target="_blank">sensorineural hearing impairment</a></i></p>
+<p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1000" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1000" target="_blank">58</a></sup>
+Ocular albinism with late-onset sensorineural deafness is a rare, X-linked inherited subtype of ocular albinism characterized by severe visual impairment, translucent pale-blue irises, a reduction in the retinal pigment and moderately severe deafness with onset ranging from adolescence to fourth or fifth decade of life.</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0090100" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0090100" target="_blank">11</a></sup>
+An ocular albinism that is characterized by deafness and vestibular dysfunction and has material basis in digenic inheritane of a mutation in the transcription factor gene MITF on chromosome 3p13 and in the tyrosinase TYR gene on chromosome 11q14.3 that MITF regulates.</p><p> <b> <a href="https://en.wikipedia.org/wiki/Albinism_ocular_late_onset_sensorineural_deafness" target="_blank">Wikipedia</a>:</b>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Albinism_ocular_late_onset_sensorineural_deafness" target="_blank">75</a></sup>
+Ocular albinism late onset sensorineural deafness (OASD) is a rare, X-linked recessive disease... <a href="https://en.wikipedia.org/wiki/Albinism_ocular_late_onset_sensorineural_deafness" target="_blank">more...</a></p>
+</div>
+<div>
+<b>More information from OMIM:</b>
+<a href="http://omim.org/entry/300650#description" target="_blank">300650</a> </div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Albinism, Ocular, with Late-Onset Sensorineural Deafness via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('RelatedDiseases', '63', 'RelatedDiseases-table');">show all 63</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/albinism" target="_blank">albinism</a></td>
+<td>30.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=albinism&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=albinism&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=albinism&amp;prefilter=diseases#diseases" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/albinism_ocular_type_i" target="_blank">albinism, ocular, type i</a></td>
+<td>30.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=albinism%2c+ocular%2c+type+i&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=albinism%2c+ocular%2c+type+i&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=albinism%2c+ocular%2c+type+i&amp;prefilter=diseases#diseases" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/sensorineural_hearing_loss" target="_blank">sensorineural hearing loss</a></td>
+<td>29.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=sensorineural+hearing+loss&amp;prefilter=diseases#diseases" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13&amp;keywords=sensorineural+hearing+loss&amp;prefilter=diseases#diseases" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=sensorineural+hearing+loss&amp;prefilter=diseases#diseases" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=sensorineural+hearing+loss&amp;prefilter=diseases#diseases" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=sensorineural+hearing+loss&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=sensorineural+hearing+loss&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/waardenburg_syndrome_type_2c" target="_blank">waardenburg syndrome, type 2c</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=waardenburg+syndrome%2c+type+2c&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=waardenburg+syndrome%2c+type+2c&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/waardenburg_syndrome_type_2b_2" target="_blank">waardenburg syndrome, type 2b</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=waardenburg+syndrome%2c+type+2b&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=waardenburg+syndrome%2c+type+2b&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/melanoma_cutaneous_malignant_8" target="_blank">melanoma, cutaneous malignant 8</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=melanoma%2c+cutaneous+malignant+8&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=melanoma%2c+cutaneous+malignant+8&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/orbit_rhabdomyosarcoma" target="_blank">orbit rhabdomyosarcoma</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=orbit+rhabdomyosarcoma&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=orbit+rhabdomyosarcoma&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/spinal_cord_melanoma" target="_blank">spinal cord melanoma</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=spinal+cord+melanoma&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=spinal+cord+melanoma&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/uterus_perivascular_epithelioid_cell_tumor" target="_blank">uterus perivascular epithelioid cell tumor</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=uterus+perivascular+epithelioid+cell+tumor&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=uterus+perivascular+epithelioid+cell+tumor&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/cervix_melanoma" target="_blank">cervix melanoma</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=cervix+melanoma&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=cervix+melanoma&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/epithelioid_cell_melanoma" target="_blank">epithelioid cell melanoma</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=epithelioid+cell+melanoma&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=epithelioid+cell+melanoma&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/ochronosis" target="_blank">ochronosis</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=ochronosis&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=ochronosis&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/gallbladder_melanoma" target="_blank">gallbladder melanoma</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=gallbladder+melanoma&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=gallbladder+melanoma&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/acral_lentiginous_melanoma" target="_blank">acral lentiginous melanoma</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=acral+lentiginous+melanoma&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=acral+lentiginous+melanoma&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/dowling_degos_disease_1" target="_blank">dowling-degos disease 1</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=dowling-degos+disease+1&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=dowling-degos+disease+1&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/waardenburg_syndrome_type_4c" target="_blank">waardenburg syndrome, type 4c</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=waardenburg+syndrome%2c+type+4c&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=waardenburg+syndrome%2c+type+4c&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/malignant_spindle_cell_melanoma" target="_blank">malignant spindle cell melanoma</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=malignant+spindle+cell+melanoma&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=malignant+spindle+cell+melanoma&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/waardenburg_syndrome_type_3_2" target="_blank">waardenburg syndrome, type 3</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=waardenburg+syndrome%2c+type+3&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=waardenburg+syndrome%2c+type+3&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/nodular_malignant_melanoma" target="_blank">nodular malignant melanoma</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=nodular+malignant+melanoma&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=nodular+malignant+melanoma&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/mend_syndrome" target="_blank">mend syndrome</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=mend+syndrome&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=mend+syndrome&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/waardenburg_syndrome_type_2a_2" target="_blank">waardenburg syndrome, type 2a</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=waardenburg+syndrome%2c+type+2a&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=waardenburg+syndrome%2c+type+2a&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=waardenburg+syndrome%2c+type+2a&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/waardenburg_syndrome" target="_blank">waardenburg syndrome</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=waardenburg+syndrome&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=waardenburg+syndrome&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=waardenburg+syndrome&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/waardenburg_syndrome_type_2e" target="_blank">waardenburg syndrome, type 2e</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=waardenburg+syndrome%2c+type+2e&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=waardenburg+syndrome%2c+type+2e&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=waardenburg+syndrome%2c+type+2e&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/tietz_albinism_deafness_syndrome" target="_blank">tietz albinism-deafness syndrome</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=tietz+albinism-deafness+syndrome&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=tietz+albinism-deafness+syndrome&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=tietz+albinism-deafness+syndrome&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="/card/mucosal_melanoma" target="_blank">mucosal melanoma</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=mucosal+melanoma&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=mucosal+melanoma&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="/card/waardenburg_syndrome_type_1" target="_blank">waardenburg syndrome, type 1</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=waardenburg+syndrome%2c+type+1&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=waardenburg+syndrome%2c+type+1&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=waardenburg+syndrome%2c+type+1&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="/card/waardenburg_syndrome_type_4a" target="_blank">waardenburg syndrome, type 4a</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=waardenburg+syndrome%2c+type+4a&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=waardenburg+syndrome%2c+type+4a&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=waardenburg+syndrome%2c+type+4a&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="/card/piebald_trait" target="_blank">piebald trait</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=piebald+trait&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=piebald+trait&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=piebald+trait&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="/card/amelanotic_melanoma" target="_blank">amelanotic melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=amelanotic+melanoma&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=amelanotic+melanoma&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="/card/bart_pumphrey_syndrome" target="_blank">bart-pumphrey syndrome</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GJB4&amp;keywords=bart-pumphrey+syndrome&amp;prefilter=diseases#diseases" title="GJB4 gene information at GeneCards" target="_blank">GJB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=bart-pumphrey+syndrome&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> </td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="/card/peripheral_demyelinating_neuropathy_central_dysmyelination_waardenburg_syndrome_and_hirschsprung_disease" target="_blank">peripheral demyelinating neuropathy, central dysmyelination, waardenburg syndrome, and hirschsprung disease</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=peripheral+demyelinating+neuropathy%2c+central+dysmyelination%2c+waardenburg+syndrome%2c+and+hirschsprung+disease&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=peripheral+demyelinating+neuropathy%2c+central+dysmyelination%2c+waardenburg+syndrome%2c+and+hirschsprung+disease&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="/card/uveal_disease" target="_blank">uveal disease</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=uveal+disease&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=uveal+disease&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=uveal+disease&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> </td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="/card/keratosis_seborrheic" target="_blank">keratosis, seborrheic</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=keratosis%2c+seborrheic&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=keratosis%2c+seborrheic&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="/card/skin_creases_congenital_symmetric_circumferential_2" target="_blank">skin creases, congenital symmetric circumferential, 2</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX11B&amp;keywords=skin+creases%2c+congenital+symmetric+circumferential%2c+2&amp;prefilter=diseases#diseases" title="PEX11B gene information at GeneCards" target="_blank">PEX11B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=skin+creases%2c+congenital+symmetric+circumferential%2c+2&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=skin+creases%2c+congenital+symmetric+circumferential%2c+2&amp;prefilter=diseases#diseases" title="DSE gene information at GeneCards" target="_blank">DSE</a> </td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="/card/alpha_methylacyl_coa_racemase_deficiency" target="_blank">alpha-methylacyl-coa racemase deficiency</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=alpha-methylacyl-coa+racemase+deficiency&amp;prefilter=diseases#diseases" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX11B&amp;keywords=alpha-methylacyl-coa+racemase+deficiency&amp;prefilter=diseases#diseases" title="PEX11B gene information at GeneCards" target="_blank">PEX11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="/card/oculocutaneous_albinism" target="_blank">oculocutaneous albinism</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=oculocutaneous+albinism&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=oculocutaneous+albinism&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=oculocutaneous+albinism&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=oculocutaneous+albinism&amp;prefilter=diseases#diseases" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="/card/coloboma_of_macula" target="_blank">coloboma of macula</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=coloboma+of+macula&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=coloboma+of+macula&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=coloboma+of+macula&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> </td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="/card/hermansky_pudlak_syndrome" target="_blank">hermansky-pudlak syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=hermansky-pudlak+syndrome&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=hermansky-pudlak+syndrome&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=hermansky-pudlak+syndrome&amp;prefilter=diseases#diseases" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="/card/microphthalmia" target="_blank">microphthalmia</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=microphthalmia&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=microphthalmia&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=microphthalmia&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=microphthalmia&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> </td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="/card/melanoma_uveal" target="_blank">melanoma, uveal</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=melanoma%2c+uveal&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=melanoma%2c+uveal&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=melanoma%2c+uveal&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> </td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="/card/ehlers_danlos_syndrome_musculocontractural_type_2_2" target="_blank">ehlers-danlos syndrome, musculocontractural type, 2</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=ehlers-danlos+syndrome%2c+musculocontractural+type%2c+2&amp;prefilter=diseases#diseases" title="DSE gene information at GeneCards" target="_blank">DSE</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=ehlers-danlos+syndrome%2c+musculocontractural+type%2c+2&amp;prefilter=diseases#diseases" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> </td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="/card/skin_creases_congenital_symmetric_circumferential_1" target="_blank">skin creases, congenital symmetric circumferential, 1</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=skin+creases%2c+congenital+symmetric+circumferential%2c+1&amp;prefilter=diseases#diseases" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX11B&amp;keywords=skin+creases%2c+congenital+symmetric+circumferential%2c+1&amp;prefilter=diseases#diseases" title="PEX11B gene information at GeneCards" target="_blank">PEX11B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=skin+creases%2c+congenital+symmetric+circumferential%2c+1&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=skin+creases%2c+congenital+symmetric+circumferential%2c+1&amp;prefilter=diseases#diseases" title="DSE gene information at GeneCards" target="_blank">DSE</a> </td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="/card/cerebral_degeneration" target="_blank">cerebral degeneration</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=cerebral+degeneration&amp;prefilter=diseases#diseases" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=cerebral+degeneration&amp;prefilter=diseases#diseases" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=cerebral+degeneration&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> </td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="/card/pigmentation_disease" target="_blank">pigmentation disease</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=pigmentation+disease&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=pigmentation+disease&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="/card/larsen_like_syndrome_b3gat3_type_2" target="_blank">larsen-like syndrome b3gat3 type</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=larsen-like+syndrome+b3gat3+type&amp;prefilter=diseases#diseases" title="DSE gene information at GeneCards" target="_blank">DSE</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=larsen-like+syndrome+b3gat3+type&amp;prefilter=diseases#diseases" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> </td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="/card/treacher_collins_syndrome_1" target="_blank">treacher collins syndrome 1</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=treacher+collins+syndrome+1&amp;prefilter=diseases#diseases" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=treacher+collins+syndrome+1&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=treacher+collins+syndrome+1&amp;prefilter=diseases#diseases" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> </td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="/card/ehlers_danlos_syndrome_musculocontractural_type_1_2" target="_blank">ehlers-danlos syndrome, musculocontractural type, 1</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=ehlers-danlos+syndrome%2c+musculocontractural+type%2c+1&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=ehlers-danlos+syndrome%2c+musculocontractural+type%2c+1&amp;prefilter=diseases#diseases" title="DSE gene information at GeneCards" target="_blank">DSE</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=ehlers-danlos+syndrome%2c+musculocontractural+type%2c+1&amp;prefilter=diseases#diseases" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> </td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="/card/fundus_dystrophy" target="_blank">fundus dystrophy</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=fundus+dystrophy&amp;prefilter=diseases#diseases" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=fundus+dystrophy&amp;prefilter=diseases#diseases" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=fundus+dystrophy&amp;prefilter=diseases#diseases" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=fundus+dystrophy&amp;prefilter=diseases#diseases" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=fundus+dystrophy&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> </td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="/card/leukodystrophy" target="_blank">leukodystrophy</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=leukodystrophy&amp;prefilter=diseases#diseases" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13&amp;keywords=leukodystrophy&amp;prefilter=diseases#diseases" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=leukodystrophy&amp;prefilter=diseases#diseases" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=leukodystrophy&amp;prefilter=diseases#diseases" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> </td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="/card/umbilical_hernia" target="_blank">umbilical hernia</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=umbilical+hernia&amp;prefilter=diseases#diseases" title="DSE gene information at GeneCards" target="_blank">DSE</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=umbilical+hernia&amp;prefilter=diseases#diseases" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Albinism, Ocular, with Late-Onset Sensorineural Deafness:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/albinism_ocular_with_late_onset_sensorineural_deafness_related_diseases.jpg" width="100%" alt="Diseases related to Albinism, Ocular, with Late-Onset Sensorineural Deafness" title="Diseases related to Albinism, Ocular, with Late-Onset Sensorineural Deafness" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Albinism, Ocular, with Late-Onset Sensorineural Deafness:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 11', 'showing 11, show less','collapsable')">show all 11</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+nystagmus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000639" target="_blank">HP:0000639</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+sensorineural hearing impairment
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000407" target="_blank">HP:0000407</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+visual impairment
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000505" target="_blank">HP:0000505</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+photophobia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000613" target="_blank">HP:0000613</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+ocular albinism
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001107" target="_blank">HP:0001107</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+strabismus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000486" target="_blank">HP:0000486</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+nystagmus-induced head nodding
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001361" target="_blank">HP:0001361</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+giant melanosomes in melanocytes
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005592" target="_blank">HP:0005592</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+adult onset sensorineural hearing impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008615" target="_blank">HP:0008615</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+albinism
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001022" target="_blank">HP:0001022</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+depigmented fundus
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007680" target="_blank">HP:0007680</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/300650" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Eyes:</u><br/>
+<span>nystagmus</span>
+<br/>
+<span>photophobia</span>
+<br/>
+<span>depigmented fundus</span>
+<br/>
+<span>impaired vision</span>
+<br/>
+<span>albino pupillary reflex</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>prominent choroidal vessels</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 6" id="ClinicalSynopsis_showmore_1" href="javascript:showMoreTable('ClinicalSynopsis_item_1','ClinicalSynopsis_showmore_1','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Skin:</u><br/>
+<span>normal pigmentation</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Lab:</u><br/>
+<span>macromelanosomes on em</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Head:</u><br/>
+<span>head nodding</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Misc:</u><br/>
+<span>mosaic fundal pigmentation in carrier females</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Ears:</u><br/>
+<span>late onset sensorineural deafness</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/300650#clinicalFeatures" target="_blank">300650</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div class="section-data">
+<h3>MGI Mouse Phenotypes related to Albinism, Ocular, with Late-Onset Sensorineural Deafness:</h3>
+<sup title="Mouse Genome Informatics">45</sup>
+<span class="showmore">
+(<a id="FunctionalDescription_MGI-table_SeeMore" href="javascript:showMoreTable('FunctionalDescription_MGI-table','FunctionalDescription_MGI-table_SeeMore', 'show all 11', 'showing 11, show less','collapsable')">show all 11</a>)
+</span>
+<table id="FunctionalDescription_MGI-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>MGI Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>homeostasis/metabolism</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005376" target="_blank">MP:0005376</a></td>
+<td>10.18</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="DSE gene information at GeneCards" target="_blank">DSE</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>growth/size/body region</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005378" target="_blank">MP:0005378</a></td>
+<td>10.17</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="DSE gene information at GeneCards" target="_blank">DSE</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GJB4&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="GJB4 gene information at GeneCards" target="_blank">GJB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>nervous system</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0003631" target="_blank">MP:0003631</a></td>
+<td>10.15</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=nervous+system&amp;prefilter=function#function" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=nervous+system&amp;prefilter=function#function" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=nervous+system&amp;prefilter=function#function" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=nervous+system&amp;prefilter=function#function" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=nervous+system&amp;prefilter=function#function" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=nervous+system&amp;prefilter=function#function" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>renal/urinary system</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005367" target="_blank">MP:0005367</a></td>
+<td>10.02</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=renal%2furinary+system&amp;prefilter=function#function" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=renal%2furinary+system&amp;prefilter=function#function" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=renal%2furinary+system&amp;prefilter=function#function" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=renal%2furinary+system&amp;prefilter=function#function" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13&amp;keywords=renal%2furinary+system&amp;prefilter=function#function" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=renal%2furinary+system&amp;prefilter=function#function" title="TYR gene information at GeneCards" target="_blank">TYR</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>liver/biliary system</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005370" target="_blank">MP:0005370</a></td>
+<td>10</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=liver%2fbiliary+system&amp;prefilter=function#function" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=liver%2fbiliary+system&amp;prefilter=function#function" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GJB4&amp;keywords=liver%2fbiliary+system&amp;prefilter=function#function" title="GJB4 gene information at GeneCards" target="_blank">GJB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=liver%2fbiliary+system&amp;prefilter=function#function" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=liver%2fbiliary+system&amp;prefilter=function#function" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX11B&amp;keywords=liver%2fbiliary+system&amp;prefilter=function#function" title="PEX11B gene information at GeneCards" target="_blank">PEX11B</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>cellular</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005384" target="_blank">MP:0005384</a></td>
+<td>9.96</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=cellular&amp;prefilter=function#function" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=cellular&amp;prefilter=function#function" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=cellular&amp;prefilter=function#function" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=cellular&amp;prefilter=function#function" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=cellular&amp;prefilter=function#function" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=cellular&amp;prefilter=function#function" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>limbs/digits/tail</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005371" target="_blank">MP:0005371</a></td>
+<td>9.91</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=limbs%2fdigits%2ftail&amp;prefilter=function#function" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=limbs%2fdigits%2ftail&amp;prefilter=function#function" title="DSE gene information at GeneCards" target="_blank">DSE</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=limbs%2fdigits%2ftail&amp;prefilter=function#function" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=limbs%2fdigits%2ftail&amp;prefilter=function#function" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=limbs%2fdigits%2ftail&amp;prefilter=function#function" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=limbs%2fdigits%2ftail&amp;prefilter=function#function" title="TYR gene information at GeneCards" target="_blank">TYR</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>behavior/neurological</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005386" target="_blank">MP:0005386</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=behavior%2fneurological&amp;prefilter=function#function" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=behavior%2fneurological&amp;prefilter=function#function" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=behavior%2fneurological&amp;prefilter=function#function" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=behavior%2fneurological&amp;prefilter=function#function" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=behavior%2fneurological&amp;prefilter=function#function" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=behavior%2fneurological&amp;prefilter=function#function" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td>hearing/vestibular/ear</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005377" target="_blank">MP:0005377</a></td>
+<td>9.85</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=hearing%2fvestibular%2fear&amp;prefilter=function#function" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=hearing%2fvestibular%2fear&amp;prefilter=function#function" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=hearing%2fvestibular%2fear&amp;prefilter=function#function" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=hearing%2fvestibular%2fear&amp;prefilter=function#function" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=hearing%2fvestibular%2fear&amp;prefilter=function#function" title="TYR gene information at GeneCards" target="_blank">TYR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZNF469&amp;keywords=hearing%2fvestibular%2fear&amp;prefilter=function#function" title="ZNF469 gene information at GeneCards" target="_blank">ZNF469</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td>mortality/aging</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0010768" target="_blank">MP:0010768</a></td>
+<td>9.77</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="DSE gene information at GeneCards" target="_blank">DSE</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GJB4&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="GJB4 gene information at GeneCards" target="_blank">GJB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="MITF gene information at GeneCards" target="_blank">MITF</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>integument</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0010771" target="_blank">MP:0010771</a></td>
+<td>9.23</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=integument&amp;prefilter=function#function" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=integument&amp;prefilter=function#function" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=integument&amp;prefilter=function#function" title="DSE gene information at GeneCards" target="_blank">DSE</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=integument&amp;prefilter=function#function" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=integument&amp;prefilter=function#function" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=integument&amp;prefilter=function#function" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Albinism, Ocular, with Late-Onset Sensorineural Deafness" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Albinism, Ocular, with Late-Onset Sensorineural Deafness&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Albinism, Ocular, with Late-Onset Sensorineural Deafness</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Albinism, Ocular, with Late-Onset Sensorineural Deafness:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Waardenburg Syndrome/albinism, Digenic
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/CN260015" target="_blank">28</a></sup>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+Waardenburg Syndrome/ocular Albinism, Digenic
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/CN260016" target="_blank">28</a></sup>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+Ocular Albinism with Late-Onset Sensorineural Deafness
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1845069" target="_blank">28</a></sup>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Albinism, Ocular, with Late-Onset Sensorineural Deafness: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="3.356653">Eye</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Albinism, Ocular, with Late-Onset Sensorineural Deafness according to PubMed and OMIM&#174;:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+X-linked ocular albinism and sensorineural deafness: linkage to Xp22.3.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Winship IM...Ramesar RS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8288253" target="_blank">8288253</a></td>
+<td>1993</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+X-linked inheritance of ocular albinism with late-onset sensorineural deafness.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Winship I...Beighton P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/6542750" target="_blank">6542750</a></td>
+<td>1984</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Albinism, Ocular, with Late-Onset Sensorineural Deafness according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The utility of parent-report screening tools in differentiating autism versus attention-deficit/hyperactivity disorder in school-age children.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Guttentag S...Di Martino A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34219504" target="_blank">34219504</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ohmic heating as a promising technique for extraction of herbal essential oils: Understanding mechanisms, recent findings, and associated challenges.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gavahian M...Farahnaky A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32035597" target="_blank">32035597</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ocular albinism with infertility and late-onset sensorineural hearing loss.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fabian-Jessing BK...Petersen MB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30160833" target="_blank">30160833</a></td>
+<td>2018</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Effect of Corexit 9500A on Mississippi Canyon crude oil weathering patterns using artificial and natural seawater.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Olson GM...Overton EB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28349129" target="_blank">28349129</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Adult-onset Still's disease as a manifestation of malignancy: report of a patient with melanoma and literature review].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liozon E...Fauchais AL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24094701" target="_blank">24094701</a></td>
+<td>2014</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ebi/AP-1 suppresses pro-apoptotic genes expression and permits long-term survival of Drosophila sensory neurons.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lim YM...Tsuda L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22666340" target="_blank">22666340</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ocular albinism with sensorineural deafness.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Tak WJ...Seo SJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15090016" target="_blank">15090016</a></td>
+<td>2004</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A new sequence motif linking lissencephaly, Treacher Collins and oral-facial-digital type 1 syndromes, microtubule dynamics and cell migration.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Emes RD...Ponting CP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11734546" target="_blank">11734546</a></td>
+<td>2001</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+X-linked late-onset sensorineural deafness caused by a deletion involving OA1 and a novel gene containing WD-40 repeats.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bassi MT...Borsani G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10330347" target="_blank">10330347</a></td>
+<td>1999</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Apparent digenic inheritance of Waardenburg syndrome type 2 (WS2) and autosomal recessive ocular albinism (AROA).
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Morell R...Asher JH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9158138" target="_blank">9158138</a></td>
+<td>1997</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Albinism, Ocular, with Late-Onset Sensorineural Deafness (4 elite genes):</h3>
+<span class="showmore">
+(<a id="RelatedGenes-table_SeeMore" href="javascript:showMoreTable('RelatedGenes-table','RelatedGenes-table_SeeMore', 'show all 16', 'showing 16, show less','collapsable')">show all 16</a>)
+</span>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Tyrosinase</td>
+<td>Protein Coding</td>
+<td>430.01</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000263321&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Paired Box 3</td>
+<td>Protein Coding</td>
+<td>403.82</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000375921&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=OASD" title="OASD gene information at GeneCards" target="_blank">OASD</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Ocular Albinism And Sensorineural Deafness</td>
+<td>Genetic Locus</td>
+<td>50</td>
+<td>
+<div>
+Genetic linkage
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300650" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Adaptor Related Protein Complex 3 Subunit Delta 1</td>
+<td>Protein Coding</td>
+<td>25</td>
+<td>
+<div>
+Candidate gene tested
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=24346" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a></div>
+</div>
+</td>
+<td>ERCC Excision Repair 6, Chromatin Remodeling Factor</td>
+<td>Protein Coding</td>
+<td>7.35</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000348089&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000423550&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF" title="MITF gene information at GeneCards" target="_blank">MITF</a></div>
+</div>
+</td>
+<td>Melanocyte Inducing Transcription Factor</td>
+<td>Protein Coding</td>
+<td>5.7</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000295600&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX11B" title="PEX11B gene information at GeneCards" target="_blank">PEX11B</a></div>
+</div>
+</td>
+<td>Peroxisomal Biogenesis Factor 11 Beta</td>
+<td>Protein Coding</td>
+<td>4.66</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000358312&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE" title="DSE gene information at GeneCards" target="_blank">DSE</a></div>
+</div>
+</td>
+<td>Dermatan Sulfate Epimerase</td>
+<td>Protein Coding</td>
+<td>4.64</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000332151&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a></div>
+</div>
+</td>
+<td>Peroxisomal Biogenesis Factor 12</td>
+<td>Protein Coding</td>
+<td>4.56</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000482609&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">10</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GJB4" title="GJB4 gene information at GeneCards" target="_blank">GJB4</a></div>
+</div>
+</td>
+<td>Gap Junction Protein Beta 4</td>
+<td>Protein Coding</td>
+<td>4.5</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000345868&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_10">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">11</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a></div>
+</div>
+</td>
+<td>Peroxisomal Biogenesis Factor 26</td>
+<td>Protein Coding</td>
+<td>4.48</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000331106&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_11">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">12</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a></div>
+</div>
+</td>
+<td>Peroxisomal Biogenesis Factor 13</td>
+<td>Protein Coding</td>
+<td>4.46</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000295030&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_12">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">13</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZNF469" title="ZNF469 gene information at GeneCards" target="_blank">ZNF469</a></div>
+</div>
+</td>
+<td>Zinc Finger Protein 469</td>
+<td>Protein Coding</td>
+<td>4.46</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000402343&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_13">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">14</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX16" title="PEX16 gene information at GeneCards" target="_blank">PEX16</a></div>
+</div>
+</td>
+<td>Peroxisomal Biogenesis Factor 16</td>
+<td>Protein Coding</td>
+<td>4.45</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000241041&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_14">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">15</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a></div>
+</div>
+</td>
+<td>Carbohydrate Sulfotransferase 14</td>
+<td>Protein Coding</td>
+<td>4.41</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000307297&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_15">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">16</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a></div>
+</div>
+</td>
+<td>Peroxisomal Biogenesis Factor 10</td>
+<td>Protein Coding</td>
+<td>4.4</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000288774&amp;type2=-26&amp;id2=DOID:0090100" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_16">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Albinism, Ocular, with Late-Onset Sensorineural Deafness:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show all 12', 'showing 12, show less','collapsable')">show all 12</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></td>
+<td style="overflow-wrap:break-word;">NM_000372.5(TYR):c.346C&gt;T (p.Arg116Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763289/" title="RCV000763289" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/99565/?new_evidence=true#id_second" target="_blank">99565</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61753256" target="_blank">rs61753256</a></td>
+<td>GRCh37: 11:88911467-88911467<br/>GRCh38: 11:89178299-89178299</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></td>
+<td style="overflow-wrap:break-word;">NM_000372.5(TYR):c.832C&gt;T (p.Arg278Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000762869/" title="RCV000762869" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/99583/?new_evidence=true#id_second" target="_blank">99583</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/62645904" target="_blank">rs62645904</a></td>
+<td>GRCh37: 11:88924382-88924382<br/>GRCh38: 11:89191214-89191214</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></td>
+<td style="overflow-wrap:break-word;">NM_000372.5(TYR):c.164G&gt;A (p.Cys55Tyr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763288/" title="RCV000763288" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/3790/?new_evidence=true#id_second" target="_blank">3790</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/28940879" target="_blank">rs28940879</a></td>
+<td>GRCh37: 11:88911285-88911285<br/>GRCh38: 11:89178117-89178117</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a></td>
+<td style="overflow-wrap:break-word;">NM_181458.4(PAX3):c.748dup (p.Glu250fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000856802/" title="RCV000856802" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/694721/?new_evidence=true#id_second" target="_blank">694721</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1574661904" target="_blank">rs1574661904</a></td>
+<td>GRCh37: 2:223096840-223096841<br/>GRCh38: 2:222232121-222232122</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></td>
+<td style="overflow-wrap:break-word;">NM_000372.5(TYR):c.1199G&gt;T (p.Trp400Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000762871/" title="RCV000762871" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/99541/?new_evidence=true#id_second" target="_blank">99541</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/62645916" target="_blank">rs62645916</a></td>
+<td>GRCh37: 11:89017955-89017955<br/>GRCh38: 11:89284787-89284787</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></td>
+<td style="overflow-wrap:break-word;">NM_000372.5(TYR):c.1147G&gt;A (p.Asp383Asn)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000762870/" title="RCV000762870" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/3775/?new_evidence=true#id_second" target="_blank">3775</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908011" target="_blank">rs121908011</a></td>
+<td>GRCh37: 11:88961101-88961101<br/>GRCh38: 11:89227933-89227933</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></td>
+<td style="overflow-wrap:break-word;">NM_000372.5(TYR):c.1A&gt;G (p.Met1Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763286/" title="RCV000763286" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/3807/?new_evidence=true#id_second" target="_blank">3807</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/28940881" target="_blank">rs28940881</a></td>
+<td>GRCh37: 11:88911122-88911122<br/>GRCh38: 11:89177954-89177954</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></td>
+<td style="overflow-wrap:break-word;">NM_000372.5(TYR):c.649C&gt;T (p.Arg217Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763290/" title="RCV000763290" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/3795/?new_evidence=true#id_second" target="_blank">3795</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/63159160" target="_blank">rs63159160</a></td>
+<td>GRCh37: 11:88911770-88911770<br/>GRCh38: 11:89178602-89178602</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></td>
+<td style="overflow-wrap:break-word;">NM_000372.5(TYR):c.140G&gt;A (p.Gly47Asp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763287/" title="RCV000763287" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/3794/?new_evidence=true#id_second" target="_blank">3794</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61753180" target="_blank">rs61753180</a></td>
+<td>GRCh37: 11:88911261-88911261<br/>GRCh38: 11:89178093-89178093</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></td>
+<td style="overflow-wrap:break-word;">NM_000372.5(TYR):c.1217C&gt;T (p.Pro406Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000762872/" title="RCV000762872" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/3777/?new_evidence=true#id_second" target="_blank">3777</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/104894313" target="_blank">rs104894313</a></td>
+<td>GRCh37: 11:89017973-89017973<br/>GRCh38: 11:89284805-89284805</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></td>
+<td style="overflow-wrap:break-word;">NM_000372.5(TYR):c.915C&gt;A (p.Asp305Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000765023/" title="RCV000765023" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/418532/?new_evidence=true#id_second" target="_blank">418532</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/142170797" target="_blank">rs142170797</a></td>
+<td>GRCh37: 11:88924465-88924465<br/>GRCh38: 11:89191297-89191297</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR" title="TYR gene information at GeneCards" target="_blank">TYR</a></td>
+<td style="overflow-wrap:break-word;">NM_000372.5(TYR):c.1366+4A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000765024/" title="RCV000765024" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/99548/?new_evidence=true#id_second" target="_blank">99548</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61754398" target="_blank">rs61754398</a></td>
+<td>GRCh37: 11:89018126-89018126<br/>GRCh38: 11:89284958-89284958</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Albinism%2C%20Ocular%2C%20with%20Late-Onset%20Sensorineural%20Deafness%22%5BMeSH%20Terms%5D%20OR%20%22Albinism%2C%20Ocular%2C%20with%20Late-Onset%20Sensorineural%20Deafness%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Albinism, Ocular, with Late-Onset Sensorineural Deafness.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Albinism, Ocular, with Late-Onset Sensorineural Deafness according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Peroxisomal_lipid_metabolism_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/peroxisomal_lipid_metabolism" target="_blank">Peroxisomal lipid metabolism</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-390918" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-389599" target="_blank">Alpha-oxidation of phytanate</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-389887" target="_blank">Beta-oxidation of pristanoyl-CoA</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-390247" target="_blank">Beta-oxidation of very long chain fatty acids</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-9603798" target="_blank">Class I peroxisomal membrane protein import</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-1268020" target="_blank">Mitochondrial protein import</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP1941" target="_blank">Peroxisomal beta-oxidation of tetracosanoyl-CoA</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-9033241" target="_blank">Peroxisomal protein import</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY66-389#section=Diagram" target="_blank">phytol degradation</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-9609507" target="_blank">Protein localization</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-9033500" target="_blank">TYSND1 cleaves peroxisomal proteins</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>11.68</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX11B&amp;keywords=Peroxisomal+lipid+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="PEX11B gene information at GeneCards" target="_blank">PEX11B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=Peroxisomal+lipid+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=Peroxisomal+lipid+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=Peroxisomal+lipid+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX16&amp;keywords=Peroxisomal+lipid+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="PEX16 gene information at GeneCards" target="_blank">PEX16</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13&amp;keywords=Peroxisomal+lipid+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a> </td>
+</tr>
+<tr id="Protein_ubiquitination_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/protein_ubiquitination" target="_blank">Protein ubiquitination</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-8852135" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-8866654" target="_blank">E3 ubiquitin ligases ubiquitinate target proteins</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>11.27</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=Protein+ubiquitination&amp;prefilter=pathways_interactions#pathways_interactions" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=Protein+ubiquitination&amp;prefilter=pathways_interactions#pathways_interactions" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13&amp;keywords=Protein+ubiquitination&amp;prefilter=pathways_interactions#pathways_interactions" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a> </td>
+</tr>
+<tr id="Melanocyte_Development_and_Pigmentation_3">
+<td>3</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/melanocyte_development_and_pigmentation" target="_blank">Melanocyte Development and Pigmentation</a>
+<sup title="QIAGEN"><span>64</span> </sup>
+</div>
+</td>
+<td>10.87</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=Melanocyte+Development+and+Pigmentation&amp;prefilter=pathways_interactions#pathways_interactions" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PAX3&amp;keywords=Melanocyte+Development+and+Pigmentation&amp;prefilter=pathways_interactions#pathways_interactions" title="PAX3 gene information at GeneCards" target="_blank">PAX3</a> </td>
+</tr>
+<tr id="GPR143_in_melanocytes_and_retinal_pigment_epithelium_cells_4">
+<td>4</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/gpr143_in_melanocytes_and_retinal_pigment_epithelium_cells" target="_blank">GPR143 in melanocytes and retinal pigment epithelium cells</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP4941" target="_blank">74</a></sup>
+</div>
+</td>
+<td>10.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MITF&amp;keywords=GPR143+in+melanocytes+and+retinal+pigment+epithelium+cells&amp;prefilter=pathways_interactions#pathways_interactions" title="MITF gene information at GeneCards" target="_blank">MITF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TYR&amp;keywords=GPR143+in+melanocytes+and+retinal+pigment+epithelium+cells&amp;prefilter=pathways_interactions#pathways_interactions" title="TYR gene information at GeneCards" target="_blank">TYR</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Cellular components related to Albinism, Ocular, with Late-Onset Sensorineural Deafness according to GeneCards Suite gene sharing:</h3>
+<table id="go_cc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>peroxisome</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005777" target="_blank">GO:0005777</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=peroxisome&amp;prefilter=go_cc#go_cc" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX16&amp;keywords=peroxisome&amp;prefilter=go_cc#go_cc" title="PEX16 gene information at GeneCards" target="_blank">PEX16</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13&amp;keywords=peroxisome&amp;prefilter=go_cc#go_cc" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=peroxisome&amp;prefilter=go_cc#go_cc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX11B&amp;keywords=peroxisome&amp;prefilter=go_cc#go_cc" title="PEX11B gene information at GeneCards" target="_blank">PEX11B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=peroxisome&amp;prefilter=go_cc#go_cc" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>peroxisomal importomer complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:1990429" target="_blank">GO:1990429</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13&amp;keywords=peroxisomal+importomer+complex&amp;prefilter=go_cc#go_cc" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=peroxisomal+importomer+complex&amp;prefilter=go_cc#go_cc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>peroxisomal membrane</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005778" target="_blank">GO:0005778</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=peroxisomal+membrane&amp;prefilter=go_cc#go_cc" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX16&amp;keywords=peroxisomal+membrane&amp;prefilter=go_cc#go_cc" title="PEX16 gene information at GeneCards" target="_blank">PEX16</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13&amp;keywords=peroxisomal+membrane&amp;prefilter=go_cc#go_cc" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=peroxisomal+membrane&amp;prefilter=go_cc#go_cc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX11B&amp;keywords=peroxisomal+membrane&amp;prefilter=go_cc#go_cc" title="PEX11B gene information at GeneCards" target="_blank">PEX11B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=peroxisomal+membrane&amp;prefilter=go_cc#go_cc" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>obsolete integral component of peroxisomal membrane</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005779" target="_blank">GO:0005779</a></td>
+<td>9.33</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=obsolete+integral+component+of+peroxisomal+membrane&amp;prefilter=go_cc#go_cc" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=obsolete+integral+component+of+peroxisomal+membrane&amp;prefilter=go_cc#go_cc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX11B&amp;keywords=obsolete+integral+component+of+peroxisomal+membrane&amp;prefilter=go_cc#go_cc" title="PEX11B gene information at GeneCards" target="_blank">PEX11B</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Biological processes related to Albinism, Ocular, with Late-Onset Sensorineural Deafness according to GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="go_proc-table_SeeMore" href="javascript:showMoreTable('go_proc-table','go_proc-table_SeeMore', 'show all 11', 'showing 11, show less','collapsable')">show all 11</a>)
+</span>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>protein transport</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0015031" target="_blank">GO:0015031</a></td>
+<td>9.89</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=protein+transport&amp;prefilter=go_proc#go_proc" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13&amp;keywords=protein+transport&amp;prefilter=go_proc#go_proc" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=protein+transport&amp;prefilter=go_proc#go_proc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=protein+transport&amp;prefilter=go_proc#go_proc" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP3D1&amp;keywords=protein+transport&amp;prefilter=go_proc#go_proc" title="AP3D1 gene information at GeneCards" target="_blank">AP3D1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>protein targeting to peroxisome</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006625" target="_blank">GO:0006625</a></td>
+<td>9.76</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX16&amp;keywords=protein+targeting+to+peroxisome&amp;prefilter=go_proc#go_proc" title="PEX16 gene information at GeneCards" target="_blank">PEX16</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=protein+targeting+to+peroxisome&amp;prefilter=go_proc#go_proc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>protein import into peroxisome matrix, receptor recycling</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0016562" target="_blank">GO:0016562</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=protein+import+into+peroxisome+matrix%2c+receptor+recycling&amp;prefilter=go_proc#go_proc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=protein+import+into+peroxisome+matrix%2c+receptor+recycling&amp;prefilter=go_proc#go_proc" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>protein import into peroxisome membrane</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0045046" target="_blank">GO:0045046</a></td>
+<td>9.71</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=protein+import+into+peroxisome+membrane&amp;prefilter=go_proc#go_proc" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX16&amp;keywords=protein+import+into+peroxisome+membrane&amp;prefilter=go_proc#go_proc" title="PEX16 gene information at GeneCards" target="_blank">PEX16</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>protein to membrane docking</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0022615" target="_blank">GO:0022615</a></td>
+<td>9.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX16&amp;keywords=protein+to+membrane+docking&amp;prefilter=go_proc#go_proc" title="PEX16 gene information at GeneCards" target="_blank">PEX16</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=protein+to+membrane+docking&amp;prefilter=go_proc#go_proc" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>dermatan sulfate biosynthetic process</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0030208" target="_blank">GO:0030208</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHST14&amp;keywords=dermatan+sulfate+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="CHST14 gene information at GeneCards" target="_blank">CHST14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DSE&amp;keywords=dermatan+sulfate+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="DSE gene information at GeneCards" target="_blank">DSE</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>peroxisome organization</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0007031" target="_blank">GO:0007031</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX16&amp;keywords=peroxisome+organization&amp;prefilter=go_proc#go_proc" title="PEX16 gene information at GeneCards" target="_blank">PEX16</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=peroxisome+organization&amp;prefilter=go_proc#go_proc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX11B&amp;keywords=peroxisome+organization&amp;prefilter=go_proc#go_proc" title="PEX11B gene information at GeneCards" target="_blank">PEX11B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=peroxisome+organization&amp;prefilter=go_proc#go_proc" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>cellular response to reactive oxygen species</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0034614" target="_blank">GO:0034614</a></td>
+<td>9.54</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13&amp;keywords=cellular+response+to+reactive+oxygen+species&amp;prefilter=go_proc#go_proc" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=cellular+response+to+reactive+oxygen+species&amp;prefilter=go_proc#go_proc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=cellular+response+to+reactive+oxygen+species&amp;prefilter=go_proc#go_proc" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td>protein quality control for misfolded or incompletely synthesized proteins</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006515" target="_blank">GO:0006515</a></td>
+<td>9.48</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=protein+quality+control+for+misfolded+or+incompletely+synthesized+proteins&amp;prefilter=go_proc#go_proc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=protein+quality+control+for+misfolded+or+incompletely+synthesized+proteins&amp;prefilter=go_proc#go_proc" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td>protein import into peroxisome matrix</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0016558" target="_blank">GO:0016558</a></td>
+<td>9.23</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=protein+import+into+peroxisome+matrix&amp;prefilter=go_proc#go_proc" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX16&amp;keywords=protein+import+into+peroxisome+matrix&amp;prefilter=go_proc#go_proc" title="PEX16 gene information at GeneCards" target="_blank">PEX16</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=protein+import+into+peroxisome+matrix&amp;prefilter=go_proc#go_proc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=protein+import+into+peroxisome+matrix&amp;prefilter=go_proc#go_proc" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>protein import into peroxisome matrix, substrate release</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0044721" target="_blank">GO:0044721</a></td>
+<td>9.16</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=protein+import+into+peroxisome+matrix%2c+substrate+release&amp;prefilter=go_proc#go_proc" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=protein+import+into+peroxisome+matrix%2c+substrate+release&amp;prefilter=go_proc#go_proc" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Albinism, Ocular, with Late-Onset Sensorineural Deafness according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>protein transmembrane transporter activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0008320" target="_blank">GO:0008320</a></td>
+<td>9.26</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX13&amp;keywords=protein+transmembrane+transporter+activity&amp;prefilter=go_func#go_func" title="PEX13 gene information at GeneCards" target="_blank">PEX13</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=protein+transmembrane+transporter+activity&amp;prefilter=go_func#go_func" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=protein+transmembrane+transporter+activity&amp;prefilter=go_func#go_func" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>obsolete protein C-terminus binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0008022" target="_blank">GO:0008022</a></td>
+<td>9.02</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX26&amp;keywords=obsolete+protein+C-terminus+binding&amp;prefilter=go_func#go_func" title="PEX26 gene information at GeneCards" target="_blank">PEX26</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX16&amp;keywords=obsolete+protein+C-terminus+binding&amp;prefilter=go_func#go_func" title="PEX16 gene information at GeneCards" target="_blank">PEX16</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX12&amp;keywords=obsolete+protein+C-terminus+binding&amp;prefilter=go_func#go_func" title="PEX12 gene information at GeneCards" target="_blank">PEX12</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX10&amp;keywords=obsolete+protein+C-terminus+binding&amp;prefilter=go_func#go_func" title="PEX10 gene information at GeneCards" target="_blank">PEX10</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERCC6&amp;keywords=obsolete+protein+C-terminus+binding&amp;prefilter=go_func#go_func" title="ERCC6 gene information at GeneCards" target="_blank">ERCC6</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Albinism, Ocular, with Late-Onset Sensorineural Deafness</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#87f4f2f7f7e8f5f3c7ebeee1e2eae6f7f4e4a9e4e8ea">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ebf3eae307a6d',t:'MTY5NTI2MTk2Ny4zMTEwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

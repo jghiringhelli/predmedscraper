@@ -1,0 +1,3836 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Townes-Brocks Syndrome 1 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/townes_brocks_syndrome_1" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'townes_brocks_syndrome_1';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+TBS1 <div class="symbol">MCID: TWN011</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 35
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Townes-Brocks Syndrome 1</span>
+(<span itemprop="alternateName">TBS1</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Bone diseases, Ear diseases, Fetal diseases, Genetic diseases, Nephrological diseases, Neuronal diseases, Rare diseases, Reproductive diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#98ebf9f4fdebd8f4f1fefdf5f9e8ebfbb6fbf7f5" target="_blank"><span class="__cf_email__" data-cfemail="ee9d8f828b9dae8287888b838f9e9d8dc08d8183">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="1 Genes associated with Townes-Brocks Syndrome 1">Genes</a>
+<a href="#genetic_variations" title="110 Variations associated with Townes-Brocks Syndrome 1">Variations</a>
+<a href="#anatomical_context" title="6 Tissues associated with Townes-Brocks Syndrome 1">Tissues</a>
+<a href="#disorders" title="1 Related diseases associated with Townes-Brocks Syndrome 1">Related diseases</a>
+<a href="#publications" title="43 Publications associated with Townes-Brocks Syndrome 1">Publications</a>
+<a href="#clinical_features" title="72 Symptoms &amp; Phenotypes associated with Townes-Brocks Syndrome 1">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/townes_brocks_syndrome_1?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Townes-Brocks Syndrome 1:</h3>
+<div class="main-name">
+Name: <b>Townes-Brocks Syndrome 1</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/107480" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02376" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4551481" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Townes-Brocks Branchiootorenal-Like Syndrome
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/107480" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02376" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=107480" title="diseasecard" target="_blank">12</a></sup>
+</div>
+<div>
+Deafness, Sensorineural, with Imperforate Anus and Thumb Anomalies
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/107480" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02376" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Anus, Imperforate, with Hand, Foot, and Ear Anomalies
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/107480" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02376" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Townes-Brocks-Branchiootorenal-Like Syndrome
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1862683" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td width="390">
+<div>
+Renal-Ear-Anal-Radial Syndrome
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/107480" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02376" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Rear Syndrome
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/107480" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02376" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Tbs1
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/107480" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02376" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Autosomal dominant <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/107480" target="_blank">57</a></sup>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/nephrological_disease_list" target="_blank">Nephrological diseases</a> <a href="https://www.malacards.org/categories/ear_disease_list" target="_blank">Ear diseases</a> <a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/bone_disease_list" target="_blank">Bone diseases</a> <a href="https://www.malacards.org/categories/reproductive_disease_list" target="_blank">Reproductive diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/107480" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/107480" target="_blank">107480</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS107480" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS107480" target="_blank">PS107480</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D000015" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D000015" target="_blank">D000015</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_4">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C0265246" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C0265246" target="_blank">C0265246</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1862683" target="_blank">C1862683</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/C4551481" target="_blank">C4551481</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/16331000" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/16331000" target="_blank">16331000</a> <a href="http://www.snomedbrowser.com/Codes/Details/1955003" target="_blank">1955003</a> <a href="http://www.snomedbrowser.com/Codes/Details/197811007" target="_blank">197811007</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/204271000" target="_blank">204271000</a> <a href="http://www.snomedbrowser.com/Codes/Details/204272007" target="_blank">204272007</a> <a href="http://www.snomedbrowser.com/Codes/Details/204508009" target="_blank">204508009</a> <a href="http://www.snomedbrowser.com/Codes/Details/204712000" target="_blank">204712000</a> <a href="http://www.snomedbrowser.com/Codes/Details/204731006" target="_blank">204731006</a> <a href="http://www.snomedbrowser.com/Codes/Details/204878001" target="_blank">204878001</a> <a href="http://www.snomedbrowser.com/Codes/Details/204888000" target="_blank">204888000</a> <a href="http://www.snomedbrowser.com/Codes/Details/204949001" target="_blank">204949001</a> <a href="http://www.snomedbrowser.com/Codes/Details/204962002" target="_blank">204962002</a> <a href="http://www.snomedbrowser.com/Codes/Details/205135003" target="_blank">205135003</a> <a href="http://www.snomedbrowser.com/Codes/Details/205145001" target="_blank">205145001</a> <a href="http://www.snomedbrowser.com/Codes/Details/205308004" target="_blank">205308004</a> <a href="http://www.snomedbrowser.com/Codes/Details/224958001" target="_blank">224958001</a> <a href="http://www.snomedbrowser.com/Codes/Details/228156007" target="_blank">228156007</a> <a href="http://www.snomedbrowser.com/Codes/Details/230745008" target="_blank">230745008</a> <a href="http://www.snomedbrowser.com/Codes/Details/235595009" target="_blank">235595009</a> <a href="http://www.snomedbrowser.com/Codes/Details/236423003" target="_blank">236423003</a> <a href="http://www.snomedbrowser.com/Codes/Details/236780002" target="_blank">236780002</a> <a href="http://www.snomedbrowser.com/Codes/Details/247578003" target="_blank">247578003</a> <a href="http://www.snomedbrowser.com/Codes/Details/249773003" target="_blank">249773003</a> <a href="http://www.snomedbrowser.com/Codes/Details/250037002" target="_blank">250037002</a> <a href="http://www.snomedbrowser.com/Codes/Details/253252004" target="_blank">253252004</a> <a href="http://www.snomedbrowser.com/Codes/Details/253366007" target="_blank">253366007</a> <a href="http://www.snomedbrowser.com/Codes/Details/253549006" target="_blank">253549006</a> <a href="http://www.snomedbrowser.com/Codes/Details/267258002" target="_blank">267258002</a> <a href="http://www.snomedbrowser.com/Codes/Details/271611007" target="_blank">271611007</a> <a href="http://www.snomedbrowser.com/Codes/Details/275480001" target="_blank">275480001</a> <a href="http://www.snomedbrowser.com/Codes/Details/276610007" target="_blank">276610007</a> <a href="http://www.snomedbrowser.com/Codes/Details/297163001" target="_blank">297163001</a> <a href="http://www.snomedbrowser.com/Codes/Details/30288003" target="_blank">30288003</a> <a href="http://www.snomedbrowser.com/Codes/Details/30915001" target="_blank">30915001</a> <a href="http://www.snomedbrowser.com/Codes/Details/32659003" target="_blank">32659003</a> <a href="http://www.snomedbrowser.com/Codes/Details/35045004" target="_blank">35045004</a> <a href="http://www.snomedbrowser.com/Codes/Details/39302008" target="_blank">39302008</a> <a href="http://www.snomedbrowser.com/Codes/Details/396347007" target="_blank">396347007</a> <a href="http://www.snomedbrowser.com/Codes/Details/398309008" target="_blank">398309008</a> <a href="http://www.snomedbrowser.com/Codes/Details/405752007" target="_blank">405752007</a> <a href="http://www.snomedbrowser.com/Codes/Details/40930008" target="_blank">40930008</a> <a href="http://www.snomedbrowser.com/Codes/Details/42399005" target="_blank">42399005</a> <a href="http://www.snomedbrowser.com/Codes/Details/445216006" target="_blank">445216006</a> <a href="http://www.snomedbrowser.com/Codes/Details/51118003" target="_blank">51118003</a> <a href="http://www.snomedbrowser.com/Codes/Details/60318001" target="_blank">60318001</a> <a href="http://www.snomedbrowser.com/Codes/Details/60700002" target="_blank">60700002</a> <a href="http://www.snomedbrowser.com/Codes/Details/65619001" target="_blank">65619001</a> <a href="http://www.snomedbrowser.com/Codes/Details/69056000" target="_blank">69056000</a> <a href="http://www.snomedbrowser.com/Codes/Details/698065002" target="_blank">698065002</a> <a href="http://www.snomedbrowser.com/Codes/Details/69914001" target="_blank">69914001</a> <a href="http://www.snomedbrowser.com/Codes/Details/70142008" target="_blank">70142008</a> <a href="http://www.snomedbrowser.com/Codes/Details/70534000" target="_blank">70534000</a> <a href="http://www.snomedbrowser.com/Codes/Details/76223006" target="_blank">76223006</a> <a href="http://www.snomedbrowser.com/Codes/Details/82525005" target="_blank">82525005</a> <a href="http://www.snomedbrowser.com/Codes/Details/86299006" target="_blank">86299006</a> <a href="http://www.snomedbrowser.com/Codes/Details/91138005" target="_blank">91138005</a> <a href="http://www.snomedbrowser.com/Codes/Details/95435007" target="_blank">95435007</a> </span>
+<span class="showmore">
+<a title="show all 57" id="ExternalId_showmore_5" href="javascript:showMoreTable('ExternalId_item_5','ExternalId_showmore_5','more','less','collapsable')">more</a>
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-02376" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02376" target="_blank">73</a></sup>
+A form of Townes-Brocks syndrome, a rare autosomal dominant disease characterized by the triad of imperforate anus, dysplastic ears, and thumb malformations. Minor features of the condition include hearing loss, foot malformations, renal impairment with or without renal malformations, genitourinary malformations, and congenital heart disease.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Townes-Brocks Syndrome 1, also known as <i>townes-brocks branchiootorenal-like syndrome</i>, is related to <i><a href="/card/townes_brocks_syndrome" target="_blank">townes-brocks syndrome</a></i>. An important gene associated with Townes-Brocks Syndrome 1 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" target="_blank">SALL1</a> (Spalt Like Transcription Factor 1). Affiliated tissues include <i>heart</i> and <i>uterus</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0009921" target="_blank">duane anomaly</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0008551" target="_blank">microtia</a></i></p>
+<p> <b> <a href="http://omim.org/entry/107480#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/107480#description" target="_blank">57</a></sup>
+Townes-Brocks syndrome-1 (TBS1) is characterized by the triad of imperforate anus, dysplastic ears, and thumb malformations. Minor features of the condition include hearing loss, foot malformations, renal impairment with or without renal malformations, genitourinary malformations, and congenital heart disease (Webb et al., 2017). <span> (107480) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases in the <a href="/card/townes_brocks_syndrome" target="_blank">Townes-Brocks Syndrome</a> family:</h3>
+<table class="family borderless">
+<tr>
+<td>
+<b>Townes-Brocks Syndrome 1</b>
+</td>
+<td>
+<a href="/card/townes_brocks_syndrome_2" target="_blank">Townes-Brocks Syndrome 2</a> </td>
+</tr>
+</table>
+<br/>
+<h3>Diseases related to Townes-Brocks Syndrome 1 via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/townes_brocks_syndrome" target="_blank">townes-brocks syndrome</a></td>
+<td>11.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=townes-brocks+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Townes-Brocks Syndrome 1:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('HPO_Symptoms', '57', 'HPO_Symptoms-table');">show all 57</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+duane anomaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009921" target="_blank">HP:0009921</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+microtia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008551" target="_blank">HP:0008551</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+preauricular skin tag
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.9285714%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000384" target="_blank">HP:0000384</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+sensorineural hearing impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.8095238%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000407" target="_blank">HP:0000407</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+broad thumb
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.75%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011304" target="_blank">HP:0011304</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+anal atresia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.664557%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002023" target="_blank">HP:0002023</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+preaxial hand polydactyly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.6111111%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001177" target="_blank">HP:0001177</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+3-4 finger syndactyly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.6111111%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006097" target="_blank">HP:0006097</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+triphalangeal thumb
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.4285714%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001199" target="_blank">HP:0001199</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+global developmental delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.258427%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001263" target="_blank">HP:0001263</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+atrial septal defect
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.25%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001631" target="_blank">HP:0001631</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+tethered cord
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.25%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002144" target="_blank">HP:0002144</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+rectovaginal fistula
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.25%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000143" target="_blank">HP:0000143</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+rectoperineal fistula
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.25%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004792" target="_blank">HP:0004792</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+small for gestational age
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.25%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001518" target="_blank">HP:0001518</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+lop ear
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.25%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000394" target="_blank">HP:0000394</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+hypospadias
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1764706%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000047" target="_blank">HP:0000047</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+hydrocephalus
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.125%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000238" target="_blank">HP:0000238</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+choanal atresia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.125%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000453" target="_blank">HP:0000453</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+holoprosencephaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.125%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001360" target="_blank">HP:0001360</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+talipes
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.125%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001883" target="_blank">HP:0001883</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+tracheoesophageal fistula
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.125%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002575" target="_blank">HP:0002575</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+renal hypoplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.125%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000089" target="_blank">HP:0000089</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+4-5 toe syndactyly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.125%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004692" target="_blank">HP:0004692</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+1-2 toe syndactyly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.125%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010711" target="_blank">HP:0010711</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+ventricular septal defect
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.12%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001629" target="_blank">HP:0001629</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+intellectual disability
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001249" target="_blank">HP:0001249</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+hypothyroidism
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000821" target="_blank">HP:0000821</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+macrotia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000400" target="_blank">HP:0000400</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+umbilical hernia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001537" target="_blank">HP:0001537</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+microcephaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000252" target="_blank">HP:0000252</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+
+gastroesophageal reflux
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002020" target="_blank">HP:0002020</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+
+renal insufficiency
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000083" target="_blank">HP:0000083</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+
+cryptorchidism
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000028" target="_blank">HP:0000028</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+
+bifid scrotum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000048" target="_blank">HP:0000048</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+
+chorioretinal coloboma
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000567" target="_blank">HP:0000567</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+
+tetralogy of fallot
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001636" target="_blank">HP:0001636</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+
+vesicoureteral reflux
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000076" target="_blank">HP:0000076</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+
+multicystic kidney dysplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000003" target="_blank">HP:0000003</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+
+partial duplication of thumb phalanx
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009944" target="_blank">HP:0009944</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+
+aplasia/hypoplasia of the 3rd toe
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010331" target="_blank">HP:0010331</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+
+urethral valve
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010481" target="_blank">HP:0010481</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+
+preauricular pit
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004467" target="_blank">HP:0004467</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+
+anal stenosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002025" target="_blank">HP:0002025</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+
+duodenal atresia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002247" target="_blank">HP:0002247</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td>
+
+short metatarsal
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010743" target="_blank">HP:0010743</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td>
+
+renal dysplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000110" target="_blank">HP:0000110</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td>
+
+2-3 toe syndactyly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004691" target="_blank">HP:0004691</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td>
+
+clinodactyly of the 5th toe
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001864" target="_blank">HP:0001864</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td>
+
+bifid uterus
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000136" target="_blank">HP:0000136</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/107480" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Abdomen Gastrointestinal:</u><br/>
+<span>umbilical hernia</span>
+<br/>
+<span>gastroesophageal reflux</span>
+<br/>
+<span>anal stenosis</span>
+<br/>
+<span>duodenal atresia</span>
+<br/>
+<span>imperforate anus</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>anterior placement of anus</span>
+<br/>
+<span>rectovaginal/rectoperineal fistula</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 7" id="ClinicalSynopsis_showmore_1" href="javascript:showMoreTable('ClinicalSynopsis_item_1','ClinicalSynopsis_showmore_1','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Head And Neck Head:</u><br/>
+<span>microcephaly</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Genitourinary Internal Genitalia Male:</u><br/>
+<span>cryptorchidism</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Cardiovascular Heart:</u><br/>
+<span>tetralogy of fallot</span>
+<br/>
+<span>ventricular septal defect</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Genitourinary Internal Genitalia Female:</u><br/>
+<span>rectovaginal fistula</span>
+<br/>
+<span>bifid uterus</span>
+<br/>
+<span>vaginal aplasia</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Genitourinary Kidneys:</u><br/>
+<span>renal failure</span>
+<br/>
+<span>hypoplastic kidneys</span>
+<br/>
+<span>multicystic kidneys</span>
+<br/>
+<span>dysplastic kidneys</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Genitourinary Bladder:</u><br/>
+<span>urethral valves</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Endocrine Features:</u><br/>
+<span>hypothyroidism (rare)</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>microtia</span>
+<br/>
+<span>satyr ear</span>
+<br/>
+<span>overfolding of superior helix</span>
+<br/>
+<span>large ears</span>
+<br/>
+<span>preauricular tags</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>preauricular pits</span>
+<br/>
+<span>sensorineural hearing loss</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 7" id="ClinicalSynopsis_showmore_9" href="javascript:showMoreTable('ClinicalSynopsis_item_9','ClinicalSynopsis_showmore_9','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Skeletal Hands:</u><br/>
+<span>broad thumb</span>
+<br/>
+<span>triphalangeal thumb</span>
+<br/>
+<span>preaxial polydactyly</span>
+<br/>
+<span>pseudoepiphyses of second metacarpal</span>
+<br/>
+<span>bifid thumb</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>fusion of triquetrum and hamate</span>
+<br/>
+<span>absent triquetrum and navicular bones</span>
+<br/>
+<span>2-3 and 3-4 finger syndactyly</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 8" id="ClinicalSynopsis_showmore_10" href="javascript:showMoreTable('ClinicalSynopsis_item_10','ClinicalSynopsis_showmore_10','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_11" class="tab">
+<u>Genitourinary External Genitalia Male:</u><br/>
+<span>bifid scrotum</span>
+<br/>
+<span>hypospadias</span>
+<br/>
+<span>prominent midline perineal raphe</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_12" class="tab">
+<u>Genitourinary Ureters:</u><br/>
+<span>vesicoureteral reflux</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_13" class="tab">
+<u>Skeletal Feet:</u><br/>
+<span>3-4 toe syndactyly</span>
+<br/>
+<span>short metatarsals</span>
+<br/>
+<span>fusion of metatarsals</span>
+<br/>
+<span>absent/hypoplastic third toe</span>
+<br/>
+<span>fifth toe clinodactyly</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_14" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>chorioretinal coloboma (rare)</span>
+<br/>
+<span>duane anomaly (rare)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_15" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>mental retardation (rarely noted)</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/107480#clinicalFeatures" target="_blank">107480</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Townes-Brocks Syndrome 1" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Townes-Brocks Syndrome 1&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Townes-Brocks Syndrome 1</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Townes-Brocks Syndrome 1:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Townes-Brocks Syndrome 1
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4551481" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1&amp;keywords=townes-brocks+syndrome+1&amp;prefilter=diseases#diseases" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+Townes-Brocks-Branchiootorenal-Like Syndrome
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1862683" target="_blank">28</a></sup>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Townes-Brocks Syndrome 1: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="2.478717">Heart</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.7467553">Uterus</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.6794878">Kidney</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/107480/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="0.2965423">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.1620957">Cingulate Cortex</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.06428243">Cortex</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Townes-Brocks Syndrome 1 according to OMIM&#174; and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 34', 'showing 34, show less','collapsable')">show all 34</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Nonsense-mediated decay and the molecular pathogenesis of mutations in SALL1 and GLI3.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Furniss D...Wilkie AO</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18000979" target="_blank">18000979</a></td>
+<td>2007</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Wide phenotypic variations within a family with SALL1 mutations: Isolated external ear abnormalities to Goldenhar syndrome.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kosaki R...Kosaki K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17431915" target="_blank">17431915</a></td>
+<td>2007</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Atypical phenotype and intrafamilial variability associated with a novel SALL1 mutation.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Albrecht B...Kohlhase J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/14755477" target="_blank">14755477</a></td>
+<td>2004</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Unique family with Townes-Brocks syndrome, SALL1 mutation, and cardiac defects.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Surka WS...Proud VK</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11484202" target="_blank">11484202</a></td>
+<td>2001</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Townes-Brocks syndrome versus expanded spectrum hemifacial microsomia: review of eight patients and further evidence of a "hot spot" for mutation in the SALL1 gene.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Keegan CE...Korf BR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11478532" target="_blank">11478532</a></td>
+<td>2001</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A SALL1 mutation causes a branchio-oto-renal syndrome-like phenotype.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Engels S...McGaughran J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10928856" target="_blank">10928856</a></td>
+<td>2000</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mutations in the SALL1 putative transcription factor gene cause Townes-Brocks syndrome.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kohlhase J...Engel W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9425907" target="_blank">9425907</a></td>
+<td>1998</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Truncated SALL1 Impedes Primary Cilia Function in Townes-Brocks Syndrome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bozal-Basterra L...Barrio R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29395072" target="_blank">29395072</a></td>
+<td>2018</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Heterozygous Pathogenic Variant in DACT1 Causes an Autosomal-Dominant Syndrome with Features Overlapping Townes-Brocks Syndrome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Webb BD...Schadt EE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28054444" target="_blank">28054444</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Use of Targeted Exome Sequencing for Molecular Diagnosis of Skeletal Disorders.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Polla DL...Pogue R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26380986" target="_blank">26380986</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Phenotypic variability in a family with Townes-Brocks syndrome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sudo Y...Hayasaka K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20520617" target="_blank">20520617</a></td>
+<td>2010</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Townes-Brocks syndrome: twenty novel SALL1 mutations in sporadic and familial cases and refinement of the SALL1 hot spot region.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Botzenhart EM...Kohlhase J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17221874" target="_blank">17221874</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+SALL1 mutation analysis in Townes-Brocks syndrome: twelve novel mutations and expansion of the phenotype.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Botzenhart EM...Kohlhase J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16088922" target="_blank">16088922</a></td>
+<td>2005</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+SALL1 mutations in Townes-Brocks syndrome and related disorders.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kohlhase J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11102974" target="_blank">11102974</a></td>
+<td>2000</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Townes-Brocks syndrome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Powell CM...Michaelis RC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10051003" target="_blank">10051003</a></td>
+<td>1999</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Townes-Brocks syndrome: detection of a SALL1 mutation hot spot and evidence for a position effect in one patient.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Marlin S...Petit C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10533063" target="_blank">10533063</a></td>
+<td>1999</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Two cases of Townes-Brocks syndrome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Doray B...Stoll C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10631923" target="_blank">10631923</a></td>
+<td>1999</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Townes-Brocks syndrome presenting as end stage renal failure.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Newman WG...Donnai D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9072124" target="_blank">9072124</a></td>
+<td>1997</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Townes-Brocks syndrome associated with mental retardation.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ishikiriyama S...Inoue T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8669452" target="_blank">8669452</a></td>
+<td>1996</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Three-generation family with resemblance to Townes-Brocks syndrome and Goldenhar/oculoauriculovertebral spectrum.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Johnson JP...Sherman S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8669439" target="_blank">8669439</a></td>
+<td>1996</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Description of a patient with difficult nosological classification: Goldenhar syndrome or Townes-Brocks syndrome?
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gabrielli O...Giorgi PL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8133838" target="_blank">8133838</a></td>
+<td>1993</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Townes-Brocks syndrome in an infant with translocation t (5;16).
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Serville F...Sergent MP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8357560" target="_blank">8357560</a></td>
+<td>1993</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Townes-Brocks syndrome in two mentally retarded youngsters.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Cameron TH...Aylsworth AS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/1951448" target="_blank">1951448</a></td>
+<td>1991</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Townes-Brocks syndrome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">O&#39;Callaghan M...Young ID</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2395165" target="_blank">2395165</a></td>
+<td>1990</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Townes-Brocks syndrome. Report of a case and review of the literature.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ferraz FG...Maroteaux P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2667456" target="_blank">2667456</a></td>
+<td>1989</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A new family with the Townes-Brocks syndrome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">de Vries-Van der Weerd MA...ten Kate LP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3180506" target="_blank">3180506</a></td>
+<td>1988</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Phenotypic variability in Townes-Brocks syndrome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Monteiro de Pina-Neto J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/6741990" target="_blank">6741990</a></td>
+<td>1984</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Syndrome of imperforate anus, abnormalities of hands and feet, satyr ears, and sensorineural deafness.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Walpole IR...Hockey A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/7199082" target="_blank">7199082</a></td>
+<td>1982</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Autosomal dominant transmission of a syndrome of anal, ear, renal, and radial congenital malformations.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kurnit DM...Dibbins A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/671168" target="_blank">671168</a></td>
+<td>1978</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+More on anal deformities.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Townes PL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/830935" target="_blank">830935</a></td>
+<td>1977</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Additional experience with routine use of oral kanamycin prophylaxis for necrotizing enterocolitis in infants under 1,500 grams.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Egan EA...Eitzman DV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/830936" target="_blank">830936</a></td>
+<td>1977</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Familial and abnormality.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Reid IS...Turner G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/1271203" target="_blank">1271203</a></td>
+<td>1976</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Holt-Oram syndrome with previously undescribed associated anomalies.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Silver W...Zeichner MB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/4639228" target="_blank">4639228</a></td>
+<td>1972</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Hereditary syndrome of imperforate anus with hand, foot, and ear anomalies.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Townes PL...Brocks ER</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/5042490" target="_blank">5042490</a></td>
+<td>1972</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Townes-Brocks Syndrome 1 according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[CLINICAL AND PHARMACOLOGICAL FACTORS INFLUENCING RESISTANCE TO CLOPIDOGREL IN PATIENTS WITH CARDIOVASCULAR DISEASES].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mesitskaia DF...Dobrovol&#39;skii AV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26117917" target="_blank">26117917</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Positive effect of low-activity thromboxane A synthase gene on prognosis in coronary heart disease].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kopylov FY...Chernyi OV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26027242" target="_blank">26027242</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Structural and mechanistic insights into the recruitment of talin by RIAM in integrin signaling.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chang YC...Wu J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25465129" target="_blank">25465129</a></td>
+<td>2014</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Transplantation of SIRT1-engineered aged mesenchymal stem cells improves cardiac function in a rat myocardial infarction model.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liu X...Wang J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25034794" target="_blank">25034794</a></td>
+<td>2014</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Angiogenic properties of aged adipose derived mesenchymal stem cells after hypoxic conditioning.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Efimenko A...Stolzing A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21244679" target="_blank">21244679</a></td>
+<td>2011</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Differential effects of long and short train theta burst stimulation on LTP induction in rat anterior cingulate cortex slices: multi-electrode array recordings.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">He Y...Chen J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19784087" target="_blank">19784087</a></td>
+<td>2009</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Reproducibility of classification and correction for verification bias as determinants of performance of Papanicolaou smear cytology in the screening setting: experience from the New Independent States of the former Soviet Union cohort study.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Syrjanen K...New Independent States of the Former Soviet Union Cohort Study Group</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19798883" target="_blank">19798883</a></td>
+<td>2009</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Bond strength and degree of infiltration between acrylic resin denture liner after immersion in effervescent denture cleanser.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Pisani MX...Paranhos HF</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19178623" target="_blank">19178623</a></td>
+<td>2009</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Multigenic control of disease severity after virulent Mycobacterium tuberculosis infection in mice.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sanchez F...Lavebratt C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12496157" target="_blank">12496157</a></td>
+<td>2003</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Townes-Brocks Syndrome 1 (1 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Spalt Like Transcription Factor 1</td>
+<td>Protein Coding</td>
+<td>1033.14</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/602218" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_SALL1">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1&amp;keywords=Townes-Brocks+Syndrome+1&amp;prefilter=diseases#diseases" title="SALL1 gene information at GeneCards" target="_blank">Disorders</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_SALL1_SeeMore" href="javascript:showMoreTable('related_genes_SALL1','related_genes_SALL1_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/8133838" title="ClinVar" target="_blank">8133838</a> <a href="https://pubmed.ncbi.nlm.nih.gov/9425907" title="ClinVar" target="_blank">9425907</a> <a href="https://pubmed.ncbi.nlm.nih.gov/10533063" title="ClinVar" target="_blank">10533063</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/10928856" title="ClinVar" target="_blank">10928856</a> <a href="https://pubmed.ncbi.nlm.nih.gov/11102974" title="ClinVar" target="_blank">11102974</a> <a href="https://pubmed.ncbi.nlm.nih.gov/11478532" title="ClinVar" target="_blank">11478532</a> <a href="https://pubmed.ncbi.nlm.nih.gov/11484202" title="ClinVar" target="_blank">11484202</a> <a href="https://pubmed.ncbi.nlm.nih.gov/14755477" title="ClinVar" target="_blank">14755477</a> <a href="https://pubmed.ncbi.nlm.nih.gov/17221874" title="ClinVar" target="_blank">17221874</a> <a href="https://pubmed.ncbi.nlm.nih.gov/17431915" title="ClinVar" target="_blank">17431915</a> <a href="https://pubmed.ncbi.nlm.nih.gov/18000979" title="ClinVar" target="_blank">18000979</a> </span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Townes-Brocks Syndrome 1:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '110', 'ClinVarVariations-table');">show all 110</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1270del (p.Gln424fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007851/" title="RCV000007851" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7426/?new_evidence=true#id_second" target="_blank">7426</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1597230349" target="_blank">rs1597230349</a></td>
+<td>GRCh37: 16:51174863-51174863<br/>GRCh38: 16:51140952-51140952</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1115C&gt;A (p.Ser372Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007852/" title="RCV000007852" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7427/?new_evidence=true#id_second" target="_blank">7427</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/104894535" target="_blank">rs104894535</a></td>
+<td>GRCh37: 16:51175018-51175018<br/>GRCh38: 16:51141107-51141107</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1277_1278del (p.Arg426fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007855/" title="RCV000007855" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7430/?new_evidence=true#id_second" target="_blank">7430</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1597230341" target="_blank">rs1597230341</a></td>
+<td>GRCh37: 16:51174855-51174856<br/>GRCh38: 16:51140944-51140945</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1347_1348del (p.His449fs)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007856/" title="RCV000007856" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7431/?new_evidence=true#id_second" target="_blank">7431</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1597230241" target="_blank">rs1597230241</a></td>
+<td>GRCh37: 16:51174785-51174786<br/>GRCh38: 16:51140874-51140875</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.792_793del (p.Leu264fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007858/" title="RCV000007858" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7433/?new_evidence=true#id_second" target="_blank">7433</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1597230909" target="_blank">rs1597230909</a></td>
+<td>GRCh37: 16:51175340-51175341<br/>GRCh38: 16:51141429-51141430</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1256T&gt;A (p.Leu419Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007860/" title="RCV000007860" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7435/?new_evidence=true#id_second" target="_blank">7435</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/137853084" target="_blank">rs137853084</a></td>
+<td>GRCh37: 16:51174877-51174877<br/>GRCh38: 16:51140966-51140966</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.995del (p.Pro332fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007862/" title="RCV000007862" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7436/?new_evidence=true#id_second" target="_blank">7436</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1597230687" target="_blank">rs1597230687</a></td>
+<td>GRCh37: 16:51175138-51175138<br/>GRCh38: 16:51141227-51141227</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1108_1109del (p.Val370fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000489064/" title="RCV000489064" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/426114/?new_evidence=true#id_second" target="_blank">426114</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1085307143" target="_blank">rs1085307143</a></td>
+<td>GRCh37: 16:51175024-51175025<br/>GRCh38: 16:51141113-51141114</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.2686_2689dup (p.Val897fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000995629/" title="RCV000995629" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/807481/?new_evidence=true#id_second" target="_blank">807481</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1597228568" target="_blank">rs1597228568</a></td>
+<td>GRCh37: 16:51173443-51173444<br/>GRCh38: 16:51139532-51139533</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1365_1366insGCAG (p.Lys456fs)</td>
+<td style="overflow-wrap:break-word;" title="Insertion">INSERT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001290092/" title="RCV001290092" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/983477/?new_evidence=true#id_second" target="_blank">983477</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1962410902" target="_blank">rs1962410902</a></td>
+<td>GRCh37: 16:51174767-51174768<br/>GRCh38: 16:51140856-51140857</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1821del (p.Leu608fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007857/" title="RCV000007857" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7432/?new_evidence=true#id_second" target="_blank">7432</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1597229721" target="_blank">rs1597229721</a></td>
+<td>GRCh37: 16:51174312-51174312<br/>GRCh38: 16:51140401-51140401</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.709C&gt;T (p.Gln237Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002260954/" title="RCV002260954" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1693559/?new_evidence=true#id_second" target="_blank">1693559</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51175424-51175424<br/>GRCh38: 16:51141513-51141513</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1228G&gt;T (p.Gly410Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002283994/" title="RCV002283994" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1705680/?new_evidence=true#id_second" target="_blank">1705680</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51174905-51174905<br/>GRCh38: 16:51140994-51140994</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1873G&gt;T (p.Glu625Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001249670/" title="RCV001249670" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/973255/?new_evidence=true#id_second" target="_blank">973255</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1197587893" target="_blank">rs1197587893</a></td>
+<td>GRCh37: 16:51174260-51174260<br/>GRCh38: 16:51140349-51140349</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1115C&gt;G (p.Ser372Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007854/" title="RCV000007854" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7429/?new_evidence=true#id_second" target="_blank">7429</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/104894535" target="_blank">rs104894535</a></td>
+<td>GRCh37: 16:51175018-51175018<br/>GRCh38: 16:51141107-51141107</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.967C&gt;T (p.Gln323Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007859/" title="RCV000007859" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000989601/" title="RCV000989601" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7434/?new_evidence=true#id_second" target="_blank">7434</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/104894538" target="_blank">rs104894538</a></td>
+<td>GRCh37: 16:51175166-51175166<br/>GRCh38: 16:51141255-51141255</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.3414_3415del (p.Cys1139fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007863/" title="RCV000007863" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/418466/?new_evidence=true#id_second" target="_blank">418466</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1064793257" target="_blank">rs1064793257</a></td>
+<td>GRCh37: 16:51172718-51172719<br/>GRCh38: 16:51138807-51138808</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.826C&gt;T (p.Arg276Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000007853/" title="RCV000007853" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7428/?new_evidence=true#id_second" target="_blank">7428</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/104894537" target="_blank">rs104894537</a></td>
+<td>GRCh37: 16:51175307-51175307<br/>GRCh38: 16:51141396-51141396</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1363_1369delinsTGAAACA (p.Ala455_Val457delinsTer)</td>
+<td style="overflow-wrap:break-word;" title="Indel">INDEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002226956/" title="RCV002226956" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1679359/?new_evidence=true#id_second" target="_blank">1679359</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51174764-51174770<br/>GRCh38: 16:51140853-51140859</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.601C&gt;T (p.Gln201Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002226901/" title="RCV002226901" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1679304/?new_evidence=true#id_second" target="_blank">1679304</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51175532-51175532<br/>GRCh38: 16:51141621-51141621</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.2801del (p.Ser934fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001029827/" title="RCV001029827" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/829881/?new_evidence=true#id_second" target="_blank">829881</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1597228490" target="_blank">rs1597228490</a></td>
+<td>GRCh37: 16:51173332-51173332<br/>GRCh38: 16:51139421-51139421</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.2287dup (p.Arg763fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001029980/" title="RCV001029980" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/830013/?new_evidence=true#id_second" target="_blank">830013</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1597229151" target="_blank">rs1597229151</a></td>
+<td>GRCh37: 16:51173845-51173846<br/>GRCh38: 16:51139934-51139935</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.3381del (p.Arg1128fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001808305/" title="RCV001808305" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1333617/?new_evidence=true#id_second" target="_blank">1333617</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51172752-51172752<br/>GRCh38: 16:51138841-51138841</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.2129del (p.Ile710fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002274276/" title="RCV002274276" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1700011/?new_evidence=true#id_second" target="_blank">1700011</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51174004-51174004<br/>GRCh38: 16:51140093-51140093</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.269dup (p.Pro91fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001353177/" title="RCV001353177" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1048611/?new_evidence=true#id_second" target="_blank">1048611</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51175863-51175864<br/>GRCh38: 16:51141952-51141953</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.949C&gt;T (p.Pro317Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000205374/" title="RCV000205374" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/208167/?new_evidence=true#id_second" target="_blank">208167</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/864621971" target="_blank">rs864621971</a></td>
+<td>GRCh37: 16:51175184-51175184<br/>GRCh38: 16:51141273-51141273</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.448AGC[9] (p.Ser159del)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000369147/" title="RCV000369147" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/195187/?new_evidence=true#id_second" target="_blank">195187</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/113614842" target="_blank">rs113614842</a></td>
+<td>GRCh37: 16:51175656-51175658<br/>GRCh38: 16:51141745-51141747</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1775A&gt;G (p.Lys592Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002226897/" title="RCV002226897" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1679300/?new_evidence=true#id_second" target="_blank">1679300</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51174358-51174358<br/>GRCh38: 16:51140447-51140447</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.3631G&gt;T (p.Val1211Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002488566/" title="RCV002488566" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1309305/?new_evidence=true#id_second" target="_blank">1309305</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51171367-51171367<br/>GRCh38: 16:51137456-51137456</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.3728A&gt;G (p.Asn1243Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002491983/" title="RCV002491983" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1431472/?new_evidence=true#id_second" target="_blank">1431472</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51171270-51171270<br/>GRCh38: 16:51137359-51137359</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.833C&gt;T (p.Ser278Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002510629/" title="RCV002510629" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1878538/?new_evidence=true#id_second" target="_blank">1878538</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51175300-51175300<br/>GRCh38: 16:51141389-51141389</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.478GGC[5] (p.Gly163dup)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000356333/" title="RCV000356333" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/258877/?new_evidence=true#id_second" target="_blank">258877</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1555475414" target="_blank">rs1555475414</a></td>
+<td>GRCh37: 16:51175643-51175644<br/>GRCh38: 16:51141732-51141733</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.*1033dup</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000385156/" title="RCV000385156" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/319576/?new_evidence=true#id_second" target="_blank">319576</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/551604859" target="_blank">rs551604859</a></td>
+<td>GRCh37: 16:51169989-51169990<br/>GRCh38: 16:51136078-51136079</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.448AGC[12] (p.Ser158_Ser159dup)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000393511/" title="RCV000393511" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/319615/?new_evidence=true#id_second" target="_blank">319615</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/113614842" target="_blank">rs113614842</a></td>
+<td>GRCh37: 16:51175655-51175656<br/>GRCh38: 16:51141744-51141745</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.448AGC[7] (p.Ser157_Ser159del)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000269733/" title="RCV000269733" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/224343/?new_evidence=true#id_second" target="_blank">224343</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/113614842" target="_blank">rs113614842</a></td>
+<td>GRCh37: 16:51175656-51175664<br/>GRCh38: 16:51141745-51141753</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.*920CTT[2]</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000379240/" title="RCV000379240" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/319579/?new_evidence=true#id_second" target="_blank">319579</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/527584319" target="_blank">rs527584319</a></td>
+<td>GRCh37: 16:51170095-51170097<br/>GRCh38: 16:51136184-51136186</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1329T&gt;A (p.Asp443Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002502147/" title="RCV002502147" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/289298/?new_evidence=true#id_second" target="_blank">289298</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/201203066" target="_blank">rs201203066</a></td>
+<td>GRCh37: 16:51174804-51174804<br/>GRCh38: 16:51140893-51140893</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.361A&gt;G (p.Arg121Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002506418/" title="RCV002506418" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/499461/?new_evidence=true#id_second" target="_blank">499461</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/377440481" target="_blank">rs377440481</a></td>
+<td>GRCh37: 16:51175772-51175772<br/>GRCh38: 16:51141861-51141861</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.*705_*706del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000281493/" title="RCV000281493" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/319583/?new_evidence=true#id_second" target="_blank">319583</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886052076" target="_blank">rs886052076</a></td>
+<td>GRCh37: 16:51170317-51170318<br/>GRCh38: 16:51136406-51136407</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.43G&gt;A (p.Asp15Asn)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000347818/" title="RCV000347818" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/319622/?new_evidence=true#id_second" target="_blank">319622</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886052085" target="_blank">rs886052085</a></td>
+<td>GRCh37: 16:51185110-51185110<br/>GRCh38: 16:51151199-51151199</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.*563del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000350691/" title="RCV000350691" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/319587/?new_evidence=true#id_second" target="_blank">319587</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886052078" target="_blank">rs886052078</a></td>
+<td>GRCh37: 16:51170460-51170460<br/>GRCh38: 16:51136549-51136549</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.477_478insAGCAGCGGC (p.Ser159_Gly160insSerSerGly)</td>
+<td style="overflow-wrap:break-word;" title="Insertion">INSERT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000626257/" title="RCV000626257" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/523050/?new_evidence=true#id_second" target="_blank">523050</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1555475415" target="_blank">rs1555475415</a></td>
+<td>GRCh37: 16:51175655-51175656<br/>GRCh38: 16:51141744-51141745</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.3836C&gt;T (p.Thr1279Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001029863/" title="RCV001029863" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/829915/?new_evidence=true#id_second" target="_blank">829915</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/776104367" target="_blank">rs776104367</a></td>
+<td>GRCh37: 16:51171162-51171162<br/>GRCh38: 16:51137251-51137251</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.2050C&gt;T (p.Gln684Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001029950/" title="RCV001029950" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/829987/?new_evidence=true#id_second" target="_blank">829987</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1597229404" target="_blank">rs1597229404</a></td>
+<td>GRCh37: 16:51174083-51174083<br/>GRCh38: 16:51140172-51140172</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.1016C&gt;T (p.Pro339Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002477945/" title="RCV002477945" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1307259/?new_evidence=true#id_second" target="_blank">1307259</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51175117-51175117<br/>GRCh38: 16:51141206-51141206</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.2938A&gt;T (p.Ile980Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002478028/" title="RCV002478028" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1328823/?new_evidence=true#id_second" target="_blank">1328823</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51173195-51173195<br/>GRCh38: 16:51139284-51139284</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.3782C&gt;G (p.Pro1261Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496093/" title="RCV002496093" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1306570/?new_evidence=true#id_second" target="_blank">1306570</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51171216-51171216<br/>GRCh38: 16:51137305-51137305</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.602A&gt;G (p.Gln201Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002501022/" title="RCV002501022" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/633693/?new_evidence=true#id_second" target="_blank">633693</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/775143619" target="_blank">rs775143619</a></td>
+<td>GRCh37: 16:51175531-51175531<br/>GRCh38: 16:51141620-51141620</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.2269C&gt;T (p.Arg757Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003138418/" title="RCV003138418" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2072565/?new_evidence=true#id_second" target="_blank">2072565</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:51173864-51173864<br/>GRCh38: 16:51139953-51139953</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SALL1" title="SALL1 gene information at GeneCards" target="_blank">SALL1</a></td>
+<td style="overflow-wrap:break-word;">NM_002968.3(SALL1):c.3199C&gt;T (p.Leu1067Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003139757/" title="RCV003139757" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/459259/?new_evidence=true#id_second" target="_blank">459259</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1375814966" target="_blank">rs1375814966</a></td>
+<td>GRCh37: 16:51172934-51172934<br/>GRCh38: 16:51139023-51139023</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Townes-Brocks%20Syndrome%201%22%5BMeSH%20Terms%5D%20OR%20%22Townes-Brocks%20Syndrome%201%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Townes-Brocks Syndrome 1.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Townes-Brocks Syndrome 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#493a3c3939263b3d0925202f2c2428393a2a672a2624">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809eb2f05ed9ba71',t:'MTY5NTI2MTQ2My43NTcwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

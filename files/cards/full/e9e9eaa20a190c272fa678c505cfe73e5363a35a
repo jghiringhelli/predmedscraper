@@ -1,0 +1,3600 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Autosomal Recessive Cutis Laxa Type Ii Classic Type disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/autosomal_recessive_cutis_laxa_type_ii_classic_type" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'autosomal_recessive_cutis_laxa_type_ii_classic_type';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+<div class="symbol">MCID: ATS391</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 36
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Autosomal Recessive Cutis Laxa Type Ii Classic Type</span>
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Bone diseases, Fetal diseases, Genetic diseases, Metabolic diseases, Neuronal diseases, Rare diseases, Skin diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#4635272a2335062a2f20232b273635256825292b" target="_blank"><span class="__cf_email__" data-cfemail="91e2f0fdf4e2d1fdf8f7f4fcf0e1e2f2bff2fefc">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="20 Genes associated with Autosomal Recessive Cutis Laxa Type Ii Classic Type">Genes</a>
+<a href="#anatomical_context" title="3 Tissues associated with Autosomal Recessive Cutis Laxa Type Ii Classic Type">Tissues</a>
+<a href="#disorders" title="42 Related diseases associated with Autosomal Recessive Cutis Laxa Type Ii Classic Type">Related diseases</a>
+<a href="#clinical_features" title="58 Symptoms &amp; Phenotypes associated with Autosomal Recessive Cutis Laxa Type Ii Classic Type">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/autosomal_recessive_cutis_laxa_type_ii_classic_type?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Autosomal Recessive Cutis Laxa Type Ii Classic Type:</h3>
+<div class="main-name">
+Name: <b>Autosomal Recessive Cutis Laxa Type Ii Classic Type</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070141" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Arcl2, Classic Type
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070141" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=357074" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Arcl2, Debre Type
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070141" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=357074" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Autosomal Recessive Cutis Laxa Type 2, Classic Type
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=357074" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Autosomal Recessive Cutis Laxa Type 2, Debre Type
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=357074" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Autosomal Recessive Cutis Laxa Type 2, Classic Type:</b>
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=357074" target="_blank">58</a></sup>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/bone_disease_list" target="_blank">Bone diseases</a> <a href="https://www.malacards.org/categories/skin_disease_list" target="_blank">Skin diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="International Classification of Diseases, 10th Revision">31</sup>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/XVII" title="XVII" target="_blank">Congenital malformations, deformations and chromosomal abnormalities</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q80-Q89" title="Q80-Q89" target="_blank">Other congenital malformations</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q82" title="Q82" target="_blank">Other congenital malformations of skin</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q82.8" title="Q82.8" target="_blank">Other specified congenital malformations of skin</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare neurological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare bone diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare skin diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Inborn errors of metabolism <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Developmental anomalies during embryogenesis <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070141" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0070141" target="_blank">DOID:0070141</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="International Classification of Diseases, 10th Revision">ICD10</b>
+<sup title="International Classification of Diseases, 10th Revision"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q82.8" target="_blank">31</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q82.8" target="_blank">Q82.8</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q82.8" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q82.8" target="_blank">Q82.8</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_4">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=357074" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=357074" target="_blank">ORPHA357074</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/128602000" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/128602000" target="_blank">128602000</a> <a href="http://www.snomedbrowser.com/Codes/Details/128613002" target="_blank">128613002</a> <a href="http://www.snomedbrowser.com/Codes/Details/14447001" target="_blank">14447001</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/16026008" target="_blank">16026008</a> <a href="http://www.snomedbrowser.com/Codes/Details/162294008" target="_blank">162294008</a> <a href="http://www.snomedbrowser.com/Codes/Details/194021007" target="_blank">194021007</a> <a href="http://www.snomedbrowser.com/Codes/Details/199612005" target="_blank">199612005</a> <a href="http://www.snomedbrowser.com/Codes/Details/201093004" target="_blank">201093004</a> <a href="http://www.snomedbrowser.com/Codes/Details/204036008" target="_blank">204036008</a> <a href="http://www.snomedbrowser.com/Codes/Details/22006008" target="_blank">22006008</a> <a href="http://www.snomedbrowser.com/Codes/Details/22033007" target="_blank">22033007</a> <a href="http://www.snomedbrowser.com/Codes/Details/22066006" target="_blank">22066006</a> <a href="http://www.snomedbrowser.com/Codes/Details/221360009" target="_blank">221360009</a> <a href="http://www.snomedbrowser.com/Codes/Details/224958001" target="_blank">224958001</a> <a href="http://www.snomedbrowser.com/Codes/Details/229721007" target="_blank">229721007</a> <a href="http://www.snomedbrowser.com/Codes/Details/23024003" target="_blank">23024003</a> <a href="http://www.snomedbrowser.com/Codes/Details/237836003" target="_blank">237836003</a> <a href="http://www.snomedbrowser.com/Codes/Details/246545002" target="_blank">246545002</a> <a href="http://www.snomedbrowser.com/Codes/Details/246800008" target="_blank">246800008</a> <a href="http://www.snomedbrowser.com/Codes/Details/249310005" target="_blank">249310005</a> <a href="http://www.snomedbrowser.com/Codes/Details/249327002" target="_blank">249327002</a> <a href="http://www.snomedbrowser.com/Codes/Details/27272007" target="_blank">27272007</a> <a href="http://www.snomedbrowser.com/Codes/Details/29164008" target="_blank">29164008</a> <a href="http://www.snomedbrowser.com/Codes/Details/295091000119100" target="_blank">295091000119100</a> <a href="http://www.snomedbrowser.com/Codes/Details/31216003" target="_blank">31216003</a> <a href="http://www.snomedbrowser.com/Codes/Details/313307000" target="_blank">313307000</a> <a href="http://www.snomedbrowser.com/Codes/Details/34187009" target="_blank">34187009</a> <a href="http://www.snomedbrowser.com/Codes/Details/36440009" target="_blank">36440009</a> <a href="http://www.snomedbrowser.com/Codes/Details/396232000" target="_blank">396232000</a> <a href="http://www.snomedbrowser.com/Codes/Details/397790002" target="_blank">397790002</a> <a href="http://www.snomedbrowser.com/Codes/Details/432788009" target="_blank">432788009</a> <a href="http://www.snomedbrowser.com/Codes/Details/48334007" target="_blank">48334007</a> <a href="http://www.snomedbrowser.com/Codes/Details/48610005" target="_blank">48610005</a> <a href="http://www.snomedbrowser.com/Codes/Details/4945003" target="_blank">4945003</a> <a href="http://www.snomedbrowser.com/Codes/Details/52448006" target="_blank">52448006</a> <a href="http://www.snomedbrowser.com/Codes/Details/52781008" target="_blank">52781008</a> <a href="http://www.snomedbrowser.com/Codes/Details/53602002" target="_blank">53602002</a> <a href="http://www.snomedbrowser.com/Codes/Details/56558005" target="_blank">56558005</a> <a href="http://www.snomedbrowser.com/Codes/Details/58588007" target="_blank">58588007</a> <a href="http://www.snomedbrowser.com/Codes/Details/62415009" target="_blank">62415009</a> <a href="http://www.snomedbrowser.com/Codes/Details/708670007" target="_blank">708670007</a> <a href="http://www.snomedbrowser.com/Codes/Details/71325002" target="_blank">71325002</a> <a href="http://www.snomedbrowser.com/Codes/Details/78164000" target="_blank">78164000</a> <a href="http://www.snomedbrowser.com/Codes/Details/80967001" target="_blank">80967001</a> <a href="http://www.snomedbrowser.com/Codes/Details/84757009" target="_blank">84757009</a> <a href="http://www.snomedbrowser.com/Codes/Details/87433001" target="_blank">87433001</a> <a href="http://www.snomedbrowser.com/Codes/Details/91175000" target="_blank">91175000</a> <a href="http://www.snomedbrowser.com/Codes/Details/95515009" target="_blank">95515009</a> </span>
+<span class="showmore">
+<a title="show all 48" id="ExternalId_showmore_5" href="javascript:showMoreTable('ExternalId_item_5','ExternalId_showmore_5','more','less','collapsable')">more</a>
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="https://disease-ontology.org/?id=DOID:0070141" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070141" target="_blank">11</a></sup>
+A cutis laxa characterized by generalized skin wrinkling, sparse subcutaneous fat, dysmorphic progeroid facial features and severe hypotonia.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Autosomal Recessive Cutis Laxa Type Ii Classic Type, also known as <i>arcl2, classic type</i>, is related to <i><a href="/card/cutis_laxa_autosomal_recessive_type_iid" target="_blank">cutis laxa, autosomal recessive, type iid</a></i> and <i><a href="/card/cutis_laxa_autosomal_recessive_type_iia" target="_blank">cutis laxa, autosomal recessive, type iia</a></i>. An important gene associated with Autosomal Recessive Cutis Laxa Type Ii Classic Type is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2" target="_blank">ATP6V0A2</a> (ATPase H+ Transporting V0 Subunit A2), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/insulin_receptor_signalling_cascade" target="_blank">Insulin receptor signalling cascade</a></i> and <i><a href="https://pathcards.genecards.org/card/ion_channel_transport" target="_blank">Ion channel transport</a></i>. Affiliated tissues include <i>skin</i> and <i>bone</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0001476" target="_blank">delayed closure of the anterior fontanelle</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">failure to thrive</a></i></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Autosomal Recessive Cutis Laxa Type Ii Classic Type via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 42', 'showing 42, show less','collapsable')">show all 42</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/cutis_laxa_autosomal_recessive_type_iid" target="_blank">cutis laxa, autosomal recessive, type iid</a></td>
+<td>31.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iid&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PI4K2A&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iid&amp;prefilter=diseases#diseases" title="PI4K2A gene information at GeneCards" target="_blank">PI4K2A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iid&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iid&amp;prefilter=diseases#diseases" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iid&amp;prefilter=diseases#diseases" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iid&amp;prefilter=diseases#diseases" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/cutis_laxa_autosomal_recessive_type_iia" target="_blank">cutis laxa, autosomal recessive, type iia</a></td>
+<td>31.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iia&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iia&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIA2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iia&amp;prefilter=diseases#diseases" title="MIA2 gene information at GeneCards" target="_blank">MIA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iia&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iia&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iia&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/cutis_laxa_autosomal_recessive_type_iic" target="_blank">cutis laxa, autosomal recessive, type iic</a></td>
+<td>11.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iic&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/cutis_laxa_autosomal_dominant_2" target="_blank">cutis laxa, autosomal dominant 2</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=cutis+laxa%2c+autosomal+dominant+2&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=cutis+laxa%2c+autosomal+dominant+2&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/congenital_disorder_of_glycosylation_type_iip" target="_blank">congenital disorder of glycosylation, type iip</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=congenital+disorder+of+glycosylation%2c+type+iip&amp;prefilter=diseases#diseases" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=congenital+disorder+of+glycosylation%2c+type+iip&amp;prefilter=diseases#diseases" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/congenital_disorder_of_glycosylation_type_iio" target="_blank">congenital disorder of glycosylation, type iio</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=congenital+disorder+of+glycosylation%2c+type+iio&amp;prefilter=diseases#diseases" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=congenital+disorder+of+glycosylation%2c+type+iio&amp;prefilter=diseases#diseases" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/congenital_disorder_of_glycosylation_type_in" target="_blank">congenital disorder of glycosylation, type in</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=congenital+disorder+of+glycosylation%2c+type+in&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=congenital+disorder+of+glycosylation%2c+type+in&amp;prefilter=diseases#diseases" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=congenital+disorder+of+glycosylation%2c+type+in&amp;prefilter=diseases#diseases" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/stiff_skin_syndrome" target="_blank">stiff skin syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=stiff+skin+syndrome&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=stiff+skin+syndrome&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/ureteric_orifice_cancer" target="_blank">ureteric orifice cancer</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=ureteric+orifice+cancer&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=ureteric+orifice+cancer&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=ureteric+orifice+cancer&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/cutis_laxa_autosomal_dominant_3" target="_blank">cutis laxa, autosomal dominant 3</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=cutis+laxa%2c+autosomal+dominant+3&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PI4K2A&amp;keywords=cutis+laxa%2c+autosomal+dominant+3&amp;prefilter=diseases#diseases" title="PI4K2A gene information at GeneCards" target="_blank">PI4K2A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=cutis+laxa%2c+autosomal+dominant+3&amp;prefilter=diseases#diseases" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=cutis+laxa%2c+autosomal+dominant+3&amp;prefilter=diseases#diseases" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/leukodystrophy_hypomyelinating_10" target="_blank">leukodystrophy, hypomyelinating, 10</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR2&amp;keywords=leukodystrophy%2c+hypomyelinating%2c+10&amp;prefilter=diseases#diseases" title="PYCR2 gene information at GeneCards" target="_blank">PYCR2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=leukodystrophy%2c+hypomyelinating%2c+10&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=leukodystrophy%2c+hypomyelinating%2c+10&amp;prefilter=diseases#diseases" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/ehlers_danlos_syndrome_vascular_type" target="_blank">ehlers-danlos syndrome, vascular type</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=ehlers-danlos+syndrome%2c+vascular+type&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=ehlers-danlos+syndrome%2c+vascular+type&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=ehlers-danlos+syndrome%2c+vascular+type&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/achondrogenesis" target="_blank">achondrogenesis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIA2&amp;keywords=achondrogenesis&amp;prefilter=diseases#diseases" title="MIA2 gene information at GeneCards" target="_blank">MIA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=achondrogenesis&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/phacogenic_glaucoma" target="_blank">phacogenic glaucoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=phacogenic+glaucoma&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=phacogenic+glaucoma&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/aortic_dissection" target="_blank">aortic dissection</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=aortic+dissection&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=aortic+dissection&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=aortic+dissection&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/diaphragmatic_hernia_congenital" target="_blank">diaphragmatic hernia, congenital</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=diaphragmatic+hernia%2c+congenital&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=diaphragmatic+hernia%2c+congenital&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=diaphragmatic+hernia%2c+congenital&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/aortic_valve_insufficiency" target="_blank">aortic valve insufficiency</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=aortic+valve+insufficiency&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=aortic+valve+insufficiency&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/ehlers_danlos_syndrome" target="_blank">ehlers-danlos syndrome</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIA2&amp;keywords=ehlers-danlos+syndrome&amp;prefilter=diseases#diseases" title="MIA2 gene information at GeneCards" target="_blank">MIA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=ehlers-danlos+syndrome&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=ehlers-danlos+syndrome&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=ehlers-danlos+syndrome&amp;prefilter=diseases#diseases" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/arterial_tortuosity_syndrome" target="_blank">arterial tortuosity syndrome</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=arterial+tortuosity+syndrome&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=arterial+tortuosity+syndrome&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=arterial+tortuosity+syndrome&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=arterial+tortuosity+syndrome&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/supravalvular_aortic_stenosis" target="_blank">supravalvular aortic stenosis</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=supravalvular+aortic+stenosis&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=supravalvular+aortic+stenosis&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=supravalvular+aortic+stenosis&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=supravalvular+aortic+stenosis&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/loeys_dietz_syndrome" target="_blank">loeys-dietz syndrome</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=loeys-dietz+syndrome&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=loeys-dietz+syndrome&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=loeys-dietz+syndrome&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=loeys-dietz+syndrome&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/aortic_aneurysm_familial_thoracic_1" target="_blank">aortic aneurysm, familial thoracic 1</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=aortic+aneurysm%2c+familial+thoracic+1&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=aortic+aneurysm%2c+familial+thoracic+1&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=aortic+aneurysm%2c+familial+thoracic+1&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=aortic+aneurysm%2c+familial+thoracic+1&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/aortic_aneurysm" target="_blank">aortic aneurysm</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=aortic+aneurysm&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=aortic+aneurysm&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=aortic+aneurysm&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=aortic+aneurysm&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/cutis_laxa_autosomal_recessive_type_iiia" target="_blank">cutis laxa, autosomal recessive, type iiia</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiia&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiia&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiia&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiia&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiia&amp;prefilter=diseases#diseases" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiia&amp;prefilter=diseases#diseases" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="/card/cardiomyopathy_dilated_1l" target="_blank">cardiomyopathy, dilated, 1l</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=cardiomyopathy%2c+dilated%2c+1l&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=cardiomyopathy%2c+dilated%2c+1l&amp;prefilter=diseases#diseases" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="/card/immunodeficiency_47" target="_blank">immunodeficiency 47</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=immunodeficiency+47&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=immunodeficiency+47&amp;prefilter=diseases#diseases" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=immunodeficiency+47&amp;prefilter=diseases#diseases" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=immunodeficiency+47&amp;prefilter=diseases#diseases" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=immunodeficiency+47&amp;prefilter=diseases#diseases" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=immunodeficiency+47&amp;prefilter=diseases#diseases" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="/card/retinal_drusen" target="_blank">retinal drusen</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=retinal+drusen&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=retinal+drusen&amp;prefilter=diseases#diseases" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=retinal+drusen&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="/card/cutis_laxa_autosomal_recessive_type_iiib" target="_blank">cutis laxa, autosomal recessive, type iiib</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiib&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiib&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiib&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiib&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiib&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iiib&amp;prefilter=diseases#diseases" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="/card/inguinal_hernia" target="_blank">inguinal hernia</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=inguinal+hernia&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=inguinal+hernia&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=inguinal+hernia&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=inguinal+hernia&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=inguinal+hernia&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=inguinal+hernia&amp;prefilter=diseases#diseases" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="/card/bladder_diverticulum" target="_blank">bladder diverticulum</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=bladder+diverticulum&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=bladder+diverticulum&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=bladder+diverticulum&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=bladder+diverticulum&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A&amp;keywords=bladder+diverticulum&amp;prefilter=diseases#diseases" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a> </td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="/card/wrinkly_skin_syndrome" target="_blank">wrinkly skin syndrome</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=wrinkly+skin+syndrome&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=wrinkly+skin+syndrome&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=wrinkly+skin+syndrome&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=wrinkly+skin+syndrome&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=wrinkly+skin+syndrome&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=wrinkly+skin+syndrome&amp;prefilter=diseases#diseases" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="/card/cutis_laxa_autosomal_recessive_type_ic" target="_blank">cutis laxa, autosomal recessive, type ic</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ic&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ic&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ic&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ic&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ic&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ic&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="/card/cutis_laxa_autosomal_dominant_1" target="_blank">cutis laxa, autosomal dominant 1</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=cutis+laxa%2c+autosomal+dominant+1&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=cutis+laxa%2c+autosomal+dominant+1&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=cutis+laxa%2c+autosomal+dominant+1&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=cutis+laxa%2c+autosomal+dominant+1&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=cutis+laxa%2c+autosomal+dominant+1&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=cutis+laxa%2c+autosomal+dominant+1&amp;prefilter=diseases#diseases" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="/card/cutis_laxa_autosomal_recessive_type_ia" target="_blank">cutis laxa, autosomal recessive, type ia</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ia&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN7&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ia&amp;prefilter=diseases#diseases" title="FBLN7 gene information at GeneCards" target="_blank">FBLN7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ia&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ia&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ia&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ia&amp;prefilter=diseases#diseases" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="/card/doyne_honeycomb_retinal_dystrophy" target="_blank">doyne honeycomb retinal dystrophy</a></td>
+<td>9.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN7&amp;keywords=doyne+honeycomb+retinal+dystrophy&amp;prefilter=diseases#diseases" title="FBLN7 gene information at GeneCards" target="_blank">FBLN7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=doyne+honeycomb+retinal+dystrophy&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=doyne+honeycomb+retinal+dystrophy&amp;prefilter=diseases#diseases" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=doyne+honeycomb+retinal+dystrophy&amp;prefilter=diseases#diseases" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=doyne+honeycomb+retinal+dystrophy&amp;prefilter=diseases#diseases" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="/card/autosomal_recessive_cutis_laxa_type_iii" target="_blank">autosomal recessive cutis laxa type iii</a></td>
+<td>9.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=autosomal+recessive+cutis+laxa+type+iii&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR2&amp;keywords=autosomal+recessive+cutis+laxa+type+iii&amp;prefilter=diseases#diseases" title="PYCR2 gene information at GeneCards" target="_blank">PYCR2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=autosomal+recessive+cutis+laxa+type+iii&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=autosomal+recessive+cutis+laxa+type+iii&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=autosomal+recessive+cutis+laxa+type+iii&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=autosomal+recessive+cutis+laxa+type+iii&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="/card/cutis_laxa_autosomal_recessive_type_iib" target="_blank">cutis laxa, autosomal recessive, type iib</a></td>
+<td>9.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iib&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iib&amp;prefilter=diseases#diseases" title="PYCR2 gene information at GeneCards" target="_blank">PYCR2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iib&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iib&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iib&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+iib&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="/card/cutis_laxa_autosomal_recessive_type_ib" target="_blank">cutis laxa, autosomal recessive, type ib</a></td>
+<td>9.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ib&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ib&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ib&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ib&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN7&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ib&amp;prefilter=diseases#diseases" title="FBLN7 gene information at GeneCards" target="_blank">FBLN7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=cutis+laxa%2c+autosomal+recessive%2c+type+ib&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="/card/geroderma_osteodysplasticum" target="_blank">geroderma osteodysplasticum</a></td>
+<td>9.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=geroderma+osteodysplasticum&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB6A&amp;keywords=geroderma+osteodysplasticum&amp;prefilter=diseases#diseases" title="RAB6A gene information at GeneCards" target="_blank">RAB6A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=geroderma+osteodysplasticum&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIA2&amp;keywords=geroderma+osteodysplasticum&amp;prefilter=diseases#diseases" title="MIA2 gene information at GeneCards" target="_blank">MIA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=geroderma+osteodysplasticum&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=geroderma+osteodysplasticum&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> </td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="/card/occipital_horn_syndrome" target="_blank">occipital horn syndrome</a></td>
+<td>9.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=occipital+horn+syndrome&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIA2&amp;keywords=occipital+horn+syndrome&amp;prefilter=diseases#diseases" title="MIA2 gene information at GeneCards" target="_blank">MIA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=occipital+horn+syndrome&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=occipital+horn+syndrome&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=occipital+horn+syndrome&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=occipital+horn+syndrome&amp;prefilter=diseases#diseases" title="ELN gene information at GeneCards" target="_blank">ELN</a> </td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="/card/cutis_laxa" target="_blank">cutis laxa</a></td>
+<td>8.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=cutis+laxa&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=cutis+laxa&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=cutis+laxa&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=cutis+laxa&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=cutis+laxa&amp;prefilter=diseases#diseases" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=cutis+laxa&amp;prefilter=diseases#diseases" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="/card/autosomal_recessive_cutis_laxa_type_i" target="_blank">autosomal recessive cutis laxa type i</a></td>
+<td>8.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2&amp;keywords=autosomal+recessive+cutis+laxa+type+i&amp;prefilter=diseases#diseases" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB6A&amp;keywords=autosomal+recessive+cutis+laxa+type+i&amp;prefilter=diseases#diseases" title="RAB6A gene information at GeneCards" target="_blank">RAB6A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=autosomal+recessive+cutis+laxa+type+i&amp;prefilter=diseases#diseases" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=autosomal+recessive+cutis+laxa+type+i&amp;prefilter=diseases#diseases" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=autosomal+recessive+cutis+laxa+type+i&amp;prefilter=diseases#diseases" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN7&amp;keywords=autosomal+recessive+cutis+laxa+type+i&amp;prefilter=diseases#diseases" title="FBLN7 gene information at GeneCards" target="_blank">FBLN7</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Autosomal Recessive Cutis Laxa Type Ii Classic Type:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/autosomal_recessive_cutis_laxa_type_ii_classic_type_related_diseases.jpg" width="100%" alt="Diseases related to Autosomal Recessive Cutis Laxa Type Ii Classic Type" title="Diseases related to Autosomal Recessive Cutis Laxa Type Ii Classic Type" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Autosomal Recessive Cutis Laxa Type Ii Classic Type:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('HPO_Symptoms', '58', 'HPO_Symptoms-table');">show all 58</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+delayed closure of the anterior fontanelle
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Obligate (100%)</td>
+<td>
+Obligate (100%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001476" target="_blank">HP:0001476</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+failure to thrive
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">HP:0001508</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+high palate
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000218" target="_blank">HP:0000218</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+global developmental delay
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001263" target="_blank">HP:0001263</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+hypertelorism
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000316" target="_blank">HP:0000316</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+carious teeth
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000670" target="_blank">HP:0000670</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+delayed speech and language development
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000750" target="_blank">HP:0000750</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+short nose
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003196" target="_blank">HP:0003196</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+smooth philtrum
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000319" target="_blank">HP:0000319</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+anteverted nares
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000463" target="_blank">HP:0000463</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+coarse hair
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002208" target="_blank">HP:0002208</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+short stature
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004322" target="_blank">HP:0004322</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+decreased muscle mass
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003199" target="_blank">HP:0003199</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+intrauterine growth retardation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001511" target="_blank">HP:0001511</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+postnatal growth retardation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008897" target="_blank">HP:0008897</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+low-set ears
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000369" target="_blank">HP:0000369</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+lipodystrophy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009125" target="_blank">HP:0009125</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+motor delay
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001270" target="_blank">HP:0001270</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+downslanted palpebral fissures
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000494" target="_blank">HP:0000494</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+sparse hair
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008070" target="_blank">HP:0008070</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+long philtrum
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000343" target="_blank">HP:0000343</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+malar flattening
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000272" target="_blank">HP:0000272</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+redundant skin
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001582" target="_blank">HP:0001582</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+feeding difficulties
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011968" target="_blank">HP:0011968</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+thick hair
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100874" target="_blank">HP:0100874</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+intellectual disability, profound
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002187" target="_blank">HP:0002187</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+abnormal subcutaneous fat tissue distribution
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007552" target="_blank">HP:0007552</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+cutis laxa
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000973" target="_blank">HP:0000973</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+dementia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000726" target="_blank">HP:0000726</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+broad nasal tip
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000455" target="_blank">HP:0000455</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+excessive wrinkled skin
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007392" target="_blank">HP:0007392</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+
+high myopia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011003" target="_blank">HP:0011003</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+
+redundant neck skin
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005989" target="_blank">HP:0005989</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+
+poor speech
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002465" target="_blank">HP:0002465</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+
+generalized joint laxity
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002761" target="_blank">HP:0002761</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+
+fragmented elastic fibers in the dermis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0025167" target="_blank">HP:0025167</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+
+infantile muscular hypotonia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008947" target="_blank">HP:0008947</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+
+psychomotor deterioration
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002361" target="_blank">HP:0002361</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+
+prominent veins on trunk
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007457" target="_blank">HP:0007457</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+
+progressive microcephaly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000253" target="_blank">HP:0000253</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+
+prominent nasolabial fold
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005272" target="_blank">HP:0005272</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+
+abnormal isoelectric focusing of serum transferrin
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003160" target="_blank">HP:0003160</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+
+thick cerebral cortex
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006891" target="_blank">HP:0006891</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+
+seizure
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">HP:0001250</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+
+spasticity
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001257" target="_blank">HP:0001257</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td>
+
+inguinal hernia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000023" target="_blank">HP:0000023</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td>
+
+strabismus
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000486" target="_blank">HP:0000486</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td>
+
+congenital hip dislocation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001374" target="_blank">HP:0001374</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td>
+
+dandy-walker malformation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001305" target="_blank">HP:0001305</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td>
+
+subretinal pigment epithelium hemorrhage
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0025244" target="_blank">HP:0025244</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+</div>
+<div>
+<div>
+<h3>GenomeRNAi Phenotypes related to Autosomal Recessive Cutis Laxa Type Ii Classic Type according to GeneCards Suite gene sharing:</h3>
+<sup title="GenomeRNAi">25</sup>
+</div>
+<table id="FunctionalDescription_GEN-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>GenomeRNAi Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>no effect</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00402-S-1" target="_blank">GR00402-S-1</a></td>
+<td>10.13</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=no+effect&amp;prefilter=function#function" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=no+effect&amp;prefilter=function#function" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=no+effect&amp;prefilter=function#function" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=no+effect&amp;prefilter=function#function" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=no+effect&amp;prefilter=function#function" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A&amp;keywords=no+effect&amp;prefilter=function#function" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>no effect</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00402-S-2" target="_blank">GR00402-S-2</a></td>
+<td>10.13</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=no+effect&amp;prefilter=function#function" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=no+effect&amp;prefilter=function#function" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A&amp;keywords=no+effect&amp;prefilter=function#function" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=no+effect&amp;prefilter=function#function" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN7&amp;keywords=no+effect&amp;prefilter=function#function" title="FBLN7 gene information at GeneCards" target="_blank">FBLN7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB&amp;keywords=no+effect&amp;prefilter=function#function" title="GORAB gene information at GeneCards" target="_blank">GORAB</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>MGI Mouse Phenotypes related to Autosomal Recessive Cutis Laxa Type Ii Classic Type:</h3>
+<sup title="Mouse Genome Informatics">45</sup>
+<table id="FunctionalDescription_MGI-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>MGI Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>mortality/aging</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0010768" target="_blank">MP:0010768</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>respiratory system</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005388" target="_blank">MP:0005388</a></td>
+<td>9.76</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A&amp;keywords=respiratory+system&amp;prefilter=function#function" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=respiratory+system&amp;prefilter=function#function" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=respiratory+system&amp;prefilter=function#function" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=respiratory+system&amp;prefilter=function#function" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=respiratory+system&amp;prefilter=function#function" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN7&amp;keywords=respiratory+system&amp;prefilter=function#function" title="FBLN7 gene information at GeneCards" target="_blank">FBLN7</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>integument</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0010771" target="_blank">MP:0010771</a></td>
+<td>9.28</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=integument&amp;prefilter=function#function" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=integument&amp;prefilter=function#function" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A&amp;keywords=integument&amp;prefilter=function#function" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=integument&amp;prefilter=function#function" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=integument&amp;prefilter=function#function" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=integument&amp;prefilter=function#function" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Autosomal Recessive Cutis Laxa Type Ii Classic Type" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Autosomal Recessive Cutis Laxa Type Ii Classic Type&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Autosomal Recessive Cutis Laxa Type Ii Classic Type</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Autosomal Recessive Cutis Laxa Type Ii Classic Type: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="10.17235">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="3.348257">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.7636217">Cortex</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Autosomal Recessive Cutis Laxa Type Ii Classic Type (3 elite genes):</h3>
+<span class="showmore">
+(<a id="RelatedGenes-table_SeeMore" href="javascript:showMoreTable('RelatedGenes-table','RelatedGenes-table_SeeMore', 'show all 20', 'showing 20, show less','collapsable')">show all 20</a>)
+</span>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>ATPase H+ Transporting V0 Subunit A2</td>
+<td>Protein Coding</td>
+<td>358.19</td>
+<td>
+<div>
+Causative germline mutation (loss of function)
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=17303" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000332247&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20301755" title target="_blank">20301755</a> <a href="https://pubmed.ncbi.nlm.nih.gov/19321599" title target="_blank">19321599</a> <a href="https://pubmed.ncbi.nlm.nih.gov/18157129" title target="_blank">18157129</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>ATPase H+ Transporting V1 Subunit E1</td>
+<td>Protein Coding</td>
+<td>356.54</td>
+<td>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=25318" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000253413&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28065471" title target="_blank">28065471</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>ATPase H+ Transporting V1 Subunit A</td>
+<td>Protein Coding</td>
+<td>356.49</td>
+<td>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=25319" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000273398&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28065471" title target="_blank">28065471</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GORAB" title="GORAB gene information at GeneCards" target="_blank">GORAB</a></div>
+</div>
+</td>
+<td>Golgin, RAB6 Interacting</td>
+<td>Protein Coding</td>
+<td>7.71</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000356737&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIA2" title="MIA2 gene information at GeneCards" target="_blank">MIA2</a></div>
+</div>
+</td>
+<td>MIA SH3 Domain ER Export Factor 2</td>
+<td>Protein Coding</td>
+<td>7.64</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000280082&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000379462&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a></div>
+</div>
+</td>
+<td>Pyrroline-5-Carboxylate Reductase 1</td>
+<td>Protein Coding</td>
+<td>6.98</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000384949&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a></div>
+</div>
+</td>
+<td>Aldehyde Dehydrogenase 18 Family Member A1</td>
+<td>Protein Coding</td>
+<td>6.87</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000360268&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIN2" title="RIN2 gene information at GeneCards" target="_blank">RIN2</a></div>
+</div>
+</td>
+<td>Ras And Rab Interactor 2</td>
+<td>Protein Coding</td>
+<td>6.84</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000255006&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a></div>
+</div>
+</td>
+<td>EGF Containing Fibulin Extracellular Matrix Protein 2</td>
+<td>Protein Coding</td>
+<td>6.79</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000309953&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">10</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a></div>
+</div>
+</td>
+<td>Fibulin 5</td>
+<td>Protein Coding</td>
+<td>6.51</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000345008&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_10">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">11</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a></div>
+</div>
+</td>
+<td>Latent Transforming Growth Factor Beta Binding Protein 4</td>
+<td>Protein Coding</td>
+<td>6.46</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000311905&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_11">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">12</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB6A" title="RAB6A gene information at GeneCards" target="_blank">RAB6A</a></div>
+</div>
+</td>
+<td>RAB6A, Member RAS Oncogene Family</td>
+<td>Protein Coding</td>
+<td>5.84</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000311449&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_12">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">13</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a></div>
+</div>
+</td>
+<td>ATPase H+ Transporting Accessory Protein 1</td>
+<td>Protein Coding</td>
+<td>5.38</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000358777&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_13">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">14</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PI4K2A" title="PI4K2A gene information at GeneCards" target="_blank">PI4K2A</a></div>
+</div>
+</td>
+<td>Phosphatidylinositol 4-Kinase Type 2 Alpha</td>
+<td>Protein Coding</td>
+<td>5.31</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000359665&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_14">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">15</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN7" title="FBLN7 gene information at GeneCards" target="_blank">FBLN7</a></div>
+</div>
+</td>
+<td>Fibulin 7</td>
+<td>Protein Coding</td>
+<td>5.19</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000331411&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_15">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">16</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN" title="ELN gene information at GeneCards" target="_blank">ELN</a></div>
+</div>
+</td>
+<td>Elastin</td>
+<td>Protein Coding</td>
+<td>5.18</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000351807&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_16">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">17</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a></div>
+</div>
+</td>
+<td>ATPase Copper Transporting Alpha</td>
+<td>Protein Coding</td>
+<td>4.85</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000345728&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_17">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">18</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a></div>
+</div>
+</td>
+<td>Fibulin 2</td>
+<td>Protein Coding</td>
+<td>4.84</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000384169&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_18">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">19</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a></div>
+</div>
+</td>
+<td>Fibulin 1</td>
+<td>Protein Coding</td>
+<td>4.59</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000331544&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_19">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">20</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR2" title="PYCR2 gene information at GeneCards" target="_blank">PYCR2</a></div>
+</div>
+</td>
+<td>Pyrroline-5-Carboxylate Reductase 2</td>
+<td>Protein Coding</td>
+<td>4.55</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000342502&amp;type2=-26&amp;id2=DOID:0070141" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_20">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Autosomal%20Recessive%20Cutis%20Laxa%20Type%20Ii%20Classic%20Type%22%5BMeSH%20Terms%5D%20OR%20%22Autosomal%20Recessive%20Cutis%20Laxa%20Type%20Ii%20Classic%20Type%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Autosomal Recessive Cutis Laxa Type Ii Classic Type.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Autosomal Recessive Cutis Laxa Type Ii Classic Type according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Insulin_receptor_signalling_cascade_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/insulin_receptor_signalling_cascade" target="_blank">Insulin receptor signalling cascade</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-74751" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP661" target="_blank">Glucose homeostasis</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-2428924" target="_blank">IGF1R signaling cascade</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-74713" target="_blank">IRS activation</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-112399" target="_blank">IRS-mediated signalling</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-2428928" target="_blank">IRS-related events triggered by IGF1R</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-109704" target="_blank">PI3K Cascade</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-2428933" target="_blank">SHC-related events triggered by IGF1R</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-74749" target="_blank">Signal attenuation</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-74752" target="_blank">Signaling by Insulin receptor</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-2404192" target="_blank">Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-112412" target="_blank">SOS-mediated signalling</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>12.38</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=Insulin+receptor+signalling+cascade&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=Insulin+receptor+signalling+cascade&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=Insulin+receptor+signalling+cascade&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=Insulin+receptor+signalling+cascade&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> </td>
+</tr>
+<tr id="Ion_channel_transport_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/ion_channel_transport" target="_blank">Ion channel transport</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-983712" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-2672351" target="_blank">Stimuli-sensing channels</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>12.12</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=Ion+channel+transport&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=Ion+channel+transport&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=Ion+channel+transport&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A&amp;keywords=Ion+channel+transport&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=Ion+channel+transport&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> </td>
+</tr>
+<tr id="Extracellular_matrix_organization_3">
+<td>3</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/extracellular_matrix_organization" target="_blank">Extracellular matrix organization</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-1474244" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-1474228" target="_blank">Degradation of the extracellular matrix</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>12.08</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=Extracellular+matrix+organization&amp;prefilter=pathways_interactions#pathways_interactions" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=Extracellular+matrix+organization&amp;prefilter=pathways_interactions#pathways_interactions" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=Extracellular+matrix+organization&amp;prefilter=pathways_interactions#pathways_interactions" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=Extracellular+matrix+organization&amp;prefilter=pathways_interactions#pathways_interactions" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=Extracellular+matrix+organization&amp;prefilter=pathways_interactions#pathways_interactions" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=Extracellular+matrix+organization&amp;prefilter=pathways_interactions#pathways_interactions" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> </td>
+</tr>
+<tr id="Insulin_receptor_recycling_4">
+<td>4</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/insulin_receptor_recycling" target="_blank">Insulin receptor recycling</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-77387" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-7980#section=Diagram" target="_blank">ATP biosynthesis</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-8941413" target="_blank">Events associated with phagocytolytic activity of PMN cells</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-917937" target="_blank">Iron uptake and transport</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-6400#section=Diagram" target="_blank">melatonin degradation III</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-1222556" target="_blank">ROS and RNS production in phagocytes</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-917977" target="_blank">Transferrin endocytosis and recycling</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>11.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=Insulin+receptor+recycling&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=Insulin+receptor+recycling&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=Insulin+receptor+recycling&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=Insulin+receptor+recycling&amp;prefilter=pathways_interactions#pathways_interactions" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> </td>
+</tr>
+<tr id="7q11.23_copy_number_variation_syndrome_5">
+<td>5</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/7q1123_copy_number_variation_syndrome" target="_blank">7q11.23 copy number variation syndrome</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP4932" target="_blank">74</a></sup>
+</div>
+</td>
+<td>11.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=7q11.23+copy+number+variation+syndrome&amp;prefilter=pathways_interactions#pathways_interactions" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=7q11.23+copy+number+variation+syndrome&amp;prefilter=pathways_interactions#pathways_interactions" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=7q11.23+copy+number+variation+syndrome&amp;prefilter=pathways_interactions#pathways_interactions" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> </td>
+</tr>
+<tr id="Cell_adhesion_Cell-matrix_glycoconjugates_6">
+<td>6</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/cell_adhesion_cell-matrix_glycoconjugates" target="_blank">Cell adhesion_Cell-matrix glycoconjugates</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+</td>
+<td>11.09</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=Cell+adhesion_Cell-matrix+glycoconjugates&amp;prefilter=pathways_interactions#pathways_interactions" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=Cell+adhesion_Cell-matrix+glycoconjugates&amp;prefilter=pathways_interactions#pathways_interactions" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=Cell+adhesion_Cell-matrix+glycoconjugates&amp;prefilter=pathways_interactions#pathways_interactions" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> </td>
+</tr>
+<tr id="Elastic_fibre_formation_7">
+<td>7</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/elastic_fibre_formation" target="_blank">Elastic fibre formation</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-1566948" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-2129379" target="_blank">Molecules associated with elastic fibres</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>11.01</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=Elastic+fibre+formation&amp;prefilter=pathways_interactions#pathways_interactions" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=Elastic+fibre+formation&amp;prefilter=pathways_interactions#pathways_interactions" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=Elastic+fibre+formation&amp;prefilter=pathways_interactions#pathways_interactions" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=Elastic+fibre+formation&amp;prefilter=pathways_interactions#pathways_interactions" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=Elastic+fibre+formation&amp;prefilter=pathways_interactions#pathways_interactions" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=Elastic+fibre+formation&amp;prefilter=pathways_interactions#pathways_interactions" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> </td>
+</tr>
+<tr id="Glutamate_and_glutamine_metabolism_8">
+<td>8</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/glutamate_and_glutamine_metabolism" target="_blank">Glutamate and glutamine metabolism</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-8964539" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-5505#section=Diagram" target="_blank">L-glutamate and L-glutamine biosynthesis</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:ARGININE-SYN4-PWY#section=Diagram" target="_blank">L-ornithine biosynthesis II</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PROSYN-PWY#section=Diagram" target="_blank">L-proline biosynthesis I</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/HUMANCYC:ARGININE-SYN4-PWY#section=Diagram" target="_blank">ornithine de novo biosynthesis</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/HUMANCYC:PROSYN-PWY#section=Diagram" target="_blank">proline biosynthesis</a>
+<sup title="PubChem">61</sup>
+</div>
+</div>
+</td>
+<td>10.79</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=Glutamate+and+glutamine+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=Glutamate+and+glutamine+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR2&amp;keywords=Glutamate+and+glutamine+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="PYCR2 gene information at GeneCards" target="_blank">PYCR2</a> </td>
+</tr>
+<tr id="Metabolic_pathways_of_fibroblasts_9">
+<td>9</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/metabolic_pathways_of_fibroblasts" target="_blank">Metabolic pathways of fibroblasts</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP5312" target="_blank">74</a></sup>
+</div>
+</td>
+<td>10.66</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=Metabolic+pathways+of+fibroblasts&amp;prefilter=pathways_interactions#pathways_interactions" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=Metabolic+pathways+of+fibroblasts&amp;prefilter=pathways_interactions#pathways_interactions" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Cellular components related to Autosomal Recessive Cutis Laxa Type Ii Classic Type according to GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="go_cc-table_SeeMore" href="javascript:showMoreTable('go_cc-table','go_cc-table_SeeMore', 'show all 11', 'showing 11, show less','collapsable')">show all 11</a>)
+</span>
+<table id="go_cc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>collagen-containing extracellular matrix</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0062023" target="_blank">GO:0062023</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=collagen-containing+extracellular+matrix&amp;prefilter=go_cc#go_cc" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=collagen-containing+extracellular+matrix&amp;prefilter=go_cc#go_cc" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=collagen-containing+extracellular+matrix&amp;prefilter=go_cc#go_cc" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=collagen-containing+extracellular+matrix&amp;prefilter=go_cc#go_cc" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=collagen-containing+extracellular+matrix&amp;prefilter=go_cc#go_cc" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=collagen-containing+extracellular+matrix&amp;prefilter=go_cc#go_cc" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>microvillus</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005902" target="_blank">GO:0005902</a></td>
+<td>9.88</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A&amp;keywords=microvillus&amp;prefilter=go_cc#go_cc" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=microvillus&amp;prefilter=go_cc#go_cc" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=microvillus&amp;prefilter=go_cc#go_cc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>clathrin-coated vesicle membrane</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0030665" target="_blank">GO:0030665</a></td>
+<td>9.85</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=clathrin-coated+vesicle+membrane&amp;prefilter=go_cc#go_cc" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=clathrin-coated+vesicle+membrane&amp;prefilter=go_cc#go_cc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=clathrin-coated+vesicle+membrane&amp;prefilter=go_cc#go_cc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>extracellular matrix</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031012" target="_blank">GO:0031012</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=extracellular+matrix&amp;prefilter=go_cc#go_cc" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN7&amp;keywords=extracellular+matrix&amp;prefilter=go_cc#go_cc" title="FBLN7 gene information at GeneCards" target="_blank">FBLN7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=extracellular+matrix&amp;prefilter=go_cc#go_cc" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=extracellular+matrix&amp;prefilter=go_cc#go_cc" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=extracellular+matrix&amp;prefilter=go_cc#go_cc" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=extracellular+matrix&amp;prefilter=go_cc#go_cc" title="ELN gene information at GeneCards" target="_blank">ELN</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>transmembrane transporter complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:1902495" target="_blank">GO:1902495</a></td>
+<td>9.78</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=transmembrane+transporter+complex&amp;prefilter=go_cc#go_cc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=transmembrane+transporter+complex&amp;prefilter=go_cc#go_cc" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>microfibril</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0001527" target="_blank">GO:0001527</a></td>
+<td>9.76</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=microfibril&amp;prefilter=go_cc#go_cc" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=microfibril&amp;prefilter=go_cc#go_cc" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>vacuolar proton-transporting V-type ATPase, V1 domain</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0000221" target="_blank">GO:0000221</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=vacuolar+proton-transporting+V-type+ATPase%2c+V1+domain&amp;prefilter=go_cc#go_cc" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=vacuolar+proton-transporting+V-type+ATPase%2c+V1+domain&amp;prefilter=go_cc#go_cc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>proton-transporting V-type ATPase complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0033176" target="_blank">GO:0033176</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=proton-transporting+V-type+ATPase+complex&amp;prefilter=go_cc#go_cc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=proton-transporting+V-type+ATPase+complex&amp;prefilter=go_cc#go_cc" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=proton-transporting+V-type+ATPase+complex&amp;prefilter=go_cc#go_cc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td>proton-transporting two-sector ATPase complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0016469" target="_blank">GO:0016469</a></td>
+<td>9.63</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=proton-transporting+two-sector+ATPase+complex&amp;prefilter=go_cc#go_cc" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=proton-transporting+two-sector+ATPase+complex&amp;prefilter=go_cc#go_cc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=proton-transporting+two-sector+ATPase+complex&amp;prefilter=go_cc#go_cc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td>ATPase complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:1904949" target="_blank">GO:1904949</a></td>
+<td>9.49</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=ATPase+complex&amp;prefilter=go_cc#go_cc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=ATPase+complex&amp;prefilter=go_cc#go_cc" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>elastic fiber</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0071953" target="_blank">GO:0071953</a></td>
+<td>9.23</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=elastic+fiber&amp;prefilter=go_cc#go_cc" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=elastic+fiber&amp;prefilter=go_cc#go_cc" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=elastic+fiber&amp;prefilter=go_cc#go_cc" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=elastic+fiber&amp;prefilter=go_cc#go_cc" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Biological processes related to Autosomal Recessive Cutis Laxa Type Ii Classic Type according to GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="go_proc-table_SeeMore" href="javascript:showMoreTable('go_proc-table','go_proc-table_SeeMore', 'show all 15', 'showing 15, show less','collapsable')">show all 15</a>)
+</span>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>proton transmembrane transport</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:1902600" target="_blank">GO:1902600</a></td>
+<td>10.06</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=proton+transmembrane+transport&amp;prefilter=go_proc#go_proc" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=proton+transmembrane+transport&amp;prefilter=go_proc#go_proc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=proton+transmembrane+transport&amp;prefilter=go_proc#go_proc" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=proton+transmembrane+transport&amp;prefilter=go_proc#go_proc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>intracellular iron ion homeostasis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006879" target="_blank">GO:0006879</a></td>
+<td>9.99</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=intracellular+iron+ion+homeostasis&amp;prefilter=go_proc#go_proc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=intracellular+iron+ion+homeostasis&amp;prefilter=go_proc#go_proc" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=intracellular+iron+ion+homeostasis&amp;prefilter=go_proc#go_proc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>extracellular matrix organization</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0030198" target="_blank">GO:0030198</a></td>
+<td>9.97</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A&amp;keywords=extracellular+matrix+organization&amp;prefilter=go_proc#go_proc" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=extracellular+matrix+organization&amp;prefilter=go_proc#go_proc" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=extracellular+matrix+organization&amp;prefilter=go_proc#go_proc" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=extracellular+matrix+organization&amp;prefilter=go_proc#go_proc" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>regulation of macroautophagy</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0016241" target="_blank">GO:0016241</a></td>
+<td>9.95</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=regulation+of+macroautophagy&amp;prefilter=go_proc#go_proc" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=regulation+of+macroautophagy&amp;prefilter=go_proc#go_proc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=regulation+of+macroautophagy&amp;prefilter=go_proc#go_proc" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>monoatomic ion transport</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006811" target="_blank">GO:0006811</a></td>
+<td>9.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A&amp;keywords=monoatomic+ion+transport&amp;prefilter=go_proc#go_proc" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=monoatomic+ion+transport&amp;prefilter=go_proc#go_proc" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=monoatomic+ion+transport&amp;prefilter=go_proc#go_proc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=monoatomic+ion+transport&amp;prefilter=go_proc#go_proc" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=monoatomic+ion+transport&amp;prefilter=go_proc#go_proc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>vacuolar acidification</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0007035" target="_blank">GO:0007035</a></td>
+<td>9.91</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=vacuolar+acidification&amp;prefilter=go_proc#go_proc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=vacuolar+acidification&amp;prefilter=go_proc#go_proc" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=vacuolar+acidification&amp;prefilter=go_proc#go_proc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>synaptic vesicle lumen acidification</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0097401" target="_blank">GO:0097401</a></td>
+<td>9.88</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=synaptic+vesicle+lumen+acidification&amp;prefilter=go_proc#go_proc" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=synaptic+vesicle+lumen+acidification&amp;prefilter=go_proc#go_proc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=synaptic+vesicle+lumen+acidification&amp;prefilter=go_proc#go_proc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>intracellular pH reduction</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0051452" target="_blank">GO:0051452</a></td>
+<td>9.85</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=intracellular+pH+reduction&amp;prefilter=go_proc#go_proc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=intracellular+pH+reduction&amp;prefilter=go_proc#go_proc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td>endosomal lumen acidification</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0048388" target="_blank">GO:0048388</a></td>
+<td>9.84</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=endosomal+lumen+acidification&amp;prefilter=go_proc#go_proc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=endosomal+lumen+acidification&amp;prefilter=go_proc#go_proc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td>Golgi lumen acidification</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0061795" target="_blank">GO:0061795</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=Golgi+lumen+acidification&amp;prefilter=go_proc#go_proc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=Golgi+lumen+acidification&amp;prefilter=go_proc#go_proc" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=Golgi+lumen+acidification&amp;prefilter=go_proc#go_proc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>cellular response to increased oxygen levels</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0036295" target="_blank">GO:0036295</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6AP1&amp;keywords=cellular+response+to+increased+oxygen+levels&amp;prefilter=go_proc#go_proc" title="ATP6AP1 gene information at GeneCards" target="_blank">ATP6AP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=cellular+response+to+increased+oxygen+levels&amp;prefilter=go_proc#go_proc" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=cellular+response+to+increased+oxygen+levels&amp;prefilter=go_proc#go_proc" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>L-proline biosynthetic process</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0055129" target="_blank">GO:0055129</a></td>
+<td>9.63</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR2&amp;keywords=L-proline+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="PYCR2 gene information at GeneCards" target="_blank">PYCR2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=L-proline+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=L-proline+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>amino acid biosynthetic process</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0008652" target="_blank">GO:0008652</a></td>
+<td>9.54</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR2&amp;keywords=amino+acid+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="PYCR2 gene information at GeneCards" target="_blank">PYCR2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=amino+acid+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=amino+acid+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>proline biosynthetic process</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006561" target="_blank">GO:0006561</a></td>
+<td>9.43</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR2&amp;keywords=proline+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="PYCR2 gene information at GeneCards" target="_blank">PYCR2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=proline+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH18A1&amp;keywords=proline+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="ALDH18A1 gene information at GeneCards" target="_blank">ALDH18A1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>elastic fiber assembly</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0048251" target="_blank">GO:0048251</a></td>
+<td>9.17</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=elastic+fiber+assembly&amp;prefilter=go_proc#go_proc" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=elastic+fiber+assembly&amp;prefilter=go_proc#go_proc" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=elastic+fiber+assembly&amp;prefilter=go_proc#go_proc" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP7A&amp;keywords=elastic+fiber+assembly&amp;prefilter=go_proc#go_proc" title="ATP7A gene information at GeneCards" target="_blank">ATP7A</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Autosomal Recessive Cutis Laxa Type Ii Classic Type according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>extracellular matrix structural constituent</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005201" target="_blank">GO:0005201</a></td>
+<td>9.65</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LTBP4&amp;keywords=extracellular+matrix+structural+constituent&amp;prefilter=go_func#go_func" title="LTBP4 gene information at GeneCards" target="_blank">LTBP4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=extracellular+matrix+structural+constituent&amp;prefilter=go_func#go_func" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN1&amp;keywords=extracellular+matrix+structural+constituent&amp;prefilter=go_func#go_func" title="FBLN1 gene information at GeneCards" target="_blank">FBLN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=extracellular+matrix+structural+constituent&amp;prefilter=go_func#go_func" title="ELN gene information at GeneCards" target="_blank">ELN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFEMP2&amp;keywords=extracellular+matrix+structural+constituent&amp;prefilter=go_func#go_func" title="EFEMP2 gene information at GeneCards" target="_blank">EFEMP2</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>proton-transporting ATPase activity, rotational mechanism</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0046961" target="_blank">GO:0046961</a></td>
+<td>9.63</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1E1&amp;keywords=proton-transporting+ATPase+activity%2c+rotational+mechanism&amp;prefilter=go_func#go_func" title="ATP6V1E1 gene information at GeneCards" target="_blank">ATP6V1E1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V1A&amp;keywords=proton-transporting+ATPase+activity%2c+rotational+mechanism&amp;prefilter=go_func#go_func" title="ATP6V1A gene information at GeneCards" target="_blank">ATP6V1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ATP6V0A2&amp;keywords=proton-transporting+ATPase+activity%2c+rotational+mechanism&amp;prefilter=go_func#go_func" title="ATP6V0A2 gene information at GeneCards" target="_blank">ATP6V0A2</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>pyrroline-5-carboxylate reductase activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0004735" target="_blank">GO:0004735</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR2&amp;keywords=pyrroline-5-carboxylate+reductase+activity&amp;prefilter=go_func#go_func" title="PYCR2 gene information at GeneCards" target="_blank">PYCR2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PYCR1&amp;keywords=pyrroline-5-carboxylate+reductase+activity&amp;prefilter=go_func#go_func" title="PYCR1 gene information at GeneCards" target="_blank">PYCR1</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>extracellular matrix constituent conferring elasticity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0030023" target="_blank">GO:0030023</a></td>
+<td>9.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN5&amp;keywords=extracellular+matrix+constituent+conferring+elasticity&amp;prefilter=go_func#go_func" title="FBLN5 gene information at GeneCards" target="_blank">FBLN5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FBLN2&amp;keywords=extracellular+matrix+constituent+conferring+elasticity&amp;prefilter=go_func#go_func" title="FBLN2 gene information at GeneCards" target="_blank">FBLN2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ELN&amp;keywords=extracellular+matrix+constituent+conferring+elasticity&amp;prefilter=go_func#go_func" title="ELN gene information at GeneCards" target="_blank">ELN</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Autosomal Recessive Cutis Laxa Type Ii Classic Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#1f6c6a6f6f706d6b5f7376797a727e6f6c7c317c7072">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ed1ed0bb09d58',t:'MTY5NTI2MjczMi41MDEwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

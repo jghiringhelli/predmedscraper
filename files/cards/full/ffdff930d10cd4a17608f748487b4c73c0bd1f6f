@@ -1,0 +1,3041 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Lymphatic Malformation 6 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/lymphatic_malformation_6" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'lymphatic_malformation_6';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+LMPHM6 <div class="symbol">MCID: LYM149</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 34
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Lymphatic Malformation 6</span>
+(<span itemprop="alternateName">LMPHM6</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Cancer diseases, Cardiovascular diseases, Fetal diseases, Gastrointestinal diseases, Genetic diseases, Immune diseases, Neuronal diseases, Rare diseases, Reproductive diseases, Respiratory diseases, Skin diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#6b180a070e182b07020d0e060a1b180845080406" target="_blank"><span class="__cf_email__" data-cfemail="6f1c0e030a1c2f0306090a020e1f1c0c410c0002">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="3 Genes associated with Lymphatic Malformation 6">Genes</a>
+<a href="#genetic_variations" title="89 Variations associated with Lymphatic Malformation 6">Variations</a>
+<a href="#anatomical_context" title="2 Tissues associated with Lymphatic Malformation 6">Tissues</a>
+<a href="#disorders" title="6 Related diseases associated with Lymphatic Malformation 6">Related diseases</a>
+<a href="#publications" title="7 Publications associated with Lymphatic Malformation 6">Publications</a>
+<a href="#clinical_features" title="54 Symptoms &amp; Phenotypes associated with Lymphatic Malformation 6">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/lymphatic_malformation_6?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Lymphatic Malformation 6:</h3>
+<div class="main-name">
+Name: <b>Lymphatic Malformation 6</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616843" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04669" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4225184" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/06293" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Generalized Lymphatic Dysplasia of Fotiou
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616843" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04669" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Lymphedema, Hereditary, Iii
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04669" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Experimental Factor Ontology"> <a href="https://www.ebi.ac.uk/efo/EFO_0009153" title="Experimental Factor Ontology" target="_blank">16</a></sup>
+</div>
+<div>
+Lmphm6
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616843" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04669" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Lymphedema, Hereditary, Iii, Formerly
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616843" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Lymphedema, Hereditary, 3
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04669" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Lmph3, Formerly
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616843" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Lmph3
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04669" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/616843" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/616843" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>variable phenotype</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/cancer_disease_list" target="_blank">Cancer diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/gastrointestinal_disease_list" target="_blank">Gastrointestinal diseases</a> <a href="https://www.malacards.org/categories/respiratory_disease_list" target="_blank">Respiratory diseases</a> <a href="https://www.malacards.org/categories/immune_disease_list" target="_blank">Immune diseases</a> <a href="https://www.malacards.org/categories/cardiovascular_disease_list" target="_blank">Cardiovascular diseases</a> <a href="https://www.malacards.org/categories/reproductive_disease_list" target="_blank">Reproductive diseases</a> <a href="https://www.malacards.org/categories/skin_disease_list" target="_blank">Skin diseases</a> <a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616843" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/616843" target="_blank">616843</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS153100" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS153100" target="_blank">PS153100</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D008209" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D008209" target="_blank">D008209</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_4">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C4225184" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C4225184" target="_blank">C4225184</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/CN235387" target="_blank">CN235387</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/103276001" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/103276001" target="_blank">103276001</a> <a href="http://www.snomedbrowser.com/Codes/Details/109245003" target="_blank">109245003</a> <a href="http://www.snomedbrowser.com/Codes/Details/111266001" target="_blank">111266001</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/11731003" target="_blank">11731003</a> <a href="http://www.snomedbrowser.com/Codes/Details/128045006" target="_blank">128045006</a> <a href="http://www.snomedbrowser.com/Codes/Details/128053003" target="_blank">128053003</a> <a href="http://www.snomedbrowser.com/Codes/Details/128060009" target="_blank">128060009</a> <a href="http://www.snomedbrowser.com/Codes/Details/12856003" target="_blank">12856003</a> <a href="http://www.snomedbrowser.com/Codes/Details/128936008" target="_blank">128936008</a> <a href="http://www.snomedbrowser.com/Codes/Details/15188001" target="_blank">15188001</a> <a href="http://www.snomedbrowser.com/Codes/Details/16294009" target="_blank">16294009</a> <a href="http://www.snomedbrowser.com/Codes/Details/16331000" target="_blank">16331000</a> <a href="http://www.snomedbrowser.com/Codes/Details/197260007" target="_blank">197260007</a> <a href="http://www.snomedbrowser.com/Codes/Details/206538000" target="_blank">206538000</a> <a href="http://www.snomedbrowser.com/Codes/Details/20741006" target="_blank">20741006</a> <a href="http://www.snomedbrowser.com/Codes/Details/224958001" target="_blank">224958001</a> <a href="http://www.snomedbrowser.com/Codes/Details/234097001" target="_blank">234097001</a> <a href="http://www.snomedbrowser.com/Codes/Details/235595009" target="_blank">235595009</a> <a href="http://www.snomedbrowser.com/Codes/Details/237836003" target="_blank">237836003</a> <a href="http://www.snomedbrowser.com/Codes/Details/253255002" target="_blank">253255002</a> <a href="http://www.snomedbrowser.com/Codes/Details/253366007" target="_blank">253366007</a> <a href="http://www.snomedbrowser.com/Codes/Details/26614003" target="_blank">26614003</a> <a href="http://www.snomedbrowser.com/Codes/Details/267038008" target="_blank">267038008</a> <a href="http://www.snomedbrowser.com/Codes/Details/267041004" target="_blank">267041004</a> <a href="http://www.snomedbrowser.com/Codes/Details/271808008" target="_blank">271808008</a> <a href="http://www.snomedbrowser.com/Codes/Details/276509008" target="_blank">276509008</a> <a href="http://www.snomedbrowser.com/Codes/Details/30213001" target="_blank">30213001</a> <a href="http://www.snomedbrowser.com/Codes/Details/32958008" target="_blank">32958008</a> <a href="http://www.snomedbrowser.com/Codes/Details/343087000" target="_blank">343087000</a> <a href="http://www.snomedbrowser.com/Codes/Details/385627004" target="_blank">385627004</a> <a href="http://www.snomedbrowser.com/Codes/Details/386152007" target="_blank">386152007</a> <a href="http://www.snomedbrowser.com/Codes/Details/389026000" target="_blank">389026000</a> <a href="http://www.snomedbrowser.com/Codes/Details/391987005" target="_blank">391987005</a> <a href="http://www.snomedbrowser.com/Codes/Details/399989005" target="_blank">399989005</a> <a href="http://www.snomedbrowser.com/Codes/Details/405752007" target="_blank">405752007</a> <a href="http://www.snomedbrowser.com/Codes/Details/40930008" target="_blank">40930008</a> <a href="http://www.snomedbrowser.com/Codes/Details/423666004" target="_blank">423666004</a> <a href="http://www.snomedbrowser.com/Codes/Details/445088006" target="_blank">445088006</a> <a href="http://www.snomedbrowser.com/Codes/Details/49563000" target="_blank">49563000</a> <a href="http://www.snomedbrowser.com/Codes/Details/5187006" target="_blank">5187006</a> <a href="http://www.snomedbrowser.com/Codes/Details/55434001" target="_blank">55434001</a> <a href="http://www.snomedbrowser.com/Codes/Details/60046008" target="_blank">60046008</a> <a href="http://www.snomedbrowser.com/Codes/Details/64217002" target="_blank">64217002</a> <a href="http://www.snomedbrowser.com/Codes/Details/698065002" target="_blank">698065002</a> <a href="http://www.snomedbrowser.com/Codes/Details/70142008" target="_blank">70142008</a> <a href="http://www.snomedbrowser.com/Codes/Details/79654002" target="_blank">79654002</a> <a href="http://www.snomedbrowser.com/Codes/Details/83035003" target="_blank">83035003</a> <a href="http://www.snomedbrowser.com/Codes/Details/86203003" target="_blank">86203003</a> <a href="http://www.snomedbrowser.com/Codes/Details/95828007" target="_blank">95828007</a> </span>
+<span class="showmore">
+<a title="show all 49" id="ExternalId_showmore_5" href="javascript:showMoreTable('ExternalId_item_5','ExternalId_showmore_5','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_6">
+<b title="Experimental Factor Ontology">EFO</b>
+<sup title="Experimental Factor Ontology"> <a href="https://www.ebi.ac.uk/efo/EFO_0009153" target="_blank">16</a></sup>
+<a href="https://www.ebi.ac.uk/efo/EFO_0009153" target="_blank">EFO_0009153</a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://omim.org/entry/616843#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616843#description" target="_blank">57</a></sup>
+Lymphatic malformation-6 is a form of generalized lymphatic dysplasia (GLD), which is characterized by a uniform, widespread lymphedema affecting all segments of the body, with systemic involvement such as intestinal and/or pulmonary lymphangiectasia, pleural effusions, chylothoraces and/or pericardial effusions. In LMPHM6, there is a high incidence of nonimmune hydrops fetalis (NIHF) with either death or complete resolution of the neonatal edema, but childhood onset of lymphedema with or without systemic involvement also occurs. Mild facial edema is often present. Patients have normal intelligence and no seizures (summary by Fotiou et al., 2015).
+For a discussion of genetic heterogeneity of lymphatic malformation, see 153100. <span> (616843) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Lymphatic Malformation 6, also known as <i>generalized lymphatic dysplasia of fotiou</i>, is related to <i><a href="/card/hydrops_fetalis" target="_blank">hydrops fetalis</a></i> and <i><a href="/card/piezo1_related_generalized_lymphatic_dysplasia_with_non_immune_hydrops_fetalis" target="_blank">piezo1-related generalized lymphatic dysplasia with non-immune hydrops fetalis</a></i>. An important gene associated with Lymphatic Malformation 6 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" target="_blank">PIEZO1</a> (Piezo Type Mechanosensitive Ion Channel Component 1). Affiliated tissues include <i>testis</i> and <i>skin</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0001744" target="_blank">splenomegaly</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0100658" target="_blank">cellulitis</a></i></p>
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-04669" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04669" target="_blank">73</a></sup>
+A form of primary lymphedema, a disease characterized by swelling of body parts due to developmental anomalies and functional defects of the lymphatic system. Patients with lymphedema may suffer from recurrent local infections. LMPHM6 is an autosomal recessive, severe form manifesting as generalized lymphatic dysplasia. It is characterized by uniform, widespread swelling of all segments of the body, with systemic involvement such as intestinal and/or pulmonary lymphangiectasia, pleural effusions, chylothoraces and/or pericardial effusions, and with a high incidence of non- immune hydrops fetalis.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases in the <a href="/card/lymphatic_malformation_5" target="_blank">Lymphatic Malformation 5</a> family:</h3>
+<table class="family borderless">
+<tr>
+<td>
+<a href="/card/lymphatic_malformation_1" target="_blank">Lymphatic Malformation 1</a> </td>
+<td>
+<a href="/card/lymphatic_malformation_2" target="_blank">Lymphatic Malformation 2</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/lymphatic_malformation_3" target="_blank">Lymphatic Malformation 3</a> </td>
+<td>
+<a href="/card/lymphatic_malformation_4" target="_blank">Lymphatic Malformation 4</a> </td>
+</tr>
+<tr>
+<td>
+<b>Lymphatic Malformation 6</b>
+</td>
+<td>
+<a href="/card/lymphatic_malformation_7" target="_blank">Lymphatic Malformation 7</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/lymphatic_malformation_8" target="_blank">Lymphatic Malformation 8</a> </td>
+<td>
+<a href="/card/lymphatic_malformation_9" target="_blank">Lymphatic Malformation 9</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/lymphatic_malformation_10" target="_blank">Lymphatic Malformation 10</a> </td>
+<td>
+<a href="/card/lymphatic_malformation_11" target="_blank">Lymphatic Malformation 11</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/lymphatic_malformation_12" target="_blank">Lymphatic Malformation 12</a> </td>
+<td>
+<a href="/card/lymphatic_malformation_13" target="_blank">Lymphatic Malformation 13</a> </td>
+</tr>
+</table>
+<br/>
+<h3>Diseases related to Lymphatic Malformation 6 via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/hydrops_fetalis" target="_blank">hydrops fetalis</a></td>
+<td>29.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1&amp;keywords=hydrops+fetalis&amp;prefilter=diseases#diseases" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580&amp;keywords=hydrops+fetalis&amp;prefilter=diseases#diseases" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/piezo1_related_generalized_lymphatic_dysplasia_with_non_immune_hydrops_fetalis" target="_blank">piezo1-related generalized lymphatic dysplasia with non-immune hydrops fetalis</a></td>
+<td>11.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=piezo1-related+generalized+lymphatic+dysplasia+with+non-immune+hydrops+fetalis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/lymphatic_malformation_1" target="_blank">lymphatic malformation 1</a></td>
+<td>11.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lymphatic+malformation+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/hereditary_lymphedema_i" target="_blank">hereditary lymphedema i</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hereditary+lymphedema+i&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/lymphangiectasis" target="_blank">lymphangiectasis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lymphangiectasis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/dehydrated_hereditary_stomatocytosis_1_with_or_without_pseudohyperkalemia_and_or_perinatal_edema" target="_blank">dehydrated hereditary stomatocytosis 1 with or without pseudohyperkalemia and/or perinatal edema</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1&amp;keywords=dehydrated+hereditary+stomatocytosis+1+with+or+without+pseudohyperkalemia+and%2for+perinatal+edema&amp;prefilter=diseases#diseases" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580&amp;keywords=dehydrated+hereditary+stomatocytosis+1+with+or+without+pseudohyperkalemia+and%2for+perinatal+edema&amp;prefilter=diseases#diseases" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Lymphatic Malformation 6:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/lymphatic_malformation_6_related_diseases.jpg" width="100%" alt="Diseases related to Lymphatic Malformation 6" title="Diseases related to Lymphatic Malformation 6" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Lymphatic Malformation 6:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 31', 'showing 31, show less','collapsable')">show all 31</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+splenomegaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.55%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001744" target="_blank">HP:0001744</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+cellulitis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.4%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100658" target="_blank">HP:0100658</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+epicanthus
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.3%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000286" target="_blank">HP:0000286</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+chylothorax
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.2%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010310" target="_blank">HP:0010310</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+short stature
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004322" target="_blank">HP:0004322</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+micrognathia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000347" target="_blank">HP:0000347</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+atrial septal defect
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001631" target="_blank">HP:0001631</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+pleural effusion
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002202" target="_blank">HP:0002202</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+deep venous thrombosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002625" target="_blank">HP:0002625</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+intestinal lymphangiectasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002593" target="_blank">HP:0002593</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+prune belly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004392" target="_blank">HP:0004392</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+scoliosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002650" target="_blank">HP:0002650</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+hypothyroidism
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000821" target="_blank">HP:0000821</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+hearing impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000365" target="_blank">HP:0000365</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+global developmental delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001263" target="_blank">HP:0001263</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+gastroesophageal reflux
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002020" target="_blank">HP:0002020</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+lymphedema
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001004" target="_blank">HP:0001004</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+ascites
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001541" target="_blank">HP:0001541</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+webbed neck
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000465" target="_blank">HP:0000465</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+pectus excavatum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000767" target="_blank">HP:0000767</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+polyhydramnios
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001561" target="_blank">HP:0001561</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+varicose veins
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002619" target="_blank">HP:0002619</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+periorbital edema
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100539" target="_blank">HP:0100539</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+cupped ear
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000378" target="_blank">HP:0000378</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+edema
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000969" target="_blank">HP:0000969</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+facial edema
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000282" target="_blank">HP:0000282</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+hydrocele testis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000034" target="_blank">HP:0000034</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+generalized edema
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007430" target="_blank">HP:0007430</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+nonimmune hydrops fetalis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001790" target="_blank">HP:0001790</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+genital edema
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0031188" target="_blank">HP:0031188</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+abnormal pinna morphology
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000377" target="_blank">HP:0000377</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/616843" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Skeletal Spine:</u><br/>
+<span>scoliosis</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Abdomen Spleen:</u><br/>
+<span>splenomegaly</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Abdomen Gastrointestinal:</u><br/>
+<span>gastroesophageal reflux</span>
+<br/>
+<span>intestinal lymphangiectasia</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Head And Neck Face:</u><br/>
+<span>micrognathia</span>
+<br/>
+<span>facial swelling</span>
+<br/>
+<span>recurrent facial cellulitis</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Chest Ribs Sternum Clavicles And Scapulae:</u><br/>
+<span>pectus excavatum</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Prenatal Manifestations Amniotic Fluid:</u><br/>
+<span>polyhydramnios</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>periorbital edema</span>
+<br/>
+<span>epicanthic folds</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Genitourinary External Genitalia Male:</u><br/>
+<span>genital edema</span>
+<br/>
+<span>hydrocele</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>simple ears</span>
+<br/>
+<span>cupped ears</span>
+<br/>
+<span>deafness, bilateral sensorineural (uncommon)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Prenatal Manifestations:</u><br/>
+<span>hydrops fetalis, nonimmune</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_11" class="tab">
+<u>Skin Nails Hair Skin:</u><br/>
+<span>granuloma annulare</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_12" class="tab">
+<u>Immunology:</u><br/>
+<span>normal immune profile</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_13" class="tab">
+<u>Endocrine Features:</u><br/>
+<span>hypothyroidism</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_14" class="tab">
+<u>Growth Height:</u><br/>
+<span>short stature</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_15" class="tab">
+<u>Abdomen External Features:</u><br/>
+<span>ascites</span>
+<br/>
+<span>prune belly</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_16" class="tab">
+<u>Head And Neck Neck:</u><br/>
+<span>webbed neck</span>
+<br/>
+<span>swelling of the neck</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_17" class="tab">
+<u>Cardiovascular Heart:</u><br/>
+<span>atrial septal defect</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_18" class="tab">
+<u>Cardiovascular Vascular:</u><br/>
+<span>varicose veins</span>
+<br/>
+<span>generalized edema</span>
+<br/>
+<span>deep vein thrombosis</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_19" class="tab">
+<u>Respiratory:</u><br/>
+<span>chylothorax</span>
+<br/>
+<span>pleural effusions, bilateral</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_20" class="tab">
+<u>Genitourinary External Genitalia Female:</u><br/>
+<span>genital edema</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_21" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>developmental delay, mild</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_22" class="tab">
+<u>Chest Diaphragm:</u><br/>
+<span>amyoplasia of diaphragm</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_23" class="tab">
+<u>Muscle Soft Tissue:</u><br/>
+<span>lymphedema (primarily in lower limbs, but also arms in some patients)</span>
+<br/>
+<span>cellulitis in lower limbs, recurrent</span>
+<br/>
+<span>deep rerouting of lymph in lower limbs seen on lymphoscintigraphy</span>
+<br/>
+<span>superficial rerouting of lymph through the skin</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/616843#clinicalFeatures" target="_blank">616843</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div>
+<div>
+<h3>GenomeRNAi Phenotypes related to Lymphatic Malformation 6 according to GeneCards Suite gene sharing:</h3>
+<sup title="GenomeRNAi">25</sup>
+</div>
+<table id="FunctionalDescription_GEN-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>GenomeRNAi Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Weakly decreased NFAT1-GFP nuclear translocation</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00359-A" target="_blank">GR00359-A</a></td>
+<td>8.32</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1&amp;keywords=Weakly+decreased+NFAT1-GFP+nuclear+translocation&amp;prefilter=function#function" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Lymphatic Malformation 6" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Lymphatic Malformation 6&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Lymphatic Malformation 6</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Lymphatic Malformation 6:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Lymphatic Malformation 6
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4225184" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1&amp;keywords=lymphatic+malformation+6&amp;prefilter=diseases#diseases" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Lymphatic Malformation 6: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="0.5805086">Testis</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.2965423">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Lymphatic Malformation 6 according to OMIM&#174; and ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Novel mutations in PIEZO1 cause an autosomal recessive generalized lymphatic dysplasia with non-immune hydrops fetalis.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fotiou E...Ostergaard P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26333996" target="_blank">26333996</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Early onset lymphoedema, recessive form--a new form of genetic lymphoedema syndrome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mucke J...Beyreiss K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3769974" target="_blank">3769974</a></td>
+<td>1986</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Lymphatic Malformation 6 according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Perinatal presentations of non-immune hydrops fetalis due to recessive PIEZO1 disease: A challenging fetal diagnosis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ghesh L...Beneteau C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36453701" target="_blank">36453701</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Case report of generalized lymphatic dysplasia with PIEZO1 mutation and review of the literature.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Alhazmi W...Alrashidi E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37274623" target="_blank">37274623</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Two cases of lymphatic malformation-6 caused by new variation in PIEZO1 gene].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang YQ...Xu Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36319164" target="_blank">36319164</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A Novel Homozygous Missense Mutation of PIEZO1 Leading to Lymphatic Malformation-6 Identified in a Family With Three Adverse Pregnancy Outcomes due to Nonimmune Fetal Hydrops.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Han S...Yang L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35646098" target="_blank">35646098</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+PIEZO1 Hypomorphic Variants in Congenital Lymphatic Dysplasia Cause Shape and Hydration Alterations of Red Blood Cells.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Andolfo I...Iolascon A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30930797" target="_blank">30930797</a></td>
+<td>2019</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Lymphatic Malformation 6 (2 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Piezo Type Mechanosensitive Ion Channel Component 1</td>
+<td>Protein Coding</td>
+<td>1032.75</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/611184" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_PIEZO1">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1&amp;keywords=Lymphatic+Malformation+6&amp;prefilter=diseases#diseases" title="PIEZO1 gene information at GeneCards" target="_blank">Disorders</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_PIEZO1_SeeMore" href="javascript:showMoreTable('related_genes_PIEZO1','related_genes_PIEZO1_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/26333996" title="ClinVar" target="_blank">26333996</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Uncharacterized LOC100289580</td>
+<td>RNA Gene</td>
+<td>425</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/26333996" title="ClinVar" target="_blank">26333996</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBX19" title="TBX19 gene information at GeneCards" target="_blank">TBX19</a></div>
+</div>
+</td>
+<td>T-Box Transcription Factor 19</td>
+<td>Protein Coding</td>
+<td>25</td>
+<td>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Lymphatic Malformation 6:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '89', 'ClinVarVariations-table');">show all 89</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.1264C&gt;T (p.Gln422Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001029734/" title="RCV001029734" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/449461/?new_evidence=true#id_second" target="_blank">449461</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/934897228" target="_blank">rs934897228</a></td>
+<td>GRCh37: 16:88803079-88803079<br/>GRCh38: 16:88736671-88736671</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.6964G&gt;T (p.Glu2322Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001250671/" title="RCV001250671" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/973951/?new_evidence=true#id_second" target="_blank">973951</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/774561483" target="_blank">rs774561483</a></td>
+<td>GRCh37: 16:88782854-88782854<br/>GRCh38: 16:88716446-88716446</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.2838C&gt;A (p.Tyr946Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003147850/" title="RCV003147850" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2441629/?new_evidence=true#id_second" target="_blank">2441629</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88798896-88798896<br/>GRCh38: 16:88732488-88732488</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.6511G&gt;T (p.Val2171Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000208749/" title="RCV000208749" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/223131/?new_evidence=true#id_second" target="_blank">223131</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/370296725" target="_blank">rs370296725</a></td>
+<td>GRCh37: 16:88783580-88783580<br/>GRCh38: 16:88717172-88717172</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.4888G&gt;T (p.Glu1630Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000208750/" title="RCV000208750" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/223128/?new_evidence=true#id_second" target="_blank">223128</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/869025597" target="_blank">rs869025597</a></td>
+<td>GRCh37: 16:88788693-88788693<br/>GRCh38: 16:88722285-88722285</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.6682C&gt;T (p.Gln2228Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000208759/" title="RCV000208759" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/223129/?new_evidence=true#id_second" target="_blank">223129</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/869025598" target="_blank">rs869025598</a></td>
+<td>GRCh37: 16:88783285-88783285<br/>GRCh38: 16:88716877-88716877</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.2263G&gt;T (p.Glu755Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000208769/" title="RCV000208769" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/223127/?new_evidence=true#id_second" target="_blank">223127</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/869025596" target="_blank">rs869025596</a></td>
+<td>GRCh37: 16:88800380-88800380<br/>GRCh38: 16:88733972-88733972</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.7289C&gt;T (p.Pro2430Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000208773/" title="RCV000208773" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/223133/?new_evidence=true#id_second" target="_blank">223133</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/869025601" target="_blank">rs869025601</a></td>
+<td>GRCh37: 16:88782368-88782368<br/>GRCh38: 16:88715960-88715960</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.1381C&gt;T (p.Gln461Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002286446/" title="RCV002286446" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1707478/?new_evidence=true#id_second" target="_blank">1707478</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88802732-88802732<br/>GRCh38: 16:88736324-88736324</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.1669+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000208762/" title="RCV000208762" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/223132/?new_evidence=true#id_second" target="_blank">223132</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/869025600" target="_blank">rs869025600</a></td>
+<td>GRCh37: 16:88801542-88801542<br/>GRCh38: 16:88735134-88735134</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.3796+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000208768/" title="RCV000208768" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/223130/?new_evidence=true#id_second" target="_blank">223130</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/869025599" target="_blank">rs869025599</a></td>
+<td>GRCh37: 16:88792954-88792954<br/>GRCh38: 16:88726546-88726546</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.5773C&gt;T (p.Arg1925Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001250670/" title="RCV001250670" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/973950/?new_evidence=true#id_second" target="_blank">973950</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/201442593" target="_blank">rs201442593</a></td>
+<td>GRCh37: 16:88787052-88787052<br/>GRCh38: 16:88720644-88720644</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.4058+1G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003153144/" title="RCV003153144" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2444346/?new_evidence=true#id_second" target="_blank">2444346</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88792002-88792002<br/>GRCh38: 16:88725594-88725594</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.4914C&gt;G (p.Tyr1638Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003236246/" title="RCV003236246" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2506015/?new_evidence=true#id_second" target="_blank">2506015</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88788667-88788667<br/>GRCh38: 16:88722259-88722259</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.113TGC[3] (p.Leu41del)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003236247/" title="RCV003236247" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2506016/?new_evidence=true#id_second" target="_blank">2506016</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88815828-88815830<br/>GRCh38: 16:88749420-88749422</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBX19" title="TBX19 gene information at GeneCards" target="_blank">TBX19</a></td>
+<td style="overflow-wrap:break-word;">NM_005149.3(TBX19):c.666-2A&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003225680/" title="RCV003225680" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2500768/?new_evidence=true#id_second" target="_blank">2500768</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:168269658-168269658<br/>GRCh38: 1:168300420-168300420</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.4341del (p.Tyr1448fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003233377/" title="RCV003233377" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2505200/?new_evidence=true#id_second" target="_blank">2505200</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88789731-88789731<br/>GRCh38: 16:88723323-88723323</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.1297-1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002272653/" title="RCV002272653" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1698796/?new_evidence=true#id_second" target="_blank">1698796</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88802817-88802817<br/>GRCh38: 16:88736409-88736409</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.5289C&gt;G (p.Tyr1763Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003147633/" title="RCV003147633" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1163992/?new_evidence=true#id_second" target="_blank">1163992</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88788060-88788060<br/>GRCh38: 16:88721652-88721652</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.3206G&gt;A (p.Trp1069Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000735788/" title="RCV000735788" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/599180/?new_evidence=true#id_second" target="_blank">599180</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1166021430" target="_blank">rs1166021430</a></td>
+<td>GRCh37: 16:88794060-88794060<br/>GRCh38: 16:88727652-88727652</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.6208A&gt;C (p.Lys2070Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000735789/" title="RCV000735789" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/599181/?new_evidence=true#id_second" target="_blank">599181</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1567659736" target="_blank">rs1567659736</a></td>
+<td>GRCh37: 16:88786325-88786325<br/>GRCh38: 16:88719917-88719917</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.3197A&gt;G (p.Asp1066Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001257445/" title="RCV001257445" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/978719/?new_evidence=true#id_second" target="_blank">978719</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1904552378" target="_blank">rs1904552378</a></td>
+<td>GRCh37: 16:88794069-88794069<br/>GRCh38: 16:88727661-88727661</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.3191G&gt;T (p.Cys1064Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001257446/" title="RCV001257446" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/978720/?new_evidence=true#id_second" target="_blank">978720</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1904821405" target="_blank">rs1904821405</a></td>
+<td>GRCh37: 16:88798119-88798119<br/>GRCh38: 16:88731711-88731711</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.4373_4387delinsCGGCAGCAGG (p.Val1458fs)</td>
+<td style="overflow-wrap:break-word;" title="Indel">INDEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001172313/" title="RCV001172313" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/916578/?new_evidence=true#id_second" target="_blank">916578</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1904297127" target="_blank">rs1904297127</a></td>
+<td>GRCh37: 16:88789685-88789699<br/>GRCh38: 16:88723277-88723291</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.7472_7477dup (p.Arg2491_Glu2492dup)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002503281/" title="RCV002503281" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1328215/?new_evidence=true#id_second" target="_blank">1328215</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88782101-88782102<br/>GRCh38: 16:88715693-88715694</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.2492C&gt;T (p.Ser831Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001029735/" title="RCV001029735" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/829803/?new_evidence=true#id_second" target="_blank">829803</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1471934686" target="_blank">rs1471934686</a></td>
+<td>GRCh37: 16:88799858-88799858<br/>GRCh38: 16:88733450-88733450</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.19G&gt;C (p.Gly7Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001331712/" title="RCV001331712" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1030204/?new_evidence=true#id_second" target="_blank">1030204</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1226315961" target="_blank">rs1226315961</a></td>
+<td>GRCh37: 16:88851354-88851354<br/>GRCh38: 16:88784946-88784946</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.2401C&gt;T (p.Arg801Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001331713/" title="RCV001331713" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1030205/?new_evidence=true#id_second" target="_blank">1030205</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1021969177" target="_blank">rs1021969177</a></td>
+<td>GRCh37: 16:88800082-88800082<br/>GRCh38: 16:88733674-88733674</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.5743C&gt;G (p.Arg1915Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001331714/" title="RCV001331714" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1030206/?new_evidence=true#id_second" target="_blank">1030206</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/13338527" target="_blank">rs13338527</a></td>
+<td>GRCh37: 16:88787082-88787082<br/>GRCh38: 16:88720674-88720674</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.6901_6912del (p.Leu2301_Thr2304del)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002289405/" title="RCV002289405" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1709590/?new_evidence=true#id_second" target="_blank">1709590</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88782981-88782992<br/>GRCh38: 16:88716573-88716584</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.3107G&gt;A (p.Arg1036His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000661913/" title="RCV000661913" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/548456/?new_evidence=true#id_second" target="_blank">548456</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/769506340" target="_blank">rs769506340</a></td>
+<td>GRCh37: 16:88798203-88798203<br/>GRCh38: 16:88731795-88731795</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.7553G&gt;C (p.Arg2518Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000791079/" title="RCV000791079" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/638426/?new_evidence=true#id_second" target="_blank">638426</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/774268616" target="_blank">rs774268616</a></td>
+<td>GRCh37: 16:88782026-88782026<br/>GRCh38: 16:88715618-88715618</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.3000C&gt;A (p.Phe1000Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000791080/" title="RCV000791080" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/638427/?new_evidence=true#id_second" target="_blank">638427</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/568280615" target="_blank">rs568280615</a></td>
+<td>GRCh37: 16:88798310-88798310<br/>GRCh38: 16:88731902-88731902</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.6211T&gt;C (p.Cys2071Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001533181/" title="RCV001533181" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1177414/?new_evidence=true#id_second" target="_blank">1177414</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88786322-88786322<br/>GRCh38: 16:88719914-88719914</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.2664G&gt;A (p.Glu888=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002289404/" title="RCV002289404" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1709589/?new_evidence=true#id_second" target="_blank">1709589</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88799686-88799686<br/>GRCh38: 16:88733278-88733278</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.4388AGCAGG[2] (p.1465EQ[1])</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002482435/" title="RCV002482435" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1350725/?new_evidence=true#id_second" target="_blank">1350725</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88789667-88789672<br/>GRCh38: 16:88723259-88723264</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.2344G&gt;A (p.Gly782Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000989648/" title="RCV000989648" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/242665/?new_evidence=true#id_second" target="_blank">242665</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200970763" target="_blank">rs200970763</a></td>
+<td>GRCh37: 16:88800139-88800139<br/>GRCh38: 16:88733731-88733731</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.4850C&gt;T (p.Thr1617Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001269332/" title="RCV001269332" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/987920/?new_evidence=true#id_second" target="_blank">987920</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/906425217" target="_blank">rs906425217</a></td>
+<td>GRCh37: 16:88788731-88788731<br/>GRCh38: 16:88722323-88722323</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.7317-5C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002495448/" title="RCV002495448" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/726258/?new_evidence=true#id_second" target="_blank">726258</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/150172633" target="_blank">rs150172633</a></td>
+<td>GRCh37: 16:88782267-88782267<br/>GRCh38: 16:88715859-88715859</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.3667G&gt;A (p.Val1223Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002272272/" title="RCV002272272" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/446042/?new_evidence=true#id_second" target="_blank">446042</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/185326407" target="_blank">rs185326407</a></td>
+<td>GRCh37: 16:88793155-88793155<br/>GRCh38: 16:88726747-88726747</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.7495T&gt;C (p.Leu2499=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002487967/" title="RCV002487967" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/727409/?new_evidence=true#id_second" target="_blank">727409</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/35736353" target="_blank">rs35736353</a></td>
+<td>GRCh37: 16:88782084-88782084<br/>GRCh38: 16:88715676-88715676</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.5195C&gt;T (p.Thr1732Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002488373/" title="RCV002488373" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1190824/?new_evidence=true#id_second" target="_blank">1190824</a></td>
+<td><span></span> </td>
+<td>GRCh37: 16:88788235-88788235<br/>GRCh38: 16:88721827-88721827</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.6294C&gt;T (p.Tyr2098=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002489358/" title="RCV002489358" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/780318/?new_evidence=true#id_second" target="_blank">780318</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/35015310" target="_blank">rs35015310</a></td>
+<td>GRCh37: 16:88786239-88786239<br/>GRCh38: 16:88719831-88719831</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.2330-16C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002489507/" title="RCV002489507" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/811773/?new_evidence=true#id_second" target="_blank">811773</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/9940889" target="_blank">rs9940889</a></td>
+<td>GRCh37: 16:88800169-88800169<br/>GRCh38: 16:88733761-88733761</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.5552C&gt;T (p.Thr1851Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002493375/" title="RCV002493375" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/618281/?new_evidence=true#id_second" target="_blank">618281</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/34370460" target="_blank">rs34370460</a></td>
+<td>GRCh37: 16:88787690-88787690<br/>GRCh38: 16:88721282-88721282</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.132C&gt;T (p.Phe44=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002495342/" title="RCV002495342" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/709313/?new_evidence=true#id_second" target="_blank">709313</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/112488313" target="_blank">rs112488313</a></td>
+<td>GRCh37: 16:88815820-88815820<br/>GRCh38: 16:88749412-88749412</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.1179C&gt;G (p.Ser393=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002501412/" title="RCV002501412" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/712742/?new_evidence=true#id_second" target="_blank">712742</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/780119372" target="_blank">rs780119372</a></td>
+<td>GRCh37: 16:88803983-88803983<br/>GRCh38: 16:88737575-88737575</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.4872A&gt;G (p.Ala1624=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002502663/" title="RCV002502663" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/727411/?new_evidence=true#id_second" target="_blank">727411</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/35375982" target="_blank">rs35375982</a></td>
+<td>GRCh37: 16:88788709-88788709<br/>GRCh38: 16:88722301-88722301</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC100289580" title="LOC100289580 gene information at GeneCards" target="_blank">LOC100289580</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.2664+7del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002502664/" title="RCV002502664" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/727413/?new_evidence=true#id_second" target="_blank">727413</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/556884023" target="_blank">rs556884023</a></td>
+<td>GRCh37: 16:88799679-88799679<br/>GRCh38: 16:88733271-88733271</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIEZO1" title="PIEZO1 gene information at GeneCards" target="_blank">PIEZO1</a></td>
+<td style="overflow-wrap:break-word;">NM_001142864.4(PIEZO1):c.4992G&gt;A (p.Leu1664=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002479007/" title="RCV002479007" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/712740/?new_evidence=true#id_second" target="_blank">712740</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/186462241" target="_blank">rs186462241</a></td>
+<td>GRCh37: 16:88788438-88788438<br/>GRCh38: 16:88722030-88722030</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Lymphatic%20Malformation%206%22%5BMeSH%20Terms%5D%20OR%20%22Lymphatic%20Malformation%206%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Lymphatic Malformation 6.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Lymphatic Malformation 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#2754525757485553674b4e41424a465754440944484a">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ebd2bfc28b36c',t:'MTY5NTI2MTg4Mi42ODkwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

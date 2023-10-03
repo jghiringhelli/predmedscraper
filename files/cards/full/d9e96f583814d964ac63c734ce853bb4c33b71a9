@@ -1,0 +1,3423 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Hypocalciuric Hypercalcemia, Familial, Type Ii disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/hypocalciuric_hypercalcemia_familial_type_ii" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'hypocalciuric_hypercalcemia_familial_type_ii';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+HHC2 <div class="symbol">MCID: HYP753</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 45
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Hypocalciuric Hypercalcemia, Familial, Type Ii</span>
+(<span itemprop="alternateName">HHC2</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Bone diseases, Endocrine diseases, Fetal diseases, Genetic diseases, Immune diseases, Metabolic diseases, Nephrological diseases, Rare diseases, Respiratory diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#3f4c5e535a4c7f5356595a525e4f4c5c115c5052" target="_blank"><span class="__cf_email__" data-cfemail="c4b7a5a8a1b784a8ada2a1a9a5b4b7a7eaa7aba9">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="11 Genes associated with Hypocalciuric Hypercalcemia, Familial, Type Ii">Genes</a>
+<a href="#genetic_variations" title="31 Variations associated with Hypocalciuric Hypercalcemia, Familial, Type Ii">Variations</a>
+<a href="#anatomical_context" title="2 Tissues associated with Hypocalciuric Hypercalcemia, Familial, Type Ii">Tissues</a>
+<a href="#disorders" title="96 Related diseases associated with Hypocalciuric Hypercalcemia, Familial, Type Ii">Related diseases</a>
+<a href="#publications" title="15 Publications associated with Hypocalciuric Hypercalcemia, Familial, Type Ii">Publications</a>
+<a href="#clinical_features" title="11 Symptoms &amp; Phenotypes associated with Hypocalciuric Hypercalcemia, Familial, Type Ii">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/hypocalciuric_hypercalcemia_familial_type_ii?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Hypocalciuric Hypercalcemia, Familial, Type Ii:</h3>
+<div class="main-name">
+Name: <b>Hypocalciuric Hypercalcemia, Familial, Type Ii</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/145981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Familial Hypocalciuric Hypercalcemia 2
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060701" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1840347" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<div>
+Familial Hypocalciuric Hypercalcemia Type 2
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060701" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/9758/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=101049" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Fhh Type 2
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060701" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/9758/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=101049" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Hhc2
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/145981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060701" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03852" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Hypocalciuric Hypercalcemia, Type Ii
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/145981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/04488" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<div>
+Fbh2
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/145981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03852" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Hypercalcemia, Familial Benign, Type Ii
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/145981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Hypocalciuric Hypercalcemia, Familial 2
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03852" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Familial Benign Hypercalcemia, Type Ii
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/145981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Familial Benign Hypercalcemia Type Ii
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03852" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Hypocalciuric Hypercalcemia Type Ii
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060701" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Hypocalciuric Hypercalcemia-2
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=145981" title="diseasecard" target="_blank">12</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Hypocalciuric Hypercalcemia, Familial, Type Ii:</b>
+Autosomal dominant <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/145981" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>Familial Hypocalciuric Hypercalcemia Type 2:</b>
+Autosomal dominant <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=101049" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/145981" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>affected individuals are generally asymptomatic</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/respiratory_disease_list" target="_blank">Respiratory diseases</a> <a href="https://www.malacards.org/categories/bone_disease_list" target="_blank">Bone diseases</a> <a href="https://www.malacards.org/categories/endocrine_disease_list" target="_blank">Endocrine diseases</a> <a href="https://www.malacards.org/categories/nephrological_disease_list" target="_blank">Nephrological diseases</a> <a href="https://www.malacards.org/categories/immune_disease_list" target="_blank">Immune diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="International Classification of Diseases, 10th Revision">31</sup>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/IV" title="IV" target="_blank">Endocrine, nutritional and metabolic diseases</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70-E90" title="E70-E90" target="_blank">Metabolic disorders</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E83" title="E83" target="_blank">Disorders of mineral metabolism</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E83.5" title="E83.5" target="_blank">Disorders of calcium metabolism</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare respiratory diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare bone diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare endocrine diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Developmental anomalies during embryogenesis <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060701" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0060701" target="_blank">DOID:0060701</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/145981" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/145981" target="_blank">145981</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS145980" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS145980" target="_blank">PS145980</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D006934" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D006934" target="_blank">D006934</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="International Classification of Diseases, 10th Revision">ICD10</b>
+<sup title="International Classification of Diseases, 10th Revision"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E83.5" target="_blank">31</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E83.5" target="_blank">E83.5</a>
+</div>
+<div id="ExternalId_item_6">
+<b title="MESH via Orphanet">MESH via Orphanet</b>
+<sup title="MESH via Orphanet"><span>44</span> </sup>
+<span>C537146</span>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_7">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E83.5" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E83.5" target="_blank">E83.5</a>
+</div>
+<div id="ExternalId_item_8">
+<b title="UMLS via Orphanet">UMLS via Orphanet</b>
+<sup title="UMLS via Orphanet"><span>72</span> </sup>
+<span>C1840347</span>
+</div>
+<div id="ExternalId_item_9">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=101049" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=101049" target="_blank">ORPHA101049</a>
+</div>
+<div id="ExternalId_item_10">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1840347" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1840347" target="_blank">C1840347</a>
+</div>
+<div id="ExternalId_item_11">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/13200003" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/13200003" target="_blank">13200003</a> <a href="http://www.snomedbrowser.com/Codes/Details/166702002" target="_blank">166702002</a> <a href="http://www.snomedbrowser.com/Codes/Details/201637001" target="_blank">201637001</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/239832006" target="_blank">239832006</a> <a href="http://www.snomedbrowser.com/Codes/Details/239838005" target="_blank">239838005</a> <a href="http://www.snomedbrowser.com/Codes/Details/36348003" target="_blank">36348003</a> <a href="http://www.snomedbrowser.com/Codes/Details/404062002" target="_blank">404062002</a> <a href="http://www.snomedbrowser.com/Codes/Details/46720004" target="_blank">46720004</a> <a href="http://www.snomedbrowser.com/Codes/Details/66931009" target="_blank">66931009</a> <a href="http://www.snomedbrowser.com/Codes/Details/66978005" target="_blank">66978005</a> <a href="http://www.snomedbrowser.com/Codes/Details/75694006" target="_blank">75694006</a> <a href="http://www.snomedbrowser.com/Codes/Details/86353007" target="_blank">86353007</a> <a href="http://www.snomedbrowser.com/Codes/Details/93163002" target="_blank">93163002</a> </span>
+<span class="showmore">
+<a title="show all 13" id="ExternalId_showmore_11" href="javascript:showMoreTable('ExternalId_item_11','ExternalId_showmore_11','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_12">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C1840347</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-03852" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03852" target="_blank">73</a></sup>
+A form of hypocalciuric hypercalcemia, a disorder of mineral homeostasis that is transmitted as an autosomal dominant trait with a high degree of penetrance. It is characterized biochemically by lifelong elevation of serum calcium concentrations and is associated with inappropriately low urinary calcium excretion and a normal or mildly elevated circulating parathyroid hormone level. Hypermagnesemia is typically present. Affected individuals are usually asymptomatic and the disorder is considered benign. However, chondrocalcinosis and pancreatitis occur in some adults.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Hypocalciuric Hypercalcemia, Familial, Type Ii, also known as <i>familial hypocalciuric hypercalcemia 2</i>, is related to <i><a href="/card/hypocalciuric_hypercalcemia_familial_type_iii" target="_blank">hypocalciuric hypercalcemia, familial, type iii</a></i> and <i><a href="/card/familial_hypocalciuric_hypercalcemia" target="_blank">familial hypocalciuric hypercalcemia</a></i>. An important gene associated with Hypocalciuric Hypercalcemia, Familial, Type Ii is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" target="_blank">GNA11</a> (G Protein Subunit Alpha 11), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/signal_transduction" target="_blank">Signal Transduction</a></i> and <i><a href="https://pathcards.genecards.org/card/ca_camp_and_lipid_signaling" target="_blank">Ca, cAMP and Lipid Signaling</a></i>. Affiliated tissues include <i>bone</i> and <i>kidney</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0000787" target="_blank">nephrolithiasis</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0004398" target="_blank">peptic ulcer</a></i></p>
+<p> <b> <a href="https://rarediseases.info.nih.gov/diseases/9758/index" target="_blank">GARD</a>:</b>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/9758/index" target="_blank">19</a></sup>
+Familial hypocalciuric hypercalcemia type II (HHC2) is an autosomal dominant disorder characterized by lifelong elevations of serum calcium concentrations with low urinary calcium excretion and normal circulating parathyroid hormone concentrations in most patients. Patients are generally asymptomatic, although pancreatitis or chondrocalcinosis may develop in some affected adults (summary by Nesbit et al., 2013).For a general phenotypic description and a discussion of genetic heterogeneity of hypocalciuric hypercalcemia, see HHC1 (145980).</p><p> <b> <a href="http://omim.org/entry/145981#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/145981#description" target="_blank">57</a></sup>
+Familial hypocalciuric hypercalcemia type II (HHC2) is an autosomal dominant disorder characterized by lifelong elevations of serum calcium concentrations with low urinary calcium excretion and normal circulating parathyroid hormone concentrations in most patients. Patients are generally asymptomatic (summary by Nesbit et al., 2013).
+For a general phenotypic description and a discussion of genetic heterogeneity of hypocalciuric hypercalcemia, see HHC1 (145980). <span> (145981) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0060701" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060701" target="_blank">11</a></sup>
+A familial hypocalciuric hypercalcemia that has material basis in heterozygous mutation in the GNA11 gene on chromosome 19p13.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases in the <a href="/card/familial_hypocalciuric_hypercalcemia" target="_blank">Familial Hypocalciuric Hypercalcemia</a> family:</h3>
+<table class="family borderless">
+<tr>
+<td>
+<a href="/card/hypocalciuric_hypercalcemia_familial_type_i" target="_blank">Hypocalciuric Hypercalcemia, Familial, Type I</a> </td>
+<td>
+<b>Hypocalciuric Hypercalcemia, Familial, Type Ii</b>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/card/hypocalciuric_hypercalcemia_familial_type_iii" target="_blank">Hypocalciuric Hypercalcemia, Familial, Type Iii</a> </td>
+</tr>
+</table>
+<br/>
+<h3>Diseases related to Hypocalciuric Hypercalcemia, Familial, Type Ii via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('RelatedDiseases', '96', 'RelatedDiseases-table');">show all 96</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/hypocalciuric_hypercalcemia_familial_type_iii" target="_blank">hypocalciuric hypercalcemia, familial, type iii</a></td>
+<td>29.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+iii&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIR139&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+iii&amp;prefilter=diseases#diseases" title="MIR139 gene information at GeneCards" target="_blank">MIR139</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+iii&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+iii&amp;prefilter=diseases#diseases" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+iii&amp;prefilter=diseases#diseases" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+iii&amp;prefilter=diseases#diseases" title="CASR gene information at GeneCards" target="_blank">CASR</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/familial_hypocalciuric_hypercalcemia" target="_blank">familial hypocalciuric hypercalcemia</a></td>
+<td>28.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=familial+hypocalciuric+hypercalcemia&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MEN1&amp;keywords=familial+hypocalciuric+hypercalcemia&amp;prefilter=diseases#diseases" title="MEN1 gene information at GeneCards" target="_blank">MEN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=familial+hypocalciuric+hypercalcemia&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2&amp;keywords=familial+hypocalciuric+hypercalcemia&amp;prefilter=diseases#diseases" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73&amp;keywords=familial+hypocalciuric+hypercalcemia&amp;prefilter=diseases#diseases" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=familial+hypocalciuric+hypercalcemia&amp;prefilter=diseases#diseases" title="CASR gene information at GeneCards" target="_blank">CASR</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/hypocalciuric_hypercalcemia_familial_type_i" target="_blank">hypocalciuric hypercalcemia, familial, type i</a></td>
+<td>28.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+i&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIR139&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+i&amp;prefilter=diseases#diseases" title="MIR139 gene information at GeneCards" target="_blank">MIR139</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MEN1&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+i&amp;prefilter=diseases#diseases" title="MEN1 gene information at GeneCards" target="_blank">MEN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+i&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+i&amp;prefilter=diseases#diseases" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=hypocalciuric+hypercalcemia%2c+familial%2c+type+i&amp;prefilter=diseases#diseases" title="CASR gene information at GeneCards" target="_blank">CASR</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/oto_palatal_digital_syndrome" target="_blank">oto-palatal-digital syndrome</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=oto-palatal-digital+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/phakomatosis_cesioflammea" target="_blank">phakomatosis cesioflammea</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=phakomatosis+cesioflammea&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=phakomatosis+cesioflammea&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/mixed_cell_uveal_melanoma" target="_blank">mixed cell uveal melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=mixed+cell+uveal+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=mixed+cell+uveal+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/malignant_choroid_melanoma" target="_blank">malignant choroid melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=malignant+choroid+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=malignant+choroid+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/malignant_leptomeningeal_neoplasm" target="_blank">malignant leptomeningeal neoplasm</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=malignant+leptomeningeal+neoplasm&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=malignant+leptomeningeal+neoplasm&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/meningeal_melanoma" target="_blank">meningeal melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=meningeal+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=meningeal+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/meningeal_melanomatosis" target="_blank">meningeal melanomatosis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=meningeal+melanomatosis&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=meningeal+melanomatosis&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/melanomatosis" target="_blank">melanomatosis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=melanomatosis&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=melanomatosis&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/diffuse_meningeal_melanocytosis" target="_blank">diffuse meningeal melanocytosis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=diffuse+meningeal+melanocytosis&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=diffuse+meningeal+melanocytosis&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/meningeal_melanocytoma" target="_blank">meningeal melanocytoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=meningeal+melanocytoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=meningeal+melanocytoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/rapidly_involuting_congenital_hemangioma" target="_blank">rapidly involuting congenital hemangioma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=rapidly+involuting+congenital+hemangioma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=rapidly+involuting+congenital+hemangioma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/conjunctival_nevus" target="_blank">conjunctival nevus</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=conjunctival+nevus&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=conjunctival+nevus&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/sensory_organ_benign_neoplasm" target="_blank">sensory organ benign neoplasm</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=sensory+organ+benign+neoplasm&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=sensory+organ+benign+neoplasm&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/posterior_uveal_melanoma" target="_blank">posterior uveal melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=posterior+uveal+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=posterior+uveal+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/central_nervous_system_melanocytic_neoplasm" target="_blank">central nervous system melanocytic neoplasm</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=central+nervous+system+melanocytic+neoplasm&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=central+nervous+system+melanocytic+neoplasm&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/spinal_cord_melanoma" target="_blank">spinal cord melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=spinal+cord+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=spinal+cord+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/choroid_cancer" target="_blank">choroid cancer</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=choroid+cancer&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=choroid+cancer&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/mongolian_spot" target="_blank">mongolian spot</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=mongolian+spot&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=mongolian+spot&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/vulvar_melanoma" target="_blank">vulvar melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=vulvar+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=vulvar+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/epithelioid_cell_melanoma" target="_blank">epithelioid cell melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=epithelioid+cell+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=epithelioid+cell+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/melanotic_neurilemmoma" target="_blank">melanotic neurilemmoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=melanotic+neurilemmoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=melanotic+neurilemmoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="/card/hypomelanosis_of_ito" target="_blank">hypomelanosis of ito</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=hypomelanosis+of+ito&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=hypomelanosis+of+ito&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="/card/acral_lentiginous_melanoma" target="_blank">acral lentiginous melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=acral+lentiginous+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=acral+lentiginous+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="/card/spitzoid_melanoma" target="_blank">spitzoid melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=spitzoid+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=spitzoid+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="/card/childhood_angiosarcoma" target="_blank">childhood angiosarcoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=childhood+angiosarcoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=childhood+angiosarcoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="/card/alcohol_related_birth_defects" target="_blank">alcohol-related birth defects</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH4&amp;keywords=alcohol-related+birth+defects&amp;prefilter=diseases#diseases" title="ADH4 gene information at GeneCards" target="_blank">ADH4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=alcohol-related+birth+defects&amp;prefilter=diseases#diseases" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="/card/weber_syndrome" target="_blank">weber syndrome</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=weber+syndrome&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=weber+syndrome&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="/card/malignant_spindle_cell_melanoma" target="_blank">malignant spindle cell melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=malignant+spindle+cell+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=malignant+spindle+cell+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="/card/malignant_conjunctival_melanoma" target="_blank">malignant conjunctival melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=malignant+conjunctival+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=malignant+conjunctival+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="/card/conjunctival_cancer" target="_blank">conjunctival cancer</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=conjunctival+cancer&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=conjunctival+cancer&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="/card/nodular_malignant_melanoma" target="_blank">nodular malignant melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=nodular+malignant+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=nodular+malignant+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="/card/capillary_malformations_congenital" target="_blank">capillary malformations, congenital</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=capillary+malformations%2c+congenital&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=capillary+malformations%2c+congenital&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="/card/mucosal_melanoma" target="_blank">mucosal melanoma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=mucosal+melanoma&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=mucosal+melanoma&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="/card/sturge_weber_syndrome" target="_blank">sturge-weber syndrome</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=sturge-weber+syndrome&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=sturge-weber+syndrome&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="/card/congenital_lipomatous_overgrowth_vascular_malformations_and_epidermal_nevi" target="_blank">congenital lipomatous overgrowth, vascular malformations, and epidermal nevi</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=congenital+lipomatous+overgrowth%2c+vascular+malformations%2c+and+epidermal+nevi&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=congenital+lipomatous+overgrowth%2c+vascular+malformations%2c+and+epidermal+nevi&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="/card/hypercalcemia_infantile_1" target="_blank">hypercalcemia, infantile, 1</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=hypercalcemia%2c+infantile%2c+1&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=hypercalcemia%2c+infantile%2c+1&amp;prefilter=diseases#diseases" title="CASR gene information at GeneCards" target="_blank">CASR</a> </td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="/card/large_congenital_melanocytic_nevus" target="_blank">large congenital melanocytic nevus</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=large+congenital+melanocytic+nevus&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=large+congenital+melanocytic+nevus&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="/card/pseudopseudohypoparathyroidism" target="_blank">pseudopseudohypoparathyroidism</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=pseudopseudohypoparathyroidism&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=pseudopseudohypoparathyroidism&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="/card/calciphylaxis" target="_blank">calciphylaxis</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=calciphylaxis&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=calciphylaxis&amp;prefilter=diseases#diseases" title="CASR gene information at GeneCards" target="_blank">CASR</a> </td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="/card/chief_cell_adenoma" target="_blank">chief cell adenoma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=chief+cell+adenoma&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2&amp;keywords=chief+cell+adenoma&amp;prefilter=diseases#diseases" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="/card/pseudohypoparathyroidism_type_ia_2" target="_blank">pseudohypoparathyroidism, type ia</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=pseudohypoparathyroidism%2c+type+ia&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=pseudohypoparathyroidism%2c+type+ia&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="/card/proteus_syndrome" target="_blank">proteus syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=proteus+syndrome&amp;prefilter=diseases#diseases" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=proteus+syndrome&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="/card/fetal_alcohol_syndrome" target="_blank">fetal alcohol syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH4&amp;keywords=fetal+alcohol+syndrome&amp;prefilter=diseases#diseases" title="ADH4 gene information at GeneCards" target="_blank">ADH4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=fetal+alcohol+syndrome&amp;prefilter=diseases#diseases" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="/card/eiken_syndrome" target="_blank">eiken syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=eiken+syndrome&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2&amp;keywords=eiken+syndrome&amp;prefilter=diseases#diseases" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="/card/water_clear_cell_adenoma" target="_blank">water-clear cell adenoma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=water-clear+cell+adenoma&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73&amp;keywords=water-clear+cell+adenoma&amp;prefilter=diseases#diseases" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a> </td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="/card/metaphyseal_chondrodysplasia_jansen_type" target="_blank">metaphyseal chondrodysplasia, jansen type</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=metaphyseal+chondrodysplasia%2c+jansen+type&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2&amp;keywords=metaphyseal+chondrodysplasia%2c+jansen+type&amp;prefilter=diseases#diseases" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="/card/basal_ganglia_disease" target="_blank">basal ganglia disease</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=basal+ganglia+disease&amp;prefilter=diseases#diseases" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=basal+ganglia+disease&amp;prefilter=diseases#diseases" title="CASR gene information at GeneCards" target="_blank">CASR</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Hypocalciuric Hypercalcemia, Familial, Type Ii:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/hypocalciuric_hypercalcemia_familial_type_ii_related_diseases.jpg" width="100%" alt="Diseases related to Hypocalciuric Hypercalcemia, Familial, Type Ii" title="Diseases related to Hypocalciuric Hypercalcemia, Familial, Type Ii" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Hypocalciuric Hypercalcemia, Familial, Type Ii:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 10', 'showing 10, show less','collapsable')">show all 10</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+nephrolithiasis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000787" target="_blank">HP:0000787</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+peptic ulcer
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004398" target="_blank">HP:0004398</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+hypermagnesemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002918" target="_blank">HP:0002918</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+multiple lipomas
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001012" target="_blank">HP:0001012</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+hypercalcemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003072" target="_blank">HP:0003072</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+chondrocalcinosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000934" target="_blank">HP:0000934</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+pancreatitis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001733" target="_blank">HP:0001733</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+hypocalciuria
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003127" target="_blank">HP:0003127</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+primary hyperparathyroidism
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008200" target="_blank">HP:0008200</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+parathormone-independent increased renal tubular calcium reabsorption
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003529" target="_blank">HP:0003529</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/145981" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>hypercalcemia</span>
+<br/>
+<span>hypocalciuria</span>
+<br/>
+<span>hypermagnesemia (in some patients)</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/145981#clinicalFeatures" target="_blank">145981</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div class="section-data">
+<h3>MGI Mouse Phenotypes related to Hypocalciuric Hypercalcemia, Familial, Type Ii:</h3>
+<sup title="Mouse Genome Informatics">45</sup>
+<table id="FunctionalDescription_MGI-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>MGI Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>homeostasis/metabolism</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005376" target="_blank">MP:0005376</a></td>
+<td>10.02</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="CASR gene information at GeneCards" target="_blank">CASR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=homeostasis%2fmetabolism&amp;prefilter=function#function" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>growth/size/body region</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005378" target="_blank">MP:0005378</a></td>
+<td>9.97</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP2S1&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="AP2S1 gene information at GeneCards" target="_blank">AP2S1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="CASR gene information at GeneCards" target="_blank">CASR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=growth%2fsize%2fbody+region&amp;prefilter=function#function" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>endocrine/exocrine gland</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005379" target="_blank">MP:0005379</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=endocrine%2fexocrine+gland&amp;prefilter=function#function" title="CASR gene information at GeneCards" target="_blank">CASR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73&amp;keywords=endocrine%2fexocrine+gland&amp;prefilter=function#function" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2&amp;keywords=endocrine%2fexocrine+gland&amp;prefilter=function#function" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=endocrine%2fexocrine+gland&amp;prefilter=function#function" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=endocrine%2fexocrine+gland&amp;prefilter=function#function" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MEN1&amp;keywords=endocrine%2fexocrine+gland&amp;prefilter=function#function" title="MEN1 gene information at GeneCards" target="_blank">MEN1</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>craniofacial</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005382" target="_blank">MP:0005382</a></td>
+<td>9.63</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73&amp;keywords=craniofacial&amp;prefilter=function#function" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2&amp;keywords=craniofacial&amp;prefilter=function#function" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=craniofacial&amp;prefilter=function#function" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=craniofacial&amp;prefilter=function#function" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MEN1&amp;keywords=craniofacial&amp;prefilter=function#function" title="MEN1 gene information at GeneCards" target="_blank">MEN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=craniofacial&amp;prefilter=function#function" title="PTH gene information at GeneCards" target="_blank">PTH</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>skeleton</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005390" target="_blank">MP:0005390</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=skeleton&amp;prefilter=function#function" title="CASR gene information at GeneCards" target="_blank">CASR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73&amp;keywords=skeleton&amp;prefilter=function#function" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2&amp;keywords=skeleton&amp;prefilter=function#function" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=skeleton&amp;prefilter=function#function" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=skeleton&amp;prefilter=function#function" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MEN1&amp;keywords=skeleton&amp;prefilter=function#function" title="MEN1 gene information at GeneCards" target="_blank">MEN1</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>mortality/aging</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0010768" target="_blank">MP:0010768</a></td>
+<td>9.32</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP2S1&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="AP2S1 gene information at GeneCards" target="_blank">AP2S1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="CASR gene information at GeneCards" target="_blank">CASR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=mortality%2faging&amp;prefilter=function#function" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Hypocalciuric Hypercalcemia, Familial, Type Ii" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Hypocalciuric Hypercalcemia, Familial, Type Ii&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Hypocalciuric Hypercalcemia, Familial, Type Ii</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Hypocalciuric Hypercalcemia, Familial, Type Ii:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Familial Hypocalciuric Hypercalcemia 2
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1840347" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=familial+hypocalciuric+hypercalcemia+2&amp;prefilter=diseases#diseases" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Hypocalciuric Hypercalcemia, Familial, Type Ii: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="3.348257">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.2906715">Kidney</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/145981/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Hypocalciuric Hypercalcemia, Familial, Type Ii according to PubMed, OMIM&#174;, and ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A G-protein Subunit-α11 Loss-of-Function Mutation, Thr54Met, Causes Familial Hypocalciuric Hypercalcemia Type 2 (FHH2).
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gorvin CM...Thakker RV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26729423" target="_blank">26729423</a></td>
+<td>2016</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mutations affecting G-protein subunit α11 in hypercalcemia and hypocalcemia.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Nesbit MA...Thakker RV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23802516" target="_blank">23802516</a></td>
+<td>2013</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genetic linkage analysis in familial benign hypercalcemia using a candidate gene strategy. I. Studies in four families.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Heath H...Penniston JT</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/1517376" target="_blank">1517376</a></td>
+<td>1992</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Hypocalciuric Hypercalcemia, Familial, Type Ii according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show all 12', 'showing 12, show less','collapsable')">show all 12</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+GNA11 Variants Identified in Patients with Hypercalcemia or Hypocalcemia.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Howles SA...Thakker RV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36970776" target="_blank">36970776</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Heavy chain-only antibody genes in fish evolved to generate unique CDR3 repertoire.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Anumukonda K...Hsu E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34708869" target="_blank">34708869</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Arabidopsis histone demethylase JMJ28 regulates CONSTANS by interacting with FBH transcription factors.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hung FY...Wu K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33604650" target="_blank">33604650</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cinacalcet Rectifies Hypercalcemia in a Patient With Familial Hypocalciuric Hypercalcemia Type 2 (FHH2) Caused by a Germline Loss-of-Function Gα11 Mutation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gorvin CM...Thakker RV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28833550" target="_blank">28833550</a></td>
+<td>2018</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cinacalcet corrects hypercalcemia in mice with an inactivating Gα11 mutation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Howles SA...Thakker RV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29046478" target="_blank">29046478</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Stepwise CaSR, AP2S1, and GNA11 sequencing in patients with suspected familial hypocalciuric hypercalcemia.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Szalat A...Meiner V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28176280" target="_blank">28176280</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+AP2S1 and GNA11 mutations - not a common cause of familial hypocalciuric hypercalcemia.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hovden S...Nissen PH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27913609" target="_blank">27913609</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Disorders of the calcium-sensing receptor and partner proteins: insights into the molecular basis of calcium homeostasis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hannan FM...Thakker RV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27647839" target="_blank">27647839</a></td>
+<td>2016</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Allosteric Modulation of the Calcium-sensing Receptor Rectifies Signaling Abnormalities Associated with G-protein α-11 Mutations Causing Hypercalcemic and Hypocalcemic Disorders.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Babinsky VN...Thakker RV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26994139" target="_blank">26994139</a></td>
+<td>2016</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+FLOWERING BHLH transcriptional activators control expression of the photoperiodic flowering regulator CONSTANS in Arabidopsis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ito S...Imaizumi T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22334645" target="_blank">22334645</a></td>
+<td>2012</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Identification and analysis of conserved cis-regulatory regions of the MEIS1 gene.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Royo JL...Casares F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22448256" target="_blank">22448256</a></td>
+<td>2012</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Diseases associated with the extracellular calcium-sensing receptor.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Thakker RV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15200151" target="_blank">15200151</a></td>
+<td>2004</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Hypocalciuric Hypercalcemia, Familial, Type Ii (1 elite genes):</h3>
+<span class="showmore">
+(<a id="RelatedGenes-table_SeeMore" href="javascript:showMoreTable('RelatedGenes-table','RelatedGenes-table_SeeMore', 'show all 11', 'showing 11, show less','collapsable')">show all 11</a>)
+</span>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>G Protein Subunit Alpha 11</td>
+<td>Protein Coding</td>
+<td>1657.5</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/139313" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation (loss of function)
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=22252" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000078429&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/1517376" title="ClinVar" target="_blank">1517376</a> <a href="https://pubmed.ncbi.nlm.nih.gov/23802516" title="ClinVar" target="_blank">23802516</a> <a href="https://pubmed.ncbi.nlm.nih.gov/26729423" title="ClinVar" target="_blank">26729423</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP2S1" title="AP2S1 gene information at GeneCards" target="_blank">AP2S1</a></div>
+</div>
+</td>
+<td>Adaptor Related Protein Complex 2 Subunit Sigma 1</td>
+<td>Protein Coding</td>
+<td>8.2</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000263270&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR" title="CASR gene information at GeneCards" target="_blank">CASR</a></div>
+</div>
+</td>
+<td>Calcium Sensing Receptor</td>
+<td>Protein Coding</td>
+<td>7.27</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000420194&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIR139" title="MIR139 gene information at GeneCards" target="_blank">MIR139</a></div>
+</div>
+</td>
+<td>MicroRNA 139</td>
+<td>RNA Gene</td>
+<td>6.17</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=hsa-miR-139-3p&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=hsa-miR-139-5p&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH4" title="ADH4 gene information at GeneCards" target="_blank">ADH4</a></div>
+</div>
+</td>
+<td>Alcohol Dehydrogenase 4 (Class II), Pi Polypeptide</td>
+<td>Protein Coding</td>
+<td>6.05</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000265512&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a></div>
+</div>
+</td>
+<td>Glial Cells Missing Transcription Factor 2</td>
+<td>Protein Coding</td>
+<td>5.56</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000368805&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a></div>
+</div>
+</td>
+<td>Alcohol Dehydrogenase 1B (Class I), Beta Polypeptide</td>
+<td>Protein Coding</td>
+<td>5.55</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000306606&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a></div>
+</div>
+</td>
+<td>Cell Division Cycle 73</td>
+<td>Protein Coding</td>
+<td>5.41</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000356405&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH" title="PTH gene information at GeneCards" target="_blank">PTH</a></div>
+</div>
+</td>
+<td>Parathyroid Hormone</td>
+<td>Protein Coding</td>
+<td>5.31</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000282091&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">10</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MEN1" title="MEN1 gene information at GeneCards" target="_blank">MEN1</a></div>
+</div>
+</td>
+<td>Menin 1</td>
+<td>Protein Coding</td>
+<td>4.93</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000337088&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_10">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">11</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a></div>
+</div>
+</td>
+<td>G Protein Subunit Alpha Q</td>
+<td>Protein Coding</td>
+<td>4.88</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000286548&amp;type2=-26&amp;id2=DOID:0060701" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_11">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Hypocalciuric Hypercalcemia, Familial, Type Ii:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show all 30', 'showing 30, show less','collapsable')">show all 30</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.161C&gt;T (p.Thr54Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001706737/" title="RCV001706737" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1285379/?new_evidence=true#id_second" target="_blank">1285379</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3110171-3110171<br/>GRCh38: 19:3110173-3110173</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.595ATC[1] (p.Ile200del)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000054474/" title="RCV000054474" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/60661/?new_evidence=true#id_second" target="_blank">60661</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/672601249" target="_blank">rs672601249</a></td>
+<td>GRCh37: 19:3115059-3115061<br/>GRCh38: 19:3115061-3115063</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.404T&gt;A (p.Leu135Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000054475/" title="RCV000054475" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/60662/?new_evidence=true#id_second" target="_blank">60662</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/587777019" target="_blank">rs587777019</a></td>
+<td>GRCh37: 19:3113410-3113410<br/>GRCh38: 19:3113412-3113412</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.178C&gt;T (p.Arg60Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002504951/" title="RCV002504951" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/60665/?new_evidence=true#id_second" target="_blank">60665</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/587777021" target="_blank">rs587777021</a></td>
+<td>GRCh37: 19:3110188-3110188<br/>GRCh38: 19:3110190-3110190</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.95A&gt;G (p.Asp32Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000857316/" title="RCV000857316" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/695113/?new_evidence=true#id_second" target="_blank">695113</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200234790" target="_blank">rs200234790</a></td>
+<td>GRCh37: 19:3094744-3094744<br/>GRCh38: 19:3094746-3094746</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.605+10G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002478083/" title="RCV002478083" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1346018/?new_evidence=true#id_second" target="_blank">1346018</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3115080-3115080<br/>GRCh38: 19:3115082-3115082</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.605+5C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002478217/" title="RCV002478217" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1380445/?new_evidence=true#id_second" target="_blank">1380445</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3115075-3115075<br/>GRCh38: 19:3115077-3115077</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.138C&gt;T (p.Gly46=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002486405/" title="RCV002486405" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1041640/?new_evidence=true#id_second" target="_blank">1041640</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/776843648" target="_blank">rs776843648</a></td>
+<td>GRCh37: 19:3110148-3110148<br/>GRCh38: 19:3110150-3110150</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.889+5G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002492044/" title="RCV002492044" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1441235/?new_evidence=true#id_second" target="_blank">1441235</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3119362-3119362<br/>GRCh38: 19:3119364-3119364</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.805G&gt;A (p.Val269Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002493677/" title="RCV002493677" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1021156/?new_evidence=true#id_second" target="_blank">1021156</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/144829732" target="_blank">rs144829732</a></td>
+<td>GRCh37: 19:3119273-3119273<br/>GRCh38: 19:3119275-3119275</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.287C&gt;T (p.Thr96Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002480772/" title="RCV002480772" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/962298/?new_evidence=true#id_second" target="_blank">962298</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/756991534" target="_blank">rs756991534</a></td>
+<td>GRCh37: 19:3110297-3110297<br/>GRCh38: 19:3110299-3110299</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.592A&gt;C (p.Asn198His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002486585/" title="RCV002486585" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1494776/?new_evidence=true#id_second" target="_blank">1494776</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3115057-3115057<br/>GRCh38: 19:3115059-3115059</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.889+4C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002504560/" title="RCV002504560" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1046037/?new_evidence=true#id_second" target="_blank">1046037</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/375701661" target="_blank">rs375701661</a></td>
+<td>GRCh37: 19:3119361-3119361<br/>GRCh38: 19:3119363-3119363</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.501C&gt;T (p.Ile167=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002498243/" title="RCV002498243" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1569238/?new_evidence=true#id_second" target="_blank">1569238</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3114966-3114966<br/>GRCh38: 19:3114968-3114968</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.240C&gt;T (p.Tyr80=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002501786/" title="RCV002501786" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1166476/?new_evidence=true#id_second" target="_blank">1166476</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3110250-3110250<br/>GRCh38: 19:3110252-3110252</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.476+13G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002500126/" title="RCV002500126" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1618412/?new_evidence=true#id_second" target="_blank">1618412</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3113495-3113495<br/>GRCh38: 19:3113497-3113497</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.889+14C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002500321/" title="RCV002500321" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1647955/?new_evidence=true#id_second" target="_blank">1647955</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3119371-3119371<br/>GRCh38: 19:3119373-3119373</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.477-12G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002507898/" title="RCV002507898" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1558386/?new_evidence=true#id_second" target="_blank">1558386</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3114930-3114930<br/>GRCh38: 19:3114932-3114932</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.987G&gt;A (p.Thr329=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002501697/" title="RCV002501697" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1152992/?new_evidence=true#id_second" target="_blank">1152992</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3121084-3121084<br/>GRCh38: 19:3121086-3121086</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.912G&gt;A (p.Ala304=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002494093/" title="RCV002494093" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1557723/?new_evidence=true#id_second" target="_blank">1557723</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3121009-3121009<br/>GRCh38: 19:3121011-3121011</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.322-10G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002495796/" title="RCV002495796" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1166032/?new_evidence=true#id_second" target="_blank">1166032</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3113318-3113318<br/>GRCh38: 19:3113320-3113320</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.889+7C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002498225/" title="RCV002498225" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1564725/?new_evidence=true#id_second" target="_blank">1564725</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3119364-3119364<br/>GRCh38: 19:3119366-3119366</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.705C&gt;T (p.Tyr235=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002501424/" title="RCV002501424" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/714387/?new_evidence=true#id_second" target="_blank">714387</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/138168314" target="_blank">rs138168314</a></td>
+<td>GRCh37: 19:3119021-3119021<br/>GRCh38: 19:3119023-3119023</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.322-5C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002501517/" title="RCV002501517" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1104401/?new_evidence=true#id_second" target="_blank">1104401</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3113323-3113323<br/>GRCh38: 19:3113325-3113325</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.462C&gt;T (p.Ser154=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002501624/" title="RCV002501624" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1134504/?new_evidence=true#id_second" target="_blank">1134504</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3113468-3113468<br/>GRCh38: 19:3113470-3113470</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.915G&gt;A (p.Ala305=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002501760/" title="RCV002501760" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1164828/?new_evidence=true#id_second" target="_blank">1164828</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3121012-3121012<br/>GRCh38: 19:3121014-3121014</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.570C&gt;T (p.Ile190=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002488219/" title="RCV002488219" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1085884/?new_evidence=true#id_second" target="_blank">1085884</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3115035-3115035<br/>GRCh38: 19:3115037-3115037</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.489C&gt;T (p.Asp163=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002488325/" title="RCV002488325" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1166475/?new_evidence=true#id_second" target="_blank">1166475</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3114954-3114954<br/>GRCh38: 19:3114956-3114956</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.606-6T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002507942/" title="RCV002507942" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1578150/?new_evidence=true#id_second" target="_blank">1578150</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:3118916-3118916<br/>GRCh38: 19:3118918-3118918</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td style="overflow-wrap:break-word;">NM_002067.5(GNA11):c.885C&gt;T (p.Phe295=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002502684/" title="RCV002502684" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/730070/?new_evidence=true#id_second" target="_blank">730070</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/147368872" target="_blank">rs147368872</a></td>
+<td>GRCh37: 19:3119353-3119353<br/>GRCh38: 19:3119355-3119355</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Hypocalciuric Hypercalcemia, Familial, Type Ii:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a></td>
+<td>p.Leu135Gln</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_070166.html" target="_blank">VAR_070166</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/587777019" target="_blank">rs587777019</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Hypocalciuric%20Hypercalcemia%2C%20Familial%2C%20Type%20Ii%22%5BMeSH%20Terms%5D%20OR%20%22Hypocalciuric%20Hypercalcemia%2C%20Familial%2C%20Type%20Ii%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Hypocalciuric Hypercalcemia, Familial, Type Ii.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Hypocalciuric Hypercalcemia, Familial, Type Ii according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Signal_Transduction_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/signal_transduction" target="_blank">Signal Transduction</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-162582" target="_blank">66</a></sup>
+</div>
+</td>
+<td>12.97</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="CASR gene information at GeneCards" target="_blank">CASR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CDC73&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="CDC73 gene information at GeneCards" target="_blank">CDC73</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH4&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="ADH4 gene information at GeneCards" target="_blank">ADH4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AP2S1&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="AP2S1 gene information at GeneCards" target="_blank">AP2S1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MEN1&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="MEN1 gene information at GeneCards" target="_blank">MEN1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="PTH gene information at GeneCards" target="_blank">PTH</a> </td>
+</tr>
+<tr id="Ca,_cAMP_and_Lipid_Signaling_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/ca_camp_and_lipid_signaling" target="_blank">Ca, cAMP and Lipid Signaling</a>
+<sup title="Cell Signaling Technology"> <a href="https://www.cellsignal.com/pathways/by-research-area" target="_blank">3</a></sup>
+</div>
+</td>
+<td>11.43</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=Ca%2c+cAMP+and+Lipid+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="CASR gene information at GeneCards" target="_blank">CASR</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=Ca%2c+cAMP+and+Lipid+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=Ca%2c+cAMP+and+Lipid+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> </td>
+</tr>
+<tr id="Platelet_Aggregation_Inhibitor_Pathway,_Pharmacodynamics_3">
+<td>3</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/platelet_aggregation_inhibitor_pathway_pharmacodynamics" target="_blank">Platelet Aggregation Inhibitor Pathway, Pharmacodynamics</a>
+<sup title="Pharmacogenomics Knowledge Base"> <a href="http://www.pharmgkb.org/pathway/PA154444041" target="_blank">60</a></sup>
+</div>
+</td>
+<td>11.14</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=Platelet+Aggregation+Inhibitor+Pathway%2c+Pharmacodynamics&amp;prefilter=pathways_interactions#pathways_interactions" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=Platelet+Aggregation+Inhibitor+Pathway%2c+Pharmacodynamics&amp;prefilter=pathways_interactions#pathways_interactions" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> </td>
+</tr>
+<tr id="ethanol_degradation_II_4">
+<td>4</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/ethanol_degradation_ii" target="_blank">ethanol degradation II</a>
+<sup title="PubChem"> <a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY66-21#section=Diagram" target="_blank">61</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY0-1313#section=Diagram" target="_blank">acetate conversion to acetyl-CoA</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY66-161#section=Diagram" target="_blank">ethanol degradation III</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY66-162#section=Diagram" target="_blank">ethanol degradation IV</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP4966" target="_blank">Fluoroacetic acid toxicity</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-6318#section=Diagram" target="_blank">L-phenylalanine degradation IV (mammalian, via side chain)</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-6342#section=Diagram" target="_blank">noradrenaline and adrenaline degradation</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/HUMANCYC:PWY66-161#section=Diagram" target="_blank">oxidative ethanol degradation III</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-0#section=Diagram" target="_blank">putrescine degradation III</a>
+<sup title="PubChem">61</sup>
+</div>
+</div>
+</td>
+<td>10.98</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=ethanol+degradation+II&amp;prefilter=pathways_interactions#pathways_interactions" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH4&amp;keywords=ethanol+degradation+II&amp;prefilter=pathways_interactions#pathways_interactions" title="ADH4 gene information at GeneCards" target="_blank">ADH4</a> </td>
+</tr>
+<tr id="CFTR-dependent_regulation_of_ion_channels_in_Airway_Epithelium_(norm_and_CF)_5">
+<td>5</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/cftr-dependent_regulation_of_ion_channels_in_airway_epithelium_(norm_and_cf)" target="_blank">CFTR-dependent regulation of ion channels in Airway Epithelium (norm and CF)</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+</td>
+<td>10.91</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=CFTR-dependent+regulation+of+ion+channels+in+Airway+Epithelium+(norm+and+CF)&amp;prefilter=pathways_interactions#pathways_interactions" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=CFTR-dependent+regulation+of+ion+channels+in+Airway+Epithelium+(norm+and+CF)&amp;prefilter=pathways_interactions#pathways_interactions" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> </td>
+</tr>
+<tr id="Cyclophosphamide_Pathway,_Pharmacodynamics_6">
+<td>6</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/cyclophosphamide_pathway_pharmacodynamics" target="_blank">Cyclophosphamide Pathway, Pharmacodynamics</a>
+<sup title="Pharmacogenomics Knowledge Base"> <a href="http://www.pharmgkb.org/pathway/PA2035" target="_blank">60</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="http://www.pharmgkb.org/pathway/PA2038" target="_blank">Ifosfamide Pathway, Pharmacodynamics</a>
+<sup title="Pharmacogenomics Knowledge Base">60</sup>
+</div>
+</div>
+</td>
+<td>10.81</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=Cyclophosphamide+Pathway%2c+Pharmacodynamics&amp;prefilter=pathways_interactions#pathways_interactions" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH4&amp;keywords=Cyclophosphamide+Pathway%2c+Pharmacodynamics&amp;prefilter=pathways_interactions#pathways_interactions" title="ADH4 gene information at GeneCards" target="_blank">ADH4</a> </td>
+</tr>
+<tr id="PKC-gamma_calcium_signaling_pathway_in_ataxia_7">
+<td>7</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/pkc-gamma_calcium_signaling_pathway_in_ataxia" target="_blank">PKC-gamma calcium signaling pathway in ataxia</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP4760" target="_blank">74</a></sup>
+</div>
+</td>
+<td>10.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=PKC-gamma+calcium+signaling+pathway+in+ataxia&amp;prefilter=pathways_interactions#pathways_interactions" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=PKC-gamma+calcium+signaling+pathway+in+ataxia&amp;prefilter=pathways_interactions#pathways_interactions" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> </td>
+</tr>
+<tr id="Development_Hedgehog_and_PTH_signaling_pathways_in_bone_and_cartilage_development_8">
+<td>8</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/development_hedgehog_and_pth_signaling_pathways_in_bone_and_cartilage_development" target="_blank">Development_Hedgehog and PTH signaling pathways in bone and cartilage development</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+</td>
+<td>10.39</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=Development_Hedgehog+and+PTH+signaling+pathways+in+bone+and+cartilage+development&amp;prefilter=pathways_interactions#pathways_interactions" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=Development_Hedgehog+and+PTH+signaling+pathways+in+bone+and+cartilage+development&amp;prefilter=pathways_interactions#pathways_interactions" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=Development_Hedgehog+and+PTH+signaling+pathways+in+bone+and+cartilage+development&amp;prefilter=pathways_interactions#pathways_interactions" title="PTH gene information at GeneCards" target="_blank">PTH</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Biological processes related to Hypocalciuric Hypercalcemia, Familial, Type Ii according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>intracellular calcium ion homeostasis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006874" target="_blank">GO:0006874</a></td>
+<td>9.93</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=intracellular+calcium+ion+homeostasis&amp;prefilter=go_proc#go_proc" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GCM2&amp;keywords=intracellular+calcium+ion+homeostasis&amp;prefilter=go_proc#go_proc" title="GCM2 gene information at GeneCards" target="_blank">GCM2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=intracellular+calcium+ion+homeostasis&amp;prefilter=go_proc#go_proc" title="CASR gene information at GeneCards" target="_blank">CASR</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>action potential</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0001508" target="_blank">GO:0001508</a></td>
+<td>9.78</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=action+potential&amp;prefilter=go_proc#go_proc" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=action+potential&amp;prefilter=go_proc#go_proc" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>G protein-coupled acetylcholine receptor signaling pathway</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0007213" target="_blank">GO:0007213</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=G+protein-coupled+acetylcholine+receptor+signaling+pathway&amp;prefilter=go_proc#go_proc" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=G+protein-coupled+acetylcholine+receptor+signaling+pathway&amp;prefilter=go_proc#go_proc" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>phototransduction, visible light</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0007603" target="_blank">GO:0007603</a></td>
+<td>9.67</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=phototransduction%2c+visible+light&amp;prefilter=go_proc#go_proc" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=phototransduction%2c+visible+light&amp;prefilter=go_proc#go_proc" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>ethanol oxidation</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006069" target="_blank">GO:0006069</a></td>
+<td>9.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH4&amp;keywords=ethanol+oxidation&amp;prefilter=go_proc#go_proc" title="ADH4 gene information at GeneCards" target="_blank">ADH4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=ethanol+oxidation&amp;prefilter=go_proc#go_proc" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>response to fibroblast growth factor</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0071774" target="_blank">GO:0071774</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PTH&amp;keywords=response+to+fibroblast+growth+factor&amp;prefilter=go_proc#go_proc" title="PTH gene information at GeneCards" target="_blank">PTH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CASR&amp;keywords=response+to+fibroblast+growth+factor&amp;prefilter=go_proc#go_proc" title="CASR gene information at GeneCards" target="_blank">CASR</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>small molecule metabolic process</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0044281" target="_blank">GO:0044281</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH4&amp;keywords=small+molecule+metabolic+process&amp;prefilter=go_proc#go_proc" title="ADH4 gene information at GeneCards" target="_blank">ADH4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=small+molecule+metabolic+process&amp;prefilter=go_proc#go_proc" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>phospholipase C-activating dopamine receptor signaling pathway</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0060158" target="_blank">GO:0060158</a></td>
+<td>9.33</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=phospholipase+C-activating+dopamine+receptor+signaling+pathway&amp;prefilter=go_proc#go_proc" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=phospholipase+C-activating+dopamine+receptor+signaling+pathway&amp;prefilter=go_proc#go_proc" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td>alcohol metabolic process</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006066" target="_blank">GO:0006066</a></td>
+<td>9.13</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH4&amp;keywords=alcohol+metabolic+process&amp;prefilter=go_proc#go_proc" title="ADH4 gene information at GeneCards" target="_blank">ADH4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=alcohol+metabolic+process&amp;prefilter=go_proc#go_proc" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td>entrainment of circadian clock</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0009649" target="_blank">GO:0009649</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=entrainment+of+circadian+clock&amp;prefilter=go_proc#go_proc" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=entrainment+of+circadian+clock&amp;prefilter=go_proc#go_proc" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Hypocalciuric Hypercalcemia, Familial, Type Ii according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>G-protein beta/gamma-subunit complex binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031683" target="_blank">GO:0031683</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=G-protein+beta%2fgamma-subunit+complex+binding&amp;prefilter=go_func#go_func" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=G-protein+beta%2fgamma-subunit+complex+binding&amp;prefilter=go_func#go_func" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>NAD-retinol dehydrogenase activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0004745" target="_blank">GO:0004745</a></td>
+<td>9.46</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH4&amp;keywords=NAD-retinol+dehydrogenase+activity&amp;prefilter=go_func#go_func" title="ADH4 gene information at GeneCards" target="_blank">ADH4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=NAD-retinol+dehydrogenase+activity&amp;prefilter=go_func#go_func" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>guanyl nucleotide binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0019001" target="_blank">GO:0019001</a></td>
+<td>8.96</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNAQ&amp;keywords=guanyl+nucleotide+binding&amp;prefilter=go_func#go_func" title="GNAQ gene information at GeneCards" target="_blank">GNAQ</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GNA11&amp;keywords=guanyl+nucleotide+binding&amp;prefilter=go_func#go_func" title="GNA11 gene information at GeneCards" target="_blank">GNA11</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>alcohol dehydrogenase activity, zinc-dependent</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0004024" target="_blank">GO:0004024</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH4&amp;keywords=alcohol+dehydrogenase+activity%2c+zinc-dependent&amp;prefilter=go_func#go_func" title="ADH4 gene information at GeneCards" target="_blank">ADH4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ADH1B&amp;keywords=alcohol+dehydrogenase+activity%2c+zinc-dependent&amp;prefilter=go_func#go_func" title="ADH1B gene information at GeneCards" target="_blank">ADH1B</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Hypocalciuric Hypercalcemia, Familial, Type Ii</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#e0939590908f9294a08c8986858d81909383ce838f8d">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ebef7c9539d84',t:'MTY5NTI2MTk1NS45ODIwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

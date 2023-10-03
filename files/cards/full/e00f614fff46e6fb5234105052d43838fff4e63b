@@ -1,0 +1,3520 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Ghosal Hematodiaphyseal Dysplasia disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/ghosal_hematodiaphyseal_dysplasia" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'ghosal_hematodiaphyseal_dysplasia';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+GHDD <div class="symbol">MCID: GHS005</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 43
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Ghosal Hematodiaphyseal Dysplasia</span>
+(<span itemprop="alternateName">GHDD</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Blood diseases, Bone diseases, Fetal diseases, Genetic diseases, Immune diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#abd8cac7ced8ebc7c2cdcec6cadbd8c885c8c4c6" target="_blank"><span class="__cf_email__" data-cfemail="e695878a8395a68a8f80838b87969585c885898b">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="11 Genes associated with Ghosal Hematodiaphyseal Dysplasia">Genes</a>
+<a href="#genetic_variations" title="21 Variations associated with Ghosal Hematodiaphyseal Dysplasia">Variations</a>
+<a href="#anatomical_context" title="4 Tissues associated with Ghosal Hematodiaphyseal Dysplasia">Tissues</a>
+<a href="#disorders" title="53 Related diseases associated with Ghosal Hematodiaphyseal Dysplasia">Related diseases</a>
+<a href="#publications" title="23 Publications associated with Ghosal Hematodiaphyseal Dysplasia">Publications</a>
+<a href="#clinical_features" title="27 Symptoms &amp; Phenotypes associated with Ghosal Hematodiaphyseal Dysplasia">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/ghosal_hematodiaphyseal_dysplasia?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Ghosal Hematodiaphyseal Dysplasia:</h3>
+<div class="main-name">
+Name: <b>Ghosal Hematodiaphyseal Dysplasia</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/231095" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0112251" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/10297/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/ghosal-hematodiaphyseal-dysplasia" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1802" title="Orphanet" target="_blank">58</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01657" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1856465" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Ghosal_hematodiaphyseal_dysplasia" title="Wikipedia" target="_blank">75</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Ghosal Syndrome
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/231095" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0112251" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/10297/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/ghosal-hematodiaphyseal-dysplasia" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1802" title="Orphanet" target="_blank">58</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=231095" title="diseasecard" target="_blank">12</a></sup>
+</div>
+<div>
+Ghosal Hematodiaphyseal Syndrome
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/231095" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0112251" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/01813" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<div>
+Diaphyseal Dysplasia-Anemia Syndrome
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0112251" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/10297/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1802" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Ghdd
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/231095" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/ghosal-hematodiaphyseal-dysplasia" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01657" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Diaphyseal Dysplasia Associated with Anemia
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/ghosal-hematodiaphyseal-dysplasia" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+</div>
+<div>
+Ghosal-Type Hemato-Diaphyseal Dysplasia
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/ghosal-hematodiaphyseal-dysplasia" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+</div>
+<div>
+Ghosal Hemato-Diaphyseal Dysplasia
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/ghosal-hematodiaphyseal-dysplasia" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1802" target="_blank">58</a></sup>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/231095" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/231095" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>variable phenotype</span>
+<br/>
+<span>anemia is responsive to corticosteroid treatment</span>
+<br/>
+<span>most patients present in infancy with anemia</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/bone_disease_list" target="_blank">Bone diseases</a> <a href="https://www.malacards.org/categories/immune_disease_list" target="_blank">Immune diseases</a> <a href="https://www.malacards.org/categories/blood_disease_list" target="_blank">Blood diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/XVII" title="XVII" target="_blank">Congenital malformations, deformations and chromosomal abnormalities</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q65-Q79" title="Q65-Q79" target="_blank">Congenital malformations and deformations of the musculoskeletal system</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q78" title="Q78" target="_blank">Other osteochondrodysplasias</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q78.8" title="Q78.8" target="_blank">Other specified osteochondrodysplasias</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare bone diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Developmental anomalies during embryogenesis <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0112251" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0112251" target="_blank">DOID:0112251</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/231095" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/231095" target="_blank">231095</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q78.8" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q78.8" target="_blank">Q78.8</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="UMLS via Orphanet">UMLS via Orphanet</b>
+<sup title="UMLS via Orphanet"><span>72</span> </sup>
+<span>C1856465</span>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_5">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1802" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1802" target="_blank">ORPHA1802</a>
+</div>
+<div id="ExternalId_item_6">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1856465" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1856465" target="_blank">C1856465</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/128845005" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/128845005" target="_blank">128845005</a> <a href="http://www.snomedbrowser.com/Codes/Details/16294009" target="_blank">16294009</a> <a href="http://www.snomedbrowser.com/Codes/Details/165397008" target="_blank">165397008</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/271737000" target="_blank">271737000</a> <a href="http://www.snomedbrowser.com/Codes/Details/302215000" target="_blank">302215000</a> <a href="http://www.snomedbrowser.com/Codes/Details/318761000119105" target="_blank">318761000119105</a> <a href="http://www.snomedbrowser.com/Codes/Details/34643004" target="_blank">34643004</a> <a href="http://www.snomedbrowser.com/Codes/Details/415116008" target="_blank">415116008</a> <a href="http://www.snomedbrowser.com/Codes/Details/49347007" target="_blank">49347007</a> <a href="http://www.snomedbrowser.com/Codes/Details/52967002" target="_blank">52967002</a> <a href="http://www.snomedbrowser.com/Codes/Details/84828003" target="_blank">84828003</a> </span>
+<span class="showmore">
+<a title="show all 11" id="ExternalId_showmore_7" href="javascript:showMoreTable('ExternalId_item_7','ExternalId_showmore_7','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_8">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C1856465</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://ghr.nlm.nih.gov/condition/ghosal-hematodiaphyseal-dysplasia" target="_blank">MedlinePlus Genetics</a>:</b>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/ghosal-hematodiaphyseal-dysplasia" target="_blank">42</a></sup>
+Ghosal hematodiaphyseal dysplasia is a rare inherited condition characterized by abnormally thick bones and a shortage of red blood cells (anemia). Signs and symptoms of the condition become apparent in early childhood.In affected individuals, the long bones in the arms and legs are unusually dense and wide. The bone changes specifically affect the shafts of the long bones, called diaphyses, and areas near the ends of the bones called metaphyses. The bone abnormalities can lead to bowing of the legs and difficulty walking.Ghosal hematodiaphyseal dysplasia also causes scarring (fibrosis) of the bone marrow, which is the spongy tissue inside long bones where blood cells are formed. The abnormal bone marrow cannot produce enough red blood cells, which leads to anemia. Signs and symptoms of anemia that have been reported in people with Ghosal hematodiaphyseal dysplasia include extremely pale skin (pallor) and excessive tiredness (fatigue).</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Ghosal Hematodiaphyseal Dysplasia, also known as <i>ghosal syndrome</i>, is related to <i><a href="/card/camurati_engelmann_disease" target="_blank">camurati-engelmann disease</a></i> and <i><a href="/card/myelofibrosis" target="_blank">myelofibrosis</a></i>. An important gene associated with Ghosal Hematodiaphyseal Dysplasia is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" target="_blank">TBXAS1</a> (Thromboxane A Synthase 1), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/transcription_role_of_vdr_in_regulation_of_genes_involved_in_osteoporosis" target="_blank">Transcription_Role of VDR in regulation of genes involved in osteoporosis</a></i> and <i><a href="https://pathcards.genecards.org/card/type_i_collagen_synthesis_in_the_context_of_osteogenesis_imperfecta" target="_blank">Type I collagen synthesis in the context of osteogenesis imperfecta</a></i>. Affiliated tissues include <i>bone</i> and <i>bone marrow</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0004493" target="_blank">craniofacial hyperostosis</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0006487" target="_blank">bowing of the long bones</a></i></p>
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-01657" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01657" target="_blank">73</a></sup>
+Rare autosomal recessive disorder characterized by increased bone density with predominant diaphyseal involvement and aregenerative corticosteroid-sensitive anemia. Aregenerative anemia is characterized by bone marrow failure, so that functional marrow cells are regenerated slowly or not at all.</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0112251" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0112251" target="_blank">11</a></sup>
+A syndrome characterized by increased bone density with predominant diaphyseal involvement and aregenerative corticosteroid-sensitive anemia that has material basis in homozygous or compound heterozygous mutation in TBXAS1 on chromosome 7q34.</p><p> <b> <a href="http://omim.org/entry/231095#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/231095#description" target="_blank">57</a></sup>
+Ghosal hematodiaphyseal dysplasia (GHDD) is an autosomal recessive disorder characterized by increased bone density with predominant diaphyseal involvement and aregenerative corticosteroid-sensitive anemia (summary by Genevieve et al., 2008). <span> (231095) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="https://rarediseases.info.nih.gov/diseases/10297/index" target="_blank">GARD</a>:</b>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/10297/index" target="_blank">19</a></sup>
+Ghosal hematodiaphyseal dysplasia syndrome (GHDD) is a rare disorder characterized by increased bone density (predominantly diaphyseal) and aregenerative corticosteroid-sensitive anemia.</p><p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1802" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=1802" target="_blank">58</a></sup>
+Ghosal hematodiaphyseal dysplasia syndrome (GHDD) is a rare disorder characterized by increased bone density (predominantly diaphyseal) and aregenerative corticosteroid-sensitive anemia.</p><p> <b> <a href="https://en.wikipedia.org/wiki/Ghosal_hematodiaphyseal_dysplasia" target="_blank">Wikipedia</a>:</b>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Ghosal_hematodiaphyseal_dysplasia" target="_blank">75</a></sup>
+Ghosal hematodiaphyseal dysplasia, is a rare, autosomal recessive disease, characterized by diaphyseal... <a href="https://en.wikipedia.org/wiki/Ghosal_hematodiaphyseal_dysplasia" target="_blank">more...</a></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Ghosal Hematodiaphyseal Dysplasia via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('RelatedDiseases', '53', 'RelatedDiseases-table');">show all 53</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/camurati_engelmann_disease" target="_blank">camurati-engelmann disease</a></td>
+<td>31.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=camurati-engelmann+disease&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1&amp;keywords=camurati-engelmann+disease&amp;prefilter=diseases#diseases" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/myelofibrosis" target="_blank">myelofibrosis</a></td>
+<td>10.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=myelofibrosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/deficiency_anemia" target="_blank">deficiency anemia</a></td>
+<td>10.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=deficiency+anemia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/refractory_anemia" target="_blank">refractory anemia</a></td>
+<td>10.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=refractory+anemia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/splenomegaly" target="_blank">splenomegaly</a></td>
+<td>10.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=splenomegaly&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/metaphyseal_dysplasia" target="_blank">metaphyseal dysplasia</a></td>
+<td>10.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=metaphyseal+dysplasia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/aplastic_anemia" target="_blank">aplastic anemia</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=aplastic+anemia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/pancytopenia" target="_blank">pancytopenia</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=pancytopenia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/thrombocytopenia" target="_blank">thrombocytopenia</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=thrombocytopenia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/hyperostosis" target="_blank">hyperostosis</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hyperostosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/myelophthisic_anemia" target="_blank">myelophthisic anemia</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=myelophthisic+anemia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/temporomandibular_joint_anomaly" target="_blank">temporomandibular joint anomaly</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=temporomandibular+joint+anomaly&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=temporomandibular+joint+anomaly&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/periodontitis_chronic" target="_blank">periodontitis, chronic</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=periodontitis%2c+chronic&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=periodontitis%2c+chronic&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/paget_disease_of_bone_5_juvenile_onset" target="_blank">paget disease of bone 5, juvenile-onset</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=paget+disease+of+bone+5%2c+juvenile-onset&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=paget+disease+of+bone+5%2c+juvenile-onset&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/multicentric_carpotarsal_osteolysis_syndrome" target="_blank">multicentric carpotarsal osteolysis syndrome</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=multicentric+carpotarsal+osteolysis+syndrome&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=multicentric+carpotarsal+osteolysis+syndrome&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/familial_expansile_osteolysis" target="_blank">familial expansile osteolysis</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=familial+expansile+osteolysis&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=familial+expansile+osteolysis&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/mammary_pagets_disease" target="_blank">mammary paget&#39;s disease</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=mammary+paget%27s+disease&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=mammary+paget%27s+disease&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/root_resorption" target="_blank">root resorption</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=root+resorption&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=root+resorption&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/benign_giant_cell_tumor" target="_blank">benign giant cell tumor</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=benign+giant+cell+tumor&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=benign+giant+cell+tumor&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/renal_osteodystrophy" target="_blank">renal osteodystrophy</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=renal+osteodystrophy&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=renal+osteodystrophy&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/hermansky_pudlak_syndrome_due_to_bloc_2_deficiency" target="_blank">hermansky-pudlak syndrome due to bloc-2 deficiency</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=hermansky-pudlak+syndrome+due+to+bloc-2+deficiency&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=hermansky-pudlak+syndrome+due+to+bloc-2+deficiency&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/ankylosis" target="_blank">ankylosis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=ankylosis&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=ankylosis&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/hermansky_pudlak_syndrome_5" target="_blank">hermansky-pudlak syndrome 5</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=hermansky-pudlak+syndrome+5&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=hermansky-pudlak+syndrome+5&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/storage_pool_platelet_disease" target="_blank">storage pool platelet disease</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=storage+pool+platelet+disease&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=storage+pool+platelet+disease&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="/card/hermansky_pudlak_syndrome_6" target="_blank">hermansky-pudlak syndrome 6</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=hermansky-pudlak+syndrome+6&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=hermansky-pudlak+syndrome+6&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="/card/bleeding_disorder_platelet_type_8" target="_blank">bleeding disorder, platelet-type, 8</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=bleeding+disorder%2c+platelet-type%2c+8&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=bleeding+disorder%2c+platelet-type%2c+8&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="/card/albinism_oculocutaneous_type_iv" target="_blank">albinism, oculocutaneous, type iv</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=albinism%2c+oculocutaneous%2c+type+iv&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=albinism%2c+oculocutaneous%2c+type+iv&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="/card/griscelli_syndrome_type_1_2" target="_blank">griscelli syndrome, type 1</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=griscelli+syndrome%2c+type+1&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=griscelli+syndrome%2c+type+1&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="/card/griscelli_syndrome" target="_blank">griscelli syndrome</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=griscelli+syndrome&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=griscelli+syndrome&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="/card/pathologic_nystagmus" target="_blank">pathologic nystagmus</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=pathologic+nystagmus&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=pathologic+nystagmus&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="/card/craniometaphyseal_dysplasia_autosomal_dominant" target="_blank">craniometaphyseal dysplasia, autosomal dominant</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=craniometaphyseal+dysplasia%2c+autosomal+dominant&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=craniometaphyseal+dysplasia%2c+autosomal+dominant&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="/card/albinism_oculocutaneous_type_ii" target="_blank">albinism, oculocutaneous, type ii</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=albinism%2c+oculocutaneous%2c+type+ii&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=albinism%2c+oculocutaneous%2c+type+ii&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="/card/albinism_oculocutaneous_type_iii" target="_blank">albinism, oculocutaneous, type iii</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=albinism%2c+oculocutaneous%2c+type+iii&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=albinism%2c+oculocutaneous%2c+type+iii&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="/card/pagets_disease_of_bone" target="_blank">paget&#39;s disease of bone</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=paget%27s+disease+of+bone&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=paget%27s+disease+of+bone&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="/card/congenital_nystagmus" target="_blank">congenital nystagmus</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=congenital+nystagmus&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=congenital+nystagmus&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="/card/hermansky_pudlak_syndrome_3" target="_blank">hermansky-pudlak syndrome 3</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=hermansky-pudlak+syndrome+3&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=hermansky-pudlak+syndrome+3&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="/card/hermansky_pudlak_syndrome_1" target="_blank">hermansky-pudlak syndrome 1</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=hermansky-pudlak+syndrome+1&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=hermansky-pudlak+syndrome+1&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="/card/bleeding_disorder_platelet_type_14" target="_blank">bleeding disorder, platelet-type, 14</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1&amp;keywords=bleeding+disorder%2c+platelet-type%2c+14&amp;prefilter=diseases#diseases" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=bleeding+disorder%2c+platelet-type%2c+14&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=bleeding+disorder%2c+platelet-type%2c+14&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="/card/hereditary_persistence_of_fetal_hemoglobin_beta_thalassemia_syndrome" target="_blank">hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=hereditary+persistence+of+fetal+hemoglobin-beta-thalassemia+syndrome&amp;prefilter=diseases#diseases" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=hereditary+persistence+of+fetal+hemoglobin-beta-thalassemia+syndrome&amp;prefilter=diseases#diseases" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="/card/hereditary_persistence_of_fetal_hemoglobin_sickle_cell_disease_syndrome" target="_blank">hereditary persistence of fetal hemoglobin-sickle cell disease syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=hereditary+persistence+of+fetal+hemoglobin-sickle+cell+disease+syndrome&amp;prefilter=diseases#diseases" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=hereditary+persistence+of+fetal+hemoglobin-sickle+cell+disease+syndrome&amp;prefilter=diseases#diseases" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="/card/autosomal_dominant_beta_thalassemia" target="_blank">autosomal dominant beta thalassemia</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=autosomal+dominant+beta+thalassemia&amp;prefilter=diseases#diseases" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=autosomal+dominant+beta+thalassemia&amp;prefilter=diseases#diseases" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="/card/alpha_thalassemia_myelodysplasia_syndrome" target="_blank">alpha-thalassemia myelodysplasia syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=alpha-thalassemia+myelodysplasia+syndrome&amp;prefilter=diseases#diseases" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=alpha-thalassemia+myelodysplasia+syndrome&amp;prefilter=diseases#diseases" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="/card/thalassemia_minor" target="_blank">thalassemia minor</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=thalassemia+minor&amp;prefilter=diseases#diseases" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=thalassemia+minor&amp;prefilter=diseases#diseases" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="/card/hemoglobin_c_disease" target="_blank">hemoglobin c disease</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=hemoglobin+c+disease&amp;prefilter=diseases#diseases" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=hemoglobin+c+disease&amp;prefilter=diseases#diseases" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="/card/albinism_ocular_type_i" target="_blank">albinism, ocular, type i</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=albinism%2c+ocular%2c+type+i&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=albinism%2c+ocular%2c+type+i&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="/card/beta_thalassemia_intermedia" target="_blank">beta-thalassemia intermedia</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=beta-thalassemia+intermedia&amp;prefilter=diseases#diseases" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=beta-thalassemia+intermedia&amp;prefilter=diseases#diseases" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="/card/fetal_hemoglobin_quantitative_trait_locus_1" target="_blank">fetal hemoglobin quantitative trait locus 1</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=fetal+hemoglobin+quantitative+trait+locus+1&amp;prefilter=diseases#diseases" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=fetal+hemoglobin+quantitative+trait+locus+1&amp;prefilter=diseases#diseases" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="/card/chediak_higashi_syndrome" target="_blank">chediak-higashi syndrome</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=chediak-higashi+syndrome&amp;prefilter=diseases#diseases" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=chediak-higashi+syndrome&amp;prefilter=diseases#diseases" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="/card/osteosclerosis" target="_blank">osteosclerosis</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=osteosclerosis&amp;prefilter=diseases#diseases" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=osteosclerosis&amp;prefilter=diseases#diseases" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> </td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="/card/blood_protein_disease" target="_blank">blood protein disease</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=blood+protein+disease&amp;prefilter=diseases#diseases" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=blood+protein+disease&amp;prefilter=diseases#diseases" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Ghosal Hematodiaphyseal Dysplasia:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/ghosal_hematodiaphyseal_dysplasia_related_diseases.jpg" width="100%" alt="Diseases related to Ghosal Hematodiaphyseal Dysplasia" title="Diseases related to Ghosal Hematodiaphyseal Dysplasia" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Ghosal Hematodiaphyseal Dysplasia:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 24', 'showing 24, show less','collapsable')">show all 24</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+craniofacial hyperostosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004493" target="_blank">HP:0004493</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+bowing of the long bones
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006487" target="_blank">HP:0006487</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+abnormal cortical bone morphology
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003103" target="_blank">HP:0003103</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+anemia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001903" target="_blank">HP:0001903</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+abnormal form of the vertebral bodies
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003312" target="_blank">HP:0003312</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+diaphyseal thickening
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005019" target="_blank">HP:0005019</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+abnormality of immune system physiology
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010978" target="_blank">HP:0010978</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+abnormality of femur morphology
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002823" target="_blank">HP:0002823</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+abnormality of tibia morphology
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002992" target="_blank">HP:0002992</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+abnormal pelvic girdle bone morphology
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002644" target="_blank">HP:0002644</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+abnormal metaphysis morphology
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000944" target="_blank">HP:0000944</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+splenomegaly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001744" target="_blank">HP:0001744</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+leukopenia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001882" target="_blank">HP:0001882</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+abnormality of speech or vocalization
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002167" target="_blank">HP:0002167</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+hyperostosis cranialis interna
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.6%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005890" target="_blank">HP:0005890</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+neurological speech impairment
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+abnormality of the metaphysis
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+thrombocytopenia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001873" target="_blank">HP:0001873</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+abnormality of pelvic girdle bone morphology
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+increased bone mineral density
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011001" target="_blank">HP:0011001</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+bone marrow hypocellularity
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005528" target="_blank">HP:0005528</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+myelofibrosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011974" target="_blank">HP:0011974</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+refractory anemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005505" target="_blank">HP:0005505</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+diaphyseal dysplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100252" target="_blank">HP:0100252</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/231095" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Hematology:</u><br/>
+<span>thrombocytopenia</span>
+<br/>
+<span>myelofibrosis</span>
+<br/>
+<span>anemia, corticosteroid-sensitive</span>
+<br/>
+<span>leukopenia (less common)</span>
+<br/>
+<span>hypocellular bone marrow</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Skeletal:</u><br/>
+<span>increased bone density</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Skeletal Limbs:</u><br/>
+<span>diaphyseal dysplasia</span>
+<br/>
+<span>cortical hyperostosis</span>
+<br/>
+<span>thick long bones of the extremities</span>
+<br/>
+<span>wide diaphyseal medullary cavities</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/231095#clinicalFeatures" target="_blank">231095</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Ghosal Hematodiaphyseal Dysplasia" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Ghosal Hematodiaphyseal Dysplasia&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Ghosal Hematodiaphyseal Dysplasia</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Ghosal Hematodiaphyseal Dysplasia:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Ghosal Hematodiaphyseal Dysplasia
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1856465" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1&amp;keywords=ghosal+hematodiaphyseal+dysplasia&amp;prefilter=diseases#diseases" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Ghosal Hematodiaphyseal Dysplasia: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="10.20421">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="8.97659">Bone Marrow</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="1.510042">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span>Blood And Bone Marrow</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/231095/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Ghosal Hematodiaphyseal Dysplasia according to PubMed, OMIM&#174;, and ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Thromboxane synthase mutations in an increased bone density disorder (Ghosal syndrome).
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Genevieve D...Cormier-Daire V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18264100" target="_blank">18264100</a></td>
+<td>2008</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A gene responsible for Ghosal hemato-diaphyseal dysplasia maps to chromosome 7q33-34.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Isidor B...Cormier-Daire V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17203301" target="_blank">17203301</a></td>
+<td>2007</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Diaphyseal dysplasia associated with anemia.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ghosal SP...Ghosh AK</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/3385529" target="_blank">3385529</a></td>
+<td>1988</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ghosal haemato-diaphyseal dysplasia: a new disorder.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gumruk F...Altay C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8444247" target="_blank">8444247</a></td>
+<td>1993</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+High-dose intravenous methylprednisolone therapy for anemia associated with diaphyseal dysplasia.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ozsoylu S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2715908" target="_blank">2715908</a></td>
+<td>1989</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Ghosal Hematodiaphyseal Dysplasia according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show all 18', 'showing 18, show less','collapsable')">show all 18</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Blocking COX unlocks response in GHDD.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sukumar S...Sasa G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36995703" target="_blank">36995703</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Nonsteroidal anti-inflammatory drugs as a targeted therapy for bone marrow failure in Ghosal hematodiaphyseal dysplasia.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Brown TJ...Babushok DV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36574346" target="_blank">36574346</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Novel TBXAS1 variants in two Indian children with Ghosal hematodiaphyseal dysplasia: A concise report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sudhakar M...Vignesh P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35395429" target="_blank">35395429</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A Recurrent Biallelic Pathogenic Variant in TBXAS1 Gene Causing Ghosal Hematodiaphyseal Dysplasia.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Selina A...Madhuri V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33244729" target="_blank">33244729</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Novel compound heterozygous variants of TBXAS1 presenting with Ghosal hematodiaphyseal dysplasia treated with steroids.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kim SY...Bhat R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33595912" target="_blank">33595912</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ghosal hematodiaphyseal dysplasia and response to corticosteroid therapy.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Joy P...Danda S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33185009" target="_blank">33185009</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ghosal Hematodiaphyseal Dysplasia: A Case Report.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Shakiba M...Yasaei M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32461797" target="_blank">32461797</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ghosal hematodiaphyseal dysplasia with autoimmune anemia in two adult siblings.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ciftciler R...Haznedaroglu IC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31395426" target="_blank">31395426</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ghosal Hemato-diaphyseal Dysplasia: A Rare Variety of Hypoplastic Anemia with Good Response to Steroid Therapy.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kini PG...Narain AT</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29398828" target="_blank">29398828</a></td>
+<td>2018</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chronic steroid-response pancytopenia and increased bone density due to thromboxane synthase deficiency.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sharma R...Nalepa G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28868793" target="_blank">28868793</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ghosal Syndrome--Ten Years Follow-up.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mondal R...Sabui T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25598443" target="_blank">25598443</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Steroid-responsive anemia in patients of Ghosal hematodiaphyseal dysplasia: simple to diagnose and easy to treat.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">John RR...Mathew LG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25374284" target="_blank">25374284</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ghosal hematodiaphyseal dysplasia-a concise review including an illustrative patient.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Arora R...Deme S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25172219" target="_blank">25172219</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ghosal hematodiaphyseal dysplasia with myelofibrosis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Datta K...Banerjee G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22983925" target="_blank">22983925</a></td>
+<td>2013</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ghosal hematodiaphyseal dysplasia: a rare cause of a myelophthisic anemia.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mazaheri P...Resar LM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20672367" target="_blank">20672367</a></td>
+<td>2010</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Heritable sclerosing bone disorders: presentation and new molecular mechanisms.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">de Vernejoul MC...Kornak U</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20392246" target="_blank">20392246</a></td>
+<td>2010</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Ghosal type hemato-diaphyseal dysplasia: a rare variety of Engelmann's disease.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mondal RK...Mukherjee K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17401271" target="_blank">17401271</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Early manifestation of Ghosal-type hemato-diaphyseal dysplasia.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Alebouyeh M...Tabarrok F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12775540" target="_blank">12775540</a></td>
+<td>2003</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Ghosal Hematodiaphyseal Dysplasia (1 elite genes):</h3>
+<span class="showmore">
+(<a id="RelatedGenes-table_SeeMore" href="javascript:showMoreTable('RelatedGenes-table','RelatedGenes-table_SeeMore', 'show all 11', 'showing 11, show less','collapsable')">show all 11</a>)
+</span>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Thromboxane A Synthase 1</td>
+<td>Protein Coding</td>
+<td>1701.9</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/274180" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=16752" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000389414&amp;type2=-26&amp;id2=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_TBXAS1">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1&amp;keywords=Ghosal+Hematodiaphyseal+Dysplasia&amp;prefilter=diseases#diseases" title="TBXAS1 gene information at GeneCards" target="_blank">Disorders</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1&amp;keywords=Ghosal+Hematodiaphyseal+Dysplasia&amp;prefilter=publications#publications" title="TBXAS1 gene information at GeneCards" target="_blank">Publications</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_TBXAS1_SeeMore" href="javascript:showMoreTable('related_genes_TBXAS1','related_genes_TBXAS1_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/17203301" title="ClinVar" target="_blank">17203301</a> <a href="https://pubmed.ncbi.nlm.nih.gov/18264100" title="ClinVar" target="_blank">18264100</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a></div>
+</div>
+</td>
+<td>TNF Receptor Superfamily Member 11b</td>
+<td>Protein Coding</td>
+<td>5.95</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000297350&amp;type2=-26&amp;id2=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a></div>
+</div>
+</td>
+<td>TNF Superfamily Member 11</td>
+<td>Protein Coding</td>
+<td>5.18</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000381775&amp;type2=-26&amp;id2=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LRRC14" title="LRRC14 gene information at GeneCards" target="_blank">LRRC14</a></div>
+</div>
+</td>
+<td>Leucine Rich Repeat Containing 14</td>
+<td>Protein Coding</td>
+<td>5.03</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000292524&amp;type2=-26&amp;id2=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a></div>
+</div>
+</td>
+<td>HPS5 Biogenesis Of Lysosomal Organelles Complex 2 Subunit 2</td>
+<td>Protein Coding</td>
+<td>4.92</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000265967&amp;type2=-26&amp;id2=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a></div>
+</div>
+</td>
+<td>HPS6 Biogenesis Of Lysosomal Organelles Complex 2 Subunit 3</td>
+<td>Protein Coding</td>
+<td>4.91</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000299238&amp;type2=-26&amp;id2=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a></div>
+</div>
+</td>
+<td>Hemoglobin Subunit Gamma 2</td>
+<td>Protein Coding</td>
+<td>4.83</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000369609&amp;type2=-26&amp;id2=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FERMT3" title="FERMT3 gene information at GeneCards" target="_blank">FERMT3</a></div>
+</div>
+</td>
+<td>FERM Domain Containing Kindlin 3</td>
+<td>Protein Coding</td>
+<td>4.77</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000279227&amp;type2=-26&amp;id2=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a></div>
+</div>
+</td>
+<td>Hemoglobin Subunit Gamma 1</td>
+<td>Protein Coding</td>
+<td>4.68</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000327431&amp;type2=-26&amp;id2=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">10</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDPR" title="PDPR gene information at GeneCards" target="_blank">PDPR</a></div>
+</div>
+</td>
+<td>Pyruvate Dehydrogenase Phosphatase Regulatory Subunit</td>
+<td>Protein Coding</td>
+<td>4.4</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000288050&amp;type2=-26&amp;id2=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_10">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">11</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NUPR2" title="NUPR2 gene information at GeneCards" target="_blank">NUPR2</a></div>
+</div>
+</td>
+<td>Nuclear Protein 2, Transcriptional Regulator</td>
+<td>Protein Coding</td>
+<td>4.37</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000455442&amp;type2=-26&amp;id2=DOID:0112251" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_11">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Ghosal Hematodiaphyseal Dysplasia:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show all 17', 'showing 17, show less','collapsable')">show all 17</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.1460T&gt;C (p.Leu487Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012661/" title="RCV000012661" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11886/?new_evidence=true#id_second" target="_blank">11886</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/199422114" target="_blank">rs199422114</a></td>
+<td>GRCh37: 7:139717566-139717566<br/>GRCh38: 7:140017766-140017766</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.1441G&gt;T (p.Gly481Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012663/" title="RCV000012663" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11888/?new_evidence=true#id_second" target="_blank">11888</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/199422116" target="_blank">rs199422116</a></td>
+<td>GRCh37: 7:139717547-139717547<br/>GRCh38: 7:140017747-140017747</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.193G&gt;T (p.Glu65Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001332733/" title="RCV001332733" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1031016/?new_evidence=true#id_second" target="_blank">1031016</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/775012519" target="_blank">rs775012519</a></td>
+<td>GRCh37: 7:139575393-139575393<br/>GRCh38: 7:139875594-139875594</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.245T&gt;C (p.Leu82Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012662/" title="RCV000012662" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11887/?new_evidence=true#id_second" target="_blank">11887</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/140005285" target="_blank">rs140005285</a></td>
+<td>GRCh37: 7:139611032-139611032<br/>GRCh38: 7:139911233-139911233</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.1235G&gt;A (p.Arg412Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001283757/" title="RCV001283757" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012664/" title="RCV000012664" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11889/?new_evidence=true#id_second" target="_blank">11889</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/199422117" target="_blank">rs199422117</a></td>
+<td>GRCh37: 7:139715531-139715531<br/>GRCh38: 7:140015731-140015731</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.580_581del (p.Ala194fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000768381/" title="RCV000768381" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/626225/?new_evidence=true#id_second" target="_blank">626225</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/760698812" target="_blank">rs760698812</a></td>
+<td>GRCh37: 7:139655297-139655298<br/>GRCh38: 7:139955498-139955499</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.859C&gt;T (p.His287Tyr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002264889/" title="RCV002264889" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1695387/?new_evidence=true#id_second" target="_blank">1695387</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:139661757-139661757<br/>GRCh38: 7:139961958-139961958</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.1417G&gt;T (p.Gly473Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000768333/" title="RCV000768333" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/626181/?new_evidence=true#id_second" target="_blank">626181</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/149988492" target="_blank">rs149988492</a></td>
+<td>GRCh37: 7:139717523-139717523<br/>GRCh38: 7:140017723-140017723</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.122_135del (p.Lys41fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001523794/" title="RCV001523794" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/992886/?new_evidence=true#id_second" target="_blank">992886</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:139572063-139572076<br/>GRCh38: 7:139872264-139872277</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.1420del (p.Ala474fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001542423/" title="RCV001542423" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/194017/?new_evidence=true#id_second" target="_blank">194017</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/794727053" target="_blank">rs794727053</a></td>
+<td>GRCh37: 7:139717523-139717523<br/>GRCh38: 7:140017723-140017723</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.734A&gt;G (p.Asn245Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002290847/" title="RCV002290847" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1575649/?new_evidence=true#id_second" target="_blank">1575649</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:139657478-139657478<br/>GRCh38: 7:139957679-139957679</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.1420G&gt;A (p.Ala474Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001542424/" title="RCV001542424" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1184409/?new_evidence=true#id_second" target="_blank">1184409</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:139717526-139717526<br/>GRCh38: 7:140017726-140017726</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.824G&gt;A (p.Arg275Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003140911/" title="RCV003140911" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2436991/?new_evidence=true#id_second" target="_blank">2436991</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:139661722-139661722<br/>GRCh38: 7:139961923-139961923</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.790G&gt;T (p.Ala264Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001270143/" title="RCV001270143" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/432476/?new_evidence=true#id_second" target="_blank">432476</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/376564758" target="_blank">rs376564758</a></td>
+<td>GRCh37: 7:139657534-139657534<br/>GRCh38: 7:139957735-139957735</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.880G&gt;A (p.Val294Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002479100/" title="RCV002479100" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/773757/?new_evidence=true#id_second" target="_blank">773757</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/13306052" target="_blank">rs13306052</a></td>
+<td>GRCh37: 7:139661778-139661778<br/>GRCh38: 7:139961979-139961979</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.999C&gt;T (p.Gly333=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002498215/" title="RCV002498215" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1563020/?new_evidence=true#id_second" target="_blank">1563020</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:139661897-139661897<br/>GRCh38: 7:139962098-139962098</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td style="overflow-wrap:break-word;">NM_001061.7(TBXAS1):c.1066C&gt;G (p.Leu356Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000987981/" title="RCV000987981" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/498646/?new_evidence=true#id_second" target="_blank">498646</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/4529" target="_blank">rs4529</a></td>
+<td>GRCh37: 7:139661964-139661964<br/>GRCh38: 7:139962165-139962165</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Ghosal Hematodiaphyseal Dysplasia:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td>p.Leu82Pro</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_044386.html" target="_blank">VAR_044386</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/140005285" target="_blank">rs140005285</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td>p.Arg412Gln</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_044388.html" target="_blank">VAR_044388</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/199422117" target="_blank">rs199422117</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td>p.Gly481Trp</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_044389.html" target="_blank">VAR_044389</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/199422116" target="_blank">rs199422116</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a></td>
+<td>p.Leu487Pro</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_044390.html" target="_blank">VAR_044390</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/199422114" target="_blank">rs199422114</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Ghosal%20Hematodiaphyseal%20Dysplasia%22%5BMeSH%20Terms%5D%20OR%20%22Ghosal%20Hematodiaphyseal%20Dysplasia%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Ghosal Hematodiaphyseal Dysplasia.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Ghosal Hematodiaphyseal Dysplasia according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Transcription_Role_of_VDR_in_regulation_of_genes_involved_in_osteoporosis_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/transcription_role_of_vdr_in_regulation_of_genes_involved_in_osteoporosis" target="_blank">Transcription_Role of VDR in regulation of genes involved in osteoporosis</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+</td>
+<td>10.61</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=Transcription_Role+of+VDR+in+regulation+of+genes+involved+in+osteoporosis&amp;prefilter=pathways_interactions#pathways_interactions" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=Transcription_Role+of+VDR+in+regulation+of+genes+involved+in+osteoporosis&amp;prefilter=pathways_interactions#pathways_interactions" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> </td>
+</tr>
+<tr id="Type_I_collagen_synthesis_in_the_context_of_osteogenesis_imperfecta_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/type_i_collagen_synthesis_in_the_context_of_osteogenesis_imperfecta" target="_blank">Type I collagen synthesis in the context of osteogenesis imperfecta</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP4786" target="_blank">74</a></sup>
+</div>
+</td>
+<td>10.14</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFRSF11B&amp;keywords=Type+I+collagen+synthesis+in+the+context+of+osteogenesis+imperfecta&amp;prefilter=pathways_interactions#pathways_interactions" title="TNFRSF11B gene information at GeneCards" target="_blank">TNFRSF11B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNFSF11&amp;keywords=Type+I+collagen+synthesis+in+the+context+of+osteogenesis+imperfecta&amp;prefilter=pathways_interactions#pathways_interactions" title="TNFSF11 gene information at GeneCards" target="_blank">TNFSF11</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Cellular components related to Ghosal Hematodiaphyseal Dysplasia according to GeneCards Suite gene sharing:</h3>
+<table id="go_cc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>hemoglobin complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005833" target="_blank">GO:0005833</a></td>
+<td>9.46</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=hemoglobin+complex&amp;prefilter=go_cc#go_cc" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=hemoglobin+complex&amp;prefilter=go_cc#go_cc" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>haptoglobin-hemoglobin complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031838" target="_blank">GO:0031838</a></td>
+<td>9.26</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=haptoglobin-hemoglobin+complex&amp;prefilter=go_cc#go_cc" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=haptoglobin-hemoglobin+complex&amp;prefilter=go_cc#go_cc" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>BLOC-2 complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031084" target="_blank">GO:0031084</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=BLOC-2+complex&amp;prefilter=go_cc#go_cc" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=BLOC-2+complex&amp;prefilter=go_cc#go_cc" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Biological processes related to Ghosal Hematodiaphyseal Dysplasia according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>hydrogen peroxide catabolic process</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0042744" target="_blank">GO:0042744</a></td>
+<td>9.71</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=hydrogen+peroxide+catabolic+process&amp;prefilter=go_proc#go_proc" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=hydrogen+peroxide+catabolic+process&amp;prefilter=go_proc#go_proc" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>platelet dense granule organization</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0060155" target="_blank">GO:0060155</a></td>
+<td>9.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=platelet+dense+granule+organization&amp;prefilter=go_proc#go_proc" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=platelet+dense+granule+organization&amp;prefilter=go_proc#go_proc" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>melanosome assembly</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:1903232" target="_blank">GO:1903232</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=melanosome+assembly&amp;prefilter=go_proc#go_proc" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=melanosome+assembly&amp;prefilter=go_proc#go_proc" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>pigmentation</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0043473" target="_blank">GO:0043473</a></td>
+<td>9.43</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=pigmentation&amp;prefilter=go_proc#go_proc" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=pigmentation&amp;prefilter=go_proc#go_proc" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>obsolete positive regulation of cell death</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0010942" target="_blank">GO:0010942</a></td>
+<td>9.37</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=obsolete+positive+regulation+of+cell+death&amp;prefilter=go_proc#go_proc" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=obsolete+positive+regulation+of+cell+death&amp;prefilter=go_proc#go_proc" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>organelle organization</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006996" target="_blank">GO:0006996</a></td>
+<td>9.33</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS6&amp;keywords=organelle+organization&amp;prefilter=go_proc#go_proc" title="HPS6 gene information at GeneCards" target="_blank">HPS6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HPS5&amp;keywords=organelle+organization&amp;prefilter=go_proc#go_proc" title="HPS5 gene information at GeneCards" target="_blank">HPS5</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>oxygen transport</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0015671" target="_blank">GO:0015671</a></td>
+<td>9.26</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=oxygen+transport&amp;prefilter=go_proc#go_proc" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=oxygen+transport&amp;prefilter=go_proc#go_proc" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>carbon dioxide transport</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0015670" target="_blank">GO:0015670</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=carbon+dioxide+transport&amp;prefilter=go_proc#go_proc" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=carbon+dioxide+transport&amp;prefilter=go_proc#go_proc" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Ghosal Hematodiaphyseal Dysplasia according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>heme binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0020037" target="_blank">GO:0020037</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TBXAS1&amp;keywords=heme+binding&amp;prefilter=go_func#go_func" title="TBXAS1 gene information at GeneCards" target="_blank">TBXAS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=heme+binding&amp;prefilter=go_func#go_func" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=heme+binding&amp;prefilter=go_func#go_func" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>oxygen binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0019825" target="_blank">GO:0019825</a></td>
+<td>9.71</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=oxygen+binding&amp;prefilter=go_func#go_func" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=oxygen+binding&amp;prefilter=go_func#go_func" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>peroxidase activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0004601" target="_blank">GO:0004601</a></td>
+<td>9.67</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=peroxidase+activity&amp;prefilter=go_func#go_func" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=peroxidase+activity&amp;prefilter=go_func#go_func" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>oxygen carrier activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005344" target="_blank">GO:0005344</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=oxygen+carrier+activity&amp;prefilter=go_func#go_func" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=oxygen+carrier+activity&amp;prefilter=go_func#go_func" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>organic acid binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0043177" target="_blank">GO:0043177</a></td>
+<td>9.46</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=organic+acid+binding&amp;prefilter=go_func#go_func" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=organic+acid+binding&amp;prefilter=go_func#go_func" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>haptoglobin binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031720" target="_blank">GO:0031720</a></td>
+<td>9.26</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=haptoglobin+binding&amp;prefilter=go_func#go_func" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=haptoglobin+binding&amp;prefilter=go_func#go_func" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>hemoglobin alpha binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031721" target="_blank">GO:0031721</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG2&amp;keywords=hemoglobin+alpha+binding&amp;prefilter=go_func#go_func" title="HBG2 gene information at GeneCards" target="_blank">HBG2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=HBG1&amp;keywords=hemoglobin+alpha+binding&amp;prefilter=go_func#go_func" title="HBG1 gene information at GeneCards" target="_blank">HBG1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Ghosal Hematodiaphyseal Dysplasia</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#3744424747584543775b5e51525a564744541954585a">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ed789d84b9d43',t:'MTY5NTI2Mjk2Mi4zNzcwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

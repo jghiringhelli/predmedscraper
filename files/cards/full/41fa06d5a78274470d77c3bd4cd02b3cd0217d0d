@@ -1,0 +1,3952 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Methylmalonic Aciduria and Homocystinuria, Cbld Type disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/methylmalonic_aciduria_and_homocystinuria_cbld_type" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'methylmalonic_aciduria_and_homocystinuria_cbld_type';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+MAHCD <div class="symbol">MCID: MTH055</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 43
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Methylmalonic Aciduria and Homocystinuria, Cbld Type</span>
+(<span itemprop="alternateName">MAHCD</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Blood diseases, Genetic diseases, Metabolic diseases, Nephrological diseases, Neuronal diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#becddfd2dbcdfed2d7d8dbd3dfcecddd90ddd1d3" target="_blank"><span class="__cf_email__" data-cfemail="5c2f3d30392f1c30353a39313d2c2f3f723f3331">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="7 Genes associated with Methylmalonic Aciduria and Homocystinuria, Cbld Type">Genes</a>
+<a href="#genetic_variations" title="226 Variations associated with Methylmalonic Aciduria and Homocystinuria, Cbld Type">Variations</a>
+<a href="#anatomical_context" title="3 Tissues associated with Methylmalonic Aciduria and Homocystinuria, Cbld Type">Tissues</a>
+<a href="#disorders" title="26 Related diseases associated with Methylmalonic Aciduria and Homocystinuria, Cbld Type">Related diseases</a>
+<a href="#publications" title="21 Publications associated with Methylmalonic Aciduria and Homocystinuria, Cbld Type">Publications</a>
+<a href="#clinical_features" title="34 Symptoms &amp; Phenotypes associated with Methylmalonic Aciduria and Homocystinuria, Cbld Type">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/methylmalonic_aciduria_and_homocystinuria_cbld_type?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Methylmalonic Aciduria and Homocystinuria, Cbld Type:</h3>
+<div class="main-name">
+Name: <b>Methylmalonic Aciduria and Homocystinuria, Cbld Type</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/277410" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00745" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Methylmalonic Aciduria and Homocystinuria Type Cbld
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0050716" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1848552" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0050716" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<div>
+Homocystinuria, Cbld Type, Variant 1
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/277410" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1848553" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=277410" title="diseasecard" target="_blank">12</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Vitamin B12-Responsive Methylmalonic Acidemia, Type Cbldv2
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=308442" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1848554" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Mahcd
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/277410" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00745" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Combined Defect in Adenosylcobalamin and Methylcobalamin Synthesis, Type Cbld
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=79283" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Vitamin B12-Responsive Methylmalonic Aciduria, Type Cbldv2
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=308442" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Methylmalonic Aciduria and Homocystinuria Cbld-Combined
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00745" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Methylmalonic Aciduria and Homocystinuria Cbld Original
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00745" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Aciduria, Methylmalonic, and Homocystinuria, Cbld Type
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/02121" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<div>
+Functional Methionine Synthase Deficiency Type Cbldv1
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=308380" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Methylmalonic Acidemia with Homocystinuria, Type Cbld
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=79283" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Methylmalonic Aciduria with Homocystinuria, Type Cbld
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=79283" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Methylmalonic Acidemia and Homocystinuria, Cbld Type
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/277410" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Methylmalonic Acidemia and Homocystinuria Cbld Type
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00745" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Methylmalonic Aciduria, Cbld Type, Variant 2
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/277410" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Methylmalonic Aciduria, Cblh Type, Formerly
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/277410" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Methylmalonic Acidemia, Cblh Type, Formerly
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/277410" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Methylcobalamin Deficiency Type Cbldv1
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=308380" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Methylmalonic Aciduria Cbld Variant 2
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00745" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Homocystinuria Cbld Variant 1
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00745" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Cobalamin D Deficiency
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0050716" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Cobalamin D Defect
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=79283" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Cbld Defect
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=79283" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Methylmalonic Aciduria and Homocystinuria, Cbld Type:</b>
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/277410" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>Methylmalonic Acidemia with Homocystinuria, Type Cbld:</b>
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=79283" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+<b>Methylmalonic Acidemia with Homocystinuria, Type Cbld:</b>
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=79283" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>Methylmalonic Acidemia with Homocystinuria, Type Cbld:</b>
+All ages <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=79283" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/277410" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>onset in infancy</span>
+<br/>
+<span>good response to vitamin b12 therapy &#39;variant 1&#39; has isolated homocystinuria and decreased mecbl</span>
+<br/>
+<span>&#39;variant 2&#39; has isolated methylmalonicaciduria and decreased adocbl</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/nephrological_disease_list" target="_blank">Nephrological diseases</a> <a href="https://www.malacards.org/categories/blood_disease_list" target="_blank">Blood diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/IV" title="IV" target="_blank">Endocrine, nutritional and metabolic diseases</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70-E90" title="E70-E90" target="_blank">Metabolic disorders</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E71" title="E71" target="_blank">Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E71.1" title="E71.1" target="_blank">Other disorders of branched-chain amino-acid metabolism</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72" title="E72" target="_blank">Other disorders of amino-acid metabolism</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72.1" title="E72.1" target="_blank">Disorders of sulfur-bearing amino-acid metabolism</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare neurological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare renal diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Inborn errors of metabolism <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare haematological diseases <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0050716" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0050716" target="_blank">DOID:0050716</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/277410" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/277410" target="_blank">277410</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS277400" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS277400" target="_blank">PS277400</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D006712" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D006712" target="_blank">D006712</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D008661" target="_blank">D008661</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E71.1" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E71.1" target="_blank">E71.1</a> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E72.1" target="_blank">E72.1</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_6">
+<b title="UMLS via Orphanet">UMLS via Orphanet</b>
+<sup title="UMLS via Orphanet"><span>72</span> </sup>
+<span>C1848552</span>
+</div>
+<div id="ExternalId_item_7">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=308380" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=308380" target="_blank">ORPHA308380</a> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=308442" target="_blank">ORPHA308442</a> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=79283" target="_blank">ORPHA79283</a>
+</div>
+<div id="ExternalId_item_8">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1848552" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1848552" target="_blank">C1848552</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1848553" target="_blank">C1848553</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1848554" target="_blank">C1848554</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C2678262" target="_blank">C2678262</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/C2678263" target="_blank">C2678263</a> </span>
+<span class="showmore">
+<a title="show all 5" id="ExternalId_showmore_8" href="javascript:showMoreTable('ExternalId_item_8','ExternalId_showmore_8','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_9">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/11282001" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/11282001" target="_blank">11282001</a> <a href="http://www.snomedbrowser.com/Codes/Details/128613002" target="_blank">128613002</a> <a href="http://www.snomedbrowser.com/Codes/Details/167921008" target="_blank">167921008</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/214264003" target="_blank">214264003</a> <a href="http://www.snomedbrowser.com/Codes/Details/22325002" target="_blank">22325002</a> <a href="http://www.snomedbrowser.com/Codes/Details/224958001" target="_blank">224958001</a> <a href="http://www.snomedbrowser.com/Codes/Details/228156007" target="_blank">228156007</a> <a href="http://www.snomedbrowser.com/Codes/Details/246545002" target="_blank">246545002</a> <a href="http://www.snomedbrowser.com/Codes/Details/247578003" target="_blank">247578003</a> <a href="http://www.snomedbrowser.com/Codes/Details/248274002" target="_blank">248274002</a> <a href="http://www.snomedbrowser.com/Codes/Details/25786006" target="_blank">25786006</a> <a href="http://www.snomedbrowser.com/Codes/Details/277843001" target="_blank">277843001</a> <a href="http://www.snomedbrowser.com/Codes/Details/278849000" target="_blank">278849000</a> <a href="http://www.snomedbrowser.com/Codes/Details/313307000" target="_blank">313307000</a> <a href="http://www.snomedbrowser.com/Codes/Details/36440009" target="_blank">36440009</a> <a href="http://www.snomedbrowser.com/Codes/Details/398151007" target="_blank">398151007</a> <a href="http://www.snomedbrowser.com/Codes/Details/398152000" target="_blank">398152000</a> <a href="http://www.snomedbrowser.com/Codes/Details/398979000" target="_blank">398979000</a> <a href="http://www.snomedbrowser.com/Codes/Details/42393006" target="_blank">42393006</a> <a href="http://www.snomedbrowser.com/Codes/Details/432788009" target="_blank">432788009</a> <a href="http://www.snomedbrowser.com/Codes/Details/53165003" target="_blank">53165003</a> <a href="http://www.snomedbrowser.com/Codes/Details/563001" target="_blank">563001</a> <a href="http://www.snomedbrowser.com/Codes/Details/60342002" target="_blank">60342002</a> <a href="http://www.snomedbrowser.com/Codes/Details/79890006" target="_blank">79890006</a> <a href="http://www.snomedbrowser.com/Codes/Details/84229001" target="_blank">84229001</a> <a href="http://www.snomedbrowser.com/Codes/Details/84757009" target="_blank">84757009</a> <a href="http://www.snomedbrowser.com/Codes/Details/91138005" target="_blank">91138005</a> <a href="http://www.snomedbrowser.com/Codes/Details/91175000" target="_blank">91175000</a> </span>
+<span class="showmore">
+<a title="show all 28" id="ExternalId_showmore_9" href="javascript:showMoreTable('ExternalId_item_9','ExternalId_showmore_9','more','less','collapsable')">more</a>
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://omim.org/entry/277410#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/277410#description" target="_blank">57</a></sup>
+Combined methylmalonic aciduria (MMA) and homocystinuria is a genetically heterogeneous disorder of cobalamin (cbl; vitamin B12) metabolism. The defect causes decreased levels of the coenzymes adenosylcobalamin (AdoCbl) and methylcobalamin (MeCbl), which results in decreased activity of the respective enzymes methylmalonyl-CoA mutase (MUT; 609058) and methyltetrahydrofolate:homocysteine methyltransferase, also known as methionine synthase (MTR; 156570). Different forms of the disorder have been classified according to complementation groups of cells in vitro: cblC (MAHCC; 277400), cblD, cblF (MAHCF; 277380), and cblJ (MAHCJ; 614857).
+Isolated methylmalonic acidurias have also been classified by complementation groups: MMA 'mut' (251000), caused by mutation in the MUT gene on chromosome 6p21; MMA cblA (251100), caused by mutation in the MMAA gene (607481) on 4q31; and MMA cblB (251110), caused by mutation in the MMAB gene (607568) on 12q24. Another form of isolated MMA (613646) can be caused by defect in the transcobalamin receptor (CD320; 606475). <span> (277410) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Methylmalonic Aciduria and Homocystinuria, Cbld Type, also known as <i>methylmalonic aciduria and homocystinuria type cbld</i>, is related to <i><a href="/card/methylmalonic_aciduria_and_homocystinuria_cblf_type" target="_blank">methylmalonic aciduria and homocystinuria, cblf type</a></i> and <i><a href="/card/disorders_of_intracellular_cobalamin_metabolism" target="_blank">disorders of intracellular cobalamin metabolism</a></i>. An important gene associated with Methylmalonic Aciduria and Homocystinuria, Cbld Type is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" target="_blank">MMADHC</a> (Metabolism Of Cobalamin Associated D), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/diseases_of_glycosylation" target="_blank">Diseases of glycosylation</a></i> and <i><a href="https://pathcards.genecards.org/card/metabolism_of_water-soluble_vitamins_and_cofactors" target="_blank">Metabolism of water-soluble vitamins and cofactors</a></i>. Affiliated tissues include <i>bone marrow</i> and <i>bone</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0001249" target="_blank">intellectual disability</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">seizure</a></i></p>
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-00745" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00745" target="_blank">73</a></sup>
+An autosomal recessive disorder of cobalamin metabolism characterized by decreased levels of the coenzymes adenosylcobalamin (AdoCbl) and methylcobalamin (MeCbl). Clinical features include developmental delay, hyotonia, intellectual disability, seizures, megaloblastic anemia. Some patients manifest combined methylmalonic aciduria and homocystinuria (referred to as cblD original), some have only isolated homocystinuria (cblD variant 1), and others have only methylmalonic aciduria (cblD variant 2).</p><p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=79283" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=79283" target="_blank">58</a></sup>
+<i>cblD</i> type methylmalonic acidemia with homocystinuria is a form of methylmalonic acidemia with homocystinuria (see this term), an inborn error of vitamin B12 (cobalamin) metabolism characterized by variable biochemical, neurological and hematological manifestations.</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0050716" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0050716" target="_blank">11</a></sup>
+A methylmalonic aciduria that is characterized by combined homocystinuria and methylmalonic aciduria and deficiency of MCM and MS activities.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Methylmalonic Aciduria and Homocystinuria, Cbld Type via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 26', 'showing 26, show less','collapsable')">show all 26</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/methylmalonic_aciduria_and_homocystinuria_cblf_type" target="_blank">methylmalonic aciduria and homocystinuria, cblf type</a></td>
+<td>31.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=methylmalonic+aciduria+and+homocystinuria%2c+cblf+type&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=methylmalonic+aciduria+and+homocystinuria%2c+cblf+type&amp;prefilter=diseases#diseases" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/disorders_of_intracellular_cobalamin_metabolism" target="_blank">disorders of intracellular cobalamin metabolism</a></td>
+<td>30.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=disorders+of+intracellular+cobalamin+metabolism&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=disorders+of+intracellular+cobalamin+metabolism&amp;prefilter=diseases#diseases" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/methylmalonic_aciduria_and_homocystinuria_cblc_type" target="_blank">methylmalonic aciduria and homocystinuria, cblc type</a></td>
+<td>29.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=methylmalonic+aciduria+and+homocystinuria%2c+cblc+type&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=methylmalonic+aciduria+and+homocystinuria%2c+cblc+type&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=methylmalonic+aciduria+and+homocystinuria%2c+cblc+type&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=methylmalonic+aciduria+and+homocystinuria%2c+cblc+type&amp;prefilter=diseases#diseases" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/homocystinuria" target="_blank">homocystinuria</a></td>
+<td>28.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=homocystinuria&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=homocystinuria&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=homocystinuria&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=homocystinuria&amp;prefilter=diseases#diseases" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/megaloblastic_anemia" target="_blank">megaloblastic anemia</a></td>
+<td>28.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=megaloblastic+anemia&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=megaloblastic+anemia&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=megaloblastic+anemia&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=megaloblastic+anemia&amp;prefilter=diseases#diseases" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/methylmalonic_acidemia" target="_blank">methylmalonic acidemia</a></td>
+<td>28.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=methylmalonic+acidemia&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=methylmalonic+acidemia&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=methylmalonic+acidemia&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=methylmalonic+acidemia&amp;prefilter=diseases#diseases" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/enterocolitis" target="_blank">enterocolitis</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=enterocolitis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/adult_respiratory_distress_syndrome" target="_blank">adult respiratory distress syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=adult+respiratory+distress+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/perinatal_necrotizing_enterocolitis" target="_blank">perinatal necrotizing enterocolitis</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=perinatal+necrotizing+enterocolitis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/neutropenia" target="_blank">neutropenia</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=neutropenia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/isolated_methylmalonic_acidemia" target="_blank">isolated methylmalonic acidemia</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=isolated+methylmalonic+acidemia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/methylmalonic_acidemia_with_homocystinuria" target="_blank">methylmalonic acidemia with homocystinuria</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=methylmalonic+acidemia+with+homocystinuria&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/hypermethioninemia" target="_blank">hypermethioninemia</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=hypermethioninemia&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=hypermethioninemia&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/transcobalamin_ii_deficiency" target="_blank">transcobalamin ii deficiency</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=transcobalamin+ii+deficiency&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=transcobalamin+ii+deficiency&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/methylmalonic_aciduria_cbla_type_2" target="_blank">methylmalonic aciduria, cbla type</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=methylmalonic+aciduria%2c+cbla+type&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=methylmalonic+aciduria%2c+cbla+type&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/methylmalonic_aciduria_cblb_type" target="_blank">methylmalonic aciduria, cblb type</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=methylmalonic+aciduria%2c+cblb+type&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=methylmalonic+aciduria%2c+cblb+type&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/gallbladder_papillomatosis" target="_blank">gallbladder papillomatosis</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=gallbladder+papillomatosis&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=gallbladder+papillomatosis&amp;prefilter=diseases#diseases" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/combined_malonic_and_methylmalonic_aciduria" target="_blank">combined malonic and methylmalonic aciduria</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=combined+malonic+and+methylmalonic+aciduria&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=combined+malonic+and+methylmalonic+aciduria&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/maple_syrup_urine_disease" target="_blank">maple syrup urine disease</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=maple+syrup+urine+disease&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=maple+syrup+urine+disease&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/gaucher_disease_type_iii" target="_blank">gaucher disease, type iii</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=gaucher+disease%2c+type+iii&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=gaucher+disease%2c+type+iii&amp;prefilter=diseases#diseases" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/glutaric_acidemia_i" target="_blank">glutaric acidemia i</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=glutaric+acidemia+i&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=glutaric+acidemia+i&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=glutaric+acidemia+i&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/propionic_acidemia" target="_blank">propionic acidemia</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=propionic+acidemia&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=propionic+acidemia&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=propionic+acidemia&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/amino_acid_metabolic_disorder" target="_blank">amino acid metabolic disorder</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=amino+acid+metabolic+disorder&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=amino+acid+metabolic+disorder&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=amino+acid+metabolic+disorder&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/vitamin_metabolic_disorder" target="_blank">vitamin metabolic disorder</a></td>
+<td>9.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=vitamin+metabolic+disorder&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=vitamin+metabolic+disorder&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=vitamin+metabolic+disorder&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=vitamin+metabolic+disorder&amp;prefilter=diseases#diseases" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="/card/vitamin_b12_deficiency" target="_blank">vitamin b12 deficiency</a></td>
+<td>9.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=vitamin+b12+deficiency&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=vitamin+b12+deficiency&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=vitamin+b12+deficiency&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=vitamin+b12+deficiency&amp;prefilter=diseases#diseases" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="/card/organic_acidemia" target="_blank">organic acidemia</a></td>
+<td>9.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=organic+acidemia&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=organic+acidemia&amp;prefilter=diseases#diseases" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=organic+acidemia&amp;prefilter=diseases#diseases" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=organic+acidemia&amp;prefilter=diseases#diseases" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Methylmalonic Aciduria and Homocystinuria, Cbld Type:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/methylmalonic_aciduria_and_homocystinuria_cbld_type_related_diseases.jpg" width="100%" alt="Diseases related to Methylmalonic Aciduria and Homocystinuria, Cbld Type" title="Diseases related to Methylmalonic Aciduria and Homocystinuria, Cbld Type" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Methylmalonic Aciduria and Homocystinuria, Cbld Type:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 30', 'showing 30, show less','collapsable')">show all 30</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+intellectual disability
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001249" target="_blank">HP:0001249</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+seizure
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">HP:0001250</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+failure to thrive
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">HP:0001508</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+gait disturbance
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001288" target="_blank">HP:0001288</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+global developmental delay
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001263" target="_blank">HP:0001263</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+fatigue
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012378" target="_blank">HP:0012378</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+abnormality of movement
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100022" target="_blank">HP:0100022</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+pallor
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000980" target="_blank">HP:0000980</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+anorexia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002039" target="_blank">HP:0002039</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+lethargy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001254" target="_blank">HP:0001254</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+megaloblastic bone marrow
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001980" target="_blank">HP:0001980</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+atypical behavior
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000708" target="_blank">HP:0000708</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+nystagmus
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000639" target="_blank">HP:0000639</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+hypotonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001252" target="_blank">HP:0001252</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+behavioral abnormality
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+cerebral cortical atrophy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002120" target="_blank">HP:0002120</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+dystonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001332" target="_blank">HP:0001332</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+methylmalonic aciduria
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012120" target="_blank">HP:0012120</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+generalized hypotonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001290" target="_blank">HP:0001290</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+spastic ataxia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002497" target="_blank">HP:0002497</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+megaloblastic anemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001889" target="_blank">HP:0001889</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+increased mean corpuscular volume
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005518" target="_blank">HP:0005518</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+hyperhomocystinemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002160" target="_blank">HP:0002160</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+hypomethioninemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003658" target="_blank">HP:0003658</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+methylmalonic acidemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002912" target="_blank">HP:0002912</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+homocystinuria
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002156" target="_blank">HP:0002156</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+decreased adenosylcobalamin
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003145" target="_blank">HP:0003145</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+decreased methylcobalamin
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003223" target="_blank">HP:0003223</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+decreased methionine synthase activity
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003524" target="_blank">HP:0003524</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+decreased methylmalonyl-coa mutase activity
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003210" target="_blank">HP:0003210</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/277410" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>nystagmus</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>methylmalonic aciduria</span>
+<br/>
+<span>methylmalonic acidemia</span>
+<br/>
+<span>homocystinuria</span>
+<br/>
+<span>homocysteinemia</span>
+<br/>
+<span>decreased adenosylcobalamin (adocbl)</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>decreased methylmalonyl-coa mutase (mut, ) activity</span>
+<br/>
+<span>decreased methylcobalamin (mecbl)</span>
+<br/>
+<span>decreased serum methionine</span>
+<br/>
+<span>decreased methionine synthase (mtr, ) activity</span>
+<br/>
+<span>normal or mildly reduced serum cobalamin</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 10" id="ClinicalSynopsis_showmore_2" href="javascript:showMoreTable('ClinicalSynopsis_item_2','ClinicalSynopsis_showmore_2','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>hypotonia</span>
+<br/>
+<span>dystonia</span>
+<br/>
+<span>lethargy</span>
+<br/>
+<span>spastic ataxia</span>
+<br/>
+<span>seizures</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>developmental delay</span>
+<br/>
+<span>mental retardation</span>
+<br/>
+<span>cortical atrophy</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 8" id="ClinicalSynopsis_showmore_3" href="javascript:showMoreTable('ClinicalSynopsis_item_3','ClinicalSynopsis_showmore_3','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Hematology:</u><br/>
+<span>megaloblastic anemia</span>
+<br/>
+<span>increased mean corpuscular volume</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/277410#clinicalFeatures" target="_blank">277410</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Methylmalonic Aciduria and Homocystinuria, Cbld Type" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Methylmalonic Aciduria and Homocystinuria, Cbld Type&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Methylmalonic Aciduria and Homocystinuria, Cbld Type</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Methylmalonic Aciduria and Homocystinuria, Cbld Type:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Homocystinuria, Cbld Type, Variant 1
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1848553" target="_blank">28</a></sup>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+Methylmalonic Aciduria and Homocystinuria Type Cbld
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1848552" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=methylmalonic+aciduria+and+homocystinuria+type+cbld&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+Vitamin B12-Responsive Methylmalonic Acidemia, Type Cbldv2
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1848554" target="_blank">28</a></sup>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Methylmalonic Aciduria and Homocystinuria, Cbld Type: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="1.701614">Bone Marrow</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.7266493">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span>Blood And Bone Marrow</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/277410/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Methylmalonic Aciduria and Homocystinuria, Cbld Type according to PubMed, OMIM&#174;, and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 18', 'showing 18, show less','collapsable')">show all 18</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Molecular mechanisms leading to three different phenotypes in the cblD defect of intracellular cobalamin metabolism.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Stucki M...Baumgartner MR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22156578" target="_blank">22156578</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Gene identification for the cblD defect of vitamin B12 metabolism.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Coelho D...Fowler B</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18385497" target="_blank">18385497</a></td>
+<td>2008</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The cblD defect causes either isolated or combined deficiency of methylcobalamin and adenosylcobalamin synthesis.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Suormala T...Fowler B</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15292234" target="_blank">15292234</a></td>
+<td>2004</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Homocystinuria with methylmalonic aciduria: two cases in a sibship.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Goodman SI...Uhlendorf BW</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/5524089" target="_blank">5524089</a></td>
+<td>1970</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mutation of the MMADHC gene in adult-onset cobalamin D deficiency: A report of 2 potentially treatable cases.
+<sup title="PubMed">62</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Cancho Garcia E...Esteban Duran E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28939051" target="_blank">28939051</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Neutropenia and Increased Mean Corpuscular Volume (MCV) With Abnormal Neurologic Findings: A Case of Cobalamin D Deficiency.
+<sup title="PubMed">62</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Soylu Ustkoyuncu P...Kacar Bayram A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29620684" target="_blank">29620684</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Molecular picture of cobalamin C/D defects before and after newborn screening era.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Nogueira C...Vilarinho L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27252276" target="_blank">27252276</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical, Biochemical, and Molecular Presentation in a Patient with the cblD-Homocystinuria Inborn Error of Cobalamin Metabolism.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Atkinson C...Raiman JA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25155779" target="_blank">25155779</a></td>
+<td>2014</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Active human retrotransposons: variation and disease.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hancks DC...Kazazian HH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22406018" target="_blank">22406018</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A mobile threat to genome stability: The impact of non-LTR retrotransposons upon the human genome.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Konkel MK...Batzer MA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20307669" target="_blank">20307669</a></td>
+<td>2010</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The impact of retrotransposons on human genome evolution.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Cordaux R...Batzer MA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19763152" target="_blank">19763152</a></td>
+<td>2009</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Splicing in action: assessing disease causing sequence changes.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Baralle D...Baralle M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16199547" target="_blank">16199547</a></td>
+<td>2005</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Complementation studies in the cblA class of inborn error of cobalamin metabolism: evidence for interallelic complementation and for a new complementation class (cblH).
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Watkins D...Rosenblatt DS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10882753" target="_blank">10882753</a></td>
+<td>2000</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Methylmalonic aciduria due to a new defect in adenosylcobalamin accumulation by cells.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Cooper BA...Watkins D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/2339678" target="_blank">2339678</a></td>
+<td>1990</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Congenital methylmalonic aciduria--homocystinuria with megaloblastic anemia: observations on response to hydroxocobalamin and on the effect of homocysteine and methionine on the deoxyuridine suppression test.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Carmel R...Goodman SI</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/7357085" target="_blank">7357085</a></td>
+<td>1980</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cobalamin binding and cobalamin-dependent enzyme activity in normal and mutant human fibroblasts.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mellman I...Rosenberg LE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30783" target="_blank">30783</a></td>
+<td>1978</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genetic and biochemical analysis of human cobalamin mutants in cell culture.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fenton WA...Rosenberg LE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/371525" target="_blank">371525</a></td>
+<td>1978</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genetic complementation among inherited deficiencies of methylmalonyl-CoA mutase activity: evidence for a new class of human cobalamin mutant.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Willard HF...Rosenberg LE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23678" target="_blank">23678</a></td>
+<td>1978</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Methylmalonic Aciduria and Homocystinuria, Cbld Type according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Phenotype, treatment practice and outcome in the cobalamin-dependent remethylation disorders and MTHFR deficiency: Data from the E-HOD registry.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Huemer M...Weisfeld-Adams J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30773687" target="_blank">30773687</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cobalamin D Deficiency Identified Through Newborn Screening.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Abu-El-Haija A...Gallagher RC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30097992" target="_blank">30097992</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Severe Neonatal Metabolic Decompensation in Methylmalonic Acidemia Caused by CblD Defect.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Parini R...Ugarte M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23686626" target="_blank">23686626</a></td>
+<td>2013</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Methylmalonic Aciduria and Homocystinuria, Cbld Type (2 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Metabolism Of Cobalamin Associated D</td>
+<td>Protein Coding</td>
+<td>1701.1</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/611935" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=17895" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000389060&amp;type2=-26&amp;id2=DOID:0050716" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_MMADHC">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=Methylmalonic+Aciduria+and+Homocystinuria%2c+Cbld+Type&amp;prefilter=diseases#diseases" title="MMADHC gene information at GeneCards" target="_blank">Disorders</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=Methylmalonic+Aciduria+and+Homocystinuria%2c+Cbld+Type&amp;prefilter=aliases_descriptions#aliases_descriptions" title="MMADHC gene information at GeneCards" target="_blank">Gene name</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_MMADHC_SeeMore" href="javascript:showMoreTable('related_genes_MMADHC','related_genes_MMADHC_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/5524089" title="ClinVar" target="_blank">5524089</a> <a href="https://pubmed.ncbi.nlm.nih.gov/15292234" title="ClinVar" target="_blank">15292234</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16199547" title="ClinVar" target="_blank">16199547</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/18385497" title="ClinVar" target="_blank">18385497</a> <a href="https://pubmed.ncbi.nlm.nih.gov/19763152" title="ClinVar" target="_blank">19763152</a> <a href="https://pubmed.ncbi.nlm.nih.gov/20307669" title="ClinVar" target="_blank">20307669</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22156578" title="ClinVar" target="_blank">22156578</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22406018" title="ClinVar" target="_blank">22406018</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25155779" title="ClinVar" target="_blank">25155779</a> <a href="https://pubmed.ncbi.nlm.nih.gov/27252276" title="ClinVar" target="_blank">27252276</a> <a href="https://pubmed.ncbi.nlm.nih.gov/28939051" title="ClinVar" target="_blank">28939051</a> <a href="https://pubmed.ncbi.nlm.nih.gov/29620684" title="ClinVar" target="_blank">29620684</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TSEN54" title="TSEN54 gene information at GeneCards" target="_blank">TSEN54</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>TRNA Splicing Endonuclease Subunit 54</td>
+<td>Protein Coding</td>
+<td>400</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHCP1" title="MMADHCP1 gene information at GeneCards" target="_blank">MMADHCP1</a></div>
+</div>
+</td>
+<td>MMADHC Pseudogene 1</td>
+<td>Pseudogene</td>
+<td>8.79</td>
+<td>
+<span> GeneCards inferred via</span>
+<span id="related_genes_MMADHCP1">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHCP1&amp;keywords=Methylmalonic+Aciduria+and+Homocystinuria%2c+Cbld+Type&amp;prefilter=aliases_descriptions#aliases_descriptions" title="MMADHCP1 gene information at GeneCards" target="_blank">Gene name</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_MMADHCP1_SeeMore" href="javascript:showMoreTable('related_genes_MMADHCP1','related_genes_MMADHCP1_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHCP2" title="MMADHCP2 gene information at GeneCards" target="_blank">MMADHCP2</a></div>
+</div>
+</td>
+<td>MMADHC Pseudogene 2</td>
+<td>Pseudogene</td>
+<td>8.79</td>
+<td>
+<span> GeneCards inferred via</span>
+<span id="related_genes_MMADHCP2">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHCP2&amp;keywords=Methylmalonic+Aciduria+and+Homocystinuria%2c+Cbld+Type&amp;prefilter=aliases_descriptions#aliases_descriptions" title="MMADHCP2 gene information at GeneCards" target="_blank">Gene name</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_MMADHCP2_SeeMore" href="javascript:showMoreTable('related_genes_MMADHCP2','related_genes_MMADHCP2_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a></div>
+</div>
+</td>
+<td>ATP Binding Cassette Subfamily D Member 4</td>
+<td>Protein Coding</td>
+<td>6.45</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000349396&amp;type2=-26&amp;id2=DOID:0050716" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a></div>
+</div>
+</td>
+<td>LMBR1 Domain Containing 1</td>
+<td>Protein Coding</td>
+<td>6.36</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000359609&amp;type2=-26&amp;id2=DOID:0050716" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a></div>
+</div>
+</td>
+<td>Metabolism Of Cobalamin Associated C</td>
+<td>Protein Coding</td>
+<td>5.91</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000383840&amp;type2=-26&amp;id2=DOID:0050716" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Methylmalonic Aciduria and Homocystinuria, Cbld Type:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '223', 'ClinVarVariations-table');">show all 223</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.545C&gt;A (p.Thr182Asn)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000000798/" title="RCV000000798" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/762/?new_evidence=true#id_second" target="_blank">762</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/118204045" target="_blank">rs118204045</a></td>
+<td>GRCh37: 2:150432289-150432289<br/>GRCh38: 2:149575775-149575775</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.696+3_696+6del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000000805/" title="RCV000000805" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/769/?new_evidence=true#id_second" target="_blank">769</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397509364" target="_blank">rs397509364</a></td>
+<td>GRCh37: 2:150427593-150427596<br/>GRCh38: 2:149571079-149571082</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.24_25del (p.Arg8fs)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000576880/" title="RCV000576880" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/487521/?new_evidence=true#id_second" target="_blank">487521</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1553454436" target="_blank">rs1553454436</a></td>
+<td>GRCh37: 2:150438770-150438771<br/>GRCh38: 2:149582256-149582257</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.295_296del (p.Leu99fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000791752/" title="RCV000791752" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/639047/?new_evidence=true#id_second" target="_blank">639047</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1573878695" target="_blank">rs1573878695</a></td>
+<td>GRCh37: 2:150436021-150436022<br/>GRCh38: 2:149579507-149579508</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NC_000002.12:g.(?_149569954)_(149587117_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001032661/" title="RCV001032661" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/832146/?new_evidence=true#id_second" target="_blank">832146</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150426468-150443631<br/>GRCh38: </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NC_000002.11:g.(?_150443583)_(150443631_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001385285/" title="RCV001385285" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1072551/?new_evidence=true#id_second" target="_blank">1072551</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150443583-150443631<br/>GRCh38: </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.57_64del (p.Cys19_Ser20insTer)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000000800/" title="RCV000000800" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000203371/" title="RCV000203371" target="_blank">Not Provided</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/764/?new_evidence=true#id_second" target="_blank">764</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397509361" target="_blank">rs397509361</a></td>
+<td>GRCh37: 2:150438731-150438738<br/>GRCh38: 2:149582217-149582224</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.60_61insAT (p.Leu21fs)</td>
+<td style="overflow-wrap:break-word;" title="Insertion">INSERT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000203311/" title="RCV000203311" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/219001/?new_evidence=true#id_second" target="_blank">219001</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/864309742" target="_blank">rs864309742</a></td>
+<td>GRCh37: 2:150438734-150438735<br/>GRCh38: 2:149582220-149582221</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.455dup (p.Cys153fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000203351/" title="RCV000203351" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/219002/?new_evidence=true#id_second" target="_blank">219002</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/864309743" target="_blank">rs864309743</a></td>
+<td>GRCh37: 2:150432973-150432974<br/>GRCh38: 2:149576459-149576460</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.544dup (p.Thr182fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001038948/" title="RCV001038948" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/837579/?new_evidence=true#id_second" target="_blank">837579</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1308639482" target="_blank">rs1308639482</a></td>
+<td>GRCh37: 2:150432289-150432290<br/>GRCh38: 2:149575775-149575776</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.663G&gt;A (p.Trp221Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001877971/" title="RCV001877971" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1388511/?new_evidence=true#id_second" target="_blank">1388511</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150427632-150427632<br/>GRCh38: 2:149571118-149571118</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.352C&gt;T (p.Gln118Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001951055/" title="RCV001951055" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1456251/?new_evidence=true#id_second" target="_blank">1456251</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150435965-150435965<br/>GRCh38: 2:149579451-149579451</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.585_588del (p.Arg197fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001958633/" title="RCV001958633" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1455539/?new_evidence=true#id_second" target="_blank">1455539</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150432246-150432249<br/>GRCh38: 2:149575732-149575735</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.638_642del (p.Tyr213fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001958800/" title="RCV001958800" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1459027/?new_evidence=true#id_second" target="_blank">1459027</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150427653-150427657<br/>GRCh38: 2:149571139-149571143</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.556_557del (p.Met186fs)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001052184/" title="RCV001052184" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/848430/?new_evidence=true#id_second" target="_blank">848430</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1682706954" target="_blank">rs1682706954</a></td>
+<td>GRCh37: 2:150432277-150432278<br/>GRCh38: 2:149575763-149575764</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.433A&gt;T (p.Arg145Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001974702/" title="RCV001974702" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1436154/?new_evidence=true#id_second" target="_blank">1436154</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150432996-150432996<br/>GRCh38: 2:149576482-149576482</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.692T&gt;A (p.Leu231Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001982023/" title="RCV001982023" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1432468/?new_evidence=true#id_second" target="_blank">1432468</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150427603-150427603<br/>GRCh38: 2:149571089-149571089</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.128_129del (p.His43fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001972601/" title="RCV001972601" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1457271/?new_evidence=true#id_second" target="_blank">1457271</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150438666-150438667<br/>GRCh38: 2:149582152-149582153</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.653_654dup (p.Gly219fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002695932/" title="RCV002695932" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1958245/?new_evidence=true#id_second" target="_blank">1958245</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150427640-150427641<br/>GRCh38: 2:149571126-149571127</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.202C&gt;T (p.Gln68Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002716105/" title="RCV002716105" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1963718/?new_evidence=true#id_second" target="_blank">1963718</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150436115-150436115<br/>GRCh38: 2:149579601-149579601</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.546_547del (p.Lys183fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003014016/" title="RCV003014016" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2096130/?new_evidence=true#id_second" target="_blank">2096130</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150432287-150432288<br/>GRCh38: 2:149575773-149575774</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.151dup (p.Ile51fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002838925/" title="RCV002838925" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2012128/?new_evidence=true#id_second" target="_blank">2012128</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150438643-150438644<br/>GRCh38: 2:149582129-149582130</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NC_000002.11:g.(?_150438631)_(150438795_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001958782/" title="RCV001958782" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1458974/?new_evidence=true#id_second" target="_blank">1458974</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150438631-150438795<br/>GRCh38: </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NC_000002.11:g.(?_150443583)_(150443611_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003119651/" title="RCV003119651" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2426213/?new_evidence=true#id_second" target="_blank">2426213</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150443583-150443611<br/>GRCh38: </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.746A&gt;G (p.Tyr249Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000000799/" title="RCV000000799" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001378885/" title="RCV001378885" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/763/?new_evidence=true#id_second" target="_blank">763</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/118204046" target="_blank">rs118204046</a></td>
+<td>GRCh37: 2:150426633-150426633<br/>GRCh38: 2:149570119-149570119</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.240_241insTTTTTTTTTTTTTTTTTTTTNNNNNNNNNNCTGACCTCGTGATCCGCCCGCCTCGGCCTCCCAAAGTGCTGGGATTACAGGCGTGAGCCACCGCGCCCGGCCGGAACATAGGTTTT (p.Asp81delinsPhePhePhePhePhePheXaaXaaXaaXaaLeuThrSerTer)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002871782/" title="RCV002871782" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2030444/?new_evidence=true#id_second" target="_blank">2030444</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150436076-150436077<br/>GRCh38: 2:149579562-149579563</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.419dup (p.Tyr140Ter)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000000804/" title="RCV000000804" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/768/?new_evidence=true#id_second" target="_blank">768</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397509363" target="_blank">rs397509363</a></td>
+<td>GRCh37: 2:150433009-150433010<br/>GRCh38: 2:149576495-149576496</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.776T&gt;C (p.Leu259Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000000797/" title="RCV000000797" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003147271/" title="RCV003147271" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/761/?new_evidence=true#id_second" target="_blank">761</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/118204044" target="_blank">rs118204044</a></td>
+<td>GRCh37: 2:150426603-150426603<br/>GRCh38: 2:149570089-149570089</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NC_000002.12:g.(?_149569964)_(149587107_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001032099/" title="RCV001032099" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/831549/?new_evidence=true#id_second" target="_blank">831549</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150426478-150443621<br/>GRCh38: </td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.472C&gt;T (p.Arg158Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001833299/" title="RCV001833299" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/265247/?new_evidence=true#id_second" target="_blank">265247</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886039425" target="_blank">rs886039425</a></td>
+<td>GRCh37: 2:150432957-150432957<br/>GRCh38: 2:149576443-149576443</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TSEN54" title="TSEN54 gene information at GeneCards" target="_blank">TSEN54</a></td>
+<td style="overflow-wrap:break-word;">NM_207346.3(TSEN54):c.953del (p.Pro318fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003154618/" title="RCV003154618" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2445207/?new_evidence=true#id_second" target="_blank">2445207</a></td>
+<td><span></span> </td>
+<td>GRCh37: 17:73518112-73518112<br/>GRCh38: 17:75522031-75522031</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.748C&gt;T (p.Arg250Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000000803/" title="RCV000000803" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/767/?new_evidence=true#id_second" target="_blank">767</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/118204048" target="_blank">rs118204048</a></td>
+<td>GRCh37: 2:150426631-150426631<br/>GRCh38: 2:149570117-149570117</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TSEN54" title="TSEN54 gene information at GeneCards" target="_blank">TSEN54</a></td>
+<td style="overflow-wrap:break-word;">NM_207346.3(TSEN54):c.919G&gt;T (p.Ala307Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003153294/" title="RCV003153294" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2120/?new_evidence=true#id_second" target="_blank">2120</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/113994152" target="_blank">rs113994152</a></td>
+<td>GRCh37: 17:73518081-73518081<br/>GRCh38: 17:75522000-75522000</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.646C&gt;T (p.Arg216Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001234309/" title="RCV001234309" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/960731/?new_evidence=true#id_second" target="_blank">960731</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/141093638" target="_blank">rs141093638</a></td>
+<td>GRCh37: 2:150427649-150427649<br/>GRCh38: 2:149571135-149571135</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.160C&gt;T (p.Arg54Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000000801/" title="RCV000000801" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000203332/" title="RCV000203332" target="_blank">Not Provided</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/765/?new_evidence=true#id_second" target="_blank">765</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/118204047" target="_blank">rs118204047</a></td>
+<td>GRCh37: 2:150436157-150436157<br/>GRCh38: 2:149579643-149579643</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.307_324dup (p.Leu103_Ser108dup)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000000802/" title="RCV000000802" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000203341/" title="RCV000203341" target="_blank">Not Provided</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/766/?new_evidence=true#id_second" target="_blank">766</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397509362" target="_blank">rs397509362</a></td>
+<td>GRCh37: 2:150435992-150435993<br/>GRCh38: 2:149579478-149579479</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.154+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000802757/" title="RCV000802757" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/648105/?new_evidence=true#id_second" target="_blank">648105</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1385597423" target="_blank">rs1385597423</a></td>
+<td>GRCh37: 2:150438640-150438640<br/>GRCh38: 2:149582126-149582126</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.702dup (p.Gly235fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001261554/" title="RCV001261554" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/982056/?new_evidence=true#id_second" target="_blank">982056</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1682617973" target="_blank">rs1682617973</a></td>
+<td>GRCh37: 2:150426676-150426677<br/>GRCh38: 2:149570162-149570163</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.10-1G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001062359/" title="RCV001062359" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/856813/?new_evidence=true#id_second" target="_blank">856813</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1573880177" target="_blank">rs1573880177</a></td>
+<td>GRCh37: 2:150438786-150438786<br/>GRCh38: 2:149582272-149582272</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.372+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001964039/" title="RCV001964039" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1470139/?new_evidence=true#id_second" target="_blank">1470139</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150435944-150435944<br/>GRCh38: 2:149579430-149579430</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.154+1G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001977150/" title="RCV001977150" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1472607/?new_evidence=true#id_second" target="_blank">1472607</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150438640-150438640<br/>GRCh38: 2:149582126-149582126</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.373-1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002000507/" title="RCV002000507" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1481293/?new_evidence=true#id_second" target="_blank">1481293</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150433057-150433057<br/>GRCh38: 2:149576543-149576543</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.478+1G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002842526/" title="RCV002842526" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2009602/?new_evidence=true#id_second" target="_blank">2009602</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:150432950-150432950<br/>GRCh38: 2:149576436-149576436</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.646C&gt;G (p.Arg216Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000641147/" title="RCV000641147" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/203837/?new_evidence=true#id_second" target="_blank">203837</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/141093638" target="_blank">rs141093638</a></td>
+<td>GRCh37: 2:150427649-150427649<br/>GRCh38: 2:149571135-149571135</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.735T&gt;G (p.Thr245=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000873687/" title="RCV000873687" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/703884/?new_evidence=true#id_second" target="_blank">703884</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/530553915" target="_blank">rs530553915</a></td>
+<td>GRCh37: 2:150426644-150426644<br/>GRCh38: 2:149570130-149570130</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.515A&gt;C (p.Lys172Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000907095/" title="RCV000907095" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/331377/?new_evidence=true#id_second" target="_blank">331377</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/147318949" target="_blank">rs147318949</a></td>
+<td>GRCh37: 2:150432319-150432319<br/>GRCh38: 2:149575805-149575805</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.578T&gt;C (p.Val193Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001081306/" title="RCV001081306" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/285847/?new_evidence=true#id_second" target="_blank">285847</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/147370143" target="_blank">rs147370143</a></td>
+<td>GRCh37: 2:150432256-150432256<br/>GRCh38: 2:149575742-149575742</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.696+13C&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001128815/" title="RCV001128815" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/892601/?new_evidence=true#id_second" target="_blank">892601</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/199528296" target="_blank">rs199528296</a></td>
+<td>GRCh37: 2:150427586-150427586<br/>GRCh38: 2:149571072-149571072</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.759A&gt;T (p.Gly253=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000263308/" title="RCV000263308" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/331376/?new_evidence=true#id_second" target="_blank">331376</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886054920" target="_blank">rs886054920</a></td>
+<td>GRCh37: 2:150426620-150426620<br/>GRCh38: 2:149570106-149570106</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC126806368" title="LOC126806368 gene information at GeneCards" target="_blank">LOC126806368</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC-DT" title="MMADHC-DT gene information at GeneCards" target="_blank">MMADHC-DT</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td style="overflow-wrap:break-word;">NM_015702.3(MMADHC):c.-62G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000280408/" title="RCV000280408" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/331389/?new_evidence=true#id_second" target="_blank">331389</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886054924" target="_blank">rs886054924</a></td>
+<td>GRCh37: 2:150444187-150444187<br/>GRCh38: 2:149587673-149587673</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Methylmalonic Aciduria and Homocystinuria, Cbld Type:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td>p.Thr182Asn</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_043844.html" target="_blank">VAR_043844</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/118204045" target="_blank">rs118204045</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td>p.Tyr249Cys</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_043846.html" target="_blank">VAR_043846</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/118204046" target="_blank">rs118204046</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a></td>
+<td>p.Leu259Pro</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_043847.html" target="_blank">VAR_043847</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/118204044" target="_blank">rs118204044</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Methylmalonic%20Aciduria%20and%20Homocystinuria%2C%20Cbld%20Type%22%5BMeSH%20Terms%5D%20OR%20%22Methylmalonic%20Aciduria%20and%20Homocystinuria%2C%20Cbld%20Type%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Methylmalonic Aciduria and Homocystinuria, Cbld Type.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+﻿
+<div class="section-data">
+<h3>Pathways directly related to Methylmalonic Aciduria and Homocystinuria, Cbld Type:</h3>
+<table id="SourcePathways-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Pathway</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-3359473" target="_blank">Defective MMADHC causes MMAHCD</a></td>
+<td>
+Reactome
+<sup title="Reactome">66</sup>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Pathways related to Methylmalonic Aciduria and Homocystinuria, Cbld Type according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Diseases_of_glycosylation_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/diseases_of_glycosylation" target="_blank">Diseases of glycosylation</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-3781865" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4549380" target="_blank">Defective ALG1 causes CDG-1k</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4551295" target="_blank">Defective ALG11 causes CDG-1p</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4720489" target="_blank">Defective ALG12 causes CDG-1g</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-5633231" target="_blank">Defective ALG14 causes ALG14-CMS</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4549349" target="_blank">Defective ALG2 causes CDG-1i</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4720475" target="_blank">Defective ALG3 causes CDG-1d</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4724289" target="_blank">Defective ALG6 causes CDG-1c</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4724325" target="_blank">Defective ALG8 causes CDG-1h</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4720454" target="_blank">Defective ALG9 causes CDG-1l</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4549356" target="_blank">Defective DPAGT1 causes CDG-1j, CMSTA2</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4085011" target="_blank">Defective GNE causes sialuria, NK and IBM2</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4687000" target="_blank">Defective MPDU1 causes CDG-1f</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4341670" target="_blank">Defective NEU1 causes sialidosis</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-4570571" target="_blank">Defective RFT1 causes CDG-1n</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-5609975" target="_blank">Diseases associated with glycosylation precursor biosynthesis</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3781860" target="_blank">Diseases associated with N-glycosylation of proteins</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-5668914" target="_blank">Diseases of metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-2206308" target="_blank">MPS IV - Morquio syndrome B</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>12.11</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=Diseases+of+glycosylation&amp;prefilter=pathways_interactions#pathways_interactions" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=Diseases+of+glycosylation&amp;prefilter=pathways_interactions#pathways_interactions" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=Diseases+of+glycosylation&amp;prefilter=pathways_interactions#pathways_interactions" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=Diseases+of+glycosylation&amp;prefilter=pathways_interactions#pathways_interactions" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> </td>
+</tr>
+<tr id="Metabolism_of_water-soluble_vitamins_and_cofactors_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/metabolism_of_water-soluble_vitamins_and_cofactors" target="_blank">Metabolism of water-soluble vitamins and cofactors</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-196849" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-5806#section=Diagram" target="_blank">all-trans-decaprenyl diphosphate biosynthesis</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP5031" target="_blank">Biotin metabolism, including IMDs</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196780" target="_blank">Biotin transport and metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196783" target="_blank">Coenzyme A biosynthesis</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3371598" target="_blank">Defective BTD causes biotidinase deficiency</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3371599" target="_blank">Defective HLCS causes multiple carboxylase deficiency</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3323169" target="_blank">Defects in biotin (Btn) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196757" target="_blank">Metabolism of folate and pterines</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196854" target="_blank">Metabolism of vitamins and cofactors</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-6823#section=Diagram" target="_blank">molybdenum cofactor biosynthesis</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-947581" target="_blank">Molybdenum cofactor biosynthesis</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/HUMANCYC:PWY-6898#section=Diagram" target="_blank">thiamin salvage III</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/HUMANCYC:PWY-5872#section=Diagram" target="_blank">ubiquinol-10 biosynthesis</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-5872#section=Diagram" target="_blank">ubiquinol-10 biosynthesis (eukaryotic)</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196819" target="_blank">Vitamin B1 (thiamin) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196843" target="_blank">Vitamin B2 (riboflavin) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-199220" target="_blank">Vitamin B5 (pantothenate) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196836" target="_blank">Vitamin C (ascorbate) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-964975" target="_blank">Vitamins B6 activation to pyridoxal phosphate</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>11.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=Metabolism+of+water-soluble+vitamins+and+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=Metabolism+of+water-soluble+vitamins+and+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=Metabolism+of+water-soluble+vitamins+and+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=Metabolism+of+water-soluble+vitamins+and+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> </td>
+</tr>
+<tr id="Cobalamin_(Cbl,_vitamin_B12)_transport_and_metabolism_3">
+<td>3</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/cobalamin_(cbl_vitamin_b12)_transport_and_metabolism" target="_blank">Cobalamin (Cbl, vitamin B12) transport and metabolism</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-196741" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-9759218" target="_blank">Cobalamin (Cbl) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-5683329" target="_blank">Defective ABCD4 causes MAHCJ</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3359485" target="_blank">Defective CD320 causes MMATC</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3359471" target="_blank">Defective MMAB causes MMA, cblB type</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3359474" target="_blank">Defective MMACHC causes MAHCC</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3359473" target="_blank">Defective MMADHC causes MMAHCD</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3359454" target="_blank">Defective TCN2 causes TCN2 deficiency</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3296469" target="_blank">Defects in cobalamin (B12) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3296482" target="_blank">Defects in vitamin and cofactor metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-9758890" target="_blank">Transport of RCbl within the body</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-9758881" target="_blank">Uptake of dietary cobalamins into enterocytes</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP4271" target="_blank">Vitamin B12 disorders</a>
+<sup title="WikiPathways">74</sup>
+</div>
+</div>
+</td>
+<td>10.95</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=Cobalamin+(Cbl%2c+vitamin+B12)+transport+and+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=Cobalamin+(Cbl%2c+vitamin+B12)+transport+and+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=Cobalamin+(Cbl%2c+vitamin+B12)+transport+and+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=Cobalamin+(Cbl%2c+vitamin+B12)+transport+and+metabolism&amp;prefilter=pathways_interactions#pathways_interactions" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Biological processes related to Methylmalonic Aciduria and Homocystinuria, Cbld Type according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>cobalamin metabolic process</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0009235" target="_blank">GO:0009235</a></td>
+<td>9.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMADHC&amp;keywords=cobalamin+metabolic+process&amp;prefilter=go_proc#go_proc" title="MMADHC gene information at GeneCards" target="_blank">MMADHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=cobalamin+metabolic+process&amp;prefilter=go_proc#go_proc" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCD4&amp;keywords=cobalamin+metabolic+process&amp;prefilter=go_proc#go_proc" title="ABCD4 gene information at GeneCards" target="_blank">ABCD4</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Methylmalonic Aciduria and Homocystinuria, Cbld Type according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>cobalamin binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031419" target="_blank">GO:0031419</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MMACHC&amp;keywords=cobalamin+binding&amp;prefilter=go_func#go_func" title="MMACHC gene information at GeneCards" target="_blank">MMACHC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LMBRD1&amp;keywords=cobalamin+binding&amp;prefilter=go_func#go_func" title="LMBRD1 gene information at GeneCards" target="_blank">LMBRD1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Methylmalonic Aciduria and Homocystinuria, Cbld Type</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#c3b0b6b3b3acb1b783afaaa5a6aea2b3b0a0eda0acae">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ed853aa821494',t:'MTY5NTI2Mjk5NC42ODcwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

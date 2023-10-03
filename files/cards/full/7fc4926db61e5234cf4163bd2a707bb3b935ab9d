@@ -1,0 +1,3641 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Naegeli-Franceschetti-Jadassohn Syndrome disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/naegeli_franceschetti_jadassohn_syndrome" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'naegeli_franceschetti_jadassohn_syndrome';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+NFJS <div class="symbol">MCID: NGL001</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 42
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Naegeli-Franceschetti-Jadassohn Syndrome</span>
+(<span itemprop="alternateName">NFJS</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Endocrine diseases, Fetal diseases, Genetic diseases, Oral diseases, Rare diseases, Skin diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#c9baa8a5acba89a5a0afaca4a8b9baaae7aaa6a4" target="_blank"><span class="__cf_email__" data-cfemail="80f3e1ece5f3c0ece9e6e5ede1f0f3e3aee3efed">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="11 Genes associated with Naegeli-Franceschetti-Jadassohn Syndrome">Genes</a>
+<a href="#genetic_variations" title="8 Variations associated with Naegeli-Franceschetti-Jadassohn Syndrome">Variations</a>
+<a href="#anatomical_context" title="1 Tissues associated with Naegeli-Franceschetti-Jadassohn Syndrome">Tissues</a>
+<a href="#disorders" title="72 Related diseases associated with Naegeli-Franceschetti-Jadassohn Syndrome">Related diseases</a>
+<a href="#publications" title="29 Publications associated with Naegeli-Franceschetti-Jadassohn Syndrome">Publications</a>
+<a href="#clinical_features" title="37 Symptoms &amp; Phenotypes associated with Naegeli-Franceschetti-Jadassohn Syndrome">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/naegeli_franceschetti_jadassohn_syndrome?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Naegeli-Franceschetti-Jadassohn Syndrome:</h3>
+<div class="main-name">
+Name: <b>Naegeli-Franceschetti-Jadassohn Syndrome</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/161000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111528" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/3912/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/naegeli-franceschetti-jadassohn-syndrome-dermatopathia-pigmentosa-reticularis" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=69087" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Naegeli%E2%80%93Franceschetti%E2%80%93Jadassohn_syndrome" title="Wikipedia" target="_blank">75</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00797" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C0343111" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=161000" title="diseasecard" target="_blank">12</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/01460" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Naegeli Syndrome
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/161000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111528" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/3912/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/naegeli-franceschetti-jadassohn-syndrome-dermatopathia-pigmentosa-reticularis" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=69087" title="Orphanet" target="_blank">58</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00797" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=C538331" title="Medical Subject Headings" target="_blank">43</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<div>
+Nfj Syndrome
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/161000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111528" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/3912/index" title="Genetic and Rare Diseases Information Center" target="_blank">19</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/naegeli-franceschetti-jadassohn-syndrome-dermatopathia-pigmentosa-reticularis" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=69087" title="Orphanet" target="_blank">58</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00797" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Nfjs
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/161000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/naegeli-franceschetti-jadassohn-syndrome-dermatopathia-pigmentosa-reticularis" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00797" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Naegeli-Franceschetti-Jadassohn Syndrome/dermatopathia Pigmentosa Reticularis
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/naegeli-franceschetti-jadassohn-syndrome-dermatopathia-pigmentosa-reticularis" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Franceschetti-Jadassohn Syndrome
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/naegeli-franceschetti-jadassohn-syndrome-dermatopathia-pigmentosa-reticularis" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+</div>
+<div>
+Nfjs/dpr
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/naegeli-franceschetti-jadassohn-syndrome-dermatopathia-pigmentosa-reticularis" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+</div>
+<div>
+Dpr
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/naegeli-franceschetti-jadassohn-syndrome-dermatopathia-pigmentosa-reticularis" title="MedlinePlus Genetics" target="_blank">42</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Autosomal dominant <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=69087" target="_blank">58</a></sup>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/161000" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Age Of Onset:</h3>
+<div class="tab">
+Infancy,Neonatal <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=69087" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/161000" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>heat intolerance</span>
+<br/>
+<span>onset of hyperpigmentation in early childhood (3 months-6 years) that fades after puberty</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/skin_disease_list" target="_blank">Skin diseases</a> <a href="https://www.malacards.org/categories/endocrine_disease_list" target="_blank">Endocrine diseases</a> <a href="https://www.malacards.org/categories/oral_disease_list" target="_blank">Oral diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/XVII" title="XVII" target="_blank">Congenital malformations, deformations and chromosomal abnormalities</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q80-Q89" title="Q80-Q89" target="_blank">Other congenital malformations</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q82" title="Q82" target="_blank">Other congenital malformations of skin</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q82.4" title="Q82.4" target="_blank">Ectodermal dysplasia (anhidrotic)</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare skin diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Developmental anomalies during embryogenesis <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111528" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0111528" target="_blank">DOID:0111528</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/161000" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/161000" target="_blank">161000</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=C538331" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=C538331" target="_blank">C538331</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D004476" target="_blank">D004476</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D007007" target="_blank">D007007</a>
+<span class="collapsable" style="display: none;">
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D007645" target="_blank">D007645</a> </span>
+<span class="showmore">
+<a title="show all 4" id="ExternalId_showmore_3" href="javascript:showMoreTable('ExternalId_item_3','ExternalId_showmore_3','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_4">
+<b title="Systematized Nomenclature of Medicine Clinical Terms">SNOMED-CT</b>
+<sup title="Systematized Nomenclature of Medicine Clinical Terms"> <a href="http://www.snomedbrowser.com/Codes/Details/239084001" target="_blank">68</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/239084001" target="_blank">239084001</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q82.4" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q82.4" target="_blank">Q82.4</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_6">
+<b title="UMLS via Orphanet">UMLS via Orphanet</b>
+<sup title="UMLS via Orphanet"><span>72</span> </sup>
+<span>C0343111</span>
+</div>
+<div id="ExternalId_item_7">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=69087" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=69087" target="_blank">ORPHA69087</a>
+</div>
+<div id="ExternalId_item_8">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C0343111" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C0343111" target="_blank">C0343111</a>
+</div>
+<div id="ExternalId_item_9">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/10165000" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/10165000" target="_blank">10165000</a> <a href="http://www.snomedbrowser.com/Codes/Details/14662005" target="_blank">14662005</a> <a href="http://www.snomedbrowser.com/Codes/Details/16386004" target="_blank">16386004</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/18655006" target="_blank">18655006</a> <a href="http://www.snomedbrowser.com/Codes/Details/201284005" target="_blank">201284005</a> <a href="http://www.snomedbrowser.com/Codes/Details/23006000" target="_blank">23006000</a> <a href="http://www.snomedbrowser.com/Codes/Details/234974002" target="_blank">234974002</a> <a href="http://www.snomedbrowser.com/Codes/Details/254679001" target="_blank">254679001</a> <a href="http://www.snomedbrowser.com/Codes/Details/254683001" target="_blank">254683001</a> <a href="http://www.snomedbrowser.com/Codes/Details/26597004" target="_blank">26597004</a> <a href="http://www.snomedbrowser.com/Codes/Details/266414008" target="_blank">266414008</a> <a href="http://www.snomedbrowser.com/Codes/Details/367534004" target="_blank">367534004</a> <a href="http://www.snomedbrowser.com/Codes/Details/37719003" target="_blank">37719003</a> <a href="http://www.snomedbrowser.com/Codes/Details/39659002" target="_blank">39659002</a> <a href="http://www.snomedbrowser.com/Codes/Details/422775003" target="_blank">422775003</a> <a href="http://www.snomedbrowser.com/Codes/Details/42756003" target="_blank">42756003</a> <a href="http://www.snomedbrowser.com/Codes/Details/45004005" target="_blank">45004005</a> <a href="http://www.snomedbrowser.com/Codes/Details/69215007" target="_blank">69215007</a> <a href="http://www.snomedbrowser.com/Codes/Details/699382004" target="_blank">699382004</a> <a href="http://www.snomedbrowser.com/Codes/Details/699421005" target="_blank">699421005</a> <a href="http://www.snomedbrowser.com/Codes/Details/706885006" target="_blank">706885006</a> <a href="http://www.snomedbrowser.com/Codes/Details/75789001" target="_blank">75789001</a> <a href="http://www.snomedbrowser.com/Codes/Details/80967001" target="_blank">80967001</a> <a href="http://www.snomedbrowser.com/Codes/Details/8666004" target="_blank">8666004</a> <a href="http://www.snomedbrowser.com/Codes/Details/87065009" target="_blank">87065009</a> <a href="http://www.snomedbrowser.com/Codes/Details/89031001" target="_blank">89031001</a> </span>
+<span class="showmore">
+<a title="show all 26" id="ExternalId_showmore_9" href="javascript:showMoreTable('ExternalId_item_9','ExternalId_showmore_9','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_10">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C0343111</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://ghr.nlm.nih.gov/condition/naegeli-franceschetti-jadassohn-syndrome-dermatopathia-pigmentosa-reticularis" target="_blank">MedlinePlus Genetics</a>:</b>
+<sup title="MedlinePlus Genetics"> <a href="http://ghr.nlm.nih.gov/condition/naegeli-franceschetti-jadassohn-syndrome-dermatopathia-pigmentosa-reticularis" target="_blank">42</a></sup>
+Naegeli-Franceschetti-Jadassohn syndrome/dermatopathia pigmentosa reticularis (NFJS/DPR) represents a rare type of ectodermal dysplasia, a group of about 150 conditions characterized by abnormal development of ectodermal tissues including the skin, hair, nails, teeth, and sweat glands. NFJS and DPR were originally described as separate conditions; however, because they have similar features and are caused by mutations in the same gene, they are now often considered forms of the same disorder.Among the most common signs of NFJS/DPR is a net-like pattern of dark brown or gray skin coloring, known as reticulate hyperpigmentation. This darker pigmentation is seen most often on the neck, chest, and abdomen, although it can also occur in and around the eyes and mouth. Reticulate hyperpigmentation appears in infancy or early childhood. It may fade with age or persist throughout life.NFJS/DPR also affects the skin on the hands and feet. The skin on the palms of the hands and soles of the feet often becomes thick, hard, and callused, a condition known as palmoplantar keratoderma. Some affected individuals also have blistering on their palms and soles. Their fingernails and toenails may be malformed, brittle, and either thicker or thinner than usual. Most affected individuals are missing the patterned ridges on the skin of the hands and feet, called dermatoglyphs, that are the basis for each person's unique fingerprints.Additional features of NFJS/DPR can include a reduced ability to sweat (hypohidrosis) or excess sweating (hyperhidrosis) and dental abnormalities. Some affected individuals also have hair loss (alopecia) on the scalp, eyebrows, and underarms. The alopecia is described as noncicatricial because it does not leave scars (cicatrices).</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Naegeli-Franceschetti-Jadassohn Syndrome, also known as <i>naegeli syndrome</i>, is related to <i><a href="/card/ectodermal_dysplasia" target="_blank">ectodermal dysplasia</a></i> and <i><a href="/card/dermatopathia_pigmentosa_reticularis" target="_blank">dermatopathia pigmentosa reticularis</a></i>. An important gene associated with Naegeli-Franceschetti-Jadassohn Syndrome is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14" target="_blank">KRT14</a> (Keratin 14), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/nervous_system_development" target="_blank">Nervous system development</a></i> and <i><a href="https://pathcards.genecards.org/card/keratinization" target="_blank">Keratinization</a></i>. Affiliated tissues include <i>skin</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0007427" target="_blank">reticulated skin pigmentation</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0007455" target="_blank">adermatoglyphia</a></i></p>
+<p> <b> <a href="http://omim.org/entry/161000#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/161000#description" target="_blank">57</a></sup>
+Naegeli-Franceschetti-Jadassohn syndrome (NFJS) is a rare autosomal dominant disorder of skin, hair, and teeth. It is characterized by complete absence of dermatoglyphics (fingerprint lines), a reticulate pattern of skin hyperpigmentation that tends to disappear with age, thickening of the palms and soles (palmoplantar keratoderma), and decreased sweating. Dental anomalies including enamel defects, skin blistering, and nail dystrophy have been reported in some patients. It can be distinguished from dermatopathia pigmentosa reticularis (DPR) by the latter's features of lifelong persistence of the skin hyperpigmentation, partial alopecia, and absence of dental anomalies (summary by Lugassy et al., 2006). <span> (161000) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="https://rarediseases.info.nih.gov/diseases/3912/index" target="_blank">GARD</a>:</b>
+<sup title="Genetic and Rare Diseases Information Center"> <a href="https://rarediseases.info.nih.gov/diseases/3912/index" target="_blank">19</a></sup>
+Naegeli syndrome belongs to a group of disorders known as ectodermal dysplasias. This condition is characterized by absent fingerprints, thickening of the palms and soles (palmoplantar keratoderma), decreased sweating (hypohidrosis), heat intolerance, patches of darker (hyperpigmented) skin, brittle nails, abnormally colored teeth, and early tooth loss. Naegeli syndrome is caused by genetic changes in the KRT14 gene and inherited in an autosomal dominant manner.</p><p> <b> <a href="http://www.uniprot.org/diseases/DI-00797" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-00797" target="_blank">73</a></sup>
+A rare autosomal dominant form of ectodermal dysplasia. The cardinal features are absence of dermatoglyphics (fingerprints), reticular cutaneous hyperpigmentation (starting at about the age of 2 years without a preceding inflammatory stage), palmoplantar keratoderma, hypohidrosis with diminished sweat gland function and discomfort provoked by heat, nail dystrophy, and tooth enamel defects.</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0111528" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111528" target="_blank">11</a></sup>
+A ectodermal dysplasia characterized by reticulate hyperpigmentation that made fade with age, palmoplantar keratoderma, absence of dermatoglyphics, abnormal sweat function and dental anomalies that has material basis in heterozygous mutation in the KRT14 gene on chromosome 17q21.2.</p><p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=69087" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=69087" target="_blank">58</a></sup>
+A rare ectodermal dysplasia that affects the skin, sweat glands, nails, and teeth.</p><p> <b> <a href="https://en.wikipedia.org/wiki/Naegeli%E2%80%93Franceschetti%E2%80%93Jadassohn_syndrome" target="_blank">Wikipedia</a>:</b>
+<sup title="Wikipedia"> <a href="https://en.wikipedia.org/wiki/Naegeli%E2%80%93Franceschetti%E2%80%93Jadassohn_syndrome" target="_blank">75</a></sup>
+Naegeli-Franceschetti-Jadassohn syndrome (NFJS), also known as chromatophore nevus of Naegeli and... <a href="https://en.wikipedia.org/wiki/Naegeli%E2%80%93Franceschetti%E2%80%93Jadassohn_syndrome" target="_blank">more...</a></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Naegeli-Franceschetti-Jadassohn Syndrome via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('RelatedDiseases', '72', 'RelatedDiseases-table');">show all 72</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/ectodermal_dysplasia" target="_blank">ectodermal dysplasia</a></td>
+<td>30.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=ectodermal+dysplasia&amp;prefilter=diseases#diseases" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=ectodermal+dysplasia&amp;prefilter=diseases#diseases" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=ectodermal+dysplasia&amp;prefilter=diseases#diseases" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/dermatopathia_pigmentosa_reticularis" target="_blank">dermatopathia pigmentosa reticularis</a></td>
+<td>30.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT86&amp;keywords=dermatopathia+pigmentosa+reticularis&amp;prefilter=diseases#diseases" title="KRT86 gene information at GeneCards" target="_blank">KRT86</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=dermatopathia+pigmentosa+reticularis&amp;prefilter=diseases#diseases" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT83&amp;keywords=dermatopathia+pigmentosa+reticularis&amp;prefilter=diseases#diseases" title="KRT83 gene information at GeneCards" target="_blank">KRT83</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT24&amp;keywords=dermatopathia+pigmentosa+reticularis&amp;prefilter=diseases#diseases" title="KRT24 gene information at GeneCards" target="_blank">KRT24</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=dermatopathia+pigmentosa+reticularis&amp;prefilter=diseases#diseases" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/epidermolysis_bullosa_simplex" target="_blank">epidermolysis bullosa simplex</a></td>
+<td>30.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT6B&amp;keywords=epidermolysis+bullosa+simplex&amp;prefilter=diseases#diseases" title="KRT6B gene information at GeneCards" target="_blank">KRT6B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=epidermolysis+bullosa+simplex&amp;prefilter=diseases#diseases" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/alopecia" target="_blank">alopecia</a></td>
+<td>30.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT86&amp;keywords=alopecia&amp;prefilter=diseases#diseases" title="KRT86 gene information at GeneCards" target="_blank">KRT86</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT83&amp;keywords=alopecia&amp;prefilter=diseases#diseases" title="KRT83 gene information at GeneCards" target="_blank">KRT83</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=alopecia&amp;prefilter=diseases#diseases" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/epidermolysis_bullosa_simplex_2f_with_mottled_pigmentation" target="_blank">epidermolysis bullosa simplex 2f, with mottled pigmentation</a></td>
+<td>30.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT86&amp;keywords=epidermolysis+bullosa+simplex+2f%2c+with+mottled+pigmentation&amp;prefilter=diseases#diseases" title="KRT86 gene information at GeneCards" target="_blank">KRT86</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=epidermolysis+bullosa+simplex+2f%2c+with+mottled+pigmentation&amp;prefilter=diseases#diseases" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/adermatoglyphia" target="_blank">adermatoglyphia</a></td>
+<td>11.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=adermatoglyphia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/anhidrosis" target="_blank">anhidrosis</a></td>
+<td>10.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=anhidrosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/palmoplantar_keratosis" target="_blank">palmoplantar keratosis</a></td>
+<td>10.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=palmoplantar+keratosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/contractures_pterygia_and_spondylocarpotarsal_fusion_syndrome_1a" target="_blank">contractures, pterygia, and spondylocarpotarsal fusion syndrome 1a</a></td>
+<td>10.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=contractures%2c+pterygia%2c+and+spondylocarpotarsal+fusion+syndrome+1a&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/epidermolysis_bullosa" target="_blank">epidermolysis bullosa</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=epidermolysis+bullosa&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/skin_disease" target="_blank">skin disease</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=skin+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/erythrokeratoderma_en_cocardes" target="_blank">erythrokeratoderma &#39;&#39;en cocardes&#39;&#39;</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=erythrokeratoderma+%27%27en+cocardes%27%27&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/diffuse_palmoplantar_keratoderma" target="_blank">diffuse palmoplantar keratoderma</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=diffuse+palmoplantar+keratoderma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/hyperpigmentation_of_the_skin" target="_blank">hyperpigmentation of the skin</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hyperpigmentation+of+the+skin&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/iron_metabolism_disease" target="_blank">iron metabolism disease</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=iron+metabolism+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/keratosis" target="_blank">keratosis</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT86&amp;keywords=keratosis&amp;prefilter=diseases#diseases" title="KRT86 gene information at GeneCards" target="_blank">KRT86</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=keratosis&amp;prefilter=diseases#diseases" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/amyotrophic_lateral_sclerosis_1" target="_blank">amyotrophic lateral sclerosis 1</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=amyotrophic+lateral+sclerosis+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/lateral_sclerosis" target="_blank">lateral sclerosis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lateral+sclerosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/chronic_bilirubin_encephalopathy" target="_blank">chronic bilirubin encephalopathy</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=chronic+bilirubin+encephalopathy&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/epidermolytic_hyperkeratosis" target="_blank">epidermolytic hyperkeratosis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT6B&amp;keywords=epidermolytic+hyperkeratosis&amp;prefilter=diseases#diseases" title="KRT6B gene information at GeneCards" target="_blank">KRT6B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=epidermolytic+hyperkeratosis&amp;prefilter=diseases#diseases" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/frontotemporal_dementia" target="_blank">frontotemporal dementia</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=frontotemporal+dementia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/pachyonychia_congenita_3" target="_blank">pachyonychia congenita 3</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=pachyonychia+congenita+3&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/dental_caries" target="_blank">dental caries</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=dental+caries&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/turner_syndrome" target="_blank">turner syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=turner+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="/card/grn_related_frontotemporal_lobar_degeneration" target="_blank">grn-related frontotemporal lobar degeneration</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=grn-related+frontotemporal+lobar+degeneration&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="/card/dyskeratosis_congenita" target="_blank">dyskeratosis congenita</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=dyskeratosis+congenita&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="/card/leukoplakia" target="_blank">leukoplakia</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=leukoplakia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="/card/ectodermal_dysplasia_6_hair_nail_type" target="_blank">ectodermal dysplasia 6, hair/nail type</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=ectodermal+dysplasia+6%2c+hair%2fnail+type&amp;prefilter=diseases#diseases" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=ectodermal+dysplasia+6%2c+hair%2fnail+type&amp;prefilter=diseases#diseases" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> </td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="/card/ectodermal_dysplasia_5_hair_nail_type" target="_blank">ectodermal dysplasia 5, hair/nail type</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=ectodermal+dysplasia+5%2c+hair%2fnail+type&amp;prefilter=diseases#diseases" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=ectodermal+dysplasia+5%2c+hair%2fnail+type&amp;prefilter=diseases#diseases" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> </td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="/card/ectodermal_dysplasia_9_hair_nail_type" target="_blank">ectodermal dysplasia 9, hair/nail type</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=ectodermal+dysplasia+9%2c+hair%2fnail+type&amp;prefilter=diseases#diseases" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=ectodermal+dysplasia+9%2c+hair%2fnail+type&amp;prefilter=diseases#diseases" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> </td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="/card/ectodermal_dysplasia_7_hair_nail_type" target="_blank">ectodermal dysplasia 7, hair/nail type</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=ectodermal+dysplasia+7%2c+hair%2fnail+type&amp;prefilter=diseases#diseases" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=ectodermal+dysplasia+7%2c+hair%2fnail+type&amp;prefilter=diseases#diseases" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> </td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="/card/colorectal_cancer" target="_blank">colorectal cancer</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=colorectal+cancer&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="/card/cleft_palate_isolated" target="_blank">cleft palate, isolated</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=cleft+palate%2c+isolated&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="/card/optic_atrophy_with_or_without_deafness_ophthalmoplegia_myopathy_ataxia_and_neuropathy" target="_blank">optic atrophy with or without deafness, ophthalmoplegia, myopathy, ataxia, and neuropathy</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=optic+atrophy+with+or+without+deafness%2c+ophthalmoplegia%2c+myopathy%2c+ataxia%2c+and+neuropathy&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="/card/hypercholesterolemia_familial_1" target="_blank">hypercholesterolemia, familial, 1</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hypercholesterolemia%2c+familial%2c+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="/card/ovarian_cancer" target="_blank">ovarian cancer</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=ovarian+cancer&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="/card/tobacco_addiction" target="_blank">tobacco addiction</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=tobacco+addiction&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="/card/gastroschisis" target="_blank">gastroschisis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=gastroschisis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="/card/multinucleated_neurons_anhydramnios_renal_dysplasia_cerebellar_hypoplasia_and_hydranencephaly" target="_blank">multinucleated neurons, anhydramnios, renal dysplasia, cerebellar hypoplasia, and hydranencephaly</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=multinucleated+neurons%2c+anhydramnios%2c+renal+dysplasia%2c+cerebellar+hypoplasia%2c+and+hydranencephaly&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="/card/reticulum_cell_sarcoma" target="_blank">reticulum cell sarcoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=reticulum+cell+sarcoma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="/card/encephalitis_encephalopathy_mild_with_reversible_myelin_vacuolization" target="_blank">encephalitis/encephalopathy, mild, with reversible myelin vacuolization</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=encephalitis%2fencephalopathy%2c+mild%2c+with+reversible+myelin+vacuolization&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="/card/limb_ischemia" target="_blank">limb ischemia</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=limb+ischemia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="/card/omphalocele" target="_blank">omphalocele</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=omphalocele&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="/card/middle_east_respiratory_syndrome" target="_blank">middle east respiratory syndrome</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=middle+east+respiratory+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="/card/microphthalmia" target="_blank">microphthalmia</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=microphthalmia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="/card/microcephaly" target="_blank">microcephaly</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=microcephaly&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="/card/interdigitating_dendritic_cell_sarcoma" target="_blank">interdigitating dendritic cell sarcoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=interdigitating+dendritic+cell+sarcoma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="/card/peritonitis" target="_blank">peritonitis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=peritonitis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="/card/reticulosarcoma" target="_blank">reticulosarcoma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=reticulosarcoma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="/card/meningitis" target="_blank">meningitis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=meningitis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Naegeli-Franceschetti-Jadassohn Syndrome:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/naegeli_franceschetti_jadassohn_syndrome_related_diseases.jpg" width="100%" alt="Diseases related to Naegeli-Franceschetti-Jadassohn Syndrome" title="Diseases related to Naegeli-Franceschetti-Jadassohn Syndrome" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Naegeli-Franceschetti-Jadassohn Syndrome:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 34', 'showing 34, show less','collapsable')">show all 34</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+reticulated skin pigmentation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007427" target="_blank">HP:0007427</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+adermatoglyphia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007455" target="_blank">HP:0007455</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+abnormality of the dentition
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000164" target="_blank">HP:0000164</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+dry skin
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000958" target="_blank">HP:0000958</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+hypohidrosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000966" target="_blank">HP:0000966</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+abnormality of dental morphology
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006482" target="_blank">HP:0006482</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+nail dystrophy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008404" target="_blank">HP:0008404</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+subungual hyperkeratosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008392" target="_blank">HP:0008392</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+fragile nails
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001808" target="_blank">HP:0001808</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+heat intolerance
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002046" target="_blank">HP:0002046</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+malalignment of the great toenail
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0031282" target="_blank">HP:0031282</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+decreased number of sweat glands
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007500" target="_blank">HP:0007500</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+carious teeth
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000670" target="_blank">HP:0000670</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+interphalangeal joint contracture of finger
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001220" target="_blank">HP:0001220</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+dystrophic toenail
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001810" target="_blank">HP:0001810</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+flexion contracture of finger
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012785" target="_blank">HP:0012785</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+milia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001056" target="_blank">HP:0001056</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+anhidrosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000970" target="_blank">HP:0000970</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+premature loss of teeth
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006480" target="_blank">HP:0006480</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+yellow-brown discoloration of the teeth
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006286" target="_blank">HP:0006286</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+onycholysis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001806" target="_blank">HP:0001806</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+hypopigmentation of the skin
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001010" target="_blank">HP:0001010</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+palmoplantar hyperkeratosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000972" target="_blank">HP:0000972</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+generalized reticulate brown pigmentation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007599" target="_blank">HP:0007599</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+acral blistering
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0031045" target="_blank">HP:0031045</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+swelling of proximal interphalangeal joints
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006253" target="_blank">HP:0006253</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+punctate palmoplantar hyperkeratosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007530" target="_blank">HP:0007530</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+hyperpigmentation in sun-exposed areas
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005586" target="_blank">HP:0005586</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+supernumerary tooth
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011069" target="_blank">HP:0011069</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+enamel hypoplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006297" target="_blank">HP:0006297</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+palmoplantar keratoderma
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000982" target="_blank">HP:0000982</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+
+increased number of teeth
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+
+hypoplasia of dental enamel
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+
+reticular hyperpigmentation
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007588" target="_blank">HP:0007588</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/161000" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Head And Neck Teeth:</u><br/>
+<span>carious teeth</span>
+<br/>
+<span>premature tooth loss</span>
+<br/>
+<span>yellow discoloration</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Skin Nails Hair Nails:</u><br/>
+<span>brittle nails</span>
+<br/>
+<span>congenital malalignment of great toenails</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Skin Nails Hair Skin:</u><br/>
+<span>palmoplantar keratoderma</span>
+<br/>
+<span>hypohidrosis</span>
+<br/>
+<span>reticulate hyperpigmentation (periocular, perioral, chest, neck, abdomen)</span>
+<br/>
+<span>absent fingerprints</span>
+<br/>
+<span>multiple, small punctate keratoses (palms and soles)</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/161000#clinicalFeatures" target="_blank">161000</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Naegeli-Franceschetti-Jadassohn Syndrome" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Naegeli-Franceschetti-Jadassohn Syndrome&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Naegeli-Franceschetti-Jadassohn Syndrome</text>
+</p>
+</div>
+<h3>
+Cochrane evidence based reviews: <a href="http://onlinelibrary.wiley.com/cochranelibrary/search/mesh?searchRow.searchCriteria.meshTerm=naegeli syndrome&amp;searchMesh=Lookup" target="_blank">naegeli syndrome</a>
+</h3>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Naegeli-Franceschetti-Jadassohn Syndrome:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Naegeli-Franceschetti-Jadassohn Syndrome
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C0343111" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=naegeli-franceschetti-jadassohn+syndrome&amp;prefilter=diseases#diseases" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Naegeli-Franceschetti-Jadassohn Syndrome: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="11.28141">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Naegeli-Franceschetti-Jadassohn Syndrome according to PubMed, OMIM&#174;, and ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Natural history of the Naegeli-Franceschetti-Jadassohn syndrome and further delineation of its clinical manifestations.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Itin PH...Rufli T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8496458" target="_blank">8496458</a></td>
+<td>1993</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[On incontinentia pigmenti and differentiation of two syndromes appearing under the same name].
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">FRANCESCHETTI A...JADASSOHN W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/13141721" target="_blank">13141721</a></td>
+<td>1954</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Naegeli-Franceschetti-Jadassohn syndrome and dermatopathia pigmentosa reticularis: two allelic ectodermal dysplasias caused by dominant mutations in KRT14.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lugassy J...Sprecher E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16960809" target="_blank">16960809</a></td>
+<td>2006</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Refined mapping of Naegeli-Franceschetti- Jadassohn syndrome to a 6 cM interval on chromosome 17q11.2-q21 and investigation of candidate genes.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sprecher E...Richard G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12230514" target="_blank">12230514</a></td>
+<td>2002</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The gene for Naegeli-Franceschetti-Jadassohn syndrome maps to 17q21.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Whittock NV...McGrath JA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10998145" target="_blank">10998145</a></td>
+<td>2000</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Hyperpigmentation and hypohidrosis. (The Naegeli-Franceschetti-Jadassohn syndrome): report of a family and review of the literature.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sparrow GP...Wells RS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/939040" target="_blank">939040</a></td>
+<td>1976</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Incontinentia pigmenti: dysplastic & pigmentary functional perspiratory disorders in ancestry].
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">VILANOVA X...AGUADE JP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/13670508" target="_blank">13670508</a></td>
+<td>1959</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Two Japanese cases of a peculiar reticulous pigmentation].
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">KITAMURA K...HIRAKO T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/14379757" target="_blank">14379757</a></td>
+<td>1955</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Naegeli-Franceschetti-Jadassohn Syndrome according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show all 21', 'showing 21, show less','collapsable')">show all 21</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Inherited Reticulate Pigmentary Disorders.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lin MH...Yu S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37372478" target="_blank">37372478</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Identification of a founder mutation in KRT14 associated with Naegeli-Franceschetti-Jadassohn syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ralser DJ...Betz RC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32282935" target="_blank">32282935</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Naegeli-Franceschetti-Jadassohn syndrome and dermatopathia pigmentosa reticularis: intrafamilial overlap of phenotypes in patients with the same KRT14 frameshift variant.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Burger B...Itin PH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30968399" target="_blank">30968399</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Naegeli-Franceschetti-Jadassohn Syndrome: A Rare Reticulate Pigmentary Disorder.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sanodia G...Kumar VJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31148864" target="_blank">31148864</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Naegeli-Franceschetti-Jadassohn syndrome: A rare case.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Shah BJ...Dhamale SS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26753140" target="_blank">26753140</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Naegeli-Franceschetti-Jadassohn syndrome in a Saudi Arabian family.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Tubaigy SM...Hassan HM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24261749" target="_blank">24261749</a></td>
+<td>2014</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A new case of keratin 14 functional knockout causes severe recessive EBS and questions the haploinsufficiency model of Naegeli-Franceschetti-Jadassohn syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Titeux M...Hovnanian A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21734713" target="_blank">21734713</a></td>
+<td>2011</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Prenatal and postnatal growth retardation, microcephaly, developmental delay, and pigmentation abnormalities: Naegeli syndrome, dyskeratosis congenita, poikiloderma Clericuzio type, or separate entity?
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Belligni EF...Hennekam RC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21252004" target="_blank">21252004</a></td>
+<td>2011</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Spontaneous fading of reticular pigmentation in Naegeli-Franceschetti-Jadassohn syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Itin PH...Burger B</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20587992" target="_blank">20587992</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+KRT14 haploinsufficiency results in increased susceptibility of keratinocytes to TNF-alpha-induced apoptosis and causes Naegeli-Franceschetti-Jadassohn syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lugassy J...Sprecher E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18049449" target="_blank">18049449</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Naegeli-Franceschetti-Jadassohn syndrome and dermatopathia pigmentosa reticularis. Two allelic ectodermal dysplasias related to mutations of dominant gene coding for keratin 14].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dereure O</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17657198" target="_blank">17657198</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Segmental forms of autosomal dominant skin disorders: the puzzle of mosaicism.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Itin PH...Buechner SA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10398258" target="_blank">10398258</a></td>
+<td>1999</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genodermatosis with reticulate, patchy and mottled pigmentation of the neck--a clue to rare dermatologic disorders.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Itin PH...Lautenschlager S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9812038" target="_blank">9812038</a></td>
+<td>1998</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Reticulate hyperpigmentation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Schnur RE...Heymann WR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9125768" target="_blank">9125768</a></td>
+<td>1997</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Reticular pigmented genodermatosis with milia--a special form of Naegeli-Franceschetti-Jadassohn syndrome or a new entity?
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Tzermias C...Hatzis I</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8548993" target="_blank">8548993</a></td>
+<td>1995</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Reticulate pigmentary dermatosis associated with hypohydrosis and short stature: a variant of Naegeli-Franceschetti-Jadassohn syndrome?
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kudo Y...Ogawa A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/7896482" target="_blank">7896482</a></td>
+<td>1995</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Natural history of the Naegeli-Franceschetti-Jadassohn syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Papini M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/7929942" target="_blank">7929942</a></td>
+<td>1994</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Nägeli-Franceschetti-Jadassohn syndrome: A hereditary ectodermal defect leading to colloid-amyloid formation in the dermis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Frenk E...Hohl D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8219417" target="_blank">8219417</a></td>
+<td>1993</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Sweat studies under conditions of moderate heat stress in two patients with the Nägeli-Franceschetti-Jadassohn syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mevorah B...Donatsch J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8219418" target="_blank">8219418</a></td>
+<td>1993</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Congenital poikiloderma with traumatic bulla formation, anhidrosisi, and keratoderma.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Person JR...Perry HO</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/92149" target="_blank">92149</a></td>
+<td>1979</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Reticular pigmentary dermatitis of Franceschetti-Jadassohn syndrome. Case report].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Levi L...Ghislanzoni G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/5110058" target="_blank">5110058</a></td>
+<td>1971</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Naegeli-Franceschetti-Jadassohn Syndrome (1 elite genes):</h3>
+<span class="showmore">
+(<a id="RelatedGenes-table_SeeMore" href="javascript:showMoreTable('RelatedGenes-table','RelatedGenes-table_SeeMore', 'show all 11', 'showing 11, show less','collapsable')">show all 11</a>)
+</span>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Keratin 14</td>
+<td>Protein Coding</td>
+<td>1376.26</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/148066" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=16317" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000167586&amp;type2=-26&amp;id2=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_KRT14">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=Naegeli-Franceschetti-Jadassohn+Syndrome&amp;prefilter=diseases#diseases" title="KRT14 gene information at GeneCards" target="_blank">Disorders</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=Naegeli-Franceschetti-Jadassohn+Syndrome&amp;prefilter=publications#publications" title="KRT14 gene information at GeneCards" target="_blank">Publications</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_KRT14_SeeMore" href="javascript:showMoreTable('related_genes_KRT14','related_genes_KRT14_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/13141721" title="ClinVar" target="_blank">13141721</a> <a href="https://pubmed.ncbi.nlm.nih.gov/8496458" title="ClinVar" target="_blank">8496458</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT24" title="KRT24 gene information at GeneCards" target="_blank">KRT24</a></div>
+</div>
+</td>
+<td>Keratin 24</td>
+<td>Protein Coding</td>
+<td>14.26</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000264651&amp;type2=-26&amp;id2=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_KRT24">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT24&amp;keywords=Naegeli-Franceschetti-Jadassohn+Syndrome&amp;prefilter=publications#publications" title="KRT24 gene information at GeneCards" target="_blank">Publications</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_KRT24_SeeMore" href="javascript:showMoreTable('related_genes_KRT24','related_genes_KRT24_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT83" title="KRT83 gene information at GeneCards" target="_blank">KRT83</a></div>
+</div>
+</td>
+<td>Keratin 83</td>
+<td>Protein Coding</td>
+<td>6.64</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000293670&amp;type2=-26&amp;id2=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a></div>
+</div>
+</td>
+<td>Keratin 85</td>
+<td>Protein Coding</td>
+<td>6.63</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000257901&amp;type2=-26&amp;id2=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT86" title="KRT86 gene information at GeneCards" target="_blank">KRT86</a></div>
+</div>
+</td>
+<td>Keratin 86</td>
+<td>Protein Coding</td>
+<td>6.28</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000444533&amp;type2=-26&amp;id2=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a></div>
+</div>
+</td>
+<td>Keratin 82</td>
+<td>Protein Coding</td>
+<td>6.1</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000257974&amp;type2=-26&amp;id2=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT84" title="KRT84 gene information at GeneCards" target="_blank">KRT84</a></div>
+</div>
+</td>
+<td>Keratin 84</td>
+<td>Protein Coding</td>
+<td>6.04</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000257951&amp;type2=-26&amp;id2=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT6B" title="KRT6B gene information at GeneCards" target="_blank">KRT6B</a></div>
+</div>
+</td>
+<td>Keratin 6B</td>
+<td>Protein Coding</td>
+<td>5.99</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000252252&amp;type2=-26&amp;id2=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a></div>
+</div>
+</td>
+<td>Keratin 74</td>
+<td>Protein Coding</td>
+<td>5.91</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000307240&amp;type2=-26&amp;id2=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">10</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT25" title="KRT25 gene information at GeneCards" target="_blank">KRT25</a></div>
+</div>
+</td>
+<td>Keratin 25</td>
+<td>Protein Coding</td>
+<td>5.9</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000310573&amp;type2=-26&amp;id2=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_10">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">11</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LINC00708" title="LINC00708 gene information at GeneCards" target="_blank">LINC00708</a></div>
+</div>
+</td>
+<td>Long Intergenic Non-Protein Coding RNA 708</td>
+<td>RNA Gene</td>
+<td>5.85</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=LINC00708&amp;type2=-26&amp;id2=DOID:0111528" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_11">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Naegeli-Franceschetti-Jadassohn Syndrome:</h3>
+<sup title="ClinVar">5</sup>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a></td>
+<td style="overflow-wrap:break-word;">NM_000526.5(KRT14):c.17del (p.Arg6fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000015730/" title="RCV000015730" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/66329/?new_evidence=true#id_second" target="_blank">66329</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/267607390" target="_blank">rs267607390</a></td>
+<td>GRCh37: 17:39743070-39743070<br/>GRCh38: 17:41586818-41586818</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a></td>
+<td style="overflow-wrap:break-word;">NM_000526.5(KRT14):c.19C&gt;T (p.Gln7Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000415603/" title="RCV000415603" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/66333/?new_evidence=true#id_second" target="_blank">66333</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/267607391" target="_blank">rs267607391</a></td>
+<td>GRCh37: 17:39743068-39743068<br/>GRCh38: 17:41586816-41586816</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a></td>
+<td style="overflow-wrap:break-word;">NM_000526.5(KRT14):c.166C&gt;T (p.Arg56Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002489369/" title="RCV002489369" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/781859/?new_evidence=true#id_second" target="_blank">781859</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/117484558" target="_blank">rs117484558</a></td>
+<td>GRCh37: 17:39742921-39742921<br/>GRCh38: 17:41586669-41586669</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a></td>
+<td style="overflow-wrap:break-word;">NM_000526.5(KRT14):c.188G&gt;A (p.Cys63Tyr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496123/" title="RCV002496123" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1668287/?new_evidence=true#id_second" target="_blank">1668287</a></td>
+<td><span></span> </td>
+<td>GRCh37: 17:39742899-39742899<br/>GRCh38: 17:41586647-41586647</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a></td>
+<td style="overflow-wrap:break-word;">NM_000526.5(KRT14):c.1237G&gt;A (p.Ala413Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002490637/" title="RCV002490637" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/66319/?new_evidence=true#id_second" target="_blank">66319</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/59780231" target="_blank">rs59780231</a></td>
+<td>GRCh37: 17:39739524-39739524<br/>GRCh38: 17:41583272-41583272</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a></td>
+<td style="overflow-wrap:break-word;">NM_000526.5(KRT14):c.189C&gt;T (p.Cys63=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002490638/" title="RCV002490638" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/66331/?new_evidence=true#id_second" target="_blank">66331</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/11551758" target="_blank">rs11551758</a></td>
+<td>GRCh37: 17:39742898-39742898<br/>GRCh38: 17:41586646-41586646</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a></td>
+<td style="overflow-wrap:break-word;">NM_000526.5(KRT14):c.193C&gt;T (p.Leu65=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002490639/" title="RCV002490639" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/66332/?new_evidence=true#id_second" target="_blank">66332</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/3826551" target="_blank">rs3826551</a></td>
+<td>GRCh37: 17:39742894-39742894<br/>GRCh38: 17:41586642-41586642</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a></td>
+<td style="overflow-wrap:break-word;">NM_000526.5(KRT14):c.369T&gt;C (p.Asn123=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002496746/" title="RCV002496746" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/66346/?new_evidence=true#id_second" target="_blank">66346</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/3826549" target="_blank">rs3826549</a></td>
+<td>GRCh37: 17:39742718-39742718<br/>GRCh38: 17:41586466-41586466</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Naegeli-Franceschetti-Jadassohn%20Syndrome%22%5BMeSH%20Terms%5D%20OR%20%22Naegeli-Franceschetti-Jadassohn%20Syndrome%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Naegeli-Franceschetti-Jadassohn Syndrome.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Naegeli-Franceschetti-Jadassohn Syndrome according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Nervous_system_development_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/nervous_system_development" target="_blank">Nervous system development</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-9675108" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-422475" target="_blank">Axon guidance</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-1266738" target="_blank">Developmental Biology</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>13.02</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT6B&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT6B gene information at GeneCards" target="_blank">KRT6B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT25&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT25 gene information at GeneCards" target="_blank">KRT25</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT24&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT24 gene information at GeneCards" target="_blank">KRT24</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> </td>
+</tr>
+<tr id="Keratinization_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/keratinization" target="_blank">Keratinization</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-6805567" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-6809371" target="_blank">Formation of the cornified envelope</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>11.86</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT6B&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT6B gene information at GeneCards" target="_blank">KRT6B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT25&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT25 gene information at GeneCards" target="_blank">KRT25</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT24&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT24 gene information at GeneCards" target="_blank">KRT24</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Cellular components related to Naegeli-Franceschetti-Jadassohn Syndrome according to GeneCards Suite gene sharing:</h3>
+<table id="go_cc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>cytosol</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005829" target="_blank">GO:0005829</a></td>
+<td>10.16</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT86&amp;keywords=cytosol&amp;prefilter=go_cc#go_cc" title="KRT86 gene information at GeneCards" target="_blank">KRT86</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=cytosol&amp;prefilter=go_cc#go_cc" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT84&amp;keywords=cytosol&amp;prefilter=go_cc#go_cc" title="KRT84 gene information at GeneCards" target="_blank">KRT84</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT83&amp;keywords=cytosol&amp;prefilter=go_cc#go_cc" title="KRT83 gene information at GeneCards" target="_blank">KRT83</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82&amp;keywords=cytosol&amp;prefilter=go_cc#go_cc" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=cytosol&amp;prefilter=go_cc#go_cc" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>intermediate filament</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005882" target="_blank">GO:0005882</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT24&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRT24 gene information at GeneCards" target="_blank">KRT24</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT25&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRT25 gene information at GeneCards" target="_blank">KRT25</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT6B&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRT6B gene information at GeneCards" target="_blank">KRT6B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>keratin filament</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0045095" target="_blank">GO:0045095</a></td>
+<td>9.58</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT25&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRT25 gene information at GeneCards" target="_blank">KRT25</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT6B&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRT6B gene information at GeneCards" target="_blank">KRT6B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT83&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRT83 gene information at GeneCards" target="_blank">KRT83</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Biological processes related to Naegeli-Franceschetti-Jadassohn Syndrome according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>epidermis development</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0008544" target="_blank">GO:0008544</a></td>
+<td>9.85</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=epidermis+development&amp;prefilter=go_proc#go_proc" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT83&amp;keywords=epidermis+development&amp;prefilter=go_proc#go_proc" title="KRT83 gene information at GeneCards" target="_blank">KRT83</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=epidermis+development&amp;prefilter=go_proc#go_proc" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>keratinization</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031424" target="_blank">GO:0031424</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT6B&amp;keywords=keratinization&amp;prefilter=go_proc#go_proc" title="KRT6B gene information at GeneCards" target="_blank">KRT6B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=keratinization&amp;prefilter=go_proc#go_proc" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82&amp;keywords=keratinization&amp;prefilter=go_proc#go_proc" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT83&amp;keywords=keratinization&amp;prefilter=go_proc#go_proc" title="KRT83 gene information at GeneCards" target="_blank">KRT83</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT84&amp;keywords=keratinization&amp;prefilter=go_proc#go_proc" title="KRT84 gene information at GeneCards" target="_blank">KRT84</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=keratinization&amp;prefilter=go_proc#go_proc" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>hair cycle</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0042633" target="_blank">GO:0042633</a></td>
+<td>9.63</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT83&amp;keywords=hair+cycle&amp;prefilter=go_proc#go_proc" title="KRT83 gene information at GeneCards" target="_blank">KRT83</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT25&amp;keywords=hair+cycle&amp;prefilter=go_proc#go_proc" title="KRT25 gene information at GeneCards" target="_blank">KRT25</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=hair+cycle&amp;prefilter=go_proc#go_proc" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>epithelial cell differentiation</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0030855" target="_blank">GO:0030855</a></td>
+<td>9.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT25&amp;keywords=epithelial+cell+differentiation&amp;prefilter=go_proc#go_proc" title="KRT25 gene information at GeneCards" target="_blank">KRT25</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT24&amp;keywords=epithelial+cell+differentiation&amp;prefilter=go_proc#go_proc" title="KRT24 gene information at GeneCards" target="_blank">KRT24</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=epithelial+cell+differentiation&amp;prefilter=go_proc#go_proc" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>intermediate filament organization</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0045109" target="_blank">GO:0045109</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT86&amp;keywords=intermediate+filament+organization&amp;prefilter=go_proc#go_proc" title="KRT86 gene information at GeneCards" target="_blank">KRT86</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=intermediate+filament+organization&amp;prefilter=go_proc#go_proc" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT84&amp;keywords=intermediate+filament+organization&amp;prefilter=go_proc#go_proc" title="KRT84 gene information at GeneCards" target="_blank">KRT84</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT83&amp;keywords=intermediate+filament+organization&amp;prefilter=go_proc#go_proc" title="KRT83 gene information at GeneCards" target="_blank">KRT83</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82&amp;keywords=intermediate+filament+organization&amp;prefilter=go_proc#go_proc" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=intermediate+filament+organization&amp;prefilter=go_proc#go_proc" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>obsolete aging</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0007568" target="_blank">GO:0007568</a></td>
+<td>9.43</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT83&amp;keywords=obsolete+aging&amp;prefilter=go_proc#go_proc" title="KRT83 gene information at GeneCards" target="_blank">KRT83</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT25&amp;keywords=obsolete+aging&amp;prefilter=go_proc#go_proc" title="KRT25 gene information at GeneCards" target="_blank">KRT25</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=obsolete+aging&amp;prefilter=go_proc#go_proc" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Naegeli-Franceschetti-Jadassohn Syndrome according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>structural constituent of cytoskeleton</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005200" target="_blank">GO:0005200</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT84&amp;keywords=structural+constituent+of+cytoskeleton&amp;prefilter=go_func#go_func" title="KRT84 gene information at GeneCards" target="_blank">KRT84</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT6B&amp;keywords=structural+constituent+of+cytoskeleton&amp;prefilter=go_func#go_func" title="KRT6B gene information at GeneCards" target="_blank">KRT6B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=structural+constituent+of+cytoskeleton&amp;prefilter=go_func#go_func" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>structural molecule activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005198" target="_blank">GO:0005198</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=structural+molecule+activity&amp;prefilter=go_func#go_func" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT25&amp;keywords=structural+molecule+activity&amp;prefilter=go_func#go_func" title="KRT25 gene information at GeneCards" target="_blank">KRT25</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT24&amp;keywords=structural+molecule+activity&amp;prefilter=go_func#go_func" title="KRT24 gene information at GeneCards" target="_blank">KRT24</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=structural+molecule+activity&amp;prefilter=go_func#go_func" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>structural constituent of skin epidermis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0030280" target="_blank">GO:0030280</a></td>
+<td>9.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT86&amp;keywords=structural+constituent+of+skin+epidermis&amp;prefilter=go_func#go_func" title="KRT86 gene information at GeneCards" target="_blank">KRT86</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT85&amp;keywords=structural+constituent+of+skin+epidermis&amp;prefilter=go_func#go_func" title="KRT85 gene information at GeneCards" target="_blank">KRT85</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT84&amp;keywords=structural+constituent+of+skin+epidermis&amp;prefilter=go_func#go_func" title="KRT84 gene information at GeneCards" target="_blank">KRT84</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT83&amp;keywords=structural+constituent+of+skin+epidermis&amp;prefilter=go_func#go_func" title="KRT83 gene information at GeneCards" target="_blank">KRT83</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82&amp;keywords=structural+constituent+of+skin+epidermis&amp;prefilter=go_func#go_func" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=structural+constituent+of+skin+epidermis&amp;prefilter=go_func#go_func" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>keratin filament binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:1990254" target="_blank">GO:1990254</a></td>
+<td>9.46</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT74&amp;keywords=keratin+filament+binding&amp;prefilter=go_func#go_func" title="KRT74 gene information at GeneCards" target="_blank">KRT74</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT14&amp;keywords=keratin+filament+binding&amp;prefilter=go_func#go_func" title="KRT14 gene information at GeneCards" target="_blank">KRT14</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Naegeli-Franceschetti-Jadassohn Syndrome</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#6c1f191c1c031e182c00050a09010d1c1f0f420f0301">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ed6e07e550004',t:'MTY5NTI2MjkzNS4yODMwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

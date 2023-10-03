@@ -1,0 +1,3165 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Cataract 30 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/cataract_30" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'cataract_30';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+<div class="symbol">MCID: CTR185</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 32
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Cataract 30</span>
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Cardiovascular diseases, Eye diseases, Fetal diseases, Genetic diseases, Mental diseases, Metabolic diseases, Nephrological diseases, Neuronal diseases, Oral diseases, Rare diseases, Skin diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#d1a2b0bdb4a291bdb8b7b4bcb0a1a2b2ffb2bebc" target="_blank"><span class="__cf_email__" data-cfemail="91e2f0fdf4e2d1fdf8f7f4fcf0e1e2f2bff2fefc">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="16 Genes associated with Cataract 30">Genes</a>
+<a href="#genetic_variations" title="37 Variations associated with Cataract 30">Variations</a>
+<a href="#anatomical_context" title="2 Tissues associated with Cataract 30">Tissues</a>
+<a href="#disorders" title="14 Related diseases associated with Cataract 30">Related diseases</a>
+<a href="#publications" title="20 Publications associated with Cataract 30">Publications</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/cataract_30?search%3dCardiovascular+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Cataract 30:</h3>
+<div class="main-name">
+Name: <b>Cataract 30</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110248" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C3805411" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Cataract 30 Pulverulent
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110248" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Cataract Coppock-Like
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110248" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Cataract, Type 30
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/01236" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Dusty Cataract
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110248" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Ctrct30
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110248" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/eye_disease_list" target="_blank">Eye diseases</a> <a href="https://www.malacards.org/categories/nephrological_disease_list" target="_blank">Nephrological diseases</a> <a href="https://www.malacards.org/categories/skin_disease_list" target="_blank">Skin diseases</a> <a href="https://www.malacards.org/categories/cardiovascular_disease_list" target="_blank">Cardiovascular diseases</a> <a href="https://www.malacards.org/categories/oral_disease_list" target="_blank">Oral diseases</a> <a href="https://www.malacards.org/categories/mental_disease_list" target="_blank">Mental diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="International Classification of Diseases, 10th Revision">31</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/XVII" title="XVII" target="_blank">Congenital malformations, deformations and chromosomal abnormalities</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q10-Q18" title="Q10-Q18" target="_blank">Congenital malformations of eye, ear, face and neck</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q12" title="Q12" target="_blank">Congenital lens malformations</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q12.0" title="Q12.0" target="_blank">Congenital cataract</a>
+</div>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110248" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0110248" target="_blank">DOID:0110248</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="International Classification of Diseases, 10th Revision">ICD10</b>
+<sup title="International Classification of Diseases, 10th Revision"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q12.0" target="_blank">31</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q12.0" target="_blank">Q12.0</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_3">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C3805411</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="https://disease-ontology.org/?id=DOID:0110248" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110248" target="_blank">11</a></sup>
+A cataract that has material basis in heterozygous mutation in the VIM gene on chromosome 10p13.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Cataract 30, also known as <i>cataract 30 pulverulent</i>, is related to <i><a href="/card/cataract_30_multiple_types" target="_blank">cataract 30, multiple types</a></i> and <i><a href="/card/cataract_2_multiple_types" target="_blank">cataract 2, multiple types</a></i>. An important gene associated with Cataract 30 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" target="_blank">VIM</a> (Vimentin), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/malignant_pleural_mesothelioma" target="_blank">Malignant pleural mesothelioma</a></i> and <i><a href="https://pathcards.genecards.org/card/g-protein_signaling_rac1_in_cellular_process" target="_blank">G-protein signaling RAC1 in cellular process</a></i>. Affiliated tissues include <i>eye</i> and <i>lung</i>, and related phenotype is <i><a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005382" target="_blank">craniofacial</a></i>.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases in the <a href="/card/cataract" target="_blank">Cataract</a> family:</h3>
+<table class="family borderless">
+<tr>
+<td>
+<a href="/card/cataract_32_multiple_types" target="_blank">Cataract 32, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_7" target="_blank">Cataract 7</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_8_multiple_types" target="_blank">Cataract 8, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_4_multiple_types" target="_blank">Cataract 4, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_29" target="_blank">Cataract 29</a> </td>
+<td>
+<a href="/card/cataract_42" target="_blank">Cataract 42</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_20_multiple_types" target="_blank">Cataract 20, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_1_multiple_types" target="_blank">Cataract 1, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_30_multiple_types" target="_blank">Cataract 30, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_41" target="_blank">Cataract 41</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_6_multiple_types" target="_blank">Cataract 6, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_5_multiple_types" target="_blank">Cataract 5, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_40" target="_blank">Cataract 40</a> </td>
+<td>
+<a href="/card/cataract_10_multiple_types" target="_blank">Cataract 10, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_24" target="_blank">Cataract 24</a> </td>
+<td>
+<a href="/card/cataract_3_multiple_types" target="_blank">Cataract 3, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_14_multiple_types" target="_blank">Cataract 14, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_9_multiple_types" target="_blank">Cataract 9, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_2_multiple_types" target="_blank">Cataract 2, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_31_multiple_types" target="_blank">Cataract 31, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_25" target="_blank">Cataract 25</a> </td>
+<td>
+<a href="/card/cataract_26_multiple_types" target="_blank">Cataract 26, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_27" target="_blank">Cataract 27</a> </td>
+<td>
+<a href="/card/cataract_28" target="_blank">Cataract 28</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_35" target="_blank">Cataract 35</a> </td>
+<td>
+<a href="/card/cataract_22_multiple_types" target="_blank">Cataract 22, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_18" target="_blank">Cataract 18</a> </td>
+<td>
+<a href="/card/cataract_21_multiple_types" target="_blank">Cataract 21, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_23_multiple_types" target="_blank">Cataract 23, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_11_multiple_types" target="_blank">Cataract 11, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_33_multiple_types" target="_blank">Cataract 33, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_17_multiple_types" target="_blank">Cataract 17, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_12_multiple_types" target="_blank">Cataract 12, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_47" target="_blank">Cataract 47</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_34_multiple_types" target="_blank">Cataract 34, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_16_multiple_types" target="_blank">Cataract 16, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_36" target="_blank">Cataract 36</a> </td>
+<td>
+<a href="/card/cataract_37" target="_blank">Cataract 37</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_38" target="_blank">Cataract 38</a> </td>
+<td>
+<a href="/card/cataract_39_multiple_types" target="_blank">Cataract 39, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_15_multiple_types" target="_blank">Cataract 15, Multiple Types</a> </td>
+<td>
+<a href="/card/cataract_19_multiple_types_2" target="_blank">Cataract 19, Multiple Types</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_43" target="_blank">Cataract 43</a> </td>
+<td>
+<a href="/card/cataract_44" target="_blank">Cataract 44</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_45" target="_blank">Cataract 45</a> </td>
+<td>
+<a href="/card/cataract_48" target="_blank">Cataract 48</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_49" target="_blank">Cataract 49</a> </td>
+<td>
+<b>Cataract 30</b>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/card/cataract_33" target="_blank">Cataract 33</a> </td>
+<td>
+<a href="/card/cataract_congenital_autosomal_dominant" target="_blank">Cataract Congenital Autosomal Dominant</a> </td>
+</tr>
+</table>
+<br/>
+<h3>Diseases related to Cataract 30 via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 14', 'showing 14, show less','collapsable')">show all 14</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/cataract_30_multiple_types" target="_blank">cataract 30, multiple types</a></td>
+<td>32.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1&amp;keywords=cataract+30%2c+multiple+types&amp;prefilter=diseases#diseases" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=cataract+30%2c+multiple+types&amp;prefilter=diseases#diseases" title="VIM gene information at GeneCards" target="_blank">VIM</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/cataract_2_multiple_types" target="_blank">cataract 2, multiple types</a></td>
+<td>11.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=cataract+2%2c+multiple+types&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/sclerosing_hemangioma" target="_blank">sclerosing hemangioma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=sclerosing+hemangioma&amp;prefilter=diseases#diseases" title="VIM gene information at GeneCards" target="_blank">VIM</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=sclerosing+hemangioma&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/fibromatosis" target="_blank">fibromatosis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=fibromatosis&amp;prefilter=diseases#diseases" title="VIM gene information at GeneCards" target="_blank">VIM</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=fibromatosis&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/pseudosarcomatous_fibromatosis" target="_blank">pseudosarcomatous fibromatosis</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=pseudosarcomatous+fibromatosis&amp;prefilter=diseases#diseases" title="VIM gene information at GeneCards" target="_blank">VIM</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=pseudosarcomatous+fibromatosis&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/pleomorphic_adenoma" target="_blank">pleomorphic adenoma</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=pleomorphic+adenoma&amp;prefilter=diseases#diseases" title="VIM gene information at GeneCards" target="_blank">VIM</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLAGL2&amp;keywords=pleomorphic+adenoma&amp;prefilter=diseases#diseases" title="PLAGL2 gene information at GeneCards" target="_blank">PLAGL2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=pleomorphic+adenoma&amp;prefilter=diseases#diseases" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=pleomorphic+adenoma&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/gastrointestinal_stromal_tumor" target="_blank">gastrointestinal stromal tumor</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=gastrointestinal+stromal+tumor&amp;prefilter=diseases#diseases" title="VIM gene information at GeneCards" target="_blank">VIM</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROS1&amp;keywords=gastrointestinal+stromal+tumor&amp;prefilter=diseases#diseases" title="ROS1 gene information at GeneCards" target="_blank">ROS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=gastrointestinal+stromal+tumor&amp;prefilter=diseases#diseases" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=gastrointestinal+stromal+tumor&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/ureteral_disease" target="_blank">ureteral disease</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=ureteral+disease&amp;prefilter=diseases#diseases" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=ureteral+disease&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AGTR1&amp;keywords=ureteral+disease&amp;prefilter=diseases#diseases" title="AGTR1 gene information at GeneCards" target="_blank">AGTR1</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/urinary_tract_obstruction" target="_blank">urinary tract obstruction</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=urinary+tract+obstruction&amp;prefilter=diseases#diseases" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=urinary+tract+obstruction&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AGTR1&amp;keywords=urinary+tract+obstruction&amp;prefilter=diseases#diseases" title="AGTR1 gene information at GeneCards" target="_blank">AGTR1</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/ureteral_obstruction" target="_blank">ureteral obstruction</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=ureteral+obstruction&amp;prefilter=diseases#diseases" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=ureteral+obstruction&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AGTR1&amp;keywords=ureteral+obstruction&amp;prefilter=diseases#diseases" title="AGTR1 gene information at GeneCards" target="_blank">AGTR1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/sarcoma" target="_blank">sarcoma</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=sarcoma&amp;prefilter=diseases#diseases" title="VIM gene information at GeneCards" target="_blank">VIM</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROS1&amp;keywords=sarcoma&amp;prefilter=diseases#diseases" title="ROS1 gene information at GeneCards" target="_blank">ROS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=sarcoma&amp;prefilter=diseases#diseases" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=sarcoma&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/focal_segmental_glomerulosclerosis" target="_blank">focal segmental glomerulosclerosis</a></td>
+<td>9.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=focal+segmental+glomerulosclerosis&amp;prefilter=diseases#diseases" title="VIM gene information at GeneCards" target="_blank">VIM</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=focal+segmental+glomerulosclerosis&amp;prefilter=diseases#diseases" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=focal+segmental+glomerulosclerosis&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AGTR1&amp;keywords=focal+segmental+glomerulosclerosis&amp;prefilter=diseases#diseases" title="AGTR1 gene information at GeneCards" target="_blank">AGTR1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/adenocarcinoma" target="_blank">adenocarcinoma</a></td>
+<td>9.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=adenocarcinoma&amp;prefilter=diseases#diseases" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROS1&amp;keywords=adenocarcinoma&amp;prefilter=diseases#diseases" title="ROS1 gene information at GeneCards" target="_blank">ROS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=adenocarcinoma&amp;prefilter=diseases#diseases" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=adenocarcinoma&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/squamous_cell_carcinoma" target="_blank">squamous cell carcinoma</a></td>
+<td>8.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=squamous+cell+carcinoma&amp;prefilter=diseases#diseases" title="VIM gene information at GeneCards" target="_blank">VIM</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=squamous+cell+carcinoma&amp;prefilter=diseases#diseases" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIR375&amp;keywords=squamous+cell+carcinoma&amp;prefilter=diseases#diseases" title="MIR375 gene information at GeneCards" target="_blank">MIR375</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=squamous+cell+carcinoma&amp;prefilter=diseases#diseases" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=squamous+cell+carcinoma&amp;prefilter=diseases#diseases" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BMI1&amp;keywords=squamous+cell+carcinoma&amp;prefilter=diseases#diseases" title="BMI1 gene information at GeneCards" target="_blank">BMI1</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Cataract 30:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/cataract_30_related_diseases.jpg" width="100%" alt="Diseases related to Cataract 30" title="Diseases related to Cataract 30" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Symptoms">
+</div>
+<div class="section-data">
+<h3>MGI Mouse Phenotypes related to Cataract 30:</h3>
+<sup title="Mouse Genome Informatics">45</sup>
+<table id="FunctionalDescription_MGI-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>MGI Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>craniofacial</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005382" target="_blank">MP:0005382</a></td>
+<td>9.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH1A1&amp;keywords=craniofacial&amp;prefilter=function#function" title="ALDH1A1 gene information at GeneCards" target="_blank">ALDH1A1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BMI1&amp;keywords=craniofacial&amp;prefilter=function#function" title="BMI1 gene information at GeneCards" target="_blank">BMI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=craniofacial&amp;prefilter=function#function" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=craniofacial&amp;prefilter=function#function" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SRSF6&amp;keywords=craniofacial&amp;prefilter=function#function" title="SRSF6 gene information at GeneCards" target="_blank">SRSF6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=craniofacial&amp;prefilter=function#function" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Cataract 30" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Cataract 30&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Cataract 30</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Cataract 30:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Cataract 30
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C3805411" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=cataract+30&amp;prefilter=diseases#diseases" title="VIM gene information at GeneCards" target="_blank">VIM</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Cataract 30: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="1.91243">Eye</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.05038586">Lung</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Cataract 30 according to ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Targeted Exome Sequencing of Congenital Cataracts Related Genes: Broadening the Mutation Spectrum and Genotype-Phenotype Correlations in 27 Chinese Han Families.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhai Y...Yao K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28450710" target="_blank">28450710</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Sporadic and Familial Congenital Cataracts: Mutational Spectrum and New Diagnoses Using Next-Generation Sequencing.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ma AS...Jamieson RV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26694549" target="_blank">26694549</a></td>
+<td>2016</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Dominant cataract formation in association with a vimentin assembly disrupting mutation.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Muller M...Magin TM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19126778" target="_blank">19126778</a></td>
+<td>2009</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Cataract 30 according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show all 17', 'showing 17, show less','collapsable')">show all 17</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Blood and aqueous humor phoenixin, endocan and spexin in patients with diabetes mellitus and cataract with and without diabetic retinopathy.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Celik F...Aydin S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34971675" target="_blank">34971675</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Three-Dimensional Reconstruction and Swept-Source Optical Coherence Tomography for Crystalline Lens Tilt and Decentration Relative to the Corneal Vertex.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dong J...Wang XG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34388238" target="_blank">34388238</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Four-year incidence and progression of visual impairment in a South Indian population with diabetes.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Srinivasan S...Sharma T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28724816" target="_blank">28724816</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Prognostic Values of Vimentin Expression and Its Clinicopathological Significance in Non-Small Cell Lung Cancer: A Meta-Analysis of Observational Studies with 4118 Cases.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ye Z...Chen G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27657690" target="_blank">27657690</a></td>
+<td>2016</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Impact of Vision Impairment (IVI) Questionnaire; Validation of the Thai-Version and the Implementation on Vision-Related Quality of Life in Thai Rural Community.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ratanasukon M...Jirarattanasopa P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27191960" target="_blank">27191960</a></td>
+<td>2016</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Sankara Nethralaya mobile teleophthalmology model for comprehensive eye care delivery in rural India.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">John S...Badrinath SS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22500741" target="_blank">22500741</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Transforming growth factor beta1, matrix-metalloproteinase-2 and its tissue inhibitor in patients with pseudoexfoliation glaucoma/syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Djordjevic-Jocic J...Schlotzer-Schrehardt U</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22624408" target="_blank">22624408</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Stereotactic fractionated radiotherapy in the treatment of juxtapapillary choroidal melanoma: the McGill University experience.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Al-Wassia R...Shenouda G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21708428" target="_blank">21708428</a></td>
+<td>2011</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Early vitrectomy for vitreous hemorrhage associated with retinal tears.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Tan HS...Bijl HM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20579632" target="_blank">20579632</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Role of fructose concentration on cataractogenesis in senile diabetic and non-diabetic patients.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gul A...Hasnain SN</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19198870" target="_blank">19198870</a></td>
+<td>2009</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Changes in erythrocyte glucose-6-phosphate dehydrogenase (G6PD) and reduced glutathione (GSH) activities in the development of senile and diabetic cataracts.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chandrasena LG...Peiris H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19058613" target="_blank">19058613</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Antioxidant status in diabetic and non-diabetic senile patients, with cataract or cardiovascular complications.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gul A...Rahman MA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18246223" target="_blank">18246223</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Eger Macular Stressometer: pilot study.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Schmitt NJ...Feldon SE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12888055" target="_blank">12888055</a></td>
+<td>2003</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Clinical significance of preoperative B-ultrasonography for traumatic cataract].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Shi B...Chen W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11835842" target="_blank">11835842</a></td>
+<td>1999</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Contrast on therapeutic results of intraocular lens implantation in diabetics and non-diabetics].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhong K...Chen Z</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11189343" target="_blank">11189343</a></td>
+<td>1997</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The prevalence of eye disease in Leicester: a comparison of adults of Asian and European descent.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Das BN...Rosenthal AR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8182680" target="_blank">8182680</a></td>
+<td>1994</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Causes of enucleation following cataract surgery.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Merenmies L...Tarkkanen A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/301338" target="_blank">301338</a></td>
+<td>1977</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Cataract 30 (2 elite genes):</h3>
+<span class="showmore">
+(<a id="RelatedGenes-table_SeeMore" href="javascript:showMoreTable('RelatedGenes-table','RelatedGenes-table_SeeMore', 'show all 16', 'showing 16, show less','collapsable')">show all 16</a>)
+</span>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Vimentin</td>
+<td>Protein Coding</td>
+<td>512.9</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000446007&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_VIM">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=Cataract+30&amp;prefilter=diseases#diseases" title="VIM gene information at GeneCards" target="_blank">Disorders</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_VIM_SeeMore" href="javascript:showMoreTable('related_genes_VIM','related_genes_VIM_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/19126778" title="ClinVar" target="_blank">19126778</a> <a href="https://pubmed.ncbi.nlm.nih.gov/26694549" title="ClinVar" target="_blank">26694549</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>VIM Antisense RNA 1</td>
+<td>RNA Gene</td>
+<td>400</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/19126778" title="ClinVar" target="_blank">19126778</a> <a href="https://pubmed.ncbi.nlm.nih.gov/26694549" title="ClinVar" target="_blank">26694549</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHKB" title="CHKB gene information at GeneCards" target="_blank">CHKB</a></div>
+</div>
+</td>
+<td>Choline Kinase Beta</td>
+<td>Protein Coding</td>
+<td>4.79</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000384400&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LINC01133" title="LINC01133 gene information at GeneCards" target="_blank">LINC01133</a></div>
+</div>
+</td>
+<td>Long Intergenic Non-Protein Coding RNA 1133</td>
+<td>RNA Gene</td>
+<td>4.72</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=LINC01133&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLAGL2" title="PLAGL2 gene information at GeneCards" target="_blank">PLAGL2</a></div>
+</div>
+</td>
+<td>PLAG1 Like Zinc Finger 2</td>
+<td>Protein Coding</td>
+<td>4.54</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000246229&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SRSF6" title="SRSF6 gene information at GeneCards" target="_blank">SRSF6</a></div>
+</div>
+</td>
+<td>Serine And Arginine Rich Splicing Factor 6</td>
+<td>Protein Coding</td>
+<td>4.23</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000244020&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MTDH" title="MTDH gene information at GeneCards" target="_blank">MTDH</a></div>
+</div>
+</td>
+<td>Metadherin</td>
+<td>Protein Coding</td>
+<td>3.82</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000338235&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LY96" title="LY96 gene information at GeneCards" target="_blank">LY96</a></div>
+</div>
+</td>
+<td>Lymphocyte Antigen 96</td>
+<td>Protein Coding</td>
+<td>3.66</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000284818&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIR375" title="MIR375 gene information at GeneCards" target="_blank">MIR375</a></div>
+</div>
+</td>
+<td>MicroRNA 375</td>
+<td>RNA Gene</td>
+<td>3.47</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=hsa-miR-375&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">10</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROS1" title="ROS1 gene information at GeneCards" target="_blank">ROS1</a></div>
+</div>
+</td>
+<td>ROS Proto-Oncogene 1, Receptor Tyrosine Kinase</td>
+<td>Protein Coding</td>
+<td>3.21</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000357494&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_10">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">11</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH1A1" title="ALDH1A1 gene information at GeneCards" target="_blank">ALDH1A1</a></div>
+</div>
+</td>
+<td>Aldehyde Dehydrogenase 1 Family Member A1</td>
+<td>Protein Coding</td>
+<td>3.21</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000297785&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_11">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">12</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BMI1" title="BMI1 gene information at GeneCards" target="_blank">BMI1</a></div>
+</div>
+</td>
+<td>BMI1 Proto-Oncogene, Polycomb Ring Finger</td>
+<td>Protein Coding</td>
+<td>3.15</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000365851&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_12">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">13</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AGTR1" title="AGTR1 gene information at GeneCards" target="_blank">AGTR1</a></div>
+</div>
+</td>
+<td>Angiotensin II Receptor Type 1</td>
+<td>Protein Coding</td>
+<td>3.1</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000419422&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_13">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">14</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a></div>
+</div>
+</td>
+<td>Fibroblast Growth Factor Receptor 1</td>
+<td>Protein Coding</td>
+<td>2.92</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000393312&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_14">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">15</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a></div>
+</div>
+</td>
+<td>Transforming Growth Factor Beta 1</td>
+<td>Protein Coding</td>
+<td>2.92</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000221930&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_15">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">16</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a></div>
+</div>
+</td>
+<td>Catenin Beta 1</td>
+<td>Protein Coding</td>
+<td>2.79</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000344456&amp;type2=-26&amp;id2=DOID:0110248" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_16">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Cataract 30:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show all 37', 'showing 37, show less','collapsable')">show all 37</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.15del (p.Val6fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000488584/" title="RCV000488584" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/217338/?new_evidence=true#id_second" target="_blank">217338</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/864309690" target="_blank">rs864309690</a></td>
+<td>GRCh37: 10:17271435-17271435<br/>GRCh38: 10:17229436-17229436</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.451G&gt;A (p.Glu151Lys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012983/" title="RCV000012983" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/12199/?new_evidence=true#id_second" target="_blank">12199</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121917775" target="_blank">rs121917775</a></td>
+<td>GRCh37: 10:17271872-17271872<br/>GRCh38: 10:17229873-17229873</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.134G&gt;A (p.Arg45His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002040136/" title="RCV002040136" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1353044/?new_evidence=true#id_second" target="_blank">1353044</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17271555-17271555<br/>GRCh38: 10:17229556-17229556</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.623A&gt;G (p.Gln208Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000488719/" title="RCV000488719" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/425575/?new_evidence=true#id_second" target="_blank">425575</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1085307141" target="_blank">rs1085307141</a></td>
+<td>GRCh37: 10:17272708-17272708<br/>GRCh38: 10:17230709-17230709</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.626A&gt;G (p.Asp209Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002839008/" title="RCV002839008" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2012232/?new_evidence=true#id_second" target="_blank">2012232</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17275587-17275587<br/>GRCh38: 10:17233588-17233588</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.1024C&gt;G (p.Arg342Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002839269/" title="RCV002839269" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2015068/?new_evidence=true#id_second" target="_blank">2015068</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17277183-17277183<br/>GRCh38: 10:17235184-17235184</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.814G&gt;A (p.Val272Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003011174/" title="RCV003011174" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2084511/?new_evidence=true#id_second" target="_blank">2084511</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17275862-17275862<br/>GRCh38: 10:17233863-17233863</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.46G&gt;A (p.Gly16Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002272865/" title="RCV002272865" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1699008/?new_evidence=true#id_second" target="_blank">1699008</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17271467-17271467<br/>GRCh38: 10:17229468-17229468</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.1141C&gt;T (p.Arg381Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001195968/" title="RCV001195968" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/930366/?new_evidence=true#id_second" target="_blank">930366</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/749084801" target="_blank">rs749084801</a></td>
+<td>GRCh37: 10:17277300-17277300<br/>GRCh38: 10:17235301-17235301</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.167C&gt;A (p.Ser56Tyr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000651306/" title="RCV000651306" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/541104/?new_evidence=true#id_second" target="_blank">541104</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/773938980" target="_blank">rs773938980</a></td>
+<td>GRCh37: 10:17271588-17271588<br/>GRCh38: 10:17229589-17229589</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.468G&gt;C (p.Glu156Asp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001220959/" title="RCV001220959" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/949490/?new_evidence=true#id_second" target="_blank">949490</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1846752790" target="_blank">rs1846752790</a></td>
+<td>GRCh37: 10:17271889-17271889<br/>GRCh38: 10:17229890-17229890</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.758A&gt;G (p.His253Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001232814/" title="RCV001232814" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/959458/?new_evidence=true#id_second" target="_blank">959458</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/773762488" target="_blank">rs773762488</a></td>
+<td>GRCh37: 10:17275806-17275806<br/>GRCh38: 10:17233807-17233807</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.1374_1375dup (p.Ser459fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001236540/" title="RCV001236540" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/962651/?new_evidence=true#id_second" target="_blank">962651</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1846907790" target="_blank">rs1846907790</a></td>
+<td>GRCh37: 10:17279242-17279243<br/>GRCh38: 10:17237243-17237244</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.911G&gt;A (p.Arg304Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001359420/" title="RCV001359420" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1051392/?new_evidence=true#id_second" target="_blank">1051392</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17276720-17276720<br/>GRCh38: 10:17234721-17234721</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.598G&gt;C (p.Glu200Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002003623/" title="RCV002003623" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1486484/?new_evidence=true#id_second" target="_blank">1486484</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17272683-17272683<br/>GRCh38: 10:17230684-17230684</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.384T&gt;C (p.Asn128=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002120985/" title="RCV002120985" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1630176/?new_evidence=true#id_second" target="_blank">1630176</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17271805-17271805<br/>GRCh38: 10:17229806-17229806</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.423A&gt;G (p.Gln141=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002120986/" title="RCV002120986" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1630177/?new_evidence=true#id_second" target="_blank">1630177</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17271844-17271844<br/>GRCh38: 10:17229845-17229845</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.624+7A&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001436939/" title="RCV001436939" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1110631/?new_evidence=true#id_second" target="_blank">1110631</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17272716-17272716<br/>GRCh38: 10:17230717-17230717</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.1009-8C&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001459511/" title="RCV001459511" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1127193/?new_evidence=true#id_second" target="_blank">1127193</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17277160-17277160<br/>GRCh38: 10:17235161-17235161</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.987A&gt;G (p.Glu329=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000871797/" title="RCV000871797" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/702631/?new_evidence=true#id_second" target="_blank">702631</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/147429387" target="_blank">rs147429387</a></td>
+<td>GRCh37: 10:17276796-17276796<br/>GRCh38: 10:17234797-17234797</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.542A&gt;C (p.Asp181Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000952394/" title="RCV000952394" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/772763/?new_evidence=true#id_second" target="_blank">772763</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/149942621" target="_blank">rs149942621</a></td>
+<td>GRCh37: 10:17271963-17271963<br/>GRCh38: 10:17229964-17229964</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.624+7A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003013480/" title="RCV003013480" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2091183/?new_evidence=true#id_second" target="_blank">2091183</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17272716-17272716<br/>GRCh38: 10:17230717-17230717</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.1360-18G&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002991866/" title="RCV002991866" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2092384/?new_evidence=true#id_second" target="_blank">2092384</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17279211-17279211<br/>GRCh38: 10:17237212-17237212</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.1360-17T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002080972/" title="RCV002080972" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1577425/?new_evidence=true#id_second" target="_blank">1577425</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17279212-17279212<br/>GRCh38: 10:17237213-17237213</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.1122G&gt;A (p.Glu374=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002894027/" title="RCV002894027" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2028925/?new_evidence=true#id_second" target="_blank">2028925</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17277281-17277281<br/>GRCh38: 10:17235282-17235282</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.990G&gt;C (p.Val330=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002999119/" title="RCV002999119" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2080210/?new_evidence=true#id_second" target="_blank">2080210</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17276799-17276799<br/>GRCh38: 10:17234800-17234800</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.749A&gt;G (p.Gln250Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002547220/" title="RCV002547220" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/772056/?new_evidence=true#id_second" target="_blank">772056</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/145152785" target="_blank">rs145152785</a></td>
+<td>GRCh37: 10:17275797-17275797<br/>GRCh38: 10:17233798-17233798</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.-22G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002243416/" title="RCV002243416" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1277763/?new_evidence=true#id_second" target="_blank">1277763</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17271400-17271400<br/>GRCh38: 10:17229401-17229401</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.1360-7dup</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002163741/" title="RCV002163741" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1654148/?new_evidence=true#id_second" target="_blank">1654148</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17279211-17279212<br/>GRCh38: 10:17237212-17237213</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.1008+18A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002132207/" title="RCV002132207" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1600245/?new_evidence=true#id_second" target="_blank">1600245</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17276835-17276835<br/>GRCh38: 10:17234836-17234836</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.879C&gt;G (p.Ser293=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000870858/" title="RCV000870858" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/702034/?new_evidence=true#id_second" target="_blank">702034</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/11254467" target="_blank">rs11254467</a></td>
+<td>GRCh37: 10:17275927-17275927<br/>GRCh38: 10:17233928-17233928</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.720+18C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002074029/" title="RCV002074029" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1316436/?new_evidence=true#id_second" target="_blank">1316436</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17275699-17275699<br/>GRCh38: 10:17233700-17233700</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.282C&gt;T (p.Thr94=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000960813/" title="RCV000960813" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/779851/?new_evidence=true#id_second" target="_blank">779851</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/144539901" target="_blank">rs144539901</a></td>
+<td>GRCh37: 10:17271703-17271703<br/>GRCh38: 10:17229704-17229704</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.1009-10C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000535711/" title="RCV000535711" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/474043/?new_evidence=true#id_second" target="_blank">474043</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/79719081" target="_blank">rs79719081</a></td>
+<td>GRCh37: 10:17277158-17277158<br/>GRCh38: 10:17235159-17235159</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.813C&gt;T (p.Asp271=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000548199/" title="RCV000548199" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/474044/?new_evidence=true#id_second" target="_blank">474044</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/4903" target="_blank">rs4903</a></td>
+<td>GRCh37: 10:17275861-17275861<br/>GRCh38: 10:17233862-17233862</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.807G&gt;T (p.Leu269=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001512954/" title="RCV001512954" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1165657/?new_evidence=true#id_second" target="_blank">1165657</a></td>
+<td><span></span> </td>
+<td>GRCh37: 10:17275855-17275855<br/>GRCh38: 10:17233856-17233856</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM-AS1" title="VIM-AS1 gene information at GeneCards" target="_blank">VIM-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM" title="VIM gene information at GeneCards" target="_blank">VIM</a></td>
+<td style="overflow-wrap:break-word;">NM_003380.5(VIM):c.99G&gt;T (p.Thr33=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000873092/" title="RCV000873092" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/703473/?new_evidence=true#id_second" target="_blank">703473</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/531385322" target="_blank">rs531385322</a></td>
+<td>GRCh37: 10:17271520-17271520<br/>GRCh38: 10:17229521-17229521</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Cataract%2030%22%5BMeSH%20Terms%5D%20OR%20%22Cataract%2030%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Cataract 30.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Cataract 30 according to GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="Pathway-table_SeeMore" href="javascript:showMoreTable('Pathway-table','Pathway-table_SeeMore', 'show all 16', 'showing 16, show less','collapsable')">show all 16</a>)
+</span>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Malignant_pleural_mesothelioma_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/malignant_pleural_mesothelioma" target="_blank">Malignant pleural mesothelioma</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP5087" target="_blank">74</a></sup>
+</div>
+</td>
+<td>12.41</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=Malignant+pleural+mesothelioma&amp;prefilter=pathways_interactions#pathways_interactions" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BMI1&amp;keywords=Malignant+pleural+mesothelioma&amp;prefilter=pathways_interactions#pathways_interactions" title="BMI1 gene information at GeneCards" target="_blank">BMI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=Malignant+pleural+mesothelioma&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=Malignant+pleural+mesothelioma&amp;prefilter=pathways_interactions#pathways_interactions" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> </td>
+</tr>
+<tr id="G-protein_signaling_RAC1_in_cellular_process_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/g-protein_signaling_rac1_in_cellular_process" target="_blank">G-protein signaling RAC1 in cellular process</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:cdc42_pathway#section=Diagram" target="_blank">CDC42 signaling events</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<span>Cytoskeleton remodeling CDC42 in cellular processes</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:rac1_pathway#section=Diagram" target="_blank">RAC1 signaling pathway</a>
+<sup title="PubChem">61</sup>
+</div>
+</div>
+</td>
+<td>12.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=G-protein+signaling+RAC1+in+cellular+process&amp;prefilter=pathways_interactions#pathways_interactions" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=G-protein+signaling+RAC1+in+cellular+process&amp;prefilter=pathways_interactions#pathways_interactions" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=G-protein+signaling+RAC1+in+cellular+process&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROS1&amp;keywords=G-protein+signaling+RAC1+in+cellular+process&amp;prefilter=pathways_interactions#pathways_interactions" title="ROS1 gene information at GeneCards" target="_blank">ROS1</a> </td>
+</tr>
+<tr id="Embryonic_and_Induced_Pluripotent_Stem_Cells_and_Lineage-specific_Markers_3">
+<td>3</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/embryonic_and_induced_pluripotent_stem_cells_and_lineage-specific_markers" target="_blank">Embryonic and Induced Pluripotent Stem Cells and Lineage-specific Markers</a>
+<sup title="R&amp;D Systems"> <a href="https://www.rndsystems.com/pathways/embryonic-induced-pluripotent-stem-cells-lineage-specific-markers?utm_source=genecards&amp;utm_medium=referral&amp;utm_campaign=product&amp;utm_content=pathway" target="_blank">65</a></sup>
+</div>
+</td>
+<td>11.76</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BMI1&amp;keywords=Embryonic+and+Induced+Pluripotent+Stem+Cells+and+Lineage-specific+Markers&amp;prefilter=pathways_interactions#pathways_interactions" title="BMI1 gene information at GeneCards" target="_blank">BMI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=Embryonic+and+Induced+Pluripotent+Stem+Cells+and+Lineage-specific+Markers&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=Embryonic+and+Induced+Pluripotent+Stem+Cells+and+Lineage-specific+Markers&amp;prefilter=pathways_interactions#pathways_interactions" title="VIM gene information at GeneCards" target="_blank">VIM</a> </td>
+</tr>
+<tr id="Spinal_cord_injury_4">
+<td>4</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/spinal_cord_injury" target="_blank">Spinal cord injury</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP2431" target="_blank">74</a></sup>
+</div>
+</td>
+<td>11.67</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=Spinal+cord+injury&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ROS1&amp;keywords=Spinal+cord+injury&amp;prefilter=pathways_interactions#pathways_interactions" title="ROS1 gene information at GeneCards" target="_blank">ROS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=Spinal+cord+injury&amp;prefilter=pathways_interactions#pathways_interactions" title="VIM gene information at GeneCards" target="_blank">VIM</a> </td>
+</tr>
+<tr id="Allograft_rejection_5">
+<td>5</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/allograft_rejection" target="_blank">Allograft rejection</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP2328" target="_blank">74</a></sup>
+</div>
+</td>
+<td>11.55</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=Allograft+rejection&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AGTR1&amp;keywords=Allograft+rejection&amp;prefilter=pathways_interactions#pathways_interactions" title="AGTR1 gene information at GeneCards" target="_blank">AGTR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=Allograft+rejection&amp;prefilter=pathways_interactions#pathways_interactions" title="VIM gene information at GeneCards" target="_blank">VIM</a> </td>
+</tr>
+<tr id="Neural_Stem_Cells_and_Lineage-specific_Markers_6">
+<td>6</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/neural_stem_cells_and_lineage-specific_markers" target="_blank">Neural Stem Cells and Lineage-specific Markers</a>
+<sup title="R&amp;D Systems"> <a href="https://www.rndsystems.com/pathways/neural-stem-cells-lineage-specific-markers?utm_source=genecards&amp;utm_medium=referral&amp;utm_campaign=product&amp;utm_content=pathway" target="_blank">65</a></sup>
+</div>
+</td>
+<td>11.44</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=Neural+Stem+Cells+and+Lineage-specific+Markers&amp;prefilter=pathways_interactions#pathways_interactions" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BMI1&amp;keywords=Neural+Stem+Cells+and+Lineage-specific+Markers&amp;prefilter=pathways_interactions#pathways_interactions" title="BMI1 gene information at GeneCards" target="_blank">BMI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=Neural+Stem+Cells+and+Lineage-specific+Markers&amp;prefilter=pathways_interactions#pathways_interactions" title="VIM gene information at GeneCards" target="_blank">VIM</a> </td>
+</tr>
+<tr id="Primary_focal_segmental_glomerulosclerosis_(FSGS)_7">
+<td>7</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/primary_focal_segmental_glomerulosclerosis_(fsgs)" target="_blank">Primary focal segmental glomerulosclerosis (FSGS)</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP2572" target="_blank">74</a></sup>
+</div>
+</td>
+<td>11.36</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=Primary+focal+segmental+glomerulosclerosis+(FSGS)&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=Primary+focal+segmental+glomerulosclerosis+(FSGS)&amp;prefilter=pathways_interactions#pathways_interactions" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=Primary+focal+segmental+glomerulosclerosis+(FSGS)&amp;prefilter=pathways_interactions#pathways_interactions" title="VIM gene information at GeneCards" target="_blank">VIM</a> </td>
+</tr>
+<tr id="Endoderm_differentiation_8">
+<td>8</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/endoderm_differentiation" target="_blank">Endoderm differentiation</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP2853" target="_blank">74</a></sup>
+</div>
+</td>
+<td>11.28</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=Endoderm+differentiation&amp;prefilter=pathways_interactions#pathways_interactions" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MIR375&amp;keywords=Endoderm+differentiation&amp;prefilter=pathways_interactions#pathways_interactions" title="MIR375 gene information at GeneCards" target="_blank">MIR375</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=Endoderm+differentiation&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> </td>
+</tr>
+<tr id="CKAP4_signaling_pathway_map_9">
+<td>9</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/ckap4_signaling_pathway_map" target="_blank">CKAP4 signaling pathway map</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP5322" target="_blank">74</a></sup>
+</div>
+</td>
+<td>11.28</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=CKAP4+signaling+pathway+map&amp;prefilter=pathways_interactions#pathways_interactions" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BMI1&amp;keywords=CKAP4+signaling+pathway+map&amp;prefilter=pathways_interactions#pathways_interactions" title="BMI1 gene information at GeneCards" target="_blank">BMI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=CKAP4+signaling+pathway+map&amp;prefilter=pathways_interactions#pathways_interactions" title="VIM gene information at GeneCards" target="_blank">VIM</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=CKAP4+signaling+pathway+map&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> </td>
+</tr>
+<tr id="Dopaminergic_neurogenesis_10">
+<td>10</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/dopaminergic_neurogenesis" target="_blank">Dopaminergic neurogenesis</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP2855" target="_blank">74</a></sup>
+</div>
+</td>
+<td>11.03</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=Dopaminergic+neurogenesis&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ALDH1A1&amp;keywords=Dopaminergic+neurogenesis&amp;prefilter=pathways_interactions#pathways_interactions" title="ALDH1A1 gene information at GeneCards" target="_blank">ALDH1A1</a> </td>
+</tr>
+<tr id="N-cadherin_signaling_events_11" class="collapsable">
+<td>11</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/n-cadherin_signaling_events" target="_blank">N-cadherin signaling events</a>
+<sup title="PubChem"> <a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:ncadherinpathway#section=Diagram" target="_blank">61</a></sup>
+</div>
+</td>
+<td>11.02</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=N-cadherin+signaling+events&amp;prefilter=pathways_interactions#pathways_interactions" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=N-cadherin+signaling+events&amp;prefilter=pathways_interactions#pathways_interactions" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> </td>
+</tr>
+<tr id="Urotensin-II-mediated_signaling_pathway_12" class="collapsable">
+<td>12</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/urotensin-ii-mediated_signaling_pathway" target="_blank">Urotensin-II-mediated signaling pathway</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP5158" target="_blank">74</a></sup>
+</div>
+</td>
+<td>10.99</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AGTR1&amp;keywords=Urotensin-II-mediated+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="AGTR1 gene information at GeneCards" target="_blank">AGTR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=Urotensin-II-mediated+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=Urotensin-II-mediated+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> </td>
+</tr>
+<tr id="Angiotensin_II_receptor_type_1_pathway_13" class="collapsable">
+<td>13</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/angiotensin_ii_receptor_type_1_pathway" target="_blank">Angiotensin II receptor type 1 pathway</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP5036" target="_blank">74</a></sup>
+</div>
+</td>
+<td>10.98</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=Angiotensin+II+receptor+type+1+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AGTR1&amp;keywords=Angiotensin+II+receptor+type+1+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="AGTR1 gene information at GeneCards" target="_blank">AGTR1</a> </td>
+</tr>
+<tr id="Extracellular_vesicle-mediated_signaling_in_recipient_cells_14" class="collapsable">
+<td>14</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/extracellular_vesicle-mediated_signaling_in_recipient_cells" target="_blank">Extracellular vesicle-mediated signaling in recipient cells</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP2870" target="_blank">74</a></sup>
+</div>
+</td>
+<td>10.97</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=Extracellular+vesicle-mediated+signaling+in+recipient+cells&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=Extracellular+vesicle-mediated+signaling+in+recipient+cells&amp;prefilter=pathways_interactions#pathways_interactions" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> </td>
+</tr>
+<tr id="CCL18_signaling_pathway_15" class="collapsable">
+<td>15</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/ccl18_signaling_pathway" target="_blank">CCL18 signaling pathway</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP5097" target="_blank">74</a></sup>
+</div>
+</td>
+<td>10.91</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MTDH&amp;keywords=CCL18+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="MTDH gene information at GeneCards" target="_blank">MTDH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BMI1&amp;keywords=CCL18+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="BMI1 gene information at GeneCards" target="_blank">BMI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=VIM&amp;keywords=CCL18+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="VIM gene information at GeneCards" target="_blank">VIM</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=CCL18+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> </td>
+</tr>
+<tr id="Glypican_1_network_16" class="collapsable">
+<td>16</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/glypican_1_network" target="_blank">Glypican 1 network</a>
+<sup title="PubChem"> <a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:glypican_1pathway#section=Diagram" target="_blank">61</a></sup>
+</div>
+</td>
+<td>10.76</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=Glypican+1+network&amp;prefilter=pathways_interactions#pathways_interactions" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=Glypican+1+network&amp;prefilter=pathways_interactions#pathways_interactions" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Biological processes related to Cataract 30 according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>epithelial to mesenchymal transition</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0001837" target="_blank">GO:0001837</a></td>
+<td>9.43</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=epithelial+to+mesenchymal+transition&amp;prefilter=go_proc#go_proc" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FGFR1&amp;keywords=epithelial+to+mesenchymal+transition&amp;prefilter=go_proc#go_proc" title="FGFR1 gene information at GeneCards" target="_blank">FGFR1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CTNNB1&amp;keywords=epithelial+to+mesenchymal+transition&amp;prefilter=go_proc#go_proc" title="CTNNB1 gene information at GeneCards" target="_blank">CTNNB1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>lipopolysaccharide-mediated signaling pathway</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031663" target="_blank">GO:0031663</a></td>
+<td>9.02</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TGFB1&amp;keywords=lipopolysaccharide-mediated+signaling+pathway&amp;prefilter=go_proc#go_proc" title="TGFB1 gene information at GeneCards" target="_blank">TGFB1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MTDH&amp;keywords=lipopolysaccharide-mediated+signaling+pathway&amp;prefilter=go_proc#go_proc" title="MTDH gene information at GeneCards" target="_blank">MTDH</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LY96&amp;keywords=lipopolysaccharide-mediated+signaling+pathway&amp;prefilter=go_proc#go_proc" title="LY96 gene information at GeneCards" target="_blank">LY96</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Cataract 30</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fffaf5f6fef2e3e0f0bdf0fcfe">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ea878efa79d9e',t:'MTY5NTI2MTAzNC41NDAwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

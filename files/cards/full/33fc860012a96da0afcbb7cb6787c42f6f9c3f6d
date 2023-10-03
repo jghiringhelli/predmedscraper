@@ -1,0 +1,3529 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Immunodeficiency 54 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/immunodeficiency_54" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'immunodeficiency_54';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+IMD54 <div class="symbol">MCID: IMM177</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 44
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Immunodeficiency 54</span>
+(<span itemprop="alternateName">IMD54</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Blood diseases, Cancer diseases, Endocrine diseases, Genetic diseases, Immune diseases, Infectious diseases, Rare diseases, Respiratory diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#e695878a8395a68a8f80838b87969585c885898b" target="_blank"><span class="__cf_email__" data-cfemail="4734262b2234072b2e21222a263734246924282a">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="13 Genes associated with Immunodeficiency 54">Genes</a>
+<a href="#genetic_variations" title="127 Variations associated with Immunodeficiency 54">Variations</a>
+<a href="#anatomical_context" title="8 Tissues associated with Immunodeficiency 54">Tissues</a>
+<a href="#disorders" title="5 Related diseases associated with Immunodeficiency 54">Related diseases</a>
+<a href="#publications" title="10 Publications associated with Immunodeficiency 54">Publications</a>
+<a href="#clinical_features" title="32 Symptoms &amp; Phenotypes associated with Immunodeficiency 54">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/immunodeficiency_54?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Immunodeficiency 54:</h3>
+<div class="main-name">
+Name: <b>Immunodeficiency 54</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/609981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111967" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03605" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/01141" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Primary Immunodeficiency with Natural-Killer Cell Deficiency and Adrenal Insufficiency
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111967" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=75391" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1864947" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Natural Killer Cell Deficiency, Familial Isolated
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/609981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=609981" title="diseasecard" target="_blank">12</a></sup>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=C566492" title="Medical Subject Headings" target="_blank">43</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<div>
+Imd54
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/609981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111967" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03605" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Nkcd
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/609981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111967" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03605" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Natural Killer Cell and Glucocorticoid Deficiency with Dna Repair Defect
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/609981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03605" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Familial Isolated Natural Killer Cell Deficiency
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111967" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03605" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Primary Immunodeficiency Due to Mcm4 Deficiency
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111967" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=75391" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Nkgcd
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/609981" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03605" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Immunodeficiency 54:</b>
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/609981" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>Primary Immunodeficiency with Natural-Killer Cell Deficiency and Adrenal Insufficiency:</b>
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=75391" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+<b>Primary Immunodeficiency with Natural-Killer Cell Deficiency and Adrenal Insufficiency:</b>
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=75391" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>Primary Immunodeficiency with Natural-Killer Cell Deficiency and Adrenal Insufficiency:</b>
+Childhood <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=75391" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/609981" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>growth retardation onset in utero</span>
+<br/>
+<span>glucocorticoid deficiency occurs in mid-childhood</span>
+<br/>
+<span>founder effect in irish traveler population</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/cancer_disease_list" target="_blank">Cancer diseases</a> <a href="https://www.malacards.org/categories/infectious_disease_list" target="_blank">Infectious diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/blood_disease_list" target="_blank">Blood diseases</a> <a href="https://www.malacards.org/categories/immune_disease_list" target="_blank">Immune diseases</a> <a href="https://www.malacards.org/categories/respiratory_disease_list" target="_blank">Respiratory diseases</a> <a href="https://www.malacards.org/categories/endocrine_disease_list" target="_blank">Endocrine diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/III" title="III" target="_blank">Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D80-D89" title="D80-D89" target="_blank">Certain disorders involving the immune mechanism</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D84" title="D84" target="_blank">Other immunodeficiencies</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D84.8" title="D84.8" target="_blank">Other specified immunodeficiencies</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare immunological diseases <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111967" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0111967" target="_blank">DOID:0111967</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/609981" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/609981" target="_blank">609981</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS300755" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS300755" target="_blank">PS300755</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=C566492" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=C566492" target="_blank">C566492</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D000309" target="_blank">D000309</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D007153" target="_blank">D007153</a>
+<span class="collapsable" style="display: none;">
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D049914" target="_blank">D049914</a> </span>
+<span class="showmore">
+<a title="show all 4" id="ExternalId_showmore_4" href="javascript:showMoreTable('ExternalId_item_4','ExternalId_showmore_4','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_5">
+<b title="National Cancer Institute Thesaurus">NCIt</b>
+<sup title="National Cancer Institute Thesaurus"> <a href="http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI%20Thesaurus&amp;code=C123729" target="_blank">49</a></sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI%20Thesaurus&amp;code=C123729" target="_blank">C123729</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_6">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D84.8" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/D84.8" target="_blank">D84.8</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=75391" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=75391" target="_blank">ORPHA75391</a>
+</div>
+<div id="ExternalId_item_8">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1864947" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1864947" target="_blank">C1864947</a>
+</div>
+<div id="ExternalId_item_9">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/111563005" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/111563005" target="_blank">111563005</a> <a href="http://www.snomedbrowser.com/Codes/Details/16294009" target="_blank">16294009</a> <a href="http://www.snomedbrowser.com/Codes/Details/199612005" target="_blank">199612005</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/200144004" target="_blank">200144004</a> <a href="http://www.snomedbrowser.com/Codes/Details/22033007" target="_blank">22033007</a> <a href="http://www.snomedbrowser.com/Codes/Details/237785004" target="_blank">237785004</a> <a href="http://www.snomedbrowser.com/Codes/Details/237836003" target="_blank">237836003</a> <a href="http://www.snomedbrowser.com/Codes/Details/271611007" target="_blank">271611007</a> <a href="http://www.snomedbrowser.com/Codes/Details/277466009" target="_blank">277466009</a> <a href="http://www.snomedbrowser.com/Codes/Details/30746006" target="_blank">30746006</a> <a href="http://www.snomedbrowser.com/Codes/Details/36440009" target="_blank">36440009</a> <a href="http://www.snomedbrowser.com/Codes/Details/386584007" target="_blank">386584007</a> <a href="http://www.snomedbrowser.com/Codes/Details/409622000" target="_blank">409622000</a> <a href="http://www.snomedbrowser.com/Codes/Details/409623005" target="_blank">409623005</a> <a href="http://www.snomedbrowser.com/Codes/Details/414629003" target="_blank">414629003</a> <a href="http://www.snomedbrowser.com/Codes/Details/432788009" target="_blank">432788009</a> <a href="http://www.snomedbrowser.com/Codes/Details/4830009" target="_blank">4830009</a> <a href="http://www.snomedbrowser.com/Codes/Details/49765009" target="_blank">49765009</a> <a href="http://www.snomedbrowser.com/Codes/Details/77121009" target="_blank">77121009</a> <a href="http://www.snomedbrowser.com/Codes/Details/80515008" target="_blank">80515008</a> <a href="http://www.snomedbrowser.com/Codes/Details/84631004" target="_blank">84631004</a> </span>
+<span class="showmore">
+<a title="show all 21" id="ExternalId_showmore_9" href="javascript:showMoreTable('ExternalId_item_9','ExternalId_showmore_9','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_10">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C1864947</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://omim.org/entry/609981#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/609981#description" target="_blank">57</a></sup>
+Immunodeficiency-54 is an autosomal recessive primary immunodeficiency characterized by severe intra- and extrauterine growth retardation, microcephaly, decreased numbers of natural killer (NK) cells, and recurrent viral infections, most often affecting the respiratory tract and leading to respiratory failure. Affected individuals also have adrenal insufficiency requiring corticosteroid replacement therapy and may have an increased susceptibility to cancer. Laboratory studies of patient cells showed a DNA repair defect (summary by Gineau et al., 2012). <span> (609981) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Immunodeficiency 54, also known as <i>primary immunodeficiency with natural-killer cell deficiency and adrenal insufficiency</i>, is related to <i><a href="/card/immunodeficiency_55" target="_blank">immunodeficiency 55</a></i> and <i><a href="/card/nk_cell_deficiency" target="_blank">nk cell deficiency</a></i>. An important gene associated with Immunodeficiency 54 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" target="_blank">MCM4</a> (Minichromosome Maintenance Complex Component 4), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/sertoli-sertoli_cell_junction_dynamics" target="_blank">Sertoli-Sertoli Cell Junction Dynamics</a></i> and <i><a href="https://pathcards.genecards.org/card/activation_of_the_pre-replicative_complex" target="_blank">Activation of the pre-replicative complex</a></i>. Affiliated tissues include <i>nk cells</i> and <i>lung</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0002093" target="_blank">respiratory insufficiency</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0002878" target="_blank">respiratory failure</a></i></p>
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-03605" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03605" target="_blank">73</a></sup>
+An autosomal recessive disorder characterized by severe intra- and extrauterine growth retardation, microcephaly, decreased numbers of natural killer cells, and recurrent viral infections, most often affecting the respiratory tract and leading to respiratory failure. Affected individuals also have adrenal insufficiency requiring corticosteroid replacement therapy and may have an increased susceptibility to cancer.</p><p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=75391" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=75391" target="_blank">58</a></sup>
+A rare DNA repair defect other than combined T-cell and B-cell immunodeficiencies characterized by intrauterine and postnatal growth retardation resulting in short stature, microcephaly, glucocorticoid deficiency, natural killer cell deficiency, and recurrent viral infections. Patients may also have increased susceptibility to cancer.</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0111967" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111967" target="_blank">11</a></sup>
+An NK cell deficiency characterized by severe intra- and extrauterine growth retardation, microcephaly, decreased numbers of CD56(dim) natural killer cells, adrenal insufficiency, and recurrent viral infections that has material basis in homozygous or compound heterozygous mutation in the MCM4 gene on chromosome 8q11.21.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Immunodeficiency 54 via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/immunodeficiency_55" target="_blank">immunodeficiency 55</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4&amp;keywords=immunodeficiency+55&amp;prefilter=diseases#diseases" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GINS1&amp;keywords=immunodeficiency+55&amp;prefilter=diseases#diseases" title="GINS1 gene information at GeneCards" target="_blank">GINS1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/nk_cell_deficiency" target="_blank">nk cell deficiency</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4&amp;keywords=nk+cell+deficiency&amp;prefilter=diseases#diseases" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GINS1&amp;keywords=nk+cell+deficiency&amp;prefilter=diseases#diseases" title="GINS1 gene information at GeneCards" target="_blank">GINS1</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/immunodeficiency_21" target="_blank">immunodeficiency 21</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4&amp;keywords=immunodeficiency+21&amp;prefilter=diseases#diseases" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GINS1&amp;keywords=immunodeficiency+21&amp;prefilter=diseases#diseases" title="GINS1 gene information at GeneCards" target="_blank">GINS1</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/intrauterine_growth_retardation_metaphyseal_dysplasia_adrenal_hypoplasia_congenita_and_genital_anomalies" target="_blank">intrauterine growth retardation, metaphyseal dysplasia, adrenal hypoplasia congenita, and genital anomalies</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4&amp;keywords=intrauterine+growth+retardation%2c+metaphyseal+dysplasia%2c+adrenal+hypoplasia+congenita%2c+and+genital+anomalies&amp;prefilter=diseases#diseases" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GINS1&amp;keywords=intrauterine+growth+retardation%2c+metaphyseal+dysplasia%2c+adrenal+hypoplasia+congenita%2c+and+genital+anomalies&amp;prefilter=diseases#diseases" title="GINS1 gene information at GeneCards" target="_blank">GINS1</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/martsolf_syndrome_1" target="_blank">martsolf syndrome 1</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=martsolf+syndrome+1&amp;prefilter=diseases#diseases" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=martsolf+syndrome+1&amp;prefilter=diseases#diseases" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Immunodeficiency 54:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/immunodeficiency_54_related_diseases.jpg" width="100%" alt="Diseases related to Immunodeficiency 54" title="Diseases related to Immunodeficiency 54" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Immunodeficiency 54:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 20', 'showing 20, show less','collapsable')">show all 20</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+respiratory insufficiency
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002093" target="_blank">HP:0002093</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+respiratory failure
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002878" target="_blank">HP:0002878</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+intrauterine growth retardation
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001511" target="_blank">HP:0001511</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+adrenal insufficiency
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000846" target="_blank">HP:0000846</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+recurrent viral infections
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004429" target="_blank">HP:0004429</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+reduced natural killer cell count
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0040218" target="_blank">HP:0040218</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+short stature
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.8333333%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004322" target="_blank">HP:0004322</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+mild global developmental delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.8333333%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011342" target="_blank">HP:0011342</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+caesarian section
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.8333333%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011410" target="_blank">HP:0011410</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+microcephaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.75%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000252" target="_blank">HP:0000252</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+failure to thrive
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.625%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">HP:0001508</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+hyperpigmentation of the skin
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.625%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000953" target="_blank">HP:0000953</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+recurrent respiratory infections
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.1428571%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002205" target="_blank">HP:0002205</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+splenomegaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001744" target="_blank">HP:0001744</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+hepatomegaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002240" target="_blank">HP:0002240</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+postnatal growth retardation
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008897" target="_blank">HP:0008897</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+lymphadenopathy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002716" target="_blank">HP:0002716</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+lymphoproliferative disorder
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0005523" target="_blank">HP:0005523</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+adrenocorticotropic hormone excess
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011749" target="_blank">HP:0011749</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+chromosome breakage
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0040012" target="_blank">HP:0040012</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/609981" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Abdomen Spleen:</u><br/>
+<span>splenomegaly</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Respiratory:</u><br/>
+<span>recurrent respiratory infections</span>
+<br/>
+<span>respiratory failure (in some patients)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Growth Other:</u><br/>
+<span>intrauterine growth retardation</span>
+<br/>
+<span>postnatal growth retardation</span>
+<br/>
+<span>poor overall growth</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Endocrine Features:</u><br/>
+<span>adrenal insufficiency</span>
+<br/>
+<span>corticosteroid deficiency</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>increased acth</span>
+<br/>
+<span>cell studies show increased dna breakage</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>delayed cognitive development, mild (reported in 1 family)</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Abdomen Liver:</u><br/>
+<span>hepatomegaly</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Head And Neck Head:</u><br/>
+<span>microcephaly</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Immunology:</u><br/>
+<span>lymphadenopathy</span>
+<br/>
+<span>recurrent viral infections</span>
+<br/>
+<span>decreased numbers of circulating nk cells (less than 5%)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Skin Nails Hair Skin:</u><br/>
+<span>hyperpigmentation</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_11" class="tab">
+<u>Respiratory Lung:</u><br/>
+<span>lung fibrosis</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_12" class="tab">
+<u>Neoplasia:</u><br/>
+<span>increased susceptibility to cancer</span>
+<br/>
+<span>lymphoproliferative disorders</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/609981#clinicalFeatures" target="_blank">609981</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Interventional clinical trials:</h3>
+<br/>
+<table id="ClinicalTrial-table" style="table-layout: fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="400">Name</th>
+<th width="80">Status</th>
+<th width="90">NCT ID</th>
+<th width="70">Phase</th>
+<th>Drugs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>The Natural Killer Cells Regulatory Role Against Hepatic Fibrosis Following Bariatric Surgery</td>
+<td>Unknown status</td>
+<td> <a href="https://clinicaltrials.gov/ct2/show/NCT02732535" target="_blank">NCT02732535</a></td>
+<td></td>
+<td style="word-wrap: break-word;"></td>
+</tr>
+</tbody>
+</table>
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Immunodeficiency 54&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Immunodeficiency 54</text>
+</p>
+</div>
+<h3>
+Cochrane evidence based reviews: <a href="http://onlinelibrary.wiley.com/cochranelibrary/search/mesh?searchRow.searchCriteria.meshTerm=natural killer cell deficiency, familial isolated&amp;searchMesh=Lookup" target="_blank">natural killer cell deficiency, familial isolated</a>
+</h3>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Immunodeficiency 54:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Primary Immunodeficiency with Natural-Killer Cell Deficiency and Adrenal Insufficiency
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1864947" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4&amp;keywords=primary+immunodeficiency+with+natural-killer+cell+deficiency+and+adrenal+insufficiency&amp;prefilter=diseases#diseases" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Immunodeficiency 54: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="5.759215">Nk Cells</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.7880765">Lung</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.5369663">Bone Marrow</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.2965423">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.2657895">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span>Blood And Bone Marrow</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/609981/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span>Respiratory System-Lung</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/609981/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span>Respiratory System</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/609981/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Immunodeficiency 54 according to OMIM&#174; and ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Recessive mutations in MCM4/PRKDC cause a novel syndrome involving a primary immunodeficiency and a disorder of DNA repair.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Casey JP...Ennis S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22499342" target="_blank">22499342</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Partial MCM4 deficiency in patients with growth retardation, adrenal insufficiency, and natural killer cell deficiency.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gineau L...Jouanguy E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22354167" target="_blank">22354167</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+MCM4 mutation causes adrenal failure, short stature, and natural killer cell deficiency in humans.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hughes CR...Metherell LA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22354170" target="_blank">22354170</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A novel primary immunodeficiency with specific natural-killer cell deficiency maps to the centromeric region of chromosome 8.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Eidenschenk C...Feighery C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16532402" target="_blank">16532402</a></td>
+<td>2006</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A novel variant of familial glucocorticoid deficiency prevalent among the Irish Traveler population.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">O&#39;Riordan SM...Costigan C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18430777" target="_blank">18430777</a></td>
+<td>2008</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Immunodeficiency 54 according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cysteine-based regulation of redox-sensitive Ras small GTPases.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Messina S...Ascenzi P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31386964" target="_blank">31386964</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Kinetic mechanisms of mutation-dependent Harvey Ras activation and their relevance for the development of Costello syndrome.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wey M...Heo J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24224811" target="_blank">24224811</a></td>
+<td>2013</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Health-related quality of life in primary immune deficient patients.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mozaffari H...Entezari N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17242500" target="_blank">17242500</a></td>
+<td>2006</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Superoxide anion radical modulates the activity of Ras and Ras-related GTPases by a radical-based mechanism similar to that of nitric oxide.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Heo J...Campbell SL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15684418" target="_blank">15684418</a></td>
+<td>2005</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mechanism of free radical nitric oxide-mediated Ras guanine nucleotide dissociation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Heo J...Campbell SL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15713491" target="_blank">15713491</a></td>
+<td>2005</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Immunodeficiency 54 (1 elite genes):</h3>
+<span class="showmore">
+(<a id="RelatedGenes-table_SeeMore" href="javascript:showMoreTable('RelatedGenes-table','RelatedGenes-table_SeeMore', 'show all 13', 'showing 13, show less','collapsable')">show all 13</a>)
+</span>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Minichromosome Maintenance Complex Component 4</td>
+<td>Protein Coding</td>
+<td>1380.02</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/602638" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=20911" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000262105&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/22354167" title="ClinVar" target="_blank">22354167</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16532402" title="ClinVar" target="_blank">16532402</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22354170" title="ClinVar" target="_blank">22354170</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/22499342" title="ClinVar" target="_blank">22499342</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22405088" title target="_blank">22405088</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERAS" title="ERAS gene information at GeneCards" target="_blank">ERAS</a></div>
+</div>
+</td>
+<td>ES Cell Expressed Ras</td>
+<td>Protein Coding</td>
+<td>6.23</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000339136&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAP1A" title="RAP1A gene information at GeneCards" target="_blank">RAP1A</a></div>
+</div>
+</td>
+<td>RAP1A, Member Of RAS Oncogene Family</td>
+<td>Protein Coding</td>
+<td>5.82</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000358723&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB19" title="RAB19 gene information at GeneCards" target="_blank">RAB19</a></div>
+</div>
+</td>
+<td>RAB19, Member RAS Oncogene Family</td>
+<td>Protein Coding</td>
+<td>5.64</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000440167&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a></div>
+</div>
+</td>
+<td>RAB15, Member RAS Oncogene Family</td>
+<td>Protein Coding</td>
+<td>5.29</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000267512&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a></div>
+</div>
+</td>
+<td>RAB3A, Member RAS Oncogene Family</td>
+<td>Protein Coding</td>
+<td>5.26</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000222256&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GINS1" title="GINS1 gene information at GeneCards" target="_blank">GINS1</a></div>
+</div>
+</td>
+<td>GINS Complex Subunit 1</td>
+<td>Protein Coding</td>
+<td>5.09</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000262460&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRIM2" title="PRIM2 gene information at GeneCards" target="_blank">PRIM2</a></div>
+</div>
+</td>
+<td>DNA Primase Subunit 2</td>
+<td>Protein Coding</td>
+<td>4.97</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000484105&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=FCMR" title="FCMR gene information at GeneCards" target="_blank">FCMR</a></div>
+</div>
+</td>
+<td>Fc Mu Receptor</td>
+<td>Protein Coding</td>
+<td>4.92</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000356058&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">10</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRIMPOL" title="PRIMPOL gene information at GeneCards" target="_blank">PRIMPOL</a></div>
+</div>
+</td>
+<td>Primase And DNA Directed Polymerase</td>
+<td>Protein Coding</td>
+<td>4.89</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000313816&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_10">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">11</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a></div>
+</div>
+</td>
+<td>RAB3B, Member RAS Oncogene Family</td>
+<td>Protein Coding</td>
+<td>4.85</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000360718&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_11">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">12</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PLK4" title="PLK4 gene information at GeneCards" target="_blank">PLK4</a></div>
+</div>
+</td>
+<td>Polo Like Kinase 4</td>
+<td>Protein Coding</td>
+<td>4.83</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000270861&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_12">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">13</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB1B" title="RAB1B gene information at GeneCards" target="_blank">RAB1B</a></div>
+</div>
+</td>
+<td>RAB1B, Member RAS Oncogene Family</td>
+<td>Protein Coding</td>
+<td>4.75</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000310226&amp;type2=-26&amp;id2=DOID:0111967" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_13">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Immunodeficiency 54:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '127', 'ClinVarVariations-table');">show all 127</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.71-2A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000030799/" title="RCV000030799" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/37234/?new_evidence=true#id_second" target="_blank">37234</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1563829725" target="_blank">rs1563829725</a></td>
+<td>GRCh37: 8:48874074-48874074<br/>GRCh38: 8:47961514-47961514</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.220C&gt;T (p.Gln74Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001195736/" title="RCV001195736" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/930225/?new_evidence=true#id_second" target="_blank">930225</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1235010442" target="_blank">rs1235010442</a></td>
+<td>GRCh37: 8:48874225-48874225<br/>GRCh38: 8:47961665-47961665</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.1406G&gt;C (p.Ser469Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001159847/" title="RCV001159847" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/718626/?new_evidence=true#id_second" target="_blank">718626</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/117063344" target="_blank">rs117063344</a></td>
+<td>GRCh37: 8:48882589-48882589<br/>GRCh38: 8:47970029-47970029</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.848T&gt;C (p.Ile283Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001162705/" title="RCV001162705" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/910719/?new_evidence=true#id_second" target="_blank">910719</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/149232439" target="_blank">rs149232439</a></td>
+<td>GRCh37: 8:48878762-48878762<br/>GRCh38: 8:47966202-47966202</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.31C&gt;G (p.Arg11Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000768261/" title="RCV000768261" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/626134/?new_evidence=true#id_second" target="_blank">626134</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/369039102" target="_blank">rs369039102</a></td>
+<td>GRCh37: 8:48873735-48873735<br/>GRCh38: 8:47961175-47961175</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.604G&gt;A (p.Val202Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000768265/" title="RCV000768265" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/626138/?new_evidence=true#id_second" target="_blank">626138</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/748499898" target="_blank">rs748499898</a></td>
+<td>GRCh37: 8:48875511-48875511<br/>GRCh38: 8:47962951-47962951</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.2020G&gt;A (p.Glu674Lys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001281040/" title="RCV001281040" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/992551/?new_evidence=true#id_second" target="_blank">992551</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/748923159" target="_blank">rs748923159</a></td>
+<td>GRCh37: 8:48885508-48885508<br/>GRCh38: 8:47972948-47972948</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC106903146" title="LOC106903146 gene information at GeneCards" target="_blank">LOC106903146</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-701C&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000365824/" title="RCV000365824" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363193/?new_evidence=true#id_second" target="_blank">363193</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886062968" target="_blank">rs886062968</a></td>
+<td>GRCh37: 8:48873004-48873004<br/>GRCh38: 8:47960444-47960444</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC106903146" title="LOC106903146 gene information at GeneCards" target="_blank">LOC106903146</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-479A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000371174/" title="RCV000371174" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363196/?new_evidence=true#id_second" target="_blank">363196</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/571102789" target="_blank">rs571102789</a></td>
+<td>GRCh37: 8:48873226-48873226<br/>GRCh38: 8:47960666-47960666</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-347C&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000377812/" title="RCV000377812" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363202/?new_evidence=true#id_second" target="_blank">363202</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886062970" target="_blank">rs886062970</a></td>
+<td>GRCh37: 8:48873358-48873358<br/>GRCh38: 8:47960798-47960798</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-205C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000379508/" title="RCV000379508" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363205/?new_evidence=true#id_second" target="_blank">363205</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/17287526" target="_blank">rs17287526</a></td>
+<td>GRCh37: 8:48873500-48873500<br/>GRCh38: 8:47960940-47960940</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC106903146" title="LOC106903146 gene information at GeneCards" target="_blank">LOC106903146</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-646delG</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000392213/" title="RCV000392213" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363194/?new_evidence=true#id_second" target="_blank">363194</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/376290735" target="_blank">rs376290735</a></td>
+<td>GRCh37: 8:48873054-48873054<br/>GRCh38: 8:47960494-47960494</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC106903146" title="LOC106903146 gene information at GeneCards" target="_blank">LOC106903146</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-745_-744delAA</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000401390/" title="RCV000401390" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363191/?new_evidence=true#id_second" target="_blank">363191</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/530578769" target="_blank">rs530578769</a></td>
+<td>GRCh37: 8:48872960-48872961<br/>GRCh38: 8:47960400-47960401</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC106903146" title="LOC106903146 gene information at GeneCards" target="_blank">LOC106903146</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-407G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000263438/" title="RCV000263438" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363200/?new_evidence=true#id_second" target="_blank">363200</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/546045069" target="_blank">rs546045069</a></td>
+<td>GRCh37: 8:48873298-48873298<br/>GRCh38: 8:47960738-47960738</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-320dup</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000265004/" title="RCV000265004" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363203/?new_evidence=true#id_second" target="_blank">363203</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/532945813" target="_blank">rs532945813</a></td>
+<td>GRCh37: 8:48873378-48873379<br/>GRCh38: 8:47960818-47960819</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC106903146" title="LOC106903146 gene information at GeneCards" target="_blank">LOC106903146</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-473G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000276450/" title="RCV000276450" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363197/?new_evidence=true#id_second" target="_blank">363197</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/537563295" target="_blank">rs537563295</a></td>
+<td>GRCh37: 8:48873232-48873232<br/>GRCh38: 8:47960672-47960672</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC106903146" title="LOC106903146 gene information at GeneCards" target="_blank">LOC106903146</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-453T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000298763/" title="RCV000298763" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363198/?new_evidence=true#id_second" target="_blank">363198</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/539732672" target="_blank">rs539732672</a></td>
+<td>GRCh37: 8:48873252-48873252<br/>GRCh38: 8:47960692-47960692</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC106903146" title="LOC106903146 gene information at GeneCards" target="_blank">LOC106903146</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-721dup</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000306375/" title="RCV000306375" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363192/?new_evidence=true#id_second" target="_blank">363192</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886062967" target="_blank">rs886062967</a></td>
+<td>GRCh37: 8:48872983-48872984<br/>GRCh38: 8:47960423-47960424</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC106903146" title="LOC106903146 gene information at GeneCards" target="_blank">LOC106903146</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-501A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000311793/" title="RCV000311793" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363195/?new_evidence=true#id_second" target="_blank">363195</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/570195176" target="_blank">rs570195176</a></td>
+<td>GRCh37: 8:48873204-48873204<br/>GRCh38: 8:47960644-47960644</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC106903146" title="LOC106903146 gene information at GeneCards" target="_blank">LOC106903146</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-372G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000318503/" title="RCV000318503" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363201/?new_evidence=true#id_second" target="_blank">363201</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/17334298" target="_blank">rs17334298</a></td>
+<td>GRCh37: 8:48873333-48873333<br/>GRCh38: 8:47960773-47960773</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-253C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000324849/" title="RCV000324849" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363204/?new_evidence=true#id_second" target="_blank">363204</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/17334305" target="_blank">rs17334305</a></td>
+<td>GRCh37: 8:48873452-48873452<br/>GRCh38: 8:47960892-47960892</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC106903146" title="LOC106903146 gene information at GeneCards" target="_blank">LOC106903146</a></td>
+<td style="overflow-wrap:break-word;">NM_005914.3(MCM4):c.-754G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000341304/" title="RCV000341304" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363190/?new_evidence=true#id_second" target="_blank">363190</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/180692385" target="_blank">rs180692385</a></td>
+<td>GRCh37: 8:48872951-48872951<br/>GRCh38: 8:47960391-47960391</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.235+4C&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001161142/" title="RCV001161142" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/909812/?new_evidence=true#id_second" target="_blank">909812</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/749639468" target="_blank">rs749639468</a></td>
+<td>GRCh37: 8:48874244-48874244<br/>GRCh38: 8:47961684-47961684</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.240C&gt;T (p.Ile80=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001161143/" title="RCV001161143" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/909813/?new_evidence=true#id_second" target="_blank">909813</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/148927296" target="_blank">rs148927296</a></td>
+<td>GRCh37: 8:48874617-48874617<br/>GRCh38: 8:47962057-47962057</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.253G&gt;T (p.Asp85Tyr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001161144/" title="RCV001161144" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/909814/?new_evidence=true#id_second" target="_blank">909814</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/760802348" target="_blank">rs760802348</a></td>
+<td>GRCh37: 8:48874630-48874630<br/>GRCh38: 8:47962070-47962070</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.502-8A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001161145/" title="RCV001161145" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/909815/?new_evidence=true#id_second" target="_blank">909815</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/2090856775" target="_blank">rs2090856775</a></td>
+<td>GRCh37: 8:48875316-48875316<br/>GRCh38: 8:47962756-47962756</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.1578C&gt;T (p.Leu526=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001161252/" title="RCV001161252" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/773909/?new_evidence=true#id_second" target="_blank">773909</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/34157149" target="_blank">rs34157149</a></td>
+<td>GRCh37: 8:48883214-48883214<br/>GRCh38: 8:47970654-47970654</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.1728C&gt;T (p.Phe576=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001161253/" title="RCV001161253" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/909877/?new_evidence=true#id_second" target="_blank">909877</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/148525401" target="_blank">rs148525401</a></td>
+<td>GRCh37: 8:48883364-48883364<br/>GRCh38: 8:47970804-47970804</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.*842G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001162914/" title="RCV001162914" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/910828/?new_evidence=true#id_second" target="_blank">910828</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/17287781" target="_blank">rs17287781</a></td>
+<td>GRCh37: 8:48890180-48890180<br/>GRCh38: 8:47977620-47977620</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.*850T&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001162915/" title="RCV001162915" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/910829/?new_evidence=true#id_second" target="_blank">910829</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/148413389" target="_blank">rs148413389</a></td>
+<td>GRCh37: 8:48890188-48890188<br/>GRCh38: 8:47977628-47977628</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.-77G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164663/" title="RCV001164663" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/911893/?new_evidence=true#id_second" target="_blank">911893</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/921147935" target="_blank">rs921147935</a></td>
+<td>GRCh37: 8:48873512-48873512<br/>GRCh38: 8:47960952-47960952</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.-33A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164664/" title="RCV001164664" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/911894/?new_evidence=true#id_second" target="_blank">911894</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1166597379" target="_blank">rs1166597379</a></td>
+<td>GRCh37: 8:48873556-48873556<br/>GRCh38: 8:47960996-47960996</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.-15+55C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164665/" title="RCV001164665" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/911895/?new_evidence=true#id_second" target="_blank">911895</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/891829243" target="_blank">rs891829243</a></td>
+<td>GRCh37: 8:48873629-48873629<br/>GRCh38: 8:47961069-47961069</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.899A&gt;G (p.Gln300Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164760/" title="RCV001164760" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/911936/?new_evidence=true#id_second" target="_blank">911936</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/144012681" target="_blank">rs144012681</a></td>
+<td>GRCh37: 8:48878813-48878813<br/>GRCh38: 8:47966253-47966253</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.2257G&gt;C (p.Val753Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164869/" title="RCV001164869" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/911991/?new_evidence=true#id_second" target="_blank">911991</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/150870761" target="_blank">rs150870761</a></td>
+<td>GRCh37: 8:48887414-48887414<br/>GRCh38: 8:47974854-47974854</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.2296C&gt;T (p.Arg766Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164870/" title="RCV001164870" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/911992/?new_evidence=true#id_second" target="_blank">911992</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/149597772" target="_blank">rs149597772</a></td>
+<td>GRCh37: 8:48887453-48887453<br/>GRCh38: 8:47974893-47974893</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.2341G&gt;A (p.Val781Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164871/" title="RCV001164871" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/911993/?new_evidence=true#id_second" target="_blank">911993</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/765226208" target="_blank">rs765226208</a></td>
+<td>GRCh37: 8:48887498-48887498<br/>GRCh38: 8:47974938-47974938</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.2531T&gt;C (p.Leu844Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164873/" title="RCV001164873" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/911994/?new_evidence=true#id_second" target="_blank">911994</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1208915343" target="_blank">rs1208915343</a></td>
+<td>GRCh37: 8:48889277-48889277<br/>GRCh38: 8:47976717-47976717</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.*37C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164874/" title="RCV001164874" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/911995/?new_evidence=true#id_second" target="_blank">911995</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1265494155" target="_blank">rs1265494155</a></td>
+<td>GRCh37: 8:48889375-48889375<br/>GRCh38: 8:47976815-47976815</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.*1140G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164988/" title="RCV001164988" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/912048/?new_evidence=true#id_second" target="_blank">912048</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/2091015101" target="_blank">rs2091015101</a></td>
+<td>GRCh37: 8:48890478-48890478<br/>GRCh38: 8:47977918-47977918</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.*1234T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164989/" title="RCV001164989" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/912049/?new_evidence=true#id_second" target="_blank">912049</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1219129728" target="_blank">rs1219129728</a></td>
+<td>GRCh37: 8:48890572-48890572<br/>GRCh38: 8:47978012-47978012</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.*1266G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001164990/" title="RCV001164990" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/912050/?new_evidence=true#id_second" target="_blank">912050</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/539412503" target="_blank">rs539412503</a></td>
+<td>GRCh37: 8:48890604-48890604<br/>GRCh38: 8:47978044-47978044</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.2102G&gt;A (p.Arg701Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001162803/" title="RCV001162803" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/910776/?new_evidence=true#id_second" target="_blank">910776</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/143417982" target="_blank">rs143417982</a></td>
+<td>GRCh37: 8:48885590-48885590<br/>GRCh38: 8:47973030-47973030</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.1661G&gt;A (p.Arg554Lys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001335338/" title="RCV001335338" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1033042/?new_evidence=true#id_second" target="_blank">1033042</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/921501374" target="_blank">rs921501374</a></td>
+<td>GRCh37: 8:48883297-48883297<br/>GRCh38: 8:47970737-47970737</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.2101C&gt;T (p.Arg701Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001335339/" title="RCV001335339" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1033043/?new_evidence=true#id_second" target="_blank">1033043</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/767399226" target="_blank">rs767399226</a></td>
+<td>GRCh37: 8:48885589-48885589<br/>GRCh38: 8:47973029-47973029</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.1784C&gt;T (p.Thr595Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001542419/" title="RCV001542419" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1013830/?new_evidence=true#id_second" target="_blank">1013830</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/375753142" target="_blank">rs375753142</a></td>
+<td>GRCh37: 8:48883420-48883420<br/>GRCh38: 8:47970860-47970860</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.732CTT[1] (p.Phe246del)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003130740/" title="RCV003130740" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1944628/?new_evidence=true#id_second" target="_blank">1944628</a></td>
+<td><span></span> </td>
+<td>GRCh37: 8:48877171-48877173<br/>GRCh38: 8:47964611-47964613</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.440G&gt;A (p.Gly147Asp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000261774/" title="RCV000261774" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363217/?new_evidence=true#id_second" target="_blank">363217</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886062976" target="_blank">rs886062976</a></td>
+<td>GRCh37: 8:48874905-48874905<br/>GRCh38: 8:47962345-47962345</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.*125A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000271180/" title="RCV000271180" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363240/?new_evidence=true#id_second" target="_blank">363240</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886062979" target="_blank">rs886062979</a></td>
+<td>GRCh37: 8:48889463-48889463<br/>GRCh38: 8:47976903-47976903</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a></td>
+<td style="overflow-wrap:break-word;">NM_182746.3(MCM4):c.*255A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000277734/" title="RCV000277734" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/363243/?new_evidence=true#id_second" target="_blank">363243</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/544019622" target="_blank">rs544019622</a></td>
+<td>GRCh37: 8:48889593-48889593<br/>GRCh38: 8:47977033-47977033</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Immunodeficiency%2054%22%5BMeSH%20Terms%5D%20OR%20%22Immunodeficiency%2054%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Immunodeficiency 54.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Immunodeficiency 54 according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Sertoli-Sertoli_Cell_Junction_Dynamics_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/sertoli-sertoli_cell_junction_dynamics" target="_blank">Sertoli-Sertoli Cell Junction Dynamics</a>
+<sup title="QIAGEN"><span>64</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>Epithelial Tight Junctions</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>Germ Cell-Sertoli Cell Junction Dynamics</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>12.35</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB1B&amp;keywords=Sertoli-Sertoli+Cell+Junction+Dynamics&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB1B gene information at GeneCards" target="_blank">RAB1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=Sertoli-Sertoli+Cell+Junction+Dynamics&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=Sertoli-Sertoli+Cell+Junction+Dynamics&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=Sertoli-Sertoli+Cell+Junction+Dynamics&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> </td>
+</tr>
+<tr id="Activation_of_the_pre-replicative_complex_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/activation_of_the_pre-replicative_complex" target="_blank">Activation of the pre-replicative complex</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-68962" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-176187" target="_blank">Activation of ATR in response to replication stress</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:atr_pathway#section=Diagram" target="_blank">ATR signaling pathway</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-68689" target="_blank">CDC6 association with the ORC:origin complex</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<span>Cell Cycle Control of Chromosomal Replication</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>Cell cycle Start of DNA replication in early S phase</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP466" target="_blank">DNA replication</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-68952" target="_blank">DNA replication initiation</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-69190" target="_blank">DNA strand elongation</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-69186" target="_blank">Lagging Strand Synthesis</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-69183" target="_blank">Processive synthesis on the lagging strand</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-69166" target="_blank">Removal of the Flap Intermediate</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-176974" target="_blank">Unwinding of DNA</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>12.03</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GINS1&amp;keywords=Activation+of+the+pre-replicative+complex&amp;prefilter=pathways_interactions#pathways_interactions" title="GINS1 gene information at GeneCards" target="_blank">GINS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4&amp;keywords=Activation+of+the+pre-replicative+complex&amp;prefilter=pathways_interactions#pathways_interactions" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRIM2&amp;keywords=Activation+of+the+pre-replicative+complex&amp;prefilter=pathways_interactions#pathways_interactions" title="PRIM2 gene information at GeneCards" target="_blank">PRIM2</a> </td>
+</tr>
+<tr id="Autophagy_pathway_3">
+<td>3</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/autophagy_pathway" target="_blank">Autophagy pathway</a>
+<sup title="Sino Biological"> <a href="https://www.sinobiological.com/pathways/autophagy-pathway?utm_source=genecards&amp;utm_medium=platform&amp;utm_campaign=pathway" target="_blank">67</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://www.sinobiological.com/pathways/akt-signaling-pathway?utm_source=genecards&amp;utm_medium=platform&amp;utm_campaign=pathway" target="_blank">AKT Signaling Pathway</a>
+<sup title="Sino Biological">67</sup>
+</div>
+</div>
+</td>
+<td>11.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB1B&amp;keywords=Autophagy+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB1B gene information at GeneCards" target="_blank">RAB1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=Autophagy+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=Autophagy+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=Autophagy+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> </td>
+</tr>
+<tr id="RAB_geranylgeranylation_4">
+<td>4</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/rab_geranylgeranylation" target="_blank">RAB geranylgeranylation</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-8873719" target="_blank">66</a></sup>
+</div>
+</td>
+<td>10.83</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB19&amp;keywords=RAB+geranylgeranylation&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB19 gene information at GeneCards" target="_blank">RAB19</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB1B&amp;keywords=RAB+geranylgeranylation&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB1B gene information at GeneCards" target="_blank">RAB1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=RAB+geranylgeranylation&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=RAB+geranylgeranylation&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=RAB+geranylgeranylation&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> </td>
+</tr>
+<tr id="Intracellular_trafficking_proteins_involved_in_CMT_neuropathy_5">
+<td>5</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/intracellular_trafficking_proteins_involved_in_cmt_neuropathy" target="_blank">Intracellular trafficking proteins involved in CMT neuropathy</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP4856" target="_blank">74</a></sup>
+</div>
+</td>
+<td>10.59</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=Intracellular+trafficking+proteins+involved+in+CMT+neuropathy&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=Intracellular+trafficking+proteins+involved+in+CMT+neuropathy&amp;prefilter=pathways_interactions#pathways_interactions" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Cellular components related to Immunodeficiency 54 according to GeneCards Suite gene sharing:</h3>
+<table id="go_cc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>perinuclear region of cytoplasm</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0048471" target="_blank">GO:0048471</a></td>
+<td>9.85</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAP1A&amp;keywords=perinuclear+region+of+cytoplasm&amp;prefilter=go_cc#go_cc" title="RAP1A gene information at GeneCards" target="_blank">RAP1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=perinuclear+region+of+cytoplasm&amp;prefilter=go_cc#go_cc" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=perinuclear+region+of+cytoplasm&amp;prefilter=go_cc#go_cc" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB1B&amp;keywords=perinuclear+region+of+cytoplasm&amp;prefilter=go_cc#go_cc" title="RAB1B gene information at GeneCards" target="_blank">RAB1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=perinuclear+region+of+cytoplasm&amp;prefilter=go_cc#go_cc" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>synaptic vesicle</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0008021" target="_blank">GO:0008021</a></td>
+<td>9.35</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=synaptic+vesicle&amp;prefilter=go_cc#go_cc" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=synaptic+vesicle&amp;prefilter=go_cc#go_cc" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=synaptic+vesicle&amp;prefilter=go_cc#go_cc" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>CMG complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0071162" target="_blank">GO:0071162</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4&amp;keywords=CMG+complex&amp;prefilter=go_cc#go_cc" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GINS1&amp;keywords=CMG+complex&amp;prefilter=go_cc#go_cc" title="GINS1 gene information at GeneCards" target="_blank">GINS1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Biological processes related to Immunodeficiency 54 according to GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="go_proc-table_SeeMore" href="javascript:showMoreTable('go_proc-table','go_proc-table_SeeMore', 'show all 12', 'showing 12, show less','collapsable')">show all 12</a>)
+</span>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>synaptic vesicle exocytosis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0016079" target="_blank">GO:0016079</a></td>
+<td>9.78</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAP1A&amp;keywords=synaptic+vesicle+exocytosis&amp;prefilter=go_proc#go_proc" title="RAP1A gene information at GeneCards" target="_blank">RAP1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=synaptic+vesicle+exocytosis&amp;prefilter=go_proc#go_proc" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>protein secretion</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0009306" target="_blank">GO:0009306</a></td>
+<td>9.77</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=protein+secretion&amp;prefilter=go_proc#go_proc" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=protein+secretion&amp;prefilter=go_proc#go_proc" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=protein+secretion&amp;prefilter=go_proc#go_proc" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>DNA unwinding involved in DNA replication</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006268" target="_blank">GO:0006268</a></td>
+<td>9.76</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4&amp;keywords=DNA+unwinding+involved+in+DNA+replication&amp;prefilter=go_proc#go_proc" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GINS1&amp;keywords=DNA+unwinding+involved+in+DNA+replication&amp;prefilter=go_proc#go_proc" title="GINS1 gene information at GeneCards" target="_blank">GINS1</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>DNA replication</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006260" target="_blank">GO:0006260</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRIM2&amp;keywords=DNA+replication&amp;prefilter=go_proc#go_proc" title="PRIM2 gene information at GeneCards" target="_blank">PRIM2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4&amp;keywords=DNA+replication&amp;prefilter=go_proc#go_proc" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GINS1&amp;keywords=DNA+replication&amp;prefilter=go_proc#go_proc" title="GINS1 gene information at GeneCards" target="_blank">GINS1</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>DNA replication, synthesis of RNA primer</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006269" target="_blank">GO:0006269</a></td>
+<td>9.71</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRIMPOL&amp;keywords=DNA+replication%2c+synthesis+of+RNA+primer&amp;prefilter=go_proc#go_proc" title="PRIMPOL gene information at GeneCards" target="_blank">PRIMPOL</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRIM2&amp;keywords=DNA+replication%2c+synthesis+of+RNA+primer&amp;prefilter=go_proc#go_proc" title="PRIM2 gene information at GeneCards" target="_blank">PRIM2</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>protein localization to plasma membrane</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0072659" target="_blank">GO:0072659</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAP1A&amp;keywords=protein+localization+to+plasma+membrane&amp;prefilter=go_proc#go_proc" title="RAP1A gene information at GeneCards" target="_blank">RAP1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=protein+localization+to+plasma+membrane&amp;prefilter=go_proc#go_proc" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=protein+localization+to+plasma+membrane&amp;prefilter=go_proc#go_proc" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=protein+localization+to+plasma+membrane&amp;prefilter=go_proc#go_proc" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>DNA replication initiation</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006270" target="_blank">GO:0006270</a></td>
+<td>9.67</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRIM2&amp;keywords=DNA+replication+initiation&amp;prefilter=go_proc#go_proc" title="PRIM2 gene information at GeneCards" target="_blank">PRIM2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4&amp;keywords=DNA+replication+initiation&amp;prefilter=go_proc#go_proc" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>positive regulation of DNA primase activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:1903934" target="_blank">GO:1903934</a></td>
+<td>9.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRIM2&amp;keywords=positive+regulation+of+DNA+primase+activity&amp;prefilter=go_proc#go_proc" title="PRIM2 gene information at GeneCards" target="_blank">PRIM2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=GINS1&amp;keywords=positive+regulation+of+DNA+primase+activity&amp;prefilter=go_proc#go_proc" title="GINS1 gene information at GeneCards" target="_blank">GINS1</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td>positive regulation of regulated secretory pathway</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:1903307" target="_blank">GO:1903307</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=positive+regulation+of+regulated+secretory+pathway&amp;prefilter=go_proc#go_proc" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=positive+regulation+of+regulated+secretory+pathway&amp;prefilter=go_proc#go_proc" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td>DNA-templated DNA replication</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006261" target="_blank">GO:0006261</a></td>
+<td>9.51</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PRIMPOL&amp;keywords=DNA-templated+DNA+replication&amp;prefilter=go_proc#go_proc" title="PRIMPOL gene information at GeneCards" target="_blank">PRIMPOL</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MCM4&amp;keywords=DNA-templated+DNA+replication&amp;prefilter=go_proc#go_proc" title="MCM4 gene information at GeneCards" target="_blank">MCM4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>regulation of exocytosis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0017157" target="_blank">GO:0017157</a></td>
+<td>9.35</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=regulation+of+exocytosis&amp;prefilter=go_proc#go_proc" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=regulation+of+exocytosis&amp;prefilter=go_proc#go_proc" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=regulation+of+exocytosis&amp;prefilter=go_proc#go_proc" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>vesicle docking involved in exocytosis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006904" target="_blank">GO:0006904</a></td>
+<td>9.02</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=vesicle+docking+involved+in+exocytosis&amp;prefilter=go_proc#go_proc" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=vesicle+docking+involved+in+exocytosis&amp;prefilter=go_proc#go_proc" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=vesicle+docking+involved+in+exocytosis&amp;prefilter=go_proc#go_proc" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Immunodeficiency 54 according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>GTP binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005525" target="_blank">GO:0005525</a></td>
+<td>10</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERAS&amp;keywords=GTP+binding&amp;prefilter=go_func#go_func" title="ERAS gene information at GeneCards" target="_blank">ERAS</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=GTP+binding&amp;prefilter=go_func#go_func" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB19&amp;keywords=GTP+binding&amp;prefilter=go_func#go_func" title="RAB19 gene information at GeneCards" target="_blank">RAB19</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB1B&amp;keywords=GTP+binding&amp;prefilter=go_func#go_func" title="RAB1B gene information at GeneCards" target="_blank">RAB1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=GTP+binding&amp;prefilter=go_func#go_func" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=GTP+binding&amp;prefilter=go_func#go_func" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>GDP binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0019003" target="_blank">GO:0019003</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAP1A&amp;keywords=GDP+binding&amp;prefilter=go_func#go_func" title="RAP1A gene information at GeneCards" target="_blank">RAP1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=GDP+binding&amp;prefilter=go_func#go_func" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERAS&amp;keywords=GDP+binding&amp;prefilter=go_func#go_func" title="ERAS gene information at GeneCards" target="_blank">ERAS</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>G protein activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0003925" target="_blank">GO:0003925</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAP1A&amp;keywords=G+protein+activity&amp;prefilter=go_func#go_func" title="RAP1A gene information at GeneCards" target="_blank">RAP1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB1B&amp;keywords=G+protein+activity&amp;prefilter=go_func#go_func" title="RAB1B gene information at GeneCards" target="_blank">RAB1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ERAS&amp;keywords=G+protein+activity&amp;prefilter=go_func#go_func" title="ERAS gene information at GeneCards" target="_blank">ERAS</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>myosin V binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031489" target="_blank">GO:0031489</a></td>
+<td>9.67</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=myosin+V+binding&amp;prefilter=go_func#go_func" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=myosin+V+binding&amp;prefilter=go_func#go_func" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>nucleotide binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0000166" target="_blank">GO:0000166</a></td>
+<td>9.61</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAP1A&amp;keywords=nucleotide+binding&amp;prefilter=go_func#go_func" title="RAP1A gene information at GeneCards" target="_blank">RAP1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=nucleotide+binding&amp;prefilter=go_func#go_func" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=nucleotide+binding&amp;prefilter=go_func#go_func" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB1B&amp;keywords=nucleotide+binding&amp;prefilter=go_func#go_func" title="RAB1B gene information at GeneCards" target="_blank">RAB1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB19&amp;keywords=nucleotide+binding&amp;prefilter=go_func#go_func" title="RAB19 gene information at GeneCards" target="_blank">RAB19</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=nucleotide+binding&amp;prefilter=go_func#go_func" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>GTPase activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0003924" target="_blank">GO:0003924</a></td>
+<td>9.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAP1A&amp;keywords=GTPase+activity&amp;prefilter=go_func#go_func" title="RAP1A gene information at GeneCards" target="_blank">RAP1A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3B&amp;keywords=GTPase+activity&amp;prefilter=go_func#go_func" title="RAB3B gene information at GeneCards" target="_blank">RAB3B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB3A&amp;keywords=GTPase+activity&amp;prefilter=go_func#go_func" title="RAB3A gene information at GeneCards" target="_blank">RAB3A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB1B&amp;keywords=GTPase+activity&amp;prefilter=go_func#go_func" title="RAB1B gene information at GeneCards" target="_blank">RAB1B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB19&amp;keywords=GTPase+activity&amp;prefilter=go_func#go_func" title="RAB19 gene information at GeneCards" target="_blank">RAB19</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB15&amp;keywords=GTPase+activity&amp;prefilter=go_func#go_func" title="RAB15 gene information at GeneCards" target="_blank">RAB15</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Immunodeficiency 54</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#0b787e7b7b64797f4b67626d6e666a7b786825686466">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809eab2a6e2f0c48',t:'MTY5NTI2MTE0NC44ODAwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

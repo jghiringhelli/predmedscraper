@@ -1,0 +1,3833 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Brain Malformations with or Without Urinary Tract Defects disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/brain_malformations_with_or_without_urinary_tract_defects" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'brain_malformations_with_or_without_urinary_tract_defects';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+BRMUTD <div class="symbol">MCID: BRN134</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 43
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Brain Malformations with or Without Urinary Tract Defects</span>
+(<span itemprop="alternateName">BRMUTD</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Fetal diseases, Genetic diseases, Mental diseases, Nephrological diseases, Neuronal diseases, Rare diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#e695878a8395a68a8f80838b87969585c885898b" target="_blank"><span class="__cf_email__" data-cfemail="7605171a1305361a1f10131b170605155815191b">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="9 Genes associated with Brain Malformations with or Without Urinary Tract Defects">Genes</a>
+<a href="#genetic_variations" title="34 Variations associated with Brain Malformations with or Without Urinary Tract Defects">Variations</a>
+<a href="#anatomical_context" title="3 Tissues associated with Brain Malformations with or Without Urinary Tract Defects">Tissues</a>
+<a href="#disorders" title="18 Related diseases associated with Brain Malformations with or Without Urinary Tract Defects">Related diseases</a>
+<a href="#publications" title="28 Publications associated with Brain Malformations with or Without Urinary Tract Defects">Publications</a>
+<a href="#clinical_features" title="51 Symptoms &amp; Phenotypes associated with Brain Malformations with or Without Urinary Tract Defects">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/brain_malformations_with_or_without_urinary_tract_defects?search%3dRare+diseases=&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Brain Malformations with or Without Urinary Tract Defects:</h3>
+<div class="main-name">
+Name: <b>Brain Malformations with or Without Urinary Tract Defects</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/613735" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060409" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04979" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/05998" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Chromosome 1p32-P31 Deletion Syndrome
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060409" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4478940" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=613735" title="diseasecard" target="_blank">12</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<div>
+Chromosome 1, Monosomy 1p32
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060409" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C2930944" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=C535594" title="Medical Subject Headings" target="_blank">43</a></sup>
+</div>
+<div>
+Nfia-Related Disorder
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060409" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="GeneReviews"> <a href="http://www.ncbi.nlm.nih.gov/books/NBK542336" title="GeneReviews" target="_blank">24</a></sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0060409" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<div>
+1p31p32 Microdeletion Syndrome
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060409" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=401986" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Brmutd
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/613735" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04979" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Nfia Haploinsufficiency
+<sup title="GeneReviews"> <a href="http://www.ncbi.nlm.nih.gov/books/NBK542336" title="GeneReviews" target="_blank">24</a></sup>
+</div>
+<div>
+Nfia-Related Disorders
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Monosomy 1p31p32
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=401986" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Del(1)(p31p32)
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=401986" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Autosomal dominant <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/613735" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+<b>1p31p32 Microdeletion Syndrome:</b>
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=401986" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>1p31p32 Microdeletion Syndrome:</b>
+Neonatal <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=401986" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/613735" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>variable phenotype</span>
+<br/>
+<span>de novo mutation</span>
+<br/>
+<span>some patients have a de novo deletion of several genes on 1p32-p31</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/nephrological_disease_list" target="_blank">Nephrological diseases</a> <a href="https://www.malacards.org/categories/mental_disease_list" target="_blank">Mental diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="International Classification of Diseases, 10th Revision">31</sup>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/XVII" title="XVII" target="_blank">Congenital malformations, deformations and chromosomal abnormalities</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q90-Q99" title="Q90-Q99" target="_blank">Chromosomal abnormalities, not elsewhere classified</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q93" title="Q93" target="_blank">Monosomies and deletions from the autosomes, not elsewhere classified</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q93.5" title="Q93.5" target="_blank">Other deletions of part of a chromosome</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare neurological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Developmental anomalies during embryogenesis <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060409" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0060409" target="_blank">DOID:0060409</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/613735" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/613735" target="_blank">613735</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=C535594" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=C535594" target="_blank">C535594</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D001927" target="_blank">D001927</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D007674" target="_blank">D007674</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="International Classification of Diseases, 10th Revision">ICD10</b>
+<sup title="International Classification of Diseases, 10th Revision"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q93.5" target="_blank">31</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q93.5" target="_blank">Q93.5</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q93.5" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q93.5" target="_blank">Q93.5</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_6">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=401986" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=401986" target="_blank">ORPHA401986</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C3151036" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C3151036" target="_blank">C3151036</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/C4478940" target="_blank">C4478940</a>
+</div>
+<div id="ExternalId_item_8">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/109409003" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/109409003" target="_blank">109409003</a> <a href="http://www.snomedbrowser.com/Codes/Details/111496009" target="_blank">111496009</a> <a href="http://www.snomedbrowser.com/Codes/Details/112222000" target="_blank">112222000</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/12479006" target="_blank">12479006</a> <a href="http://www.snomedbrowser.com/Codes/Details/128613002" target="_blank">128613002</a> <a href="http://www.snomedbrowser.com/Codes/Details/14582003" target="_blank">14582003</a> <a href="http://www.snomedbrowser.com/Codes/Details/191736004" target="_blank">191736004</a> <a href="http://www.snomedbrowser.com/Codes/Details/197811007" target="_blank">197811007</a> <a href="http://www.snomedbrowser.com/Codes/Details/204043002" target="_blank">204043002</a> <a href="http://www.snomedbrowser.com/Codes/Details/224958001" target="_blank">224958001</a> <a href="http://www.snomedbrowser.com/Codes/Details/228156007" target="_blank">228156007</a> <a href="http://www.snomedbrowser.com/Codes/Details/23276006" target="_blank">23276006</a> <a href="http://www.snomedbrowser.com/Codes/Details/246545002" target="_blank">246545002</a> <a href="http://www.snomedbrowser.com/Codes/Details/246799009" target="_blank">246799009</a> <a href="http://www.snomedbrowser.com/Codes/Details/247578003" target="_blank">247578003</a> <a href="http://www.snomedbrowser.com/Codes/Details/249310005" target="_blank">249310005</a> <a href="http://www.snomedbrowser.com/Codes/Details/253185002" target="_blank">253185002</a> <a href="http://www.snomedbrowser.com/Codes/Details/313307000" target="_blank">313307000</a> <a href="http://www.snomedbrowser.com/Codes/Details/32659003" target="_blank">32659003</a> <a href="http://www.snomedbrowser.com/Codes/Details/36440009" target="_blank">36440009</a> <a href="http://www.snomedbrowser.com/Codes/Details/386806002" target="_blank">386806002</a> <a href="http://www.snomedbrowser.com/Codes/Details/396232000" target="_blank">396232000</a> <a href="http://www.snomedbrowser.com/Codes/Details/398151007" target="_blank">398151007</a> <a href="http://www.snomedbrowser.com/Codes/Details/398152000" target="_blank">398152000</a> <a href="http://www.snomedbrowser.com/Codes/Details/406506008" target="_blank">406506008</a> <a href="http://www.snomedbrowser.com/Codes/Details/430099007" target="_blank">430099007</a> <a href="http://www.snomedbrowser.com/Codes/Details/43064006" target="_blank">43064006</a> <a href="http://www.snomedbrowser.com/Codes/Details/432788009" target="_blank">432788009</a> <a href="http://www.snomedbrowser.com/Codes/Details/5102002" target="_blank">5102002</a> <a href="http://www.snomedbrowser.com/Codes/Details/57219006" target="_blank">57219006</a> <a href="http://www.snomedbrowser.com/Codes/Details/699439001" target="_blank">699439001</a> <a href="http://www.snomedbrowser.com/Codes/Details/70534000" target="_blank">70534000</a> <a href="http://www.snomedbrowser.com/Codes/Details/708670007" target="_blank">708670007</a> <a href="http://www.snomedbrowser.com/Codes/Details/7461003" target="_blank">7461003</a> <a href="http://www.snomedbrowser.com/Codes/Details/84757009" target="_blank">84757009</a> <a href="http://www.snomedbrowser.com/Codes/Details/90145001" target="_blank">90145001</a> <a href="http://www.snomedbrowser.com/Codes/Details/91138005" target="_blank">91138005</a> <a href="http://www.snomedbrowser.com/Codes/Details/91175000" target="_blank">91175000</a> <a href="http://www.snomedbrowser.com/Codes/Details/95515009" target="_blank">95515009</a> </span>
+<span class="showmore">
+<a title="show all 39" id="ExternalId_showmore_8" href="javascript:showMoreTable('ExternalId_item_8','ExternalId_showmore_8','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_9">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C3151036</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=401986" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=401986" target="_blank">58</a></sup>
+1p31p32 microdeletion syndrome is a rare chromosomal anomaly syndrome, resulting from the partial deletion of the short arm of chromosome 1, characterized by developmental delay, corpus callosum agenesis/hypoplasia and craniofacial dysmorphism, such as macrocephaly (caused by hydrocephalus or ventriculomegaly), low-set ears, anteverted nostrils and micrognathia. Urinary tract defects (e.g. vesicoureteral reflux, urinary incontinence) are also frequently associated. Other reported variable manifestations include hypotonia, tethered spinal cord, Chiari type I malformation and seizures.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Brain Malformations with or Without Urinary Tract Defects, also known as <i>chromosome 1p32-p31 deletion syndrome</i>, is related to <i><a href="/card/cerebellar_dysfunction_with_variable_cognitive_and_behavioral_abnormalities" target="_blank">cerebellar dysfunction with variable cognitive and behavioral abnormalities</a></i> and <i><a href="/card/hypertelorism" target="_blank">hypertelorism</a></i>. An important gene associated with Brain Malformations with or Without Urinary Tract Defects is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" target="_blank">NFIA</a> (Nuclear Factor I A), and among its related pathways/superpathways is <i><a href="https://pathcards.genecards.org/card/rna_polymerase_iii_transcription_initiation" target="_blank">RNA Polymerase III Transcription Initiation</a></i>. Affiliated tissues include <i>brain</i> and <i>spinal cord</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0001263" target="_blank">global developmental delay</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0002119" target="_blank">ventriculomegaly</a></i></p>
+<p> <b> <a href="https://disease-ontology.org/?id=DOID:0060409" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0060409" target="_blank">11</a></sup>
+A syndrome that has material basis in heterozygous mutation in the NFIA gene on chromosome 1p31 and that is characterized by macrocephaly, seizures, developmental delay, dysmorphic features, ventriculomegaly, and hypotonia.</p><p> <b> <a href="http://www.uniprot.org/diseases/DI-04979" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04979" target="_blank">73</a></sup>
+A syndrome characterized by corpus callosum hypoplasia or agenesis, hydrocephalus or ventricular enlargement, developmental delay, and urinary tract defects.</p>
+</div>
+<div>
+<b>More information from OMIM:</b>
+<a href="http://omim.org/entry/613735#description" target="_blank">613735</a> </div>
+<div>
+<b>GeneReviews:</b>
+<a href="http://www.ncbi.nlm.nih.gov/books/NBK542336" target="_blank">NBK542336</a> </div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Brain Malformations with or Without Urinary Tract Defects via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 18', 'showing 18, show less','collapsable')">show all 18</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/cerebellar_dysfunction_with_variable_cognitive_and_behavioral_abnormalities" target="_blank">cerebellar dysfunction with variable cognitive and behavioral abnormalities</a></td>
+<td>10.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=cerebellar+dysfunction+with+variable+cognitive+and+behavioral+abnormalities&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/hypertelorism" target="_blank">hypertelorism</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hypertelorism&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/corpus_callosum_agenesis_of" target="_blank">corpus callosum, agenesis of</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=corpus+callosum%2c+agenesis+of&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/aceruloplasminemia" target="_blank">aceruloplasminemia</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=aceruloplasminemia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/hydrocephalus" target="_blank">hydrocephalus</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hydrocephalus&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/tremor" target="_blank">tremor</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=tremor&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/strabismus" target="_blank">strabismus</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=strabismus&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/hydrocephalus_congenital_1" target="_blank">hydrocephalus, congenital, 1</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hydrocephalus%2c+congenital%2c+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/urinary_tract_infections_recurrent" target="_blank">urinary tract infections, recurrent</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=urinary+tract+infections%2c+recurrent&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/urinary_tract_infection" target="_blank">urinary tract infection</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=urinary+tract+infection&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/hydronephrosis" target="_blank">hydronephrosis</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hydronephrosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/craniosynostosis" target="_blank">craniosynostosis</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=craniosynostosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/vesicoureteral_reflux" target="_blank">vesicoureteral reflux</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=vesicoureteral+reflux&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/hypotonia" target="_blank">hypotonia</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hypotonia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/cerebellar_atrophy_developmental_delay_and_seizures" target="_blank">cerebellar atrophy, developmental delay, and seizures</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=cerebellar+atrophy%2c+developmental+delay%2c+and+seizures&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/cellular_neurofibroma" target="_blank">cellular neurofibroma</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIX&amp;keywords=cellular+neurofibroma&amp;prefilter=diseases#diseases" title="NFIX gene information at GeneCards" target="_blank">NFIX</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=cellular+neurofibroma&amp;prefilter=diseases#diseases" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/marshall_smith_syndrome" target="_blank">marshall-smith syndrome</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIX&amp;keywords=marshall-smith+syndrome&amp;prefilter=diseases#diseases" title="NFIX gene information at GeneCards" target="_blank">NFIX</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=marshall-smith+syndrome&amp;prefilter=diseases#diseases" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=marshall-smith+syndrome&amp;prefilter=diseases#diseases" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/chromosome_1p36_deletion_syndrome" target="_blank">chromosome 1p36 deletion syndrome</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=THAP3&amp;keywords=chromosome+1p36+deletion+syndrome&amp;prefilter=diseases#diseases" title="THAP3 gene information at GeneCards" target="_blank">THAP3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CAMTA1&amp;keywords=chromosome+1p36+deletion+syndrome&amp;prefilter=diseases#diseases" title="CAMTA1 gene information at GeneCards" target="_blank">CAMTA1</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Brain Malformations with or Without Urinary Tract Defects:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/brain_malformations_with_or_without_urinary_tract_defects_related_diseases.jpg" width="100%" alt="Diseases related to Brain Malformations with or Without Urinary Tract Defects" title="Diseases related to Brain Malformations with or Without Urinary Tract Defects" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Brain Malformations with or Without Urinary Tract Defects:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 41', 'showing 41, show less','collapsable')">show all 41</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+global developmental delay
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001263" target="_blank">HP:0001263</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+ventriculomegaly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002119" target="_blank">HP:0002119</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+aplasia/hypoplasia of the corpus callosum
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007370" target="_blank">HP:0007370</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+macrocephaly
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000256" target="_blank">HP:0000256</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+intellectual disability
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001249" target="_blank">HP:0001249</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+seizure
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">HP:0001250</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+frontal bossing
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002007" target="_blank">HP:0002007</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+hypotonia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001252" target="_blank">HP:0001252</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+attention deficit hyperactivity disorder
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007018" target="_blank">HP:0007018</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+tethered cord
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002144" target="_blank">HP:0002144</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+abnormality of the urinary system
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000079" target="_blank">HP:0000079</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+chiari type i malformation
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007099" target="_blank">HP:0007099</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+intraventricular hemorrhage
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0030746" target="_blank">HP:0030746</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+vesicoureteral reflux
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000076" target="_blank">HP:0000076</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+compulsive behaviors
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000722" target="_blank">HP:0000722</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+craniosynostosis
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001363" target="_blank">HP:0001363</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+cutis marmorata
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000965" target="_blank">HP:0000965</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+ocular hypertension
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007906" target="_blank">HP:0007906</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+moyamoya phenomenon
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very rare (&lt;4-1%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011834" target="_blank">HP:0011834</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+failure to thrive
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">HP:0001508</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+anteverted nares
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000463" target="_blank">HP:0000463</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+upslanted palpebral fissure
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000582" target="_blank">HP:0000582</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+overfolded helix
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000396" target="_blank">HP:0000396</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+hydronephrosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000126" target="_blank">HP:0000126</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+delayed gross motor development
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002194" target="_blank">HP:0002194</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+hypoplasia of the corpus callosum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002079" target="_blank">HP:0002079</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+metopic synostosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011330" target="_blank">HP:0011330</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+delayed fine motor development
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010862" target="_blank">HP:0010862</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+agenesis of corpus callosum
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001274" target="_blank">HP:0001274</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+inguinal hernia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000023" target="_blank">HP:0000023</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+short nose
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003196" target="_blank">HP:0003196</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+
+cognitive impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100543" target="_blank">HP:0100543</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+
+low-set ears
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000369" target="_blank">HP:0000369</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+
+narrow mouth
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000160" target="_blank">HP:0000160</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+
+obsessive-compulsive behavior
+<sup title="Orphanet">58</sup>
+</td>
+<td></td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/" target="_blank"></a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+
+thin upper lip vermilion
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000219" target="_blank">HP:0000219</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+
+renal hypoplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000089" target="_blank">HP:0000089</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+
+broad forehead
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000337" target="_blank">HP:0000337</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+
+syringomyelia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003396" target="_blank">HP:0003396</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+
+short chin
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000331" target="_blank">HP:0000331</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+
+broad face
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000283" target="_blank">HP:0000283</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/613735" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Head And Neck Head:</u><br/>
+<span>macrocephaly</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Muscle Soft Tissue:</u><br/>
+<span>hypotonia</span>
+<br/>
+<span>inguinal hernia</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Genitourinary Kidneys:</u><br/>
+<span>hydronephrosis</span>
+<br/>
+<span>hypoplastic kidneys</span>
+<br/>
+<span>urinary tract defects</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Skin Nails Hair Skin:</u><br/>
+<span>cutis marmorata</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Head And Neck Nose:</u><br/>
+<span>anteverted nostrils</span>
+<br/>
+<span>small nose</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>intellectual disability</span>
+<br/>
+<span>global developmental delay</span>
+<br/>
+<span>cognitive impairment</span>
+<br/>
+<span>ventriculomegaly</span>
+<br/>
+<span>hypoplasia of the corpus callosum</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>agenesis of the corpus callosum</span>
+<br/>
+<span>seizures (in some patients)</span>
+<br/>
+<span>syringomyelia (in some patients)</span>
+<br/>
+<span>chiari i malformation (in some patients)</span>
+<br/>
+<span>tethered spinal cord (in some patients)</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 10" id="ClinicalSynopsis_showmore_6" href="javascript:showMoreTable('ClinicalSynopsis_item_6','ClinicalSynopsis_showmore_6','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>low-set ears</span>
+<br/>
+<span>dysplastic helices</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Head And Neck Face:</u><br/>
+<span>broad forehead</span>
+<br/>
+<span>broad face</span>
+<br/>
+<span>small chin</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Head And Neck Mouth:</u><br/>
+<span>thin upper lip</span>
+<br/>
+<span>small mouth</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Genitourinary Bladder:</u><br/>
+<span>vesicoureteral reflux (variable)</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/613735#clinicalFeatures" target="_blank">613735</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div class="section-data">
+<h3>MGI Mouse Phenotypes related to Brain Malformations with or Without Urinary Tract Defects:</h3>
+<sup title="Mouse Genome Informatics">45</sup>
+<table id="FunctionalDescription_MGI-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>MGI Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>craniofacial</td>
+<td> <a href="http://www.informatics.jax.org/searches/Phat.cgi?id=MP:0005382" target="_blank">MP:0005382</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=craniofacial&amp;prefilter=function#function" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=craniofacial&amp;prefilter=function#function" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIX&amp;keywords=craniofacial&amp;prefilter=function#function" title="NFIX gene information at GeneCards" target="_blank">NFIX</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=WLS&amp;keywords=craniofacial&amp;prefilter=function#function" title="WLS gene information at GeneCards" target="_blank">WLS</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Brain Malformations with or Without Urinary Tract Defects" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Brain Malformations with or Without Urinary Tract Defects&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Brain Malformations with or Without Urinary Tract Defects</text>
+</p>
+</div>
+<h3>
+Cochrane evidence based reviews: <a href="http://onlinelibrary.wiley.com/cochranelibrary/search/mesh?searchRow.searchCriteria.meshTerm=chromosome 1, monosomy 1p32&amp;searchMesh=Lookup" target="_blank">chromosome 1, monosomy 1p32</a>
+</h3>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Brain Malformations with or Without Urinary Tract Defects:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Chromosome 1p32-P31 Deletion Syndrome
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4478940" target="_blank">28</a></sup>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+Chromosome 1, Monosomy 1p32
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C2930944" target="_blank">28</a></sup>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Brain Malformations with or Without Urinary Tract Defects: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="6.705677">Brain</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="5.170749">Spinal Cord</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.1232096">Temporal Lobe</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Brain Malformations with or Without Urinary Tract Defects according to PubMed, GeneReviews, OMIM&#174;, and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 19', 'showing 19, show less','collapsable')">show all 19</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Truncating mutation in NFIA causes brain malformation and urinary tract defects.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Negishi Y...Saitoh S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27081522" target="_blank">27081522</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Familial craniosynostosis associated with a microdeletion involving the NFIA gene.
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Nyboe D...Hove HB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25714559" target="_blank">25714559</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+An intragenic deletion of the NFIA gene in a patient with a hypoplastic corpus callosum, craniofacial abnormalities and urinary tract defects.
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Rao A...Goel H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24462883" target="_blank">24462883</a></td>
+<td>2014</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+NFIA haploinsufficiency is associated with a CNS malformation syndrome and urinary tract defects.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lu W...Maas RL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17530927" target="_blank">17530927</a></td>
+<td>2007</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Familial craniofacial abnormality and polymicrogyria associated with a microdeletion affecting the NFIA gene.
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bayat A...Kreiborg S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28452798" target="_blank">28452798</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Comparative deletion mapping at 1p31.3-p32.2 implies NFIA responsible for intellectual disability coupled with macrocephaly and the presence of several other genes for syndromic intellectual disability.
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Labonne JD...Kim HG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26997977" target="_blank">26997977</a></td>
+<td>2016</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A novel 1p31.3p32.2 deletion involving the NFIA gene detected by array CGH in a patient with macrocephaly and hypoplasia of the corpus callosum.
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Koehler U...Schell-Apacik C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19763616" target="_blank">19763616</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Detection of an interstitial deletion of 2q21-22 by high resolution comparative genomic hybridization in a child with multiple congenital anomalies and an apparent balanced translocation.
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Shanske AL...Levy B</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15368480" target="_blank">15368480</a></td>
+<td>2004</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Interstitial microdeletion of chromosome 1p in two siblings.
+<sup title="GeneReviews">24</sup>
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Campbell CG...Hunter GW</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12210325" target="_blank">12210325</a></td>
+<td>2002</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Variants in nuclear factor I genes influence growth and development.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zenker M...Hennekam RC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31730271" target="_blank">31730271</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Loss-of-function variants in NFIA provide further support that NFIA is a critical gene in 1p32-p31 deletion syndrome: A four patient series.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Revah-Politi A...Anyane-Yeboa K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28941020" target="_blank">28941020</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+CANPMR syndrome and chromosome 1p32-p31 deletion syndrome coexist in two related individuals affected by simultaneous haplo-insufficiency of CAMTA1 and NIFA genes.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Coci EG...Riedel J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26848311" target="_blank">26848311</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chromosome 1p32-p31 deletion syndrome: prenatal diagnosis by array comparative genomic hybridization using uncultured amniocytes and association with NFIA haploinsufficiency, ventriculomegaly, corpus callosum hypogenesis, abnormal external genitalia, and intrauterine growth restriction.
+<sup title="PubMed">62</sup>
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chen CP...Wang W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22030051" target="_blank">22030051</a></td>
+<td>2011</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Second reported patient with del(1)(p32.1p32.3) and similar clinical features suggesting a recognizable chromosomal syndrome.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zinner SH...Batanian JR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12955770" target="_blank">12955770</a></td>
+<td>2003</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical relevance of small copy-number variants in chromosomal microarray clinical testing.
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hollenbeck D...Mikhail FM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27632688" target="_blank">27632688</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology.
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Richards S...ACMG Laboratory Quality Assurance Committee</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25741868" target="_blank">25741868</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Microdeletion of 1p32-p31 involving NFIA in a patient with hypoplastic corpus callosum, ventriculomegaly, seizures and urinary tract defects.
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ji J...Quintero-Rivera F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24657733" target="_blank">24657733</a></td>
+<td>2014</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+De novo gene disruptions in children on the autistic spectrum.
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Iossifov I...Wigler M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22542183" target="_blank">22542183</a></td>
+<td>2012</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinically relevant single gene or intragenic deletions encompassing critical neurodevelopmental genes in patients with developmental delay, mental retardation, and/or autism spectrum disorders.
+<sup title="GeneReviews">24</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mikhail FM...Carroll AJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22031302" target="_blank">22031302</a></td>
+<td>2011</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Brain Malformations with or Without Urinary Tract Defects according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Phenotypic Spectrum of NFIA Haploinsufficiency: Two Additional Cases and Review of the Literature.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bertini V...Valetto A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36553517" target="_blank">36553517</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A 1p31.3 deletion encompassing the nuclear factor 1A gene presenting as possible temporal lobe epilepsy in association with schizoaffective disorder.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Colijn MA...Stowe RM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36209511" target="_blank">36209511</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pathogenic variant in NFIA associated with subdural hematomas mimicking nonaccidental trauma.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wongkittichote P...Abell KB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35006644" target="_blank">35006644</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The p.Thr395Met missense variant of NFIA found in a patient with intellectual disability is a defective variant.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ogura Y...Hirata H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35018717" target="_blank">35018717</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Recurrent NFIA K125E substitution represents a loss-of-function allele: Sensitive in vitro and in vivo assays for nontruncating alleles.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Uehara T...Takano-Shimizu T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33973697" target="_blank">33973697</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Correction to: CANPMR syndrome and chromosome 1p32-p31 deletion syndrome coexist in two related individuals affected by simultaneous haplo-insufficiency of CAMTA1 and NFIA genes.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Coci EG...Riedel J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33750428" target="_blank">33750428</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pathogenic nonsense variant in NFIB in another patient with dysmorphism, Autism Spectrum Disorder, agenesis of the corpus callosum, and intellectual disability.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Rao ACA...Goel H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33130023" target="_blank">33130023</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A novel NFIA gene nonsense mutation in a Chinese patient with macrocephaly, corpus callosum hypoplasia, developmental delay, and dysmorphic features.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang Y...Abuduxikuer K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32926563" target="_blank">32926563</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+NFIA-Related Disorder
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Senaratne TN...Quintero-Rivera F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31194316" target="_blank">31194316</a></td>
+<td>2019</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Brain Malformations with or Without Urinary Tract Defects (1 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Nuclear Factor I A</td>
+<td>Protein Coding</td>
+<td>957.95</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/600727" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic/Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Role in the phenotype
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=22985" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000360231&amp;type2=-26&amp;id2=DOID:0060409" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/24462883" title="ClinVar" target="_blank">24462883</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25714559" title="ClinVar" target="_blank">25714559</a> <a href="https://pubmed.ncbi.nlm.nih.gov/27081522" title="ClinVar" target="_blank">27081522</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/31730271" title="ClinVar" target="_blank">31730271</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MYEF2" title="MYEF2 gene information at GeneCards" target="_blank">MYEF2</a></div>
+</div>
+</td>
+<td>Myelin Expression Factor 2</td>
+<td>Protein Coding</td>
+<td>6.33</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000316950&amp;type2=-26&amp;id2=DOID:0060409" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB" title="NFIB gene information at GeneCards" target="_blank">NFIB</a></div>
+</div>
+</td>
+<td>Nuclear Factor I B</td>
+<td>Protein Coding</td>
+<td>6.11</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000370340&amp;type2=-26&amp;id2=DOID:0060409" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIX" title="NFIX gene information at GeneCards" target="_blank">NFIX</a></div>
+</div>
+</td>
+<td>Nuclear Factor I X</td>
+<td>Protein Coding</td>
+<td>6.02</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000380781&amp;type2=-26&amp;id2=DOID:0060409" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CAMTA1" title="CAMTA1 gene information at GeneCards" target="_blank">CAMTA1</a></div>
+</div>
+</td>
+<td>Calmodulin Binding Transcription Activator 1</td>
+<td>Protein Coding</td>
+<td>5.95</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000306522&amp;type2=-26&amp;id2=DOID:0060409" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MSANTD2" title="MSANTD2 gene information at GeneCards" target="_blank">MSANTD2</a></div>
+</div>
+</td>
+<td>Myb/SANT DNA Binding Domain Containing 2</td>
+<td>Protein Coding</td>
+<td>5.86</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000239614&amp;type2=-26&amp;id2=DOID:0060409" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=WLS" title="WLS gene information at GeneCards" target="_blank">WLS</a></div>
+</div>
+</td>
+<td>Wnt Ligand Secretion Mediator</td>
+<td>Protein Coding</td>
+<td>5.44</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000346829&amp;type2=-26&amp;id2=DOID:0060409" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=THAP3" title="THAP3 gene information at GeneCards" target="_blank">THAP3</a></div>
+</div>
+</td>
+<td>THAP Domain Containing 3</td>
+<td>Protein Coding</td>
+<td>5.43</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000054650&amp;type2=-26&amp;id2=DOID:0060409" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=METTL27" title="METTL27 gene information at GeneCards" target="_blank">METTL27</a></div>
+</div>
+</td>
+<td>Methyltransferase Like 27</td>
+<td>Protein Coding</td>
+<td>5.39</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000297873&amp;type2=-26&amp;id2=DOID:0060409" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Brain Malformations with or Without Urinary Tract Defects:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show all 34', 'showing 34, show less','collapsable')">show all 34</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.1094del (p.Pro365fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000477965/" title="RCV000477965" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/417968/?new_evidence=true#id_second" target="_blank">417968</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1060505054" target="_blank">rs1060505054</a></td>
+<td>GRCh37: 1:61869793-61869793<br/>GRCh38: 1:61404121-61404121</td>
+</tr>
+<tr>
+<td>2</td>
+<td><span title="NFIA and overlap with 1 gene(s) gene information at GeneCards">NFIA and overlap with 1 gene(s)</span> </td>
+<td style="overflow-wrap:break-word;">NG_011787.1:g.(205313_260238)_(334455_354191)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000477967/" title="RCV000477967" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/417967/?new_evidence=true#id_second" target="_blank">417967</a></td>
+<td><span></span> </td>
+<td>GRCh37: <br/>GRCh38: 1:61277586-61426464</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NC_000001.10:g.61497698_61607171del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000513669/" title="RCV000513669" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/445152/?new_evidence=true#id_second" target="_blank">445152</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61497698-61607171<br/>GRCh38: </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.70C&gt;T (p.Arg24Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000762957/" title="RCV000762957" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/420999/?new_evidence=true#id_second" target="_blank">420999</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1064794841" target="_blank">rs1064794841</a></td>
+<td>GRCh37: 1:61553863-61553863<br/>GRCh38: 1:61088191-61088191</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.100C&gt;T (p.Gln34Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001754570/" title="RCV001754570" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1308662/?new_evidence=true#id_second" target="_blank">1308662</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61553893-61553893<br/>GRCh38: 1:61088221-61088221</td>
+</tr>
+<tr>
+<td>6</td>
+<td><span title="overlap with 69 genes gene information at GeneCards">overlap with 69 genes</span> </td>
+<td style="overflow-wrap:break-word;">GRCh37/hg19 1p32.3-31.3(chr1:53675707-66644963)x1</td>
+<td style="overflow-wrap:break-word;" title="Copy Number Loss">CN LOSS</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001263218/" title="RCV001263218" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/981205/?new_evidence=true#id_second" target="_blank">981205</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:53675707-66644963<br/>GRCh38: </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.89G&gt;A (p.Trp30Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001332882/" title="RCV001332882" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1031132/?new_evidence=true#id_second" target="_blank">1031132</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1646254633" target="_blank">rs1646254633</a></td>
+<td>GRCh37: 1:61553882-61553882<br/>GRCh38: 1:61088210-61088210</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.248del (p.Ile83fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002273038/" title="RCV002273038" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1699181/?new_evidence=true#id_second" target="_blank">1699181</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61554041-61554041<br/>GRCh38: 1:61088369-61088369</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.1051C&gt;T (p.Arg351Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003148991/" title="RCV003148991" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1184868/?new_evidence=true#id_second" target="_blank">1184868</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61849013-61849013<br/>GRCh38: 1:61383341-61383341</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.243dup (p.Asp82fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002226538/" title="RCV002226538" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1013239/?new_evidence=true#id_second" target="_blank">1013239</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1646257371" target="_blank">rs1646257371</a></td>
+<td>GRCh37: 1:61554033-61554034<br/>GRCh38: 1:61088361-61088362</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.28-2A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001254039/" title="RCV001254039" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/976669/?new_evidence=true#id_second" target="_blank">976669</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1646253231" target="_blank">rs1646253231</a></td>
+<td>GRCh37: 1:61553819-61553819<br/>GRCh38: 1:61088147-61088147</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.361C&gt;T (p.Arg121Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003152700/" title="RCV003152700" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/265253/?new_evidence=true#id_second" target="_blank">265253</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886039429" target="_blank">rs886039429</a></td>
+<td>GRCh37: 1:61554154-61554154<br/>GRCh38: 1:61088482-61088482</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.297dup (p.Pro100fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000501490/" title="RCV000501490" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/435980/?new_evidence=true#id_second" target="_blank">435980</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1553149202" target="_blank">rs1553149202</a></td>
+<td>GRCh37: 1:61554084-61554085<br/>GRCh38: 1:61088412-61088413</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.373A&gt;G (p.Lys125Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000754786/" title="RCV000754786" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/617624/?new_evidence=true#id_second" target="_blank">617624</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/769522583" target="_blank">rs769522583</a></td>
+<td>GRCh37: 1:61554166-61554166<br/>GRCh38: 1:61088494-61088494</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.106C&gt;T (p.Arg36Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001706867/" title="RCV001706867" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1285510/?new_evidence=true#id_second" target="_blank">1285510</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61553899-61553899<br/>GRCh38: 1:61088227-61088227</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.400del (p.Met133_Val134insTer)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002810031/" title="RCV002810031" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2412704/?new_evidence=true#id_second" target="_blank">2412704</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61554192-61554192<br/>GRCh38: 1:61088520-61088520</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.1086dup (p.Ala363fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001785373/" title="RCV001785373" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1325836/?new_evidence=true#id_second" target="_blank">1325836</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61869785-61869786<br/>GRCh38: 1:61404113-61404114</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.442G&gt;T (p.Glu148Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002052159/" title="RCV002052159" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1526139/?new_evidence=true#id_second" target="_blank">1526139</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61554235-61554235<br/>GRCh38: 1:61088563-61088563</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.149_153del (p.Lys50fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002251111/" title="RCV002251111" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1687429/?new_evidence=true#id_second" target="_blank">1687429</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61553940-61553944<br/>GRCh38: 1:61088268-61088272</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.352G&gt;C (p.Asp118His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000984875/" title="RCV000984875" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/800728/?new_evidence=true#id_second" target="_blank">800728</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1570123287" target="_blank">rs1570123287</a></td>
+<td>GRCh37: 1:61554145-61554145<br/>GRCh38: 1:61088473-61088473</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.1228C&gt;T (p.Gln410Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001198810/" title="RCV001198810" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/931857/?new_evidence=true#id_second" target="_blank">931857</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1665711818" target="_blank">rs1665711818</a></td>
+<td>GRCh37: 1:61869928-61869928<br/>GRCh38: 1:61404256-61404256</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.655A&gt;C (p.Thr219Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001767342/" title="RCV001767342" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1306388/?new_evidence=true#id_second" target="_blank">1306388</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61798213-61798213<br/>GRCh38: 1:61332541-61332541</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.467G&gt;C (p.Cys156Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002290341/" title="RCV002290341" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1709999/?new_evidence=true#id_second" target="_blank">1709999</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61554260-61554260<br/>GRCh38: 1:61088588-61088588</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.1132C&gt;T (p.Gln378Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002789985/" title="RCV002789985" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2412705/?new_evidence=true#id_second" target="_blank">2412705</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61869832-61869832<br/>GRCh38: 1:61404160-61404160</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.*66C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003131797/" title="RCV003131797" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2434345/?new_evidence=true#id_second" target="_blank">2434345</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61921058-61921058<br/>GRCh38: 1:61455386-61455386</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=LOC122056894" title="LOC122056894 gene information at GeneCards" target="_blank">LOC122056894</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001145512.2(NFIA):c.104+5G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001332925/" title="RCV001332925" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1031169/?new_evidence=true#id_second" target="_blank">1031169</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/992223479" target="_blank">rs992223479</a></td>
+<td>GRCh37: 1:61547724-61547724<br/>GRCh38: 1:61082052-61082052</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.1A&gt;C (p.Met1Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003225011/" title="RCV003225011" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2500353/?new_evidence=true#id_second" target="_blank">2500353</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61548464-61548464<br/>GRCh38: 1:61082792-61082792</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.293A&gt;G (p.Lys98Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002471782/" title="RCV002471782" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1805364/?new_evidence=true#id_second" target="_blank">1805364</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61554086-61554086<br/>GRCh38: 1:61088414-61088414</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.186T&gt;G (p.Ser62Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002471776/" title="RCV002471776" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1805358/?new_evidence=true#id_second" target="_blank">1805358</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61553979-61553979<br/>GRCh38: 1:61088307-61088307</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.504A&gt;G (p.Ile168Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002471747/" title="RCV002471747" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1805329/?new_evidence=true#id_second" target="_blank">1805329</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61554297-61554297<br/>GRCh38: 1:61088625-61088625</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.310G&gt;T (p.Val104Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002471332/" title="RCV002471332" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1804914/?new_evidence=true#id_second" target="_blank">1804914</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61554103-61554103<br/>GRCh38: 1:61088431-61088431</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.647G&gt;C (p.Ser216Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002470412/" title="RCV002470412" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1806128/?new_evidence=true#id_second" target="_blank">1806128</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61798205-61798205<br/>GRCh38: 1:61332533-61332533</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.1083G&gt;A (p.Pro361=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001780432/" title="RCV001780432" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1295345/?new_evidence=true#id_second" target="_blank">1295345</a></td>
+<td><span></span> </td>
+<td>GRCh37: 1:61869783-61869783<br/>GRCh38: 1:61404111-61404111</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA" title="NFIA gene information at GeneCards" target="_blank">NFIA</a></td>
+<td style="overflow-wrap:break-word;">NM_001134673.4(NFIA):c.220C&gt;T (p.Arg74Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000844944/" title="RCV000844944" target="_blank">Not Provided</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/523874/?new_evidence=true#id_second" target="_blank">523874</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1553149182" target="_blank">rs1553149182</a></td>
+<td>GRCh37: 1:61554013-61554013<br/>GRCh38: 1:61088341-61088341</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Brain%20Malformations%20with%20or%20Without%20Urinary%20Tract%20Defects%22%5BMeSH%20Terms%5D%20OR%20%22Brain%20Malformations%20with%20or%20Without%20Urinary%20Tract%20Defects%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Brain Malformations with or Without Urinary Tract Defects.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Brain Malformations with or Without Urinary Tract Defects according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="RNA_Polymerase_III_Transcription_Initiation_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/rna_polymerase_iii_transcription_initiation" target="_blank">RNA Polymerase III Transcription Initiation</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-76046" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>Assembly of RNA Polymerase-III Initiation Complex</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-749476" target="_blank">RNA Polymerase III Abortive And Retractive Initiation</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-73780" target="_blank">RNA Polymerase III Chain Elongation</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-74158" target="_blank">RNA Polymerase III Transcription</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-76061" target="_blank">RNA Polymerase III Transcription Initiation From Type 1 Promoter</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-76066" target="_blank">RNA Polymerase III Transcription Initiation From Type 2 Promoter</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-76071" target="_blank">RNA Polymerase III Transcription Initiation From Type 3 Promoter</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-73980" target="_blank">RNA Polymerase III Transcription Termination</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<span>Transcription of tRNA</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>11.25</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=RNA+Polymerase+III+Transcription+Initiation&amp;prefilter=pathways_interactions#pathways_interactions" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=RNA+Polymerase+III+Transcription+Initiation&amp;prefilter=pathways_interactions#pathways_interactions" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIX&amp;keywords=RNA+Polymerase+III+Transcription+Initiation&amp;prefilter=pathways_interactions#pathways_interactions" title="NFIX gene information at GeneCards" target="_blank">NFIX</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Biological processes related to Brain Malformations with or Without Urinary Tract Defects according to GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="go_proc-table_SeeMore" href="javascript:showMoreTable('go_proc-table','go_proc-table_SeeMore', 'show all 12', 'showing 12, show less','collapsable')">show all 12</a>)
+</span>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>positive regulation of transcription by RNA polymerase II</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0045944" target="_blank">GO:0045944</a></td>
+<td>10.16</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=THAP3&amp;keywords=positive+regulation+of+transcription+by+RNA+polymerase+II&amp;prefilter=go_proc#go_proc" title="THAP3 gene information at GeneCards" target="_blank">THAP3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIX&amp;keywords=positive+regulation+of+transcription+by+RNA+polymerase+II&amp;prefilter=go_proc#go_proc" title="NFIX gene information at GeneCards" target="_blank">NFIX</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=positive+regulation+of+transcription+by+RNA+polymerase+II&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=positive+regulation+of+transcription+by+RNA+polymerase+II&amp;prefilter=go_proc#go_proc" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CAMTA1&amp;keywords=positive+regulation+of+transcription+by+RNA+polymerase+II&amp;prefilter=go_proc#go_proc" title="CAMTA1 gene information at GeneCards" target="_blank">CAMTA1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>retina development in camera-type eye</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0060041" target="_blank">GO:0060041</a></td>
+<td>9.78</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=retina+development+in+camera-type+eye&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=retina+development+in+camera-type+eye&amp;prefilter=go_proc#go_proc" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>DNA replication</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006260" target="_blank">GO:0006260</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIX&amp;keywords=DNA+replication&amp;prefilter=go_proc#go_proc" title="NFIX gene information at GeneCards" target="_blank">NFIX</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=DNA+replication&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=DNA+replication&amp;prefilter=go_proc#go_proc" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>neuron fate specification</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0048665" target="_blank">GO:0048665</a></td>
+<td>9.71</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=neuron+fate+specification&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=neuron+fate+specification&amp;prefilter=go_proc#go_proc" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>hindbrain development</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0030902" target="_blank">GO:0030902</a></td>
+<td>9.67</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=hindbrain+development&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=WLS&amp;keywords=hindbrain+development&amp;prefilter=go_proc#go_proc" title="WLS gene information at GeneCards" target="_blank">WLS</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>glial cell proliferation</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0014009" target="_blank">GO:0014009</a></td>
+<td>9.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=glial+cell+proliferation&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=glial+cell+proliferation&amp;prefilter=go_proc#go_proc" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>neural precursor cell proliferation</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0061351" target="_blank">GO:0061351</a></td>
+<td>9.61</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=neural+precursor+cell+proliferation&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=neural+precursor+cell+proliferation&amp;prefilter=go_proc#go_proc" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>response to wounding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0009611" target="_blank">GO:0009611</a></td>
+<td>9.51</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=response+to+wounding&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=response+to+wounding&amp;prefilter=go_proc#go_proc" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td>neurogenesis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0022008" target="_blank">GO:0022008</a></td>
+<td>9.49</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=neurogenesis&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=neurogenesis&amp;prefilter=go_proc#go_proc" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td>exit from mitosis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0010458" target="_blank">GO:0010458</a></td>
+<td>9.46</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=exit+from+mitosis&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=exit+from+mitosis&amp;prefilter=go_proc#go_proc" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>DNA-templated transcription</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006351" target="_blank">GO:0006351</a></td>
+<td>9.35</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIX&amp;keywords=DNA-templated+transcription&amp;prefilter=go_proc#go_proc" title="NFIX gene information at GeneCards" target="_blank">NFIX</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=DNA-templated+transcription&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=DNA-templated+transcription&amp;prefilter=go_proc#go_proc" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CAMTA1&amp;keywords=DNA-templated+transcription&amp;prefilter=go_proc#go_proc" title="CAMTA1 gene information at GeneCards" target="_blank">CAMTA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>glial cell fate specification</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0021780" target="_blank">GO:0021780</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=glial+cell+fate+specification&amp;prefilter=go_proc#go_proc" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=glial+cell+fate+specification&amp;prefilter=go_proc#go_proc" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Brain Malformations with or Without Urinary Tract Defects according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>DNA binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0003677" target="_blank">GO:0003677</a></td>
+<td>9.28</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=THAP3&amp;keywords=DNA+binding&amp;prefilter=go_func#go_func" title="THAP3 gene information at GeneCards" target="_blank">THAP3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIX&amp;keywords=DNA+binding&amp;prefilter=go_func#go_func" title="NFIX gene information at GeneCards" target="_blank">NFIX</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIB&amp;keywords=DNA+binding&amp;prefilter=go_func#go_func" title="NFIB gene information at GeneCards" target="_blank">NFIB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NFIA&amp;keywords=DNA+binding&amp;prefilter=go_func#go_func" title="NFIA gene information at GeneCards" target="_blank">NFIA</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MYEF2&amp;keywords=DNA+binding&amp;prefilter=go_func#go_func" title="MYEF2 gene information at GeneCards" target="_blank">MYEF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CAMTA1&amp;keywords=DNA+binding&amp;prefilter=go_func#go_func" title="CAMTA1 gene information at GeneCards" target="_blank">CAMTA1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Brain Malformations with or Without Urinary Tract Defects</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#ee9d9b9e9e819c9aae8287888b838f9e9d8dc08d8183">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ed8887fea0f47',t:'MTY5NTI2MzAwMy4wNzkwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

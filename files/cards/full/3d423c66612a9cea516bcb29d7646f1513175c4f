@@ -1,0 +1,4101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Mitochondrial Complex Iii Deficiency, Nuclear Type 1 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/mitochondrial_complex_iii_deficiency_nuclear_type_1" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'mitochondrial_complex_iii_deficiency_nuclear_type_1';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+MC3DN1 <div class="symbol">MCID: MTC085</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 46
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Mitochondrial Complex Iii Deficiency, Nuclear Type 1</span>
+(<span itemprop="alternateName">MC3DN1</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Genetic diseases, Liver diseases, Metabolic diseases, Nephrological diseases, Rare diseases, Respiratory diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#4033212c2533002c2926252d213033236e232f2d" target="_blank"><span class="__cf_email__" data-cfemail="bdcedcd1d8cefdd1d4dbd8d0dccdcede93ded2d0">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="3 Genes associated with Mitochondrial Complex Iii Deficiency, Nuclear Type 1">Genes</a>
+<a href="#genetic_variations" title="126 Variations associated with Mitochondrial Complex Iii Deficiency, Nuclear Type 1">Variations</a>
+<a href="#anatomical_context" title="7 Tissues associated with Mitochondrial Complex Iii Deficiency, Nuclear Type 1">Tissues</a>
+<a href="#disorders" title="13 Related diseases associated with Mitochondrial Complex Iii Deficiency, Nuclear Type 1">Related diseases</a>
+<a href="#publications" title="23 Publications associated with Mitochondrial Complex Iii Deficiency, Nuclear Type 1">Publications</a>
+<a href="#clinical_features" title="79 Symptoms &amp; Phenotypes associated with Mitochondrial Complex Iii Deficiency, Nuclear Type 1">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/mitochondrial_complex_iii_deficiency_nuclear_type_1?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Mitochondrial Complex Iii Deficiency, Nuclear Type 1:</h3>
+<div class="main-name">
+Name: <b>Mitochondrial Complex Iii Deficiency, Nuclear Type 1</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/124000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01982" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Mitochondrial Complex Iii Deficiency Nuclear Type 1
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0080111" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C3541471" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Mc1dn3
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/618224" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0112093" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-05402" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Mitochondrial Complex I Deficiency, Nuclear Type 3
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/618224" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-05402" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Mitochondrial Complex 1 Deficiency, Nuclear Type 3
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4748752" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Mc3dn1
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/124000" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01982" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Mitochondrial Complex Iii Deficiency, Nuclear, Type 1 ]
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/00037" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<div>
+Renal Tubulopathy-Encephalopathy-Liver Failure Syndrome
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=254902" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Complex Iii Mitochondrial Respiratory Chain Deficiency
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01982" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Complex 3 Mitochondrial Respiratory Chain Deficiency
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01982" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Nuclear Type Mitochondrial Complex I Deficiency 3
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0112093" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Mitochondrial Complex Iii Deficiency, Nuclear Type 1:</b>
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/124000" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>Renal Tubulopathy-Encephalopathy-Liver Failure Syndrome:</b>
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=254902" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>Renal Tubulopathy-Encephalopathy-Liver Failure Syndrome:</b>
+Infancy,Neonatal <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=254902" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/124000" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>onset in infancy</span>
+<br/>
+<span>may result in early death</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div class="tab">
+<h3>HPO:</h3> <sup title="The Human Phenotype Ontology">30</sup>
+<div class="tab">
+<u>mitochondrial complex i deficiency, nuclear type 3:</u><br/>
+<span>Onset and clinical course</span>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003676" target="_blank">progressive</a> <br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/liver_disease_list" target="_blank">Liver diseases</a> <a href="https://www.malacards.org/categories/respiratory_disease_list" target="_blank">Respiratory diseases</a> <a href="https://www.malacards.org/categories/nephrological_disease_list" target="_blank">Nephrological diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/IV" title="IV" target="_blank">Endocrine, nutritional and metabolic diseases</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70-E90" title="E70-E90" target="_blank">Metabolic disorders</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88" title="E88" target="_blank">Other metabolic disorders</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88.8" title="E88.8" target="_blank">Other specified metabolic disorders</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare hepatic diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Inborn errors of metabolism <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0080111" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0080111" target="_blank">DOID:0080111</a> <a href="https://disease-ontology.org/?id=DOID:0112093" target="_blank">DOID:0112093</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/124000" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/124000" target="_blank">124000</a> <a href="http://omim.org/entry/618224" target="_blank">618224</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS124000" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS124000" target="_blank">PS124000</a> <a href="http://omim.org/phenotypicSeries/PS252010" target="_blank">PS252010</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D017237" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D017237" target="_blank">D017237</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D028361" target="_blank">D028361</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88.8" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88.8" target="_blank">E88.8</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_6">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=254902" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=254902" target="_blank">ORPHA254902</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1852372" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1852372" target="_blank">C1852372</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/C3541471" target="_blank">C3541471</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/C4748752" target="_blank">C4748752</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.ncbi.nlm.nih.gov/medgen/CN257509" target="_blank">CN257509</a> </span>
+<span class="showmore">
+<a title="show all 4" id="ExternalId_showmore_7" href="javascript:showMoreTable('ExternalId_item_7','ExternalId_showmore_7','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_8">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/103276001" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/103276001" target="_blank">103276001</a> <a href="http://www.snomedbrowser.com/Codes/Details/11934000" target="_blank">11934000</a> <a href="http://www.snomedbrowser.com/Codes/Details/128306009" target="_blank">128306009</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/128613002" target="_blank">128613002</a> <a href="http://www.snomedbrowser.com/Codes/Details/14648003" target="_blank">14648003</a> <a href="http://www.snomedbrowser.com/Codes/Details/15188001" target="_blank">15188001</a> <a href="http://www.snomedbrowser.com/Codes/Details/166603001" target="_blank">166603001</a> <a href="http://www.snomedbrowser.com/Codes/Details/166643006" target="_blank">166643006</a> <a href="http://www.snomedbrowser.com/Codes/Details/18963009" target="_blank">18963009</a> <a href="http://www.snomedbrowser.com/Codes/Details/190882007" target="_blank">190882007</a> <a href="http://www.snomedbrowser.com/Codes/Details/193570009" target="_blank">193570009</a> <a href="http://www.snomedbrowser.com/Codes/Details/197321007" target="_blank">197321007</a> <a href="http://www.snomedbrowser.com/Codes/Details/197446008" target="_blank">197446008</a> <a href="http://www.snomedbrowser.com/Codes/Details/21061000119107" target="_blank">21061000119107</a> <a href="http://www.snomedbrowser.com/Codes/Details/214264003" target="_blank">214264003</a> <a href="http://www.snomedbrowser.com/Codes/Details/221360009" target="_blank">221360009</a> <a href="http://www.snomedbrowser.com/Codes/Details/224958001" target="_blank">224958001</a> <a href="http://www.snomedbrowser.com/Codes/Details/228156007" target="_blank">228156007</a> <a href="http://www.snomedbrowser.com/Codes/Details/233873004" target="_blank">233873004</a> <a href="http://www.snomedbrowser.com/Codes/Details/237598005" target="_blank">237598005</a> <a href="http://www.snomedbrowser.com/Codes/Details/237630007" target="_blank">237630007</a> <a href="http://www.snomedbrowser.com/Codes/Details/240131006" target="_blank">240131006</a> <a href="http://www.snomedbrowser.com/Codes/Details/246545002" target="_blank">246545002</a> <a href="http://www.snomedbrowser.com/Codes/Details/247053007" target="_blank">247053007</a> <a href="http://www.snomedbrowser.com/Codes/Details/247578003" target="_blank">247578003</a> <a href="http://www.snomedbrowser.com/Codes/Details/25159003" target="_blank">25159003</a> <a href="http://www.snomedbrowser.com/Codes/Details/252157006" target="_blank">252157006</a> <a href="http://www.snomedbrowser.com/Codes/Details/255314001" target="_blank">255314001</a> <a href="http://www.snomedbrowser.com/Codes/Details/26544005" target="_blank">26544005</a> <a href="http://www.snomedbrowser.com/Codes/Details/267044007" target="_blank">267044007</a> <a href="http://www.snomedbrowser.com/Codes/Details/271327008" target="_blank">271327008</a> <a href="http://www.snomedbrowser.com/Codes/Details/274521009" target="_blank">274521009</a> <a href="http://www.snomedbrowser.com/Codes/Details/278849000" target="_blank">278849000</a> <a href="http://www.snomedbrowser.com/Codes/Details/28689008" target="_blank">28689008</a> <a href="http://www.snomedbrowser.com/Codes/Details/28835009" target="_blank">28835009</a> <a href="http://www.snomedbrowser.com/Codes/Details/30144000" target="_blank">30144000</a> <a href="http://www.snomedbrowser.com/Codes/Details/302866003" target="_blank">302866003</a> <a href="http://www.snomedbrowser.com/Codes/Details/313307000" target="_blank">313307000</a> <a href="http://www.snomedbrowser.com/Codes/Details/33688009" target="_blank">33688009</a> <a href="http://www.snomedbrowser.com/Codes/Details/343087000" target="_blank">343087000</a> <a href="http://www.snomedbrowser.com/Codes/Details/35489007" target="_blank">35489007</a> <a href="http://www.snomedbrowser.com/Codes/Details/35912001" target="_blank">35912001</a> <a href="http://www.snomedbrowser.com/Codes/Details/359580009" target="_blank">359580009</a> <a href="http://www.snomedbrowser.com/Codes/Details/36440009" target="_blank">36440009</a> <a href="http://www.snomedbrowser.com/Codes/Details/397790002" target="_blank">397790002</a> <a href="http://www.snomedbrowser.com/Codes/Details/398151007" target="_blank">398151007</a> <a href="http://www.snomedbrowser.com/Codes/Details/398152000" target="_blank">398152000</a> <a href="http://www.snomedbrowser.com/Codes/Details/409623005" target="_blank">409623005</a> <a href="http://www.snomedbrowser.com/Codes/Details/418143002" target="_blank">418143002</a> <a href="http://www.snomedbrowser.com/Codes/Details/428255004" target="_blank">428255004</a> <a href="http://www.snomedbrowser.com/Codes/Details/432788009" target="_blank">432788009</a> <a href="http://www.snomedbrowser.com/Codes/Details/43378000" target="_blank">43378000</a> <a href="http://www.snomedbrowser.com/Codes/Details/442191002" target="_blank">442191002</a> <a href="http://www.snomedbrowser.com/Codes/Details/45227007" target="_blank">45227007</a> <a href="http://www.snomedbrowser.com/Codes/Details/52522001" target="_blank">52522001</a> <a href="http://www.snomedbrowser.com/Codes/Details/56595005" target="_blank">56595005</a> <a href="http://www.snomedbrowser.com/Codes/Details/59455009" target="_blank">59455009</a> <a href="http://www.snomedbrowser.com/Codes/Details/609225004" target="_blank">609225004</a> <a href="http://www.snomedbrowser.com/Codes/Details/7011001" target="_blank">7011001</a> <a href="http://www.snomedbrowser.com/Codes/Details/75183008" target="_blank">75183008</a> <a href="http://www.snomedbrowser.com/Codes/Details/76349003" target="_blank">76349003</a> <a href="http://www.snomedbrowser.com/Codes/Details/77981007" target="_blank">77981007</a> <a href="http://www.snomedbrowser.com/Codes/Details/78164000" target="_blank">78164000</a> <a href="http://www.snomedbrowser.com/Codes/Details/78667006" target="_blank">78667006</a> <a href="http://www.snomedbrowser.com/Codes/Details/8011004" target="_blank">8011004</a> <a href="http://www.snomedbrowser.com/Codes/Details/80394007" target="_blank">80394007</a> <a href="http://www.snomedbrowser.com/Codes/Details/80515008" target="_blank">80515008</a> <a href="http://www.snomedbrowser.com/Codes/Details/81308009" target="_blank">81308009</a> <a href="http://www.snomedbrowser.com/Codes/Details/81415000" target="_blank">81415000</a> <a href="http://www.snomedbrowser.com/Codes/Details/82403002" target="_blank">82403002</a> <a href="http://www.snomedbrowser.com/Codes/Details/84757009" target="_blank">84757009</a> <a href="http://www.snomedbrowser.com/Codes/Details/85102008" target="_blank">85102008</a> <a href="http://www.snomedbrowser.com/Codes/Details/86854008" target="_blank">86854008</a> <a href="http://www.snomedbrowser.com/Codes/Details/89010004" target="_blank">89010004</a> <a href="http://www.snomedbrowser.com/Codes/Details/91138005" target="_blank">91138005</a> <a href="http://www.snomedbrowser.com/Codes/Details/91175000" target="_blank">91175000</a> <a href="http://www.snomedbrowser.com/Codes/Details/91273001" target="_blank">91273001</a> <a href="http://www.snomedbrowser.com/Codes/Details/95646004" target="_blank">95646004</a> <a href="http://www.snomedbrowser.com/Codes/Details/95828007" target="_blank">95828007</a> </span>
+<span class="showmore">
+<a title="show all 79" id="ExternalId_showmore_8" href="javascript:showMoreTable('ExternalId_item_8','ExternalId_showmore_8','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_9">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C3541471</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-01982" target="_blank">UniProtKB/Swiss-Prot</a></b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-01982" target="_blank">73</a></sup>
+<span> <a href="http://www.uniprot.org/diseases/DI-01982" target="_blank">Mitochondrial complex iii deficiency, nuclear type 1</a>:</span>
+A disorder of the mitochondrial respiratory chain resulting in a highly variable phenotype depending on which tissues are affected. Clinical features include mitochondrial encephalopathy, psychomotor retardation, ataxia, severe failure to thrive, liver dysfunction, renal tubulopathy, muscle weakness and exercise intolerance.</p>
+<p> <span> <a href="http://www.uniprot.org/diseases/DI-05402" target="_blank">Mitochondrial complex i deficiency, nuclear type 3</a>:</span>
+A form of mitochondrial complex I deficiency, the most common biochemical signature of mitochondrial disorders, a group of highly heterogeneous conditions characterized by defective oxidative phosphorylation, which collectively affects 1 in 5-10000 live births. Clinical disorders have variable severity, ranging from lethal neonatal disease to adult-onset neurodegenerative disorders. Phenotypes include macrocephaly with progressive leukodystrophy, non- specific encephalopathy, cardiomyopathy, myopathy, liver disease, Leigh syndrome, Leber hereditary optic neuropathy, and some forms of Parkinson disease. MC1DN3 transmission pattern is consistent with autosomal recessive inheritance.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Mitochondrial Complex Iii Deficiency, Nuclear Type 1, also known as <i>mitochondrial complex iii deficiency nuclear type 1</i>, is related to <i><a href="/card/mitochondrial_complex_iii_deficiency_nuclear_type_2" target="_blank">mitochondrial complex iii deficiency, nuclear type 2</a></i> and <i><a href="/card/mitochondrial_complex_iii_deficiency_nuclear_type_6" target="_blank">mitochondrial complex iii deficiency, nuclear type 6</a></i>, and has symptoms including <i>muscle spasticity</i>, <i>seizures</i> and <i>muscle weakness</i>. An important gene associated with Mitochondrial Complex Iii Deficiency, Nuclear Type 1 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" target="_blank">BCS1L</a> (BCS1 Homolog, Ubiquinol-Cytochrome C Reductase Complex Chaperone), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/respiratory_electron_transport_atp_synthesis_by_chemiosmotic_coupling_and_heat_production_by_uncoupling_proteins" target="_blank">Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.</a></i> and <i><a href="https://pathcards.genecards.org/card/mitochondrial_complex_iii_assembly" target="_blank">Mitochondrial complex III assembly</a></i>. Affiliated tissues include <i>liver</i> and <i>skeletal muscle</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0000365" target="_blank">hearing impairment</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">failure to thrive</a></i></p>
+<p> <b> <a href="https://disease-ontology.org/?id=DOID:0080111" target="_blank">Disease Ontology</a></b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0080111" target="_blank">11</a></sup>
+<span> <a href="https://disease-ontology.org/?id=DOID:0080111" target="_blank">Mitochondrial complex iii deficiency nuclear type 1</a>:</span>
+A mitochondrial complex III deficiency characterized by onset at birth of lactic acidosis, hypotonia, hypoglycemia, failure to thrive, encephalopathy, and delayed psychomotor development and that has material basis in homozygous or compound heterozygous mutation in the nuclear-encoded BCS1L gene on chromosome 2q35.</p>
+<p> <span> <a href="https://disease-ontology.org/?id=DOID:0112093" target="_blank">Nuclear type mitochondrial complex i deficiency 3</a>:</span>
+A nuclear type mitochondrial complex I deficiency that has material basis in homozygous or compound heterozygous mutation in the NDUFS7 gene on chromosome 19p13.3.</p>
+<p> <b> <a href="http://omim.org/entry/124000#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/124000#description" target="_blank">57</a></sup>
+Autosomal recessive mitochondrial complex III deficiency is a severe multisystem disorder with onset at birth of lactic acidosis, hypotonia, hypoglycemia, failure to thrive, encephalopathy, and delayed psychomotor development. Visceral involvement, including hepatopathy and renal tubulopathy, may also occur. Many patients die in early childhood, but some may show longer survival (de Lonlay et al., 2001; De Meirleir et al., 2003). <span> (124000) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=254902" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=254902" target="_blank">58</a></sup>
+Renal tubulopathy - encephalopathy - liver failure describes a spectrum of phenotypes with manifestations similar but milder than those seen in GRACILE syndrome (see this term) and that can be associated with encephalopathy and psychiatric disorders.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1 via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 13', 'showing 13, show less','collapsable')">show all 13</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/mitochondrial_complex_iii_deficiency_nuclear_type_2" target="_blank">mitochondrial complex iii deficiency, nuclear type 2</a></td>
+<td>11.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=mitochondrial+complex+iii+deficiency%2c+nuclear+type+2&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/mitochondrial_complex_iii_deficiency_nuclear_type_6" target="_blank">mitochondrial complex iii deficiency, nuclear type 6</a></td>
+<td>11.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=mitochondrial+complex+iii+deficiency%2c+nuclear+type+6&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/mitochondrial_complex_iii_deficiency_nuclear_type_8" target="_blank">mitochondrial complex iii deficiency, nuclear type 8</a></td>
+<td>11.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=mitochondrial+complex+iii+deficiency%2c+nuclear+type+8&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/mitochondrial_complex_iii_deficiency_nuclear_type_11" target="_blank">mitochondrial complex iii deficiency, nuclear type 11</a></td>
+<td>11.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=mitochondrial+complex+iii+deficiency%2c+nuclear+type+11&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/mitochondrial_complex_iii_deficiency" target="_blank">mitochondrial complex iii deficiency</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=mitochondrial+complex+iii+deficiency&amp;prefilter=diseases#diseases" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+complex+iii+deficiency&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/isolated_complex_iii_deficiency" target="_blank">isolated complex iii deficiency</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=isolated+complex+iii+deficiency&amp;prefilter=diseases#diseases" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=isolated+complex+iii+deficiency&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/bjornstad_syndrome" target="_blank">bjornstad syndrome</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=bjornstad+syndrome&amp;prefilter=diseases#diseases" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=bjornstad+syndrome&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/gracile_syndrome" target="_blank">gracile syndrome</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=gracile+syndrome&amp;prefilter=diseases#diseases" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=gracile+syndrome&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/mitochondrial_metabolism_disease" target="_blank">mitochondrial metabolism disease</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=mitochondrial+metabolism+disease&amp;prefilter=diseases#diseases" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+metabolism+disease&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/mitochondrial_encephalomyopathy" target="_blank">mitochondrial encephalomyopathy</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=mitochondrial+encephalomyopathy&amp;prefilter=diseases#diseases" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+encephalomyopathy&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/leber_hereditary_optic_neuropathy_modifier_of" target="_blank">leber hereditary optic neuropathy, modifier of</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=leber+hereditary+optic+neuropathy%2c+modifier+of&amp;prefilter=diseases#diseases" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=leber+hereditary+optic+neuropathy%2c+modifier+of&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/mitochondrial_myopathy_encephalopathy_lactic_acidosis_and_stroke_like_episodes" target="_blank">mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=mitochondrial+myopathy%2c+encephalopathy%2c+lactic+acidosis%2c+and+stroke-like+episodes&amp;prefilter=diseases#diseases" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+myopathy%2c+encephalopathy%2c+lactic+acidosis%2c+and+stroke-like+episodes&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/leigh_syndrome_nuclear_dna_mutation" target="_blank">leigh syndrome</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=leigh+syndrome&amp;prefilter=diseases#diseases" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=leigh+syndrome&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/mitochondrial_complex_iii_deficiency_nuclear_type_1_related_diseases.jpg" width="100%" alt="Diseases related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1" title="Diseases related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('HPO_Symptoms', '64', 'HPO_Symptoms-table');">show all 64</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+hearing impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000365" target="_blank">HP:0000365</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+failure to thrive
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001508" target="_blank">HP:0001508</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+global developmental delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001263" target="_blank">HP:0001263</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+hypoglycemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001943" target="_blank">HP:0001943</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+elevated hepatic transaminase
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002910" target="_blank">HP:0002910</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+lactic acidosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003128" target="_blank">HP:0003128</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+metabolic acidosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001942" target="_blank">HP:0001942</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+recurrent hypoglycemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001988" target="_blank">HP:0001988</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+decreased liver function
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001410" target="_blank">HP:0001410</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+microvesicular hepatic steatosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001414" target="_blank">HP:0001414</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+decreased activity of mitochondrial complex iii
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011924" target="_blank">HP:0011924</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+periportal fibrosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001405" target="_blank">HP:0001405</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+elevated lactate:pyruvate ratio
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0032653" target="_blank">HP:0032653</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+ptosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000508" target="_blank">HP:0000508</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+ataxia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001251" target="_blank">HP:0001251</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+dysarthria
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001260" target="_blank">HP:0001260</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+aminoaciduria
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003355" target="_blank">HP:0003355</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+hepatic steatosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001397" target="_blank">HP:0001397</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+cholestasis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001396" target="_blank">HP:0001396</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+feeding difficulties
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011968" target="_blank">HP:0011968</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+cerebellar atrophy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001272" target="_blank">HP:0001272</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+hyperglycemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003074" target="_blank">HP:0003074</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+episodic vomiting
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002572" target="_blank">HP:0002572</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+gliosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002171" target="_blank">HP:0002171</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+delayed cns myelination
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002188" target="_blank">HP:0002188</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+lacticaciduria
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003648" target="_blank">HP:0003648</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+severe lactic acidosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004900" target="_blank">HP:0004900</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+hypertyrosinemia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003231" target="_blank">HP:0003231</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+axial hypotonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008936" target="_blank">HP:0008936</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+elevated gamma-glutamyltransferase level
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0030948" target="_blank">HP:0030948</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+elevated circulating alkaline phosphatase concentration
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003155" target="_blank">HP:0003155</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+
+intellectual disability
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001249" target="_blank">HP:0001249</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+
+seizure
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">HP:0001250</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+
+spasticity
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001257" target="_blank">HP:0001257</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+
+hyperreflexia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001347" target="_blank">HP:0001347</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+
+eeg abnormality
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002353" target="_blank">HP:0002353</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+
+abnormal pyramidal sign
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007256" target="_blank">HP:0007256</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+
+emotional lability
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000712" target="_blank">HP:0000712</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+
+depression
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000716" target="_blank">HP:0000716</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+
+hypotonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001252" target="_blank">HP:0001252</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+
+muscle weakness
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001324" target="_blank">HP:0001324</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+
+respiratory insufficiency
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002093" target="_blank">HP:0002093</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+
+developmental regression
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002376" target="_blank">HP:0002376</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+
+cataract
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000518" target="_blank">HP:0000518</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+
+hepatomegaly
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002240" target="_blank">HP:0002240</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td>
+
+hallucinations
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000738" target="_blank">HP:0000738</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td>
+
+feeding difficulties in infancy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008872" target="_blank">HP:0008872</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td>
+
+hypertrophic cardiomyopathy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001639" target="_blank">HP:0001639</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td>
+
+ragged-red muscle fibers
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003200" target="_blank">HP:0003200</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td>
+
+increased serum lactate
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002151" target="_blank">HP:0002151</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/124000" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>spasticity</span>
+<br/>
+<span>hyperreflexia</span>
+<br/>
+<span>cerebellar atrophy</span>
+<br/>
+<span>cerebral atrophy</span>
+<br/>
+<span>mitochondrial encephalopathy</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>seizures</span>
+<br/>
+<span>mental retardation</span>
+<br/>
+<span>delayed psychomotor development</span>
+<br/>
+<span>motor dysfunction</span>
+<br/>
+<span>abnormal eeg</span>
+<br/>
+<span>white matter lesions may occur in the thalami, basal ganglia, and periventricular white matter (see leigh syndrome, )</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 11" id="ClinicalSynopsis_showmore_1" href="javascript:showMoreTable('ClinicalSynopsis_item_1','ClinicalSynopsis_showmore_1','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Muscle Soft Tissue:</u><br/>
+<span>hypotonia</span>
+<br/>
+<span>muscle weakness</span>
+<br/>
+<span>ragged red fibers seen on muscle biopsy</span>
+<br/>
+<span>decreased mitochondrial complex iii activity</span>
+<br/>
+<span>other mitochondrial complex enzyme activities may also be decreased</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Metabolic Features:</u><br/>
+<span>hypoglycemia</span>
+<br/>
+<span>lactic acidosis</span>
+<br/>
+<span>metabolic acidosis</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Genitourinary Kidneys:</u><br/>
+<span>tubulointerstitial nephritis</span>
+<br/>
+<span>renal tubulopathy</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>cataracts (rare)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Skin Nails Hair Hair:</u><br/>
+<span>brittle hair (in some patients)</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Growth Other:</u><br/>
+<span>failure to thrive</span>
+<br/>
+<span>poor prenatal growth</span>
+<br/>
+<span>poor postnatal growth</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>aminoaciduria</span>
+<br/>
+<span>increased serum lactate</span>
+<br/>
+<span>abnormal liver function tests</span>
+<br/>
+<span>decreased respiratory chain complex iii activity in multiple tissues</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Abdomen Liver:</u><br/>
+<span>cholestasis</span>
+<br/>
+<span>decreased liver function</span>
+<br/>
+<span>cholangitis</span>
+<br/>
+<span>biopsy shows fibrosis</span>
+<br/>
+<span>hepatosiderosis</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>microvesicular steatosis</span>
+<br/>
+<span>decreased complex iii activity in liver tissue</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 7" id="ClinicalSynopsis_showmore_9" href="javascript:showMoreTable('ClinicalSynopsis_item_9','ClinicalSynopsis_showmore_9','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>deafness (in some patients)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_11" class="tab">
+<u>Abdomen Gastrointestinal:</u><br/>
+<span>poor feeding</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_12" class="tab">
+<u>Hematology:</u><br/>
+<span>coagulation defect due to decreased liver function</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/124000#clinicalFeatures" target="_blank">124000</a> <a href="http://omim.org/entry/618224#clinicalFeatures" target="_blank">618224</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div>
+<div class="symptoms_div">
+<h3>UMLS symptoms related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1:</h3>
+<br/>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>muscle spasticity;</span>
+</span>
+</span>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>seizures;</span>
+</span>
+</span>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>muscle weakness</span>
+</span>
+</span>
+</div>
+</div>
+<div>
+<div>
+<h3>GenomeRNAi Phenotypes related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1 according to GeneCards Suite gene sharing:</h3>
+<sup title="GenomeRNAi">25</sup>
+</div>
+<table id="FunctionalDescription_GEN-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>GenomeRNAi Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-102" target="_blank">GR00366-A-102</a></td>
+<td>9.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-111" target="_blank">GR00366-A-111</a></td>
+<td>9.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-120" target="_blank">GR00366-A-120</a></td>
+<td>9.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-139" target="_blank">GR00366-A-139</a></td>
+<td>9.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-161" target="_blank">GR00366-A-161</a></td>
+<td>9.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-26" target="_blank">GR00366-A-26</a></td>
+<td>9.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>Increased shRNA abundance (Z-score &gt; 2)</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00366-A-63" target="_blank">GR00366-A-63</a></td>
+<td>9.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=Increased+shRNA+abundance+(Z-score+%3e+2)&amp;prefilter=function#function" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>Decreased shRNA abundance</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00297-A" target="_blank">GR00297-A</a></td>
+<td>8.96</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=Decreased+shRNA+abundance&amp;prefilter=function#function" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=Decreased+shRNA+abundance&amp;prefilter=function#function" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Mitochondrial Complex Iii Deficiency, Nuclear Type 1" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Mitochondrial Complex Iii Deficiency, Nuclear Type 1&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Mitochondrial Complex Iii Deficiency Nuclear Type 1
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C3541471" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+complex+iii+deficiency+nuclear+type+1&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+Mitochondrial Complex 1 Deficiency, Nuclear Type 3
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4748752" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=mitochondrial+complex+1+deficiency%2c+nuclear+type+3&amp;prefilter=diseases#diseases" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="10.82489">Liver</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/124000/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="0.7999755">Skeletal Muscle</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/124000/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="0.4787526">Ovary</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/124000/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="0.4124232">Testis</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/124000/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="0.3608871">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/124000/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="0.2906715">Kidney</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/124000/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="0.2437553">Brain</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/124000/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1 according to OMIM&#174; and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 23', 'showing 23, show less','collapsable')">show all 23</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical and biochemical spectrum of mitochondrial complex III deficiency caused by mutations in the BCS1L gene.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ramos-Arroyo MA...Briones P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19508421" target="_blank">19508421</a></td>
+<td>2009</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Infantile mitochondrial encephalomyopathy with unusual phenotype caused by a novel BCS1L mutation in an isolated complex III-deficient patient.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Blazquez A...Ugalde C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19162478" target="_blank">19162478</a></td>
+<td>2009</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Impaired complex III assembly associated with BCS1L gene mutations in isolated mitochondrial encephalopathy.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Fernandez-Vizarra E...Zeviani M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17403714" target="_blank">17403714</a></td>
+<td>2007</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical and diagnostic characteristics of complex III deficiency due to mutations in the BCS1L gene.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">De Meirleir L...Van Coster R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12910490" target="_blank">12910490</a></td>
+<td>2003</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A mutant mitochondrial respiratory chain assembly protein causes complex III deficiency in patients with tubulopathy, encephalopathy and liver failure.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">de Lonlay P...Rotig A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11528392" target="_blank">11528392</a></td>
+<td>2001</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Molecular genetic investigations identify new clinical phenotypes associated with BCS1L-related mitochondrial disease.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Olahova M...Sayer JA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31435670" target="_blank">31435670</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical spectrum of BCS1L Mitopathies and their underlying structural relationships.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Baker RA...Mark PR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30582773" target="_blank">30582773</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Muscle Involvement in a Large Cohort of Pediatric Patients with Genetic Diagnosis of Mitochondrial Disease.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Jou C...Artuch R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30634555" target="_blank">30634555</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Respiratory chain complex III deficiency due to mutated BCS1L: a novel phenotype with encephalomyopathy, partially phenocopied in a Bcs1l mutant mouse model.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Tegelberg S...Fellman V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28427446" target="_blank">28427446</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Resolution of Disease Phenotypes Resulting from Multilocus Genomic Variation.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Posey JE...Lupski JR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27959697" target="_blank">27959697</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+BCS1L gene mutation causing GRACILE syndrome: case report.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kasapkara CS...Hasanoglu A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/24655110" target="_blank">24655110</a></td>
+<td>2014</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical and biochemical features associated with BCS1L mutation.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Al-Owain M...Kaya N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22991165" target="_blank">22991165</a></td>
+<td>2013</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+BCS1L gene mutation presenting with GRACILE-like syndrome and complex III deficiency.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lynn AM...Wilson CJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22277166" target="_blank">22277166</a></td>
+<td>2012</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The GRACILE mutation introduced into Bcs1l causes postnatal complex III deficiency: a viable mouse model for mitochondrial hepatopathy.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Leveen P...Fellman V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21274865" target="_blank">21274865</a></td>
+<td>2011</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cellular pathophysiological consequences of BCS1L mutations in mitochondrial complex III enzyme deficiency.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Moran M...Ugalde C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20518024" target="_blank">20518024</a></td>
+<td>2010</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pathogenic mutations in the 5' untranslated region of BCS1L mRNA in mitochondrial complex III deficiency.
+<sup title="OMIM&#174;">57</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gil-Borlado MC...Ugalde C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19389488" target="_blank">19389488</a></td>
+<td>2009</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A novel mutation of the NDUFS7 gene leads to activation of a cryptic exon and impaired assembly of mitochondrial complex I in a patient with Leigh syndrome.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lebon S...Rotig A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17604671" target="_blank">17604671</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A novel mutation in the human complex I NDUFS7 subunit associated with Leigh syndrome.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lebon S...Slama A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17275378" target="_blank">17275378</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Missense mutations in the BCS1L gene as a cause of the Björnstad syndrome.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hinson JT...Seidman CE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17314340" target="_blank">17314340</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Inhibition of mitochondrial Na+-Ca2+ exchange restores agonist-induced ATP production and Ca2+ handling in human complex I deficiency.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Visch HJ...Willems PH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15269216" target="_blank">15269216</a></td>
+<td>2004</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A deletion in the human QP-C gene causes a complex III deficiency resulting in hypoglycaemia and lactic acidosis.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Haut S...Slama A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12709789" target="_blank">12709789</a></td>
+<td>2003</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+GRACILE syndrome, a lethal metabolic disorder with iron overload, is caused by a point mutation in BCS1L.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Visapaa I...Peltonen L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/12215968" target="_blank">12215968</a></td>
+<td>2002</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Human mitochondrial complex I in health and disease.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Smeitink J...van den Heuvel L</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10330338" target="_blank">10330338</a></td>
+<td>1999</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes/enhancers related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1 (3 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>BCS1 Homolog, Ubiquinol-Cytochrome C Reductase Complex Chaperone</td>
+<td>Protein Coding</td>
+<td>1683.36</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/603647" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=15366" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_BCS1L">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=Mitochondrial+Complex+Iii+Deficiency%2c+Nuclear+Type+1&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">Disorders</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_BCS1L_SeeMore" href="javascript:showMoreTable('related_genes_BCS1L','related_genes_BCS1L_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/11528392" title="ClinVar" target="_blank">11528392</a> <a href="https://pubmed.ncbi.nlm.nih.gov/12215968" title="ClinVar" target="_blank">12215968</a> <a href="https://pubmed.ncbi.nlm.nih.gov/12910490" title="ClinVar" target="_blank">12910490</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/17314340" title="ClinVar" target="_blank">17314340</a> <a href="https://pubmed.ncbi.nlm.nih.gov/19162478" title="ClinVar" target="_blank">19162478</a> <a href="https://pubmed.ncbi.nlm.nih.gov/19508421" title="ClinVar" target="_blank">19508421</a> <a href="https://pubmed.ncbi.nlm.nih.gov/21274865" title="ClinVar" target="_blank">21274865</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22277166" title="ClinVar" target="_blank">22277166</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22991165" title="ClinVar" target="_blank">22991165</a> <a href="https://pubmed.ncbi.nlm.nih.gov/24655110" title="ClinVar" target="_blank">24655110</a> <a href="https://pubmed.ncbi.nlm.nih.gov/27959697" title="ClinVar" target="_blank">27959697</a> <a href="https://pubmed.ncbi.nlm.nih.gov/28427446" title="ClinVar" target="_blank">28427446</a> <a href="https://pubmed.ncbi.nlm.nih.gov/30582773" title="ClinVar" target="_blank">30582773</a> <a href="https://pubmed.ncbi.nlm.nih.gov/30634555" title="ClinVar" target="_blank">30634555</a> <a href="https://pubmed.ncbi.nlm.nih.gov/31435670" title="ClinVar" target="_blank">31435670</a> <a href="https://pubmed.ncbi.nlm.nih.gov/17403714" title="ClinVar" target="_blank">17403714</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=GH02J218658&amp;prefilter=enhancers#enhancers" title="GH02J218658 enhancer for BCS1L gene" target="_blank">BCS1L::GH02J218658</a>
+</td>
+<td>
+TSS distance: +1.0kb
+<br/>
+<div class="no_wrap">
+<span>Elite enhancer</span>
+<br/>
+<span>with elite association with BCS1L</span>
+<div style="margin-top:3px;float:right;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="https://www.genecards.org/Guide/GeneCard#enhancers">
+<img src="/img/menu/help_icon.png" alt="About elite enhancers" title="About elite enhancers" style="width:20px;margin:0px;">
+</a>
+</div>
+</div>
+</td>
+<td></td>
+<td></td>
+<td>
+Curated enhancer-disease association
+<sup title="GeneHancer via GeneCards"> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=GH02J218658&amp;prefilter=enhancers#enhancers" target="_blank">23</a></sup>
+<span>( <a href="https://pubmed.ncbi.nlm.nih.gov/27569544" title="Pubmed id" target="_blank">27569544</a>)</span>
+</td>
+<td>
+<div id="gh_pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/19389488" target="_blank">19389488</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>NADH:Ubiquinone Oxidoreductase Core Subunit S7</td>
+<td>Protein Coding</td>
+<td>1325</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/601825" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic/Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/10330338" title="ClinVar" target="_blank">10330338</a> <a href="https://pubmed.ncbi.nlm.nih.gov/15269216" title="ClinVar" target="_blank">15269216</a> <a href="https://pubmed.ncbi.nlm.nih.gov/17275378" title="ClinVar" target="_blank">17275378</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_2_SeeMore" href="javascript:showMoreTable('pubmedids_item_2','pubmedids_item_2_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/17604671" title="ClinVar" target="_blank">17604671</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Ubiquinol-Cytochrome C Reductase Binding Protein</td>
+<td>Protein Coding</td>
+<td>400</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/12709789" title="ClinVar" target="_blank">12709789</a> </span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Mitochondrial Complex Iii Deficiency, Nuclear Type 1:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '114', 'ClinVarVariations-table');">show all 114</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.830G&gt;A (p.Ser277Asn)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000006538/" title="RCV000006538" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/6163/?new_evidence=true#id_second" target="_blank">6163</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908571" target="_blank">rs121908571</a></td>
+<td>GRCh37: 2:219527343-219527343<br/>GRCh38: 2:218662620-218662620</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.464G&gt;C (p.Arg155Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000006540/" title="RCV000006540" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/6165/?new_evidence=true#id_second" target="_blank">6165</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908573" target="_blank">rs121908573</a></td>
+<td>GRCh37: 2:219526485-219526485<br/>GRCh38: 2:218661762-218661762</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.148A&gt;G (p.Thr50Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000006549/" title="RCV000006549" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/6173/?new_evidence=true#id_second" target="_blank">6173</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908580" target="_blank">rs121908580</a></td>
+<td>GRCh37: 2:219525858-219525858<br/>GRCh38: 2:218661135-218661135</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a></td>
+<td style="overflow-wrap:break-word;">NM_024407.5(NDUFS7):c.434G&gt;A (p.Arg145His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000008121/" title="RCV000008121" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7682/?new_evidence=true#id_second" target="_blank">7682</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121434479" target="_blank">rs121434479</a></td>
+<td>GRCh37: 19:1391143-1391143<br/>GRCh38: 19:1391144-1391144</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.712A&gt;G (p.Ser238Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001837431/" title="RCV001837431" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1341952/?new_evidence=true#id_second" target="_blank">1341952</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219526976-219526976<br/>GRCh38: 2:218662253-218662253</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a></td>
+<td style="overflow-wrap:break-word;">NM_024407.5(NDUFS7):c.17-1167C&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000008122/" title="RCV000008122" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7683/?new_evidence=true#id_second" target="_blank">7683</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1568985256" target="_blank">rs1568985256</a></td>
+<td>GRCh37: 19:1386643-1386643<br/>GRCh38: 19:1386644-1386644</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.296C&gt;T (p.Pro99Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000006539/" title="RCV000006539" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/6164/?new_evidence=true#id_second" target="_blank">6164</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908572" target="_blank">rs121908572</a></td>
+<td>GRCh37: 2:219526006-219526006<br/>GRCh38: 2:218661283-218661283</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.1057G&gt;A (p.Val353Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000006541/" title="RCV000006541" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/6166/?new_evidence=true#id_second" target="_blank">6166</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908574" target="_blank">rs121908574</a></td>
+<td>GRCh37: 2:219527906-219527906<br/>GRCh38: 2:218663183-218663183</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.133C&gt;T (p.Arg45Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000006543/" title="RCV000006543" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/6168/?new_evidence=true#id_second" target="_blank">6168</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908575" target="_blank">rs121908575</a></td>
+<td>GRCh37: 2:219525843-219525843<br/>GRCh38: 2:218661120-218661120</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.-50+405A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001334241/" title="RCV001334241" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/553134/?new_evidence=true#id_second" target="_blank">553134</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/898301590" target="_blank">rs898301590</a></td>
+<td>GRCh37: 2:219524871-219524871<br/>GRCh38: 2:218660148-218660148</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.245C&gt;A (p.Ser82Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001334242/" title="RCV001334242" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/371015/?new_evidence=true#id_second" target="_blank">371015</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/749196764" target="_blank">rs749196764</a></td>
+<td>GRCh37: 2:219525955-219525955<br/>GRCh38: 2:218661232-218661232</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.548G&gt;A (p.Arg183His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002243624/" title="RCV002243624" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002476937/" title="RCV002476937" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/6170/?new_evidence=true#id_second" target="_blank">6170</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908577" target="_blank">rs121908577</a></td>
+<td>GRCh37: 2:219526569-219526569<br/>GRCh38: 2:218661846-218661846</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.385G&gt;A (p.Gly129Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002285017/" title="RCV002285017" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/381524/?new_evidence=true#id_second" target="_blank">381524</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057521059" target="_blank">rs1057521059</a></td>
+<td>GRCh37: 2:219526193-219526193<br/>GRCh38: 2:218661470-218661470</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a></td>
+<td style="overflow-wrap:break-word;">NM_006294.5(UQCRB):c.306_309del (p.Arg105fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002274009/" title="RCV002274009" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/286054/?new_evidence=true#id_second" target="_blank">286054</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886043294" target="_blank">rs886043294</a></td>
+<td>GRCh37: 8:97243310-97243313<br/>GRCh38: 8:96231082-96231085</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.166C&gt;T (p.Arg56Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000006544/" title="RCV000006544" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763069/" title="RCV000763069" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/6169/?new_evidence=true#id_second" target="_blank">6169</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908576" target="_blank">rs121908576</a></td>
+<td>GRCh37: 2:219525876-219525876<br/>GRCh38: 2:218661153-218661153</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.655+1G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002249295/" title="RCV002249295" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1685568/?new_evidence=true#id_second" target="_blank">1685568</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219526677-219526677<br/>GRCh38: 2:218661954-218661954</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.205C&gt;T (p.Arg69Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000415034/" title="RCV000415034" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001810436/" title="RCV001810436" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/214160/?new_evidence=true#id_second" target="_blank">214160</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/377025174" target="_blank">rs377025174</a></td>
+<td>GRCh37: 2:219525915-219525915<br/>GRCh38: 2:218661192-218661192</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.232A&gt;G (p.Ser78Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000983982/" title="RCV000983982" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002476936/" title="RCV002476936" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/6167/?new_evidence=true#id_second" target="_blank">6167</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/28937590" target="_blank">rs28937590</a></td>
+<td>GRCh37: 2:219525942-219525942<br/>GRCh38: 2:218661219-218661219</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a></td>
+<td style="overflow-wrap:break-word;">NM_024407.5(NDUFS7):c.364G&gt;A (p.Val122Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000008120/" title="RCV000008120" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/7681/?new_evidence=true#id_second" target="_blank">7681</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/104894705" target="_blank">rs104894705</a></td>
+<td>GRCh37: 19:1391005-1391005<br/>GRCh38: 19:1391006-1391006</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.598C&gt;T (p.Arg200Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000415338/" title="RCV000415338" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002502446/" title="RCV002502446" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/374395/?new_evidence=true#id_second" target="_blank">374395</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/776838028" target="_blank">rs776838028</a></td>
+<td>GRCh37: 2:219526619-219526619<br/>GRCh38: 2:218661896-218661896</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.547C&gt;T (p.Arg183Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000006550/" title="RCV000006550" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/6174/?new_evidence=true#id_second" target="_blank">6174</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/144885874" target="_blank">rs144885874</a></td>
+<td>GRCh37: 2:219526568-219526568<br/>GRCh38: 2:218661845-218661845</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.402_403insTT (p.Val135fs)</td>
+<td style="overflow-wrap:break-word;" title="Insertion">INSERT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002307197/" title="RCV002307197" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1726226/?new_evidence=true#id_second" target="_blank">1726226</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219526209-219526210<br/>GRCh38: 2:218661486-218661487</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.476T&gt;A (p.Leu159Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002308208/" title="RCV002308208" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1725149/?new_evidence=true#id_second" target="_blank">1725149</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219526497-219526497<br/>GRCh38: 2:218661774-218661774</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.702C&gt;A (p.Cys234Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002308350/" title="RCV002308350" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1725291/?new_evidence=true#id_second" target="_blank">1725291</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219526966-219526966<br/>GRCh38: 2:218662243-218662243</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.522_523del (p.Glu175fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002309799/" title="RCV002309799" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1724531/?new_evidence=true#id_second" target="_blank">1724531</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219526543-219526544<br/>GRCh38: 2:218661820-218661821</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.798_799insCACCGGCCTCCACC (p.Asn267fs)</td>
+<td style="overflow-wrap:break-word;" title="Insertion">INSERT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002310019/" title="RCV002310019" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1724751/?new_evidence=true#id_second" target="_blank">1724751</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219527310-219527311<br/>GRCh38: 2:218662587-218662588</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.308_309insTGCGG (p.His104fs)</td>
+<td style="overflow-wrap:break-word;" title="Insertion">INSERT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002310025/" title="RCV002310025" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1724757/?new_evidence=true#id_second" target="_blank">1724757</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219526018-219526019<br/>GRCh38: 2:218661295-218661296</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.604_605insC (p.Val202fs)</td>
+<td style="overflow-wrap:break-word;" title="Insertion">INSERT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002310184/" title="RCV002310184" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1726500/?new_evidence=true#id_second" target="_blank">1726500</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219526625-219526626<br/>GRCh38: 2:218661902-218661903</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a></td>
+<td style="overflow-wrap:break-word;">NM_024407.5(NDUFS7):c.304G&gt;A (p.Asp102Asn)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002470537/" title="RCV002470537" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1806253/?new_evidence=true#id_second" target="_blank">1806253</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:1390945-1390945<br/>GRCh38: 19:1390946-1390946</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.170A&gt;G (p.Asp57Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002472026/" title="RCV002472026" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1805608/?new_evidence=true#id_second" target="_blank">1805608</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219525880-219525880<br/>GRCh38: 2:218661157-218661157</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.269G&gt;A (p.Arg90His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000671152/" title="RCV000671152" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/214165/?new_evidence=true#id_second" target="_blank">214165</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/747956412" target="_blank">rs747956412</a></td>
+<td>GRCh37: 2:219525979-219525979<br/>GRCh38: 2:218661256-218661256</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a></td>
+<td style="overflow-wrap:break-word;">NM_024407.5(NDUFS7):c.415G&gt;A (p.Asp139Asn)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000850190/" title="RCV000850190" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/689475/?new_evidence=true#id_second" target="_blank">689475</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1171276645" target="_blank">rs1171276645</a></td>
+<td>GRCh37: 19:1391124-1391124<br/>GRCh38: 19:1391125-1391125</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a></td>
+<td style="overflow-wrap:break-word;">NM_024407.5(NDUFS7):c.256C&gt;G (p.Leu86Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002470535/" title="RCV002470535" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1806251/?new_evidence=true#id_second" target="_blank">1806251</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:1390897-1390897<br/>GRCh38: 19:1390898-1390898</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.916C&gt;T (p.Arg306Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002492132/" title="RCV002492132" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1457638/?new_evidence=true#id_second" target="_blank">1457638</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219527632-219527632<br/>GRCh38: 2:218662909-218662909</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.355C&gt;T (p.Arg119Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002482133/" title="RCV002482133" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/863524/?new_evidence=true#id_second" target="_blank">863524</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/770749420" target="_blank">rs770749420</a></td>
+<td>GRCh37: 2:219526163-219526163<br/>GRCh38: 2:218661440-218661440</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.696del (p.Gly233fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002486327/" title="RCV002486327" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1028218/?new_evidence=true#id_second" target="_blank">1028218</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/775388576" target="_blank">rs775388576</a></td>
+<td>GRCh37: 2:219526960-219526960<br/>GRCh38: 2:218662237-218662237</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.430C&gt;T (p.Arg144Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002501070/" title="RCV002501070" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/646751/?new_evidence=true#id_second" target="_blank">646751</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1443643776" target="_blank">rs1443643776</a></td>
+<td>GRCh37: 2:219526238-219526238<br/>GRCh38: 2:218661515-218661515</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.917G&gt;A (p.Arg306His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002499798/" title="RCV002499798" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1071417/?new_evidence=true#id_second" target="_blank">1071417</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219527633-219527633<br/>GRCh38: 2:218662910-218662910</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a></td>
+<td style="overflow-wrap:break-word;">NM_024407.5(NDUFS7):c.537C&gt;A (p.Tyr179Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003148358/" title="RCV003148358" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2442036/?new_evidence=true#id_second" target="_blank">2442036</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:1393322-1393322<br/>GRCh38: 19:1393323-1393323</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.889+1G&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002502421/" title="RCV002502421" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/370247/?new_evidence=true#id_second" target="_blank">370247</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057516346" target="_blank">rs1057516346</a></td>
+<td>GRCh37: 2:219527403-219527403<br/>GRCh38: 2:218662680-218662680</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.268C&gt;T (p.Arg90Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000778592/" title="RCV000778592" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/625207/?new_evidence=true#id_second" target="_blank">625207</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/369691608" target="_blank">rs369691608</a></td>
+<td>GRCh37: 2:219525978-219525978<br/>GRCh38: 2:218661255-218661255</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTC19" title="TTC19 gene information at GeneCards" target="_blank">TTC19</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZSWIM7" title="ZSWIM7 gene information at GeneCards" target="_blank">ZSWIM7</a></td>
+<td style="overflow-wrap:break-word;">NM_001042697.2(ZSWIM7):c.-65G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000279385/" title="RCV000279385" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/321936/?new_evidence=true#id_second" target="_blank">321936</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/199843558" target="_blank">rs199843558</a></td>
+<td>GRCh37: 17:15902973-15902973<br/>GRCh38: 17:15999659-15999659</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NCOR1" title="NCOR1 gene information at GeneCards" target="_blank">NCOR1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTC19" title="TTC19 gene information at GeneCards" target="_blank">TTC19</a></td>
+<td style="overflow-wrap:break-word;">NM_006311.4(NCOR1):c.*2888A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000291680/" title="RCV000291680" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/321985/?new_evidence=true#id_second" target="_blank">321985</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/189970612" target="_blank">rs189970612</a></td>
+<td>GRCh37: 17:15932722-15932722<br/>GRCh38: 17:16029408-16029408</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.-50+458T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000291289/" title="RCV000291289" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/334354/?new_evidence=true#id_second" target="_blank">334354</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/188224298" target="_blank">rs188224298</a></td>
+<td>GRCh37: 2:219524924-219524924<br/>GRCh38: 2:218660201-218660201</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.-50+425T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000330985/" title="RCV000330985" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/334353/?new_evidence=true#id_second" target="_blank">334353</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886055625" target="_blank">rs886055625</a></td>
+<td>GRCh37: 2:219524891-219524891<br/>GRCh38: 2:218660168-218660168</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.1157G&gt;A (p.Arg386Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002484569/" title="RCV002484569" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1422746/?new_evidence=true#id_second" target="_blank">1422746</a></td>
+<td><span></span> </td>
+<td>GRCh37: 2:219528006-219528006<br/>GRCh38: 2:218663283-218663283</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.217C&gt;T (p.Arg73Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000778591/" title="RCV000778591" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/554974/?new_evidence=true#id_second" target="_blank">554974</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/140812286" target="_blank">rs140812286</a></td>
+<td>GRCh37: 2:219525927-219525927<br/>GRCh38: 2:218661204-218661204</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.550C&gt;T (p.Arg184Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000034811/" title="RCV000034811" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/6171/?new_evidence=true#id_second" target="_blank">6171</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908578" target="_blank">rs121908578</a></td>
+<td>GRCh37: 2:219526571-219526571<br/>GRCh38: 2:218661848-218661848</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TTC19" title="TTC19 gene information at GeneCards" target="_blank">TTC19</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ZSWIM7" title="ZSWIM7 gene information at GeneCards" target="_blank">ZSWIM7</a></td>
+<td style="overflow-wrap:break-word;">NM_001042697.2(ZSWIM7):c.74G&gt;A (p.Arg25Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000394704/" title="RCV000394704" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/321935/?new_evidence=true#id_second" target="_blank">321935</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/544159811" target="_blank">rs544159811</a></td>
+<td>GRCh37: 17:15902835-15902835<br/>GRCh38: 17:15999521-15999521</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td style="overflow-wrap:break-word;">NM_001079866.2(BCS1L):c.613G&gt;A (p.Val205Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001137961/" title="RCV001137961" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/214159/?new_evidence=true#id_second" target="_blank">214159</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/148278887" target="_blank">rs148278887</a></td>
+<td>GRCh37: 2:219526634-219526634<br/>GRCh38: 2:218661911-218661911</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Mitochondrial Complex Iii Deficiency, Nuclear Type 1:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<span class="showmore">
+(<a id="geneticVariations-table_SeeMore" href="javascript:showMoreTable('geneticVariations-table','geneticVariations-table_SeeMore', 'show all 12', 'showing 12, show less','collapsable')">show all 12</a>)
+</span>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td>p.Pro99Leu</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_018159.html" target="_blank">VAR_018159</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908572" target="_blank">rs121908572</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td>p.Arg155Pro</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_018161.html" target="_blank">VAR_018161</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908573" target="_blank">rs121908573</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td>p.Ser277Asn</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_018162.html" target="_blank">VAR_018162</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908571" target="_blank">rs121908571</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td>p.Val353Met</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_018164.html" target="_blank">VAR_018164</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908574" target="_blank">rs121908574</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td>p.Arg45Cys</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_032087.html" target="_blank">VAR_032087</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908575" target="_blank">rs121908575</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td>p.Arg184Cys</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_032090.html" target="_blank">VAR_032090</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908578" target="_blank">rs121908578</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td>p.Thr50Ala</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_064615.html" target="_blank">VAR_064615</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/121908580" target="_blank">rs121908580</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td>p.Arg73Cys</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_064616.html" target="_blank">VAR_064616</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/140812286" target="_blank">rs140812286</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td>p.Arg183Cys</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_064617.html" target="_blank">VAR_064617</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/144885874" target="_blank">rs144885874</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td>p.Phe368Ile</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_064618.html" target="_blank">VAR_064618</a></td>
+<td><span></span> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></td>
+<td>p.Gly129Arg</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_072243.html" target="_blank">VAR_072243</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057521059" target="_blank">rs1057521059</a></td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a></td>
+<td>p.Val122Met</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_008848.html" target="_blank">VAR_008848</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/104894705" target="_blank">rs104894705</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Mitochondrial%20Complex%20Iii%20Deficiency%2C%20Nuclear%20Type%201%22%5BMeSH%20Terms%5D%20OR%20%22Mitochondrial%20Complex%20Iii%20Deficiency%2C%20Nuclear%20Type%201%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Mitochondrial Complex Iii Deficiency, Nuclear Type 1.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1 according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Respiratory_electron_transport,_ATP_synthesis_by_chemiosmotic_coupling,_and_heat_production_by_uncoupling_proteins._1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/respiratory_electron_transport_atp_synthesis_by_chemiosmotic_coupling_and_heat_production_by_uncoupling_proteins" target="_blank">Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-163200" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP111" target="_blank">Electron transport chain: OXPHOS system in mitochondria</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-166187" target="_blank">Mitochondrial Uncoupling</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-9673163" target="_blank">Oleoyl-phe metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP623" target="_blank">Oxidative phosphorylation</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-611105" target="_blank">Respiratory electron transport</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-1428517" target="_blank">The citric acid (TCA) cycle and respiratory electron transport</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>11.71</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=Respiratory+electron+transport%2c+ATP+synthesis+by+chemiosmotic+coupling%2c+and+heat+production+by+uncoupling+proteins.&amp;prefilter=pathways_interactions#pathways_interactions" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=Respiratory+electron+transport%2c+ATP+synthesis+by+chemiosmotic+coupling%2c+and+heat+production+by+uncoupling+proteins.&amp;prefilter=pathways_interactions#pathways_interactions" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> </td>
+</tr>
+<tr id="Mitochondrial_complex_III_assembly_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/mitochondrial_complex_iii_assembly" target="_blank">Mitochondrial complex III assembly</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP4921" target="_blank">74</a></sup>
+</div>
+</td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=Mitochondrial+complex+III+assembly&amp;prefilter=pathways_interactions#pathways_interactions" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=Mitochondrial+complex+III+assembly&amp;prefilter=pathways_interactions#pathways_interactions" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Cellular components related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1 according to GeneCards Suite gene sharing:</h3>
+<table id="go_cc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>mitochondrion</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005739" target="_blank">GO:0005739</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=mitochondrion&amp;prefilter=go_cc#go_cc" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=mitochondrion&amp;prefilter=go_cc#go_cc" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrion&amp;prefilter=go_cc#go_cc" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>mitochondrial inner membrane</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005743" target="_blank">GO:0005743</a></td>
+<td>9.55</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>respirasome</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0070469" target="_blank">GO:0070469</a></td>
+<td>8.96</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=respirasome&amp;prefilter=go_cc#go_cc" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=respirasome&amp;prefilter=go_cc#go_cc" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>mitochondrial respiratory chain complex III</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005750" target="_blank">GO:0005750</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=mitochondrial+respiratory+chain+complex+III&amp;prefilter=go_cc#go_cc" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+respiratory+chain+complex+III&amp;prefilter=go_cc#go_cc" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Biological processes related to Mitochondrial Complex Iii Deficiency, Nuclear Type 1 according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>aerobic respiration</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0009060" target="_blank">GO:0009060</a></td>
+<td>9.26</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=UQCRB&amp;keywords=aerobic+respiration&amp;prefilter=go_proc#go_proc" title="UQCRB gene information at GeneCards" target="_blank">UQCRB</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=aerobic+respiration&amp;prefilter=go_proc#go_proc" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>mitochondrial respiratory chain complex I assembly</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0032981" target="_blank">GO:0032981</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS7&amp;keywords=mitochondrial+respiratory+chain+complex+I+assembly&amp;prefilter=go_proc#go_proc" title="NDUFS7 gene information at GeneCards" target="_blank">NDUFS7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+respiratory+chain+complex+I+assembly&amp;prefilter=go_proc#go_proc" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Mitochondrial Complex Iii Deficiency, Nuclear Type 1</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#25565055554a575165494c434048445556460b464a48">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809eda002bf51640',t:'MTY5NTI2MzA2My4yMzkwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

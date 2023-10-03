@@ -1,0 +1,2806 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Heimler Syndrome 2 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/heimler_syndrome_2" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'heimler_syndrome_2';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+HMLR2 <div class="symbol">MCID: HML046</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 32
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Heimler Syndrome 2</span>
+(<span itemprop="alternateName">HMLR2</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Ear diseases, Eye diseases, Fetal diseases, Genetic diseases, Metabolic diseases, Oral diseases, Rare diseases, Skin diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#2251434e4751624e4b44474f435251410c414d4f" target="_blank"><span class="__cf_email__" data-cfemail="e49785888197a4888d82818985949787ca878b89">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="7 Genes associated with Heimler Syndrome 2">Genes</a>
+<a href="#genetic_variations" title="55 Variations associated with Heimler Syndrome 2">Variations</a>
+<a href="#anatomical_context" title="1 Tissues associated with Heimler Syndrome 2">Tissues</a>
+<a href="#publications" title="11 Publications associated with Heimler Syndrome 2">Publications</a>
+<a href="#clinical_features" title="14 Symptoms &amp; Phenotypes associated with Heimler Syndrome 2">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/heimler_syndrome_2?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Heimler Syndrome 2:</h3>
+<div class="main-name">
+Name: <b>Heimler Syndrome 2</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616617" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0080624" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04564" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4225267" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0080624" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Peroxisome Biogenesis Disorder 4c
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616617" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04564" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Hmlr2
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616617" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04564" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Pbd4c
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616617" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04564" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Peroxisomal Biogenesis Disorder 4c
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0080624" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Heimler Syndrome, Type 2
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/05236" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/616617" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/616617" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>based on a report of 2 monozygotic twin girls (last curated october 2015)</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/ear_disease_list" target="_blank">Ear diseases</a> <a href="https://www.malacards.org/categories/skin_disease_list" target="_blank">Skin diseases</a> <a href="https://www.malacards.org/categories/oral_disease_list" target="_blank">Oral diseases</a> <a href="https://www.malacards.org/categories/eye_disease_list" target="_blank">Eye diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0080624" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0080624" target="_blank">DOID:0080624</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616617" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/616617" target="_blank">616617</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS214100" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS214100" target="_blank">PS214100</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_4">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D000567" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D000567" target="_blank">D000567</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D006319" target="_blank">D006319</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D009260" target="_blank">D009260</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C4225267" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C4225267" target="_blank">C4225267</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/CN233185" target="_blank">CN233185</a>
+</div>
+<div id="ExternalId_item_6">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/111202002" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/111202002" target="_blank">111202002</a> <a href="http://www.snomedbrowser.com/Codes/Details/12351004" target="_blank">12351004</a> <a href="http://www.snomedbrowser.com/Codes/Details/203534009" target="_blank">203534009</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/224958001" target="_blank">224958001</a> <a href="http://www.snomedbrowser.com/Codes/Details/53226007" target="_blank">53226007</a> <a href="http://www.snomedbrowser.com/Codes/Details/60700002" target="_blank">60700002</a> <a href="http://www.snomedbrowser.com/Codes/Details/699222000" target="_blank">699222000</a> <a href="http://www.snomedbrowser.com/Codes/Details/78494001" target="_blank">78494001</a> </span>
+<span class="showmore">
+<a title="show all 8" id="ExternalId_showmore_6" href="javascript:showMoreTable('ExternalId_item_6','ExternalId_showmore_6','more','less','collapsable')">more</a>
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://omim.org/entry/616617#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616617#description" target="_blank">57</a></sup>
+Heimler syndrome, which represents the mildest end of the peroxisomal biogenesis disorder spectrum (see PBD1A, 214100), is a rare autosomal recessive disorder characterized by sensorineural hearing loss, enamel hypoplasia of the secondary dentition, and nail abnormalities (Ratbi et al., 2015).
+For a discussion of genetic heterogeneity of Heimler syndrome, see HMLR1 (234580). <span> (616617) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Heimler Syndrome 2, is also known as <i>peroxisome biogenesis disorder 4c</i>. An important gene associated with Heimler Syndrome 2 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" target="_blank">PEX6</a> (Peroxisomal Biogenesis Factor 6). Affiliated tissues include <i>brain</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0000407" target="_blank">sensorineural hearing impairment</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0000705" target="_blank">amelogenesis imperfecta</a></i></p>
+<p> <b> <a href="https://disease-ontology.org/?id=DOID:0080624" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0080624" target="_blank">11</a></sup>
+A peroxisomal biogenesis disorder that is characterised by sensorineural hearing loss, generalised enamel hypoplasia of the permanent dentition with normal primary dentition, and nail defects and has material basis in compound heterozygous mutation in the PEX6 gene on chromosome 6p21.</p><p> <b> <a href="http://www.uniprot.org/diseases/DI-04564" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04564" target="_blank">73</a></sup>
+A form of Heimler syndrome, a very mild peroxisome biogenesis disorder characterized by sensorineural hearing loss, amelogenesis imperfecta resulting in enamel hyoplasia of the secondary dentition, nail defects, and occasional or late-onset retinal pigmentation abnormalities.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases in the <a href="/card/heimler_syndrome_1" target="_blank">Heimler Syndrome 1</a> family:</h3>
+<table class="family borderless">
+<tr>
+<td>
+<b>Heimler Syndrome 2</b>
+</td>
+</tr>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Heimler Syndrome 2:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 7', 'showing 7, show less','collapsable')">show all 7</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+sensorineural hearing impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000407" target="_blank">HP:0000407</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+amelogenesis imperfecta
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000705" target="_blank">HP:0000705</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+beau&#39;s lines
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0041093" target="_blank">HP:0041093</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+leukonychia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001820" target="_blank">HP:0001820</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+global developmental delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001263" target="_blank">HP:0001263</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+pes planus
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001763" target="_blank">HP:0001763</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+dental crowding
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000678" target="_blank">HP:0000678</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/616617" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Skeletal Feet:</u><br/>
+<span>pes planus</span>
+<br/>
+<span>congenital club feet</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>normal intellectual development</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>sensorineural hearing loss in early childhood</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Skeletal Hands:</u><br/>
+<span>slightly broad thumbs</span>
+<br/>
+<span>leukonychia of fingernails</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Skin Nails Hair Nails:</u><br/>
+<span>leukonychia</span>
+<br/>
+<span>beau lines on toenails</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Head And Neck Teeth:</u><br/>
+<span>dental overcrowding</span>
+<br/>
+<span>hypoplastic enamel of secondary dentition</span>
+<br/>
+<span>hypoplasia or hypocalcification of lower canines, premolars, and molars</span>
+<br/>
+<span>hypoplasia or hypocalcification of upper second and third molars</span>
+<br/>
+<span>enlarged pulp chambers (taurodontism) of maxillary molars</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>retinal pigmentation abnormalities</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/616617#clinicalFeatures" target="_blank">616617</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Heimler Syndrome 2" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Heimler Syndrome 2&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Heimler Syndrome 2</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Heimler Syndrome 2:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Heimler Syndrome 2
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C4225267" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6&amp;keywords=heimler+syndrome+2&amp;prefilter=diseases#diseases" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Heimler Syndrome 2: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="0.2437553">Brain</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/616617/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Heimler Syndrome 2 according to OMIM&#174; and ClinVar:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 11', 'showing 11, show less','collapsable')">show all 11</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+PEX6 is Expressed in Photoreceptor Cilia and Mutated in Deafblindness with Enamel Dysplasia and Microcephaly.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zaki MS...Bolz HJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26593283" target="_blank">26593283</a></td>
+<td>2016</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Heimler Syndrome Is Caused by Hypomorphic Mutations in the Peroxisome-Biogenesis Genes PEX1 and PEX6.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ratbi I...Van Camp G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26387595" target="_blank">26387595</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Sensorineural deafness, enamel abnormalities and nail abnormalities: a case report of Heimler syndrome in identical twin girls.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ong KR...Brueton LA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16530715" target="_blank">16530715</a></td>
+<td>2006</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Spectrum of PEX1 and PEX6 variants in Heimler syndrome.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Smith CE...Inglehearn CF</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27302843" target="_blank">27302843</a></td>
+<td>2016</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Late-onset Zellweger spectrum disorder caused by PEX6 mutations mimicking X-linked adrenoleukodystrophy.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Tran C...Mercimek-Mahmutoglu S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25079577" target="_blank">25079577</a></td>
+<td>2014</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genetic classification and mutational spectrum of more than 600 patients with a Zellweger syndrome spectrum disorder.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ebberink MS...Waterham HR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/21031596" target="_blank">21031596</a></td>
+<td>2011</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Spectrum of PEX6 mutations in Zellweger syndrome spectrum patients.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ebberink MS...Waterham HR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19877282" target="_blank">19877282</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Rational diagnostic strategy for Zellweger syndrome spectrum patients.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Krause C...Gartner J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19142205" target="_blank">19142205</a></td>
+<td>2009</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Identification of novel mutations and sequence variation in the Zellweger syndrome spectrum of peroxisome biogenesis disorders.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yik WY...Hacia JG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/19105186" target="_blank">19105186</a></td>
+<td>2009</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The PEX Gene Screen: molecular diagnosis of peroxisome biogenesis disorders in the Zellweger syndrome spectrum.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Steinberg S...Braverman N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15542397" target="_blank">15542397</a></td>
+<td>2004</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A PEX6-defective peroxisomal biogenesis disorder with severe phenotype in an infant, versus mild phenotype resembling Usher syndrome in the affected parents.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Raas-Rothschild A...Korman SH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/11873320" target="_blank">11873320</a></td>
+<td>2002</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Heimler Syndrome 2 (1 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Peroxisomal Biogenesis Factor 6</td>
+<td>Protein Coding</td>
+<td>1338.65</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/601498" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000303511&amp;type2=-26&amp;id2=DOID:0080624" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_PEX6">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6&amp;keywords=Heimler+Syndrome+2&amp;prefilter=diseases#diseases" title="PEX6 gene information at GeneCards" target="_blank">Disorders</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_PEX6_SeeMore" href="javascript:showMoreTable('related_genes_PEX6','related_genes_PEX6_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/11873320" title="ClinVar" target="_blank">11873320</a> <a href="https://pubmed.ncbi.nlm.nih.gov/15542397" title="ClinVar" target="_blank">15542397</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16530715" title="ClinVar" target="_blank">16530715</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/19105186" title="ClinVar" target="_blank">19105186</a> <a href="https://pubmed.ncbi.nlm.nih.gov/19142205" title="ClinVar" target="_blank">19142205</a> <a href="https://pubmed.ncbi.nlm.nih.gov/19877282" title="ClinVar" target="_blank">19877282</a> <a href="https://pubmed.ncbi.nlm.nih.gov/21031596" title="ClinVar" target="_blank">21031596</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25079577" title="ClinVar" target="_blank">25079577</a> <a href="https://pubmed.ncbi.nlm.nih.gov/26387595" title="ClinVar" target="_blank">26387595</a> <a href="https://pubmed.ncbi.nlm.nih.gov/26593283" title="ClinVar" target="_blank">26593283</a> <a href="https://pubmed.ncbi.nlm.nih.gov/27302843" title="ClinVar" target="_blank">27302843</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CNPY1" title="CNPY1 gene information at GeneCards" target="_blank">CNPY1</a></div>
+</div>
+</td>
+<td>Canopy FGF Signaling Regulator 1</td>
+<td>Protein Coding</td>
+<td>5.65</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000317439&amp;type2=-26&amp;id2=DOID:0080624" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a></div>
+</div>
+</td>
+<td>Regulating Synaptic Membrane Exocytosis 4</td>
+<td>Protein Coding</td>
+<td>5.59</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000439287&amp;type2=-26&amp;id2=DOID:0080624" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a></div>
+</div>
+</td>
+<td>Regulating Synaptic Membrane Exocytosis 3</td>
+<td>Protein Coding</td>
+<td>5.39</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000361769&amp;type2=-26&amp;id2=DOID:0080624" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KIRREL3" title="KIRREL3 gene information at GeneCards" target="_blank">KIRREL3</a></div>
+</div>
+</td>
+<td>Kirre Like Nephrin Family Adhesion Molecule 3</td>
+<td>Protein Coding</td>
+<td>5.1</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000435466&amp;type2=-26&amp;id2=DOID:0080624" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RBMS3" title="RBMS3 gene information at GeneCards" target="_blank">RBMS3</a></div>
+</div>
+</td>
+<td>RNA Binding Motif Single Stranded Interacting Protein 3</td>
+<td>Protein Coding</td>
+<td>4.97</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000373277&amp;type2=-26&amp;id2=DOID:0080624" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NINL" title="NINL gene information at GeneCards" target="_blank">NINL</a></div>
+</div>
+</td>
+<td>Ninein Like</td>
+<td>Protein Coding</td>
+<td>4.88</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000278886&amp;type2=-26&amp;id2=DOID:0080624" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Heimler Syndrome 2:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '51', 'ClinVarVariations-table');">show all 51</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.296G&gt;T (p.Arg99Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000240675/" title="RCV000240675" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/224320/?new_evidence=true#id_second" target="_blank">224320</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886037781" target="_blank">rs886037781</a></td>
+<td>GRCh37: 6:42946593-42946593<br/>GRCh38: 6:42978855-42978855</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.275T&gt;G (p.Val92Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000240760/" title="RCV000240760" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/224319/?new_evidence=true#id_second" target="_blank">224319</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886037780" target="_blank">rs886037780</a></td>
+<td>GRCh37: 6:42946614-42946614<br/>GRCh38: 6:42978876-42978876</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2714G&gt;T (p.Cys905Phe)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000240788/" title="RCV000240788" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/224322/?new_evidence=true#id_second" target="_blank">224322</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886037782" target="_blank">rs886037782</a></td>
+<td>GRCh37: 6:42932620-42932620<br/>GRCh38: 6:42964882-42964882</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.654C&gt;G (p.Phe218Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000240712/" title="RCV000240712" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/224318/?new_evidence=true#id_second" target="_blank">224318</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886037779" target="_blank">rs886037779</a></td>
+<td>GRCh37: 6:42946235-42946235<br/>GRCh38: 6:42978497-42978497</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1238G&gt;T (p.Gly413Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001268931/" title="RCV001268931" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/556748/?new_evidence=true#id_second" target="_blank">556748</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1554127531" target="_blank">rs1554127531</a></td>
+<td>GRCh37: 6:42937535-42937535<br/>GRCh38: 6:42969797-42969797</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1802G&gt;A (p.Arg601Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000850505/" title="RCV000850505" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000201298/" title="RCV000201298" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/198709/?new_evidence=true#id_second" target="_blank">198709</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/34324426" target="_blank">rs34324426</a></td>
+<td>GRCh37: 6:42935188-42935188<br/>GRCh38: 6:42967450-42967450</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1841del (p.Leu614fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000201289/" title="RCV000201289" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/217426/?new_evidence=true#id_second" target="_blank">217426</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/863225083" target="_blank">rs863225083</a></td>
+<td>GRCh37: 6:42935149-42935149<br/>GRCh38: 6:42967411-42967411</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.821C&gt;T (p.Pro274Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000201297/" title="RCV000201297" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/217424/?new_evidence=true#id_second" target="_blank">217424</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61753219" target="_blank">rs61753219</a></td>
+<td>GRCh37: 6:42946068-42946068<br/>GRCh38: 6:42978330-42978330</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1930C&gt;T (p.Arg644Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000201306/" title="RCV000201306" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/217425/?new_evidence=true#id_second" target="_blank">217425</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/769896492" target="_blank">rs769896492</a></td>
+<td>GRCh37: 6:42934551-42934551<br/>GRCh38: 6:42966813-42966813</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1314_1321del (p.Glu439fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000240725/" title="RCV000240725" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/224321/?new_evidence=true#id_second" target="_blank">224321</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/267608216" target="_blank">rs267608216</a></td>
+<td>GRCh37: 6:42937452-42937459<br/>GRCh38: 6:42969714-42969721</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2440C&gt;T (p.Arg814Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763145/" title="RCV000763145" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/194165/?new_evidence=true#id_second" target="_blank">194165</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/267608241" target="_blank">rs267608241</a></td>
+<td>GRCh37: 6:42933450-42933450<br/>GRCh38: 6:42965712-42965712</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1715C&gt;T (p.Thr572Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000240689/" title="RCV000240689" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002500674/" title="RCV002500674" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/224323/?new_evidence=true#id_second" target="_blank">224323</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61753224" target="_blank">rs61753224</a></td>
+<td>GRCh37: 6:42935275-42935275<br/>GRCh38: 6:42967537-42967537</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2735C&gt;T (p.Ala912Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002479299/" title="RCV002479299" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/845895/?new_evidence=true#id_second" target="_blank">845895</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/62641232" target="_blank">rs62641232</a></td>
+<td>GRCh37: 6:42932599-42932599<br/>GRCh38: 6:42964861-42964861</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1231A&gt;G (p.Met411Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001786416/" title="RCV001786416" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/593730/?new_evidence=true#id_second" target="_blank">593730</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/752177240" target="_blank">rs752177240</a></td>
+<td>GRCh37: 6:42937625-42937625<br/>GRCh38: 6:42969887-42969887</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2300+2T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000991437/" title="RCV000991437" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/804456/?new_evidence=true#id_second" target="_blank">804456</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1581760028" target="_blank">rs1581760028</a></td>
+<td>GRCh37: 6:42933978-42933978<br/>GRCh38: 6:42966240-42966240</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.386A&gt;T (p.Glu129Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000766234/" title="RCV000766234" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/625158/?new_evidence=true#id_second" target="_blank">625158</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1561831003" target="_blank">rs1561831003</a></td>
+<td>GRCh37: 6:42946503-42946503<br/>GRCh38: 6:42978765-42978765</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1724G&gt;A (p.Arg575Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001329777/" title="RCV001329777" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1028671/?new_evidence=true#id_second" target="_blank">1028671</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/754034834" target="_blank">rs754034834</a></td>
+<td>GRCh37: 6:42935266-42935266<br/>GRCh38: 6:42967528-42967528</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1757C&gt;T (p.Ala586Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001333352/" title="RCV001333352" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/500941/?new_evidence=true#id_second" target="_blank">500941</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/146416679" target="_blank">rs146416679</a></td>
+<td>GRCh37: 6:42935233-42935233<br/>GRCh38: 6:42967495-42967495</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2089C&gt;T (p.Pro697Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001333353/" title="RCV001333353" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1031507/?new_evidence=true#id_second" target="_blank">1031507</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/543110086" target="_blank">rs543110086</a></td>
+<td>GRCh37: 6:42934268-42934268<br/>GRCh38: 6:42966530-42966530</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.275_280dup (p.Val92_Arg93dup)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001333354/" title="RCV001333354" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/552327/?new_evidence=true#id_second" target="_blank">552327</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61752142" target="_blank">rs61752142</a></td>
+<td>GRCh37: 6:42946608-42946609<br/>GRCh38: 6:42978870-42978871</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.719C&gt;G (p.Ala240Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000764649/" title="RCV000764649" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/288056/?new_evidence=true#id_second" target="_blank">288056</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/372269200" target="_blank">rs372269200</a></td>
+<td>GRCh37: 6:42946170-42946170<br/>GRCh38: 6:42978432-42978432</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1636C&gt;T (p.Arg546Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001578658/" title="RCV001578658" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/933949/?new_evidence=true#id_second" target="_blank">933949</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/750452619" target="_blank">rs750452619</a></td>
+<td>GRCh37: 6:42936080-42936080<br/>GRCh38: 6:42968342-42968342</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1549C&gt;T (p.Arg517Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001810035/" title="RCV001810035" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1044547/?new_evidence=true#id_second" target="_blank">1044547</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/754790139" target="_blank">rs754790139</a></td>
+<td>GRCh37: 6:42936167-42936167<br/>GRCh38: 6:42968429-42968429</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2783G&gt;A (p.Arg928His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002476295/" title="RCV002476295" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/498696/?new_evidence=true#id_second" target="_blank">498696</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/201265954" target="_blank">rs201265954</a></td>
+<td>GRCh37: 6:42932551-42932551<br/>GRCh38: 6:42964813-42964813</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2626C&gt;T (p.Arg876Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002477483/" title="RCV002477483" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/551183/?new_evidence=true#id_second" target="_blank">551183</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/267608246" target="_blank">rs267608246</a></td>
+<td>GRCh37: 6:42932853-42932853<br/>GRCh38: 6:42965115-42965115</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1150A&gt;C (p.Lys384Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002483660/" title="RCV002483660" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/502562/?new_evidence=true#id_second" target="_blank">502562</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/769388552" target="_blank">rs769388552</a></td>
+<td>GRCh37: 6:42937706-42937706<br/>GRCh38: 6:42969968-42969968</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1931G&gt;A (p.Arg644Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002483916/" title="RCV002483916" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/911291/?new_evidence=true#id_second" target="_blank">911291</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/746117128" target="_blank">rs746117128</a></td>
+<td>GRCh37: 6:42934550-42934550<br/>GRCh38: 6:42966812-42966812</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.488G&gt;C (p.Arg163Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002485520/" title="RCV002485520" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/550215/?new_evidence=true#id_second" target="_blank">550215</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/778791031" target="_blank">rs778791031</a></td>
+<td>GRCh37: 6:42946401-42946401<br/>GRCh38: 6:42978663-42978663</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1236G&gt;A (p.Val412=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002486073/" title="RCV002486073" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/992065/?new_evidence=true#id_second" target="_blank">992065</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1196012985" target="_blank">rs1196012985</a></td>
+<td>GRCh37: 6:42937537-42937537<br/>GRCh38: 6:42969799-42969799</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.617G&gt;A (p.Gly206Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002487275/" title="RCV002487275" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/289831/?new_evidence=true#id_second" target="_blank">289831</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/139093654" target="_blank">rs139093654</a></td>
+<td>GRCh37: 6:42946272-42946272<br/>GRCh38: 6:42978534-42978534</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.3(PEX6):c.-79C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002504173/" title="RCV002504173" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/356811/?new_evidence=true#id_second" target="_blank">356811</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/186587060" target="_blank">rs186587060</a></td>
+<td>GRCh37: 6:42946967-42946967<br/>GRCh38: 6:42979229-42979229</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1958C&gt;T (p.Ser653Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002500521/" title="RCV002500521" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/199006/?new_evidence=true#id_second" target="_blank">199006</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/267608228" target="_blank">rs267608228</a></td>
+<td>GRCh37: 6:42934523-42934523<br/>GRCh38: 6:42966785-42966785</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2080G&gt;A (p.Val694Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002479805/" title="RCV002479805" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1519294/?new_evidence=true#id_second" target="_blank">1519294</a></td>
+<td><span></span> </td>
+<td>GRCh37: 6:42934277-42934277<br/>GRCh38: 6:42966539-42966539</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1195G&gt;A (p.Ala399Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002480810/" title="RCV002480810" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/967518/?new_evidence=true#id_second" target="_blank">967518</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/564483086" target="_blank">rs564483086</a></td>
+<td>GRCh37: 6:42937661-42937661<br/>GRCh38: 6:42969923-42969923</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1992G&gt;C (p.Glu664Asp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002480855/" title="RCV002480855" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/972112/?new_evidence=true#id_second" target="_blank">972112</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/267608230" target="_blank">rs267608230</a></td>
+<td>GRCh37: 6:42934365-42934365<br/>GRCh38: 6:42966627-42966627</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1081A&gt;G (p.Thr361Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002481656/" title="RCV002481656" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/445406/?new_evidence=true#id_second" target="_blank">445406</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/146025917" target="_blank">rs146025917</a></td>
+<td>GRCh37: 6:42941790-42941790<br/>GRCh38: 6:42974052-42974052</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2534T&gt;C (p.Ile845Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002482070/" title="RCV002482070" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/857250/?new_evidence=true#id_second" target="_blank">857250</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61753226" target="_blank">rs61753226</a></td>
+<td>GRCh37: 6:42933044-42933044<br/>GRCh38: 6:42965306-42965306</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1718C&gt;T (p.Thr573Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001262593/" title="RCV001262593" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/356795/?new_evidence=true#id_second" target="_blank">356795</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/140769712" target="_blank">rs140769712</a></td>
+<td>GRCh37: 6:42935272-42935272<br/>GRCh38: 6:42967534-42967534</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.210G&gt;A (p.Gly70=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002483131/" title="RCV002483131" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/92783/?new_evidence=true#id_second" target="_blank">92783</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/398123304" target="_blank">rs398123304</a></td>
+<td>GRCh37: 6:42946679-42946679<br/>GRCh38: 6:42978941-42978941</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2854C&gt;T (p.Leu952=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002488216/" title="RCV002488216" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1079984/?new_evidence=true#id_second" target="_blank">1079984</a></td>
+<td><span></span> </td>
+<td>GRCh37: 6:42932162-42932162<br/>GRCh38: 6:42964424-42964424</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1480-5C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002498380/" title="RCV002498380" target="_blank">Likely Benign</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001543843/" title="RCV001543843" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/92780/?new_evidence=true#id_second" target="_blank">92780</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/376473597" target="_blank">rs376473597</a></td>
+<td>GRCh37: 6:42936241-42936241<br/>GRCh38: 6:42968503-42968503</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.883-3T&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002498381/" title="RCV002498381" target="_blank">Benign</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001543845/" title="RCV001543845" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/92791/?new_evidence=true#id_second" target="_blank">92791</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/9986447" target="_blank">rs9986447</a></td>
+<td>GRCh37: 6:42942779-42942779<br/>GRCh38: 6:42975041-42975041</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2814G&gt;A (p.Glu938=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001543725/" title="RCV001543725" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/92786/?new_evidence=true#id_second" target="_blank">92786</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1129186" target="_blank">rs1129186</a></td>
+<td>GRCh37: 6:42932202-42932202<br/>GRCh38: 6:42964464-42964464</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2364G&gt;A (p.Val788=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001543732/" title="RCV001543732" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/92785/?new_evidence=true#id_second" target="_blank">92785</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/2274515" target="_blank">rs2274515</a></td>
+<td>GRCh37: 6:42933526-42933526<br/>GRCh38: 6:42965788-42965788</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1961+20G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001543734/" title="RCV001543734" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/92781/?new_evidence=true#id_second" target="_blank">92781</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/2274514" target="_blank">rs2274514</a></td>
+<td>GRCh37: 6:42934500-42934500<br/>GRCh38: 6:42966762-42966762</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.399G&gt;T (p.Val133=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001543847/" title="RCV001543847" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/92789/?new_evidence=true#id_second" target="_blank">92789</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/9462858" target="_blank">rs9462858</a></td>
+<td>GRCh37: 6:42946490-42946490<br/>GRCh38: 6:42978752-42978752</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.1885-24G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001543840/" title="RCV001543840" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/559074/?new_evidence=true#id_second" target="_blank">559074</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/3818554" target="_blank">rs3818554</a></td>
+<td>GRCh37: 6:42934620-42934620<br/>GRCh38: 6:42966882-42966882</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2667-48G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001543727/" title="RCV001543727" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1181155/?new_evidence=true#id_second" target="_blank">1181155</a></td>
+<td><span></span> </td>
+<td>GRCh37: 6:42932715-42932715<br/>GRCh38: 6:42964977-42964977</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2816C&gt;A (p.Pro939Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001543723/" title="RCV001543723" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/92787/?new_evidence=true#id_second" target="_blank">92787</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1129187" target="_blank">rs1129187</a></td>
+<td>GRCh37: 6:42932200-42932200<br/>GRCh38: 6:42964462-42964462</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td style="overflow-wrap:break-word;">NM_000287.4(PEX6):c.2426C&gt;T (p.Ala809Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001543730/" title="RCV001543730" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/167463/?new_evidence=true#id_second" target="_blank">167463</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/35830695" target="_blank">rs35830695</a></td>
+<td>GRCh37: 6:42933464-42933464<br/>GRCh38: 6:42965726-42965726</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Heimler Syndrome 2:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td>p.Pro274Leu</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_058382.html" target="_blank">VAR_058382</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61753219" target="_blank">rs61753219</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td>p.Arg644Trp</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_074110.html" target="_blank">VAR_074110</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/769896492" target="_blank">rs769896492</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td>p.Thr572Ile</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_077509.html" target="_blank">VAR_077509</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61753224" target="_blank">rs61753224</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PEX6" title="PEX6 gene information at GeneCards" target="_blank">PEX6</a></td>
+<td>p.Cys905Phe</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_077510.html" target="_blank">VAR_077510</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886037782" target="_blank">rs886037782</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Heimler%20Syndrome%202%22%5BMeSH%20Terms%5D%20OR%20%22Heimler%20Syndrome%202%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Heimler Syndrome 2.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Cellular components related to Heimler Syndrome 2 according to GeneCards Suite gene sharing:</h3>
+<table id="go_cc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>presynaptic membrane</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0042734" target="_blank">GO:0042734</a></td>
+<td>9.33</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4&amp;keywords=presynaptic+membrane&amp;prefilter=go_cc#go_cc" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3&amp;keywords=presynaptic+membrane&amp;prefilter=go_cc#go_cc" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>presynaptic active zone</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0048786" target="_blank">GO:0048786</a></td>
+<td>9.26</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4&amp;keywords=presynaptic+active+zone&amp;prefilter=go_cc#go_cc" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3&amp;keywords=presynaptic+active+zone&amp;prefilter=go_cc#go_cc" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>cytoskeleton of presynaptic active zone</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0048788" target="_blank">GO:0048788</a></td>
+<td>8.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4&amp;keywords=cytoskeleton+of+presynaptic+active+zone&amp;prefilter=go_cc#go_cc" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3&amp;keywords=cytoskeleton+of+presynaptic+active+zone&amp;prefilter=go_cc#go_cc" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Biological processes related to Heimler Syndrome 2 according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>regulation of membrane potential</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0042391" target="_blank">GO:0042391</a></td>
+<td>9.67</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4&amp;keywords=regulation+of+membrane+potential&amp;prefilter=go_proc#go_proc" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3&amp;keywords=regulation+of+membrane+potential&amp;prefilter=go_proc#go_proc" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>regulation of synaptic plasticity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0048167" target="_blank">GO:0048167</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4&amp;keywords=regulation+of+synaptic+plasticity&amp;prefilter=go_proc#go_proc" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3&amp;keywords=regulation+of+synaptic+plasticity&amp;prefilter=go_proc#go_proc" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>regulation of synaptic vesicle exocytosis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:2000300" target="_blank">GO:2000300</a></td>
+<td>9.46</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4&amp;keywords=regulation+of+synaptic+vesicle+exocytosis&amp;prefilter=go_proc#go_proc" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3&amp;keywords=regulation+of+synaptic+vesicle+exocytosis&amp;prefilter=go_proc#go_proc" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>exocytosis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006887" target="_blank">GO:0006887</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4&amp;keywords=exocytosis&amp;prefilter=go_proc#go_proc" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3&amp;keywords=exocytosis&amp;prefilter=go_proc#go_proc" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>neurotransmitter transport</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006836" target="_blank">GO:0006836</a></td>
+<td>9.26</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4&amp;keywords=neurotransmitter+transport&amp;prefilter=go_proc#go_proc" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3&amp;keywords=neurotransmitter+transport&amp;prefilter=go_proc#go_proc" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>positive regulation of synaptic transmission</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0050806" target="_blank">GO:0050806</a></td>
+<td>9.13</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4&amp;keywords=positive+regulation+of+synaptic+transmission&amp;prefilter=go_proc#go_proc" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3&amp;keywords=positive+regulation+of+synaptic+transmission&amp;prefilter=go_proc#go_proc" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>calcium ion-regulated exocytosis of neurotransmitter</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0048791" target="_blank">GO:0048791</a></td>
+<td>8.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4&amp;keywords=calcium+ion-regulated+exocytosis+of+neurotransmitter&amp;prefilter=go_proc#go_proc" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3&amp;keywords=calcium+ion-regulated+exocytosis+of+neurotransmitter&amp;prefilter=go_proc#go_proc" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Heimler Syndrome 2 according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>transmembrane transporter binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0044325" target="_blank">GO:0044325</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS4&amp;keywords=transmembrane+transporter+binding&amp;prefilter=go_func#go_func" title="RIMS4 gene information at GeneCards" target="_blank">RIMS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RIMS3&amp;keywords=transmembrane+transporter+binding&amp;prefilter=go_func#go_func" title="RIMS3 gene information at GeneCards" target="_blank">RIMS3</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Heimler Syndrome 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#72010702021d0006321e1b14171f130201115c111d1f">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809eb15d2d227b3f',t:'MTY5NTI2MTM5OC43NDgwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

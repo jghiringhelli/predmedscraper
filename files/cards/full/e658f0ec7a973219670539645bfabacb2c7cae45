@@ -1,0 +1,3341 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Ciliary Dyskinesia, Primary, 2 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/ciliary_dyskinesia_primary_2" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'ciliary_dyskinesia_primary_2';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+CILD2 <div class="symbol">MCID: CLR066</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 39
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Ciliary Dyskinesia, Primary, 2</span>
+(<span itemprop="alternateName">CILD2</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Ear diseases, Fetal diseases, Genetic diseases, Rare diseases, Reproductive diseases, Respiratory diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#cebdafa2abbd8ea2a7a8aba3afbebdade0ada1a3" target="_blank"><span class="__cf_email__" data-cfemail="2053414c4553604c4946454d415053430e434f4d">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="10 Genes associated with Ciliary Dyskinesia, Primary, 2">Genes</a>
+<a href="#genetic_variations" title="26 Variations associated with Ciliary Dyskinesia, Primary, 2">Variations</a>
+<a href="#anatomical_context" title="5 Tissues associated with Ciliary Dyskinesia, Primary, 2">Tissues</a>
+<a href="#disorders" title="15 Related diseases associated with Ciliary Dyskinesia, Primary, 2">Related diseases</a>
+<a href="#publications" title="26 Publications associated with Ciliary Dyskinesia, Primary, 2">Publications</a>
+<a href="#clinical_features" title="22 Symptoms &amp; Phenotypes associated with Ciliary Dyskinesia, Primary, 2">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/ciliary_dyskinesia_primary_2?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Ciliary Dyskinesia, Primary, 2:</h3>
+<div class="main-name">
+Name: <b>Ciliary Dyskinesia, Primary, 2</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/606763" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03362" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=606763" title="diseasecard" target="_blank">12</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Primary Ciliary Dyskinesia 2
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110626" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1847554" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0110626" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<div>
+Cild2
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/606763" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110626" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03362" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Primary Ciliary Dyskinesia 2 with or Without Situs Inversus
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110626" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03362" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Ciliary Dyskinesia, Primary, 2, with or Without Situs Inversus
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/606763" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Dyskinesia, Ciliary, Primary, 2
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/02600" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<div>
+Immotile Cilia Syndrome 2
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03362" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Ics2
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03362" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/606763" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/606763" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>onset at birth</span>
+<br/>
+<span>approximately 50% of patients have situs inversus</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/respiratory_disease_list" target="_blank">Respiratory diseases</a> <a href="https://www.malacards.org/categories/reproductive_disease_list" target="_blank">Reproductive diseases</a> <a href="https://www.malacards.org/categories/ear_disease_list" target="_blank">Ear diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="International Classification of Diseases, 10th Revision">31</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/XVII" title="XVII" target="_blank">Congenital malformations, deformations and chromosomal abnormalities</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q30-Q34" title="Q30-Q34" target="_blank">Congenital malformations of the respiratory system</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q34" title="Q34" target="_blank">Other congenital malformations of respiratory system</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q34.8" title="Q34.8" target="_blank">Other specified congenital malformations of respiratory system</a>
+</div>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110626" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0110626" target="_blank">DOID:0110626</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/606763" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/606763" target="_blank">606763</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS244400" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS244400" target="_blank">PS244400</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D002925" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D002925" target="_blank">D002925</a> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D007619" target="_blank">D007619</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_5">
+<b title="International Classification of Diseases, 10th Revision">ICD10</b>
+<sup title="International Classification of Diseases, 10th Revision"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q34.8" target="_blank">31</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/Q34.8" target="_blank">Q34.8</a>
+</div>
+<div id="ExternalId_item_6">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C1847554" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C1847554" target="_blank">C1847554</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/103276001" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/103276001" target="_blank">103276001</a> <a href="http://www.snomedbrowser.com/Codes/Details/12295008" target="_blank">12295008</a> <a href="http://www.snomedbrowser.com/Codes/Details/14821001" target="_blank">14821001</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/15188001" target="_blank">15188001</a> <a href="http://www.snomedbrowser.com/Codes/Details/15296000" target="_blank">15296000</a> <a href="http://www.snomedbrowser.com/Codes/Details/230145002" target="_blank">230145002</a> <a href="http://www.snomedbrowser.com/Codes/Details/24614000" target="_blank">24614000</a> <a href="http://www.snomedbrowser.com/Codes/Details/267036007" target="_blank">267036007</a> <a href="http://www.snomedbrowser.com/Codes/Details/271825005" target="_blank">271825005</a> <a href="http://www.snomedbrowser.com/Codes/Details/27317008" target="_blank">27317008</a> <a href="http://www.snomedbrowser.com/Codes/Details/27637000" target="_blank">27637000</a> <a href="http://www.snomedbrowser.com/Codes/Details/343087000" target="_blank">343087000</a> <a href="http://www.snomedbrowser.com/Codes/Details/36971009" target="_blank">36971009</a> <a href="http://www.snomedbrowser.com/Codes/Details/43876007" target="_blank">43876007</a> <a href="http://www.snomedbrowser.com/Codes/Details/52756005" target="_blank">52756005</a> <a href="http://www.snomedbrowser.com/Codes/Details/65363002" target="_blank">65363002</a> <a href="http://www.snomedbrowser.com/Codes/Details/7393007" target="_blank">7393007</a> <a href="http://www.snomedbrowser.com/Codes/Details/8619003" target="_blank">8619003</a> <a href="http://www.snomedbrowser.com/Codes/Details/86204009" target="_blank">86204009</a> <a href="http://www.snomedbrowser.com/Codes/Details/95828007" target="_blank">95828007</a> </span>
+<span class="showmore">
+<a title="show all 20" id="ExternalId_showmore_7" href="javascript:showMoreTable('ExternalId_item_7','ExternalId_showmore_7','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_8">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C1847554</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-03362" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-03362" target="_blank">73</a></sup>
+A disorder characterized by abnormalities of motile cilia. Respiratory infections leading to chronic inflammation and bronchiectasis are recurrent, due to defects in the respiratory cilia; reduced fertility is often observed in male patients due to abnormalities of sperm tails. Half of the patients exhibit randomization of left-right body asymmetry and situs inversus, due to dysfunction of monocilia at the embryonic node. Primary ciliary dyskinesia associated with situs inversus is referred to as Kartagener syndrome.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Ciliary Dyskinesia, Primary, 2, also known as <i>primary ciliary dyskinesia 2</i>, is related to <i><a href="/card/ethmoid_sinusitis" target="_blank">ethmoid sinusitis</a></i> and <i><a href="/card/ciliary_dyskinesia_primary_10" target="_blank">ciliary dyskinesia, primary, 10</a></i>, and has symptoms including <i>respiratory distress</i> An important gene associated with Ciliary Dyskinesia, Primary, 2 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" target="_blank">DNAAF3</a> (Dynein Axonemal Assembly Factor 3). Affiliated tissues include <i>testis</i> and <i>lung</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0000365" target="_blank">hearing impairment</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0002205" target="_blank">recurrent respiratory infections</a></i></p>
+<p> <b> <a href="https://disease-ontology.org/?id=DOID:0110626" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0110626" target="_blank">11</a></sup>
+A primary ciliary dyskinesia that is characterized by autosomal recessive inheritance with inner and outer dynein arm defect, otitis media, sinusitis, chronic cough, recurrent respiratory infections, and variable occurence of laterality defects and has material basis in homozygous mutation in the DNAAF3 gene on chromosome 19q13.</p>
+</div>
+<div>
+<b>More information from OMIM:</b>
+<a href="http://omim.org/entry/606763#description" target="_blank">606763</a> <a href="https://omim.org/phenotypicSeries/PS244400#description" target="_blank">PS244400</a> </div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases in the <a href="/card/primary_ciliary_dyskinesia" target="_blank">Primary Ciliary Dyskinesia</a> family:</h3>
+<table class="family borderless">
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_1" target="_blank">Ciliary Dyskinesia, Primary, 1</a> </td>
+<td>
+<b>Ciliary Dyskinesia, Primary, 2</b>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_3" target="_blank">Ciliary Dyskinesia, Primary, 3</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_4" target="_blank">Ciliary Dyskinesia, Primary, 4</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_5" target="_blank">Ciliary Dyskinesia, Primary, 5</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_6" target="_blank">Ciliary Dyskinesia, Primary, 6</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_7" target="_blank">Ciliary Dyskinesia, Primary, 7</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_8" target="_blank">Ciliary Dyskinesia, Primary, 8</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_9" target="_blank">Ciliary Dyskinesia, Primary, 9</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_10" target="_blank">Ciliary Dyskinesia, Primary, 10</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_11" target="_blank">Ciliary Dyskinesia, Primary, 11</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_12" target="_blank">Ciliary Dyskinesia, Primary, 12</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_13" target="_blank">Ciliary Dyskinesia, Primary, 13</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_14" target="_blank">Ciliary Dyskinesia, Primary, 14</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_15" target="_blank">Ciliary Dyskinesia, Primary, 15</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_16" target="_blank">Ciliary Dyskinesia, Primary, 16</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_17" target="_blank">Ciliary Dyskinesia, Primary, 17</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_18" target="_blank">Ciliary Dyskinesia, Primary, 18</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_19" target="_blank">Ciliary Dyskinesia, Primary, 19</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_20" target="_blank">Ciliary Dyskinesia, Primary, 20</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_21" target="_blank">Ciliary Dyskinesia, Primary, 21</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_22" target="_blank">Ciliary Dyskinesia, Primary, 22</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_23" target="_blank">Ciliary Dyskinesia, Primary, 23</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_24" target="_blank">Ciliary Dyskinesia, Primary, 24</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_25" target="_blank">Ciliary Dyskinesia, Primary, 25</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_26" target="_blank">Ciliary Dyskinesia, Primary, 26</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_27" target="_blank">Ciliary Dyskinesia, Primary, 27</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_28" target="_blank">Ciliary Dyskinesia, Primary, 28</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_29" target="_blank">Ciliary Dyskinesia, Primary, 29</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_30" target="_blank">Ciliary Dyskinesia, Primary, 30</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_32" target="_blank">Ciliary Dyskinesia, Primary, 32</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_33" target="_blank">Ciliary Dyskinesia, Primary, 33</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_34" target="_blank">Ciliary Dyskinesia, Primary, 34</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_35" target="_blank">Ciliary Dyskinesia, Primary, 35</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_37" target="_blank">Ciliary Dyskinesia, Primary, 37</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_38" target="_blank">Ciliary Dyskinesia, Primary, 38</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_39" target="_blank">Ciliary Dyskinesia, Primary, 39</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_40" target="_blank">Ciliary Dyskinesia, Primary, 40</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_41" target="_blank">Ciliary Dyskinesia, Primary, 41</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_42" target="_blank">Ciliary Dyskinesia, Primary, 42</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_43" target="_blank">Ciliary Dyskinesia, Primary, 43</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_44" target="_blank">Ciliary Dyskinesia, Primary, 44</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_45" target="_blank">Ciliary Dyskinesia, Primary, 45</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_46" target="_blank">Ciliary Dyskinesia, Primary, 46</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_50" target="_blank">Ciliary Dyskinesia, Primary, 50</a> </td>
+<td>
+<a href="/card/ciliary_dyskinesia_primary_51" target="_blank">Ciliary Dyskinesia, Primary, 51</a> </td>
+</tr>
+</table>
+<br/>
+<h3>Diseases related to Ciliary Dyskinesia, Primary, 2 via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 15', 'showing 15, show less','collapsable')">show all 15</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/ethmoid_sinusitis" target="_blank">ethmoid sinusitis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=ethmoid+sinusitis&amp;prefilter=diseases#diseases" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=ethmoid+sinusitis&amp;prefilter=diseases#diseases" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/ciliary_dyskinesia_primary_10" target="_blank">ciliary dyskinesia, primary, 10</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIH1D2&amp;keywords=ciliary+dyskinesia%2c+primary%2c+10&amp;prefilter=diseases#diseases" title="PIH1D2 gene information at GeneCards" target="_blank">PIH1D2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=ciliary+dyskinesia%2c+primary%2c+10&amp;prefilter=diseases#diseases" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/ciliary_dyskinesia_primary_26" target="_blank">ciliary dyskinesia, primary, 26</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIH1D2&amp;keywords=ciliary+dyskinesia%2c+primary%2c+26&amp;prefilter=diseases#diseases" title="PIH1D2 gene information at GeneCards" target="_blank">PIH1D2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DYNLT5&amp;keywords=ciliary+dyskinesia%2c+primary%2c+26&amp;prefilter=diseases#diseases" title="DYNLT5 gene information at GeneCards" target="_blank">DYNLT5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=ciliary+dyskinesia%2c+primary%2c+26&amp;prefilter=diseases#diseases" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/ciliary_dyskinesia_primary_36_x_linked" target="_blank">ciliary dyskinesia, primary, 36, x-linked</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIH1D2&amp;keywords=ciliary+dyskinesia%2c+primary%2c+36%2c+x-linked&amp;prefilter=diseases#diseases" title="PIH1D2 gene information at GeneCards" target="_blank">PIH1D2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DYNLT5&amp;keywords=ciliary+dyskinesia%2c+primary%2c+36%2c+x-linked&amp;prefilter=diseases#diseases" title="DYNLT5 gene information at GeneCards" target="_blank">DYNLT5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=ciliary+dyskinesia%2c+primary%2c+36%2c+x-linked&amp;prefilter=diseases#diseases" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/paranasal_sinus_disease" target="_blank">paranasal sinus disease</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=paranasal+sinus+disease&amp;prefilter=diseases#diseases" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=paranasal+sinus+disease&amp;prefilter=diseases#diseases" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=paranasal+sinus+disease&amp;prefilter=diseases#diseases" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/ciliary_dyskinesia_primary_38" target="_blank">ciliary dyskinesia, primary, 38</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIH1D2&amp;keywords=ciliary+dyskinesia%2c+primary%2c+38&amp;prefilter=diseases#diseases" title="PIH1D2 gene information at GeneCards" target="_blank">PIH1D2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DYNLT5&amp;keywords=ciliary+dyskinesia%2c+primary%2c+38&amp;prefilter=diseases#diseases" title="DYNLT5 gene information at GeneCards" target="_blank">DYNLT5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=ciliary+dyskinesia%2c+primary%2c+38&amp;prefilter=diseases#diseases" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=ciliary+dyskinesia%2c+primary%2c+38&amp;prefilter=diseases#diseases" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/ciliary_dyskinesia_primary_28" target="_blank">ciliary dyskinesia, primary, 28</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIH1D2&amp;keywords=ciliary+dyskinesia%2c+primary%2c+28&amp;prefilter=diseases#diseases" title="PIH1D2 gene information at GeneCards" target="_blank">PIH1D2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DYNLT5&amp;keywords=ciliary+dyskinesia%2c+primary%2c+28&amp;prefilter=diseases#diseases" title="DYNLT5 gene information at GeneCards" target="_blank">DYNLT5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=ciliary+dyskinesia%2c+primary%2c+28&amp;prefilter=diseases#diseases" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=ciliary+dyskinesia%2c+primary%2c+28&amp;prefilter=diseases#diseases" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/ciliary_dyskinesia_primary_19" target="_blank">ciliary dyskinesia, primary, 19</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIH1D2&amp;keywords=ciliary+dyskinesia%2c+primary%2c+19&amp;prefilter=diseases#diseases" title="PIH1D2 gene information at GeneCards" target="_blank">PIH1D2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=ciliary+dyskinesia%2c+primary%2c+19&amp;prefilter=diseases#diseases" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/bronchiectasis" target="_blank">bronchiectasis</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=bronchiectasis&amp;prefilter=diseases#diseases" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=bronchiectasis&amp;prefilter=diseases#diseases" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=bronchiectasis&amp;prefilter=diseases#diseases" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/ciliary_dyskinesia_primary_22" target="_blank">ciliary dyskinesia, primary, 22</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIH1D2&amp;keywords=ciliary+dyskinesia%2c+primary%2c+22&amp;prefilter=diseases#diseases" title="PIH1D2 gene information at GeneCards" target="_blank">PIH1D2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DYNLT5&amp;keywords=ciliary+dyskinesia%2c+primary%2c+22&amp;prefilter=diseases#diseases" title="DYNLT5 gene information at GeneCards" target="_blank">DYNLT5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=ciliary+dyskinesia%2c+primary%2c+22&amp;prefilter=diseases#diseases" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/ciliary_dyskinesia_primary_25" target="_blank">ciliary dyskinesia, primary, 25</a></td>
+<td>9.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIH1D2&amp;keywords=ciliary+dyskinesia%2c+primary%2c+25&amp;prefilter=diseases#diseases" title="PIH1D2 gene information at GeneCards" target="_blank">PIH1D2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DYNLT5&amp;keywords=ciliary+dyskinesia%2c+primary%2c+25&amp;prefilter=diseases#diseases" title="DYNLT5 gene information at GeneCards" target="_blank">DYNLT5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=ciliary+dyskinesia%2c+primary%2c+25&amp;prefilter=diseases#diseases" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=ciliary+dyskinesia%2c+primary%2c+25&amp;prefilter=diseases#diseases" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=ciliary+dyskinesia%2c+primary%2c+25&amp;prefilter=diseases#diseases" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/kartagener_syndrome" target="_blank">kartagener syndrome</a></td>
+<td>8.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=kartagener+syndrome&amp;prefilter=diseases#diseases" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=kartagener+syndrome&amp;prefilter=diseases#diseases" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=kartagener+syndrome&amp;prefilter=diseases#diseases" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=kartagener+syndrome&amp;prefilter=diseases#diseases" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=kartagener+syndrome&amp;prefilter=diseases#diseases" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=kartagener+syndrome&amp;prefilter=diseases#diseases" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/visceral_heterotaxy" target="_blank">visceral heterotaxy</a></td>
+<td>8.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=visceral+heterotaxy&amp;prefilter=diseases#diseases" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=visceral+heterotaxy&amp;prefilter=diseases#diseases" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=visceral+heterotaxy&amp;prefilter=diseases#diseases" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=visceral+heterotaxy&amp;prefilter=diseases#diseases" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=visceral+heterotaxy&amp;prefilter=diseases#diseases" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=visceral+heterotaxy&amp;prefilter=diseases#diseases" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/situs_inversus" target="_blank">situs inversus</a></td>
+<td>8.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=situs+inversus&amp;prefilter=diseases#diseases" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=situs+inversus&amp;prefilter=diseases#diseases" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=situs+inversus&amp;prefilter=diseases#diseases" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=situs+inversus&amp;prefilter=diseases#diseases" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=situs+inversus&amp;prefilter=diseases#diseases" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=situs+inversus&amp;prefilter=diseases#diseases" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/primary_ciliary_dyskinesia" target="_blank">primary ciliary dyskinesia</a></td>
+<td>8.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIH1D2&amp;keywords=primary+ciliary+dyskinesia&amp;prefilter=diseases#diseases" title="PIH1D2 gene information at GeneCards" target="_blank">PIH1D2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DYNLT5&amp;keywords=primary+ciliary+dyskinesia&amp;prefilter=diseases#diseases" title="DYNLT5 gene information at GeneCards" target="_blank">DYNLT5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=primary+ciliary+dyskinesia&amp;prefilter=diseases#diseases" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=primary+ciliary+dyskinesia&amp;prefilter=diseases#diseases" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=primary+ciliary+dyskinesia&amp;prefilter=diseases#diseases" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1&amp;keywords=primary+ciliary+dyskinesia&amp;prefilter=diseases#diseases" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Ciliary Dyskinesia, Primary, 2:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/ciliary_dyskinesia_primary_2_related_diseases.jpg" width="100%" alt="Diseases related to Ciliary Dyskinesia, Primary, 2" title="Diseases related to Ciliary Dyskinesia, Primary, 2" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Ciliary Dyskinesia, Primary, 2:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 13', 'showing 13, show less','collapsable')">show all 13</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+hearing impairment
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000365" target="_blank">HP:0000365</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+recurrent respiratory infections
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002205" target="_blank">HP:0002205</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+sinusitis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000246" target="_blank">HP:0000246</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+nasal polyposis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0100582" target="_blank">HP:0100582</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+bronchiectasis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002110" target="_blank">HP:0002110</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+otitis media
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000388" target="_blank">HP:0000388</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+infertility
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000789" target="_blank">HP:0000789</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+dextrocardia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001651" target="_blank">HP:0001651</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+situs inversus totalis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001696" target="_blank">HP:0001696</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+respiratory distress
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002098" target="_blank">HP:0002098</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+ciliary dyskinesia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012265" target="_blank">HP:0012265</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+absent inner and outer dynein arms
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012259" target="_blank">HP:0012259</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+immotile cilia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0012263" target="_blank">HP:0012263</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/606763" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Respiratory:</u><br/>
+<span>recurrent respiratory infections</span>
+<br/>
+<span>respiratory distress</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Respiratory Lung:</u><br/>
+<span>bronchiectasis</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Genitourinary Internal Genitalia Male:</u><br/>
+<span>infertility</span>
+<br/>
+<span>immotile sperm</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>immotile cilia</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Respiratory Nasopharynx:</u><br/>
+<span>sinusitis</span>
+<br/>
+<span>nasal polyps</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>otitis media</span>
+<br/>
+<span>hearing loss (in some patients)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Cardiovascular Heart:</u><br/>
+<span>dextrocardia</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Abdomen:</u><br/>
+<span>situs inversus</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/606763#clinicalFeatures" target="_blank">606763</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div>
+<div class="symptoms_div">
+<h3>UMLS symptoms related to Ciliary Dyskinesia, Primary, 2:</h3>
+<br/>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>respiratory distress</span>
+</span>
+</span>
+</div>
+</div>
+<div>
+<div>
+<h3>GenomeRNAi Phenotypes related to Ciliary Dyskinesia, Primary, 2 according to GeneCards Suite gene sharing:</h3>
+<sup title="GenomeRNAi">25</sup>
+</div>
+<table id="FunctionalDescription_GEN-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>GenomeRNAi Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Increased cell size</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00098-A-4" target="_blank">GR00098-A-4</a></td>
+<td>8.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=Increased+cell+size&amp;prefilter=function#function" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=Increased+cell+size&amp;prefilter=function#function" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Ciliary Dyskinesia, Primary, 2" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Ciliary Dyskinesia, Primary, 2&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Ciliary Dyskinesia, Primary, 2</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Ciliary Dyskinesia, Primary, 2:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Primary Ciliary Dyskinesia 2
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C1847554" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=primary+ciliary+dyskinesia+2&amp;prefilter=diseases#diseases" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Ciliary Dyskinesia, Primary, 2: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="0.4124232">Testis</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/606763/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="0.3126501">Lung</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.05361339">Breast</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span>Respiratory System-Lung</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/606763/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span>Respiratory System</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/606763/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Ciliary Dyskinesia, Primary, 2 according to OMIM&#174; and ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mutations in axonemal dynein assembly factor DNAAF3 cause primary ciliary dyskinesia.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mitchison HM...Mitchell DR</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22387996" target="_blank">22387996</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A locus for primary ciliary dyskinesia maps to chromosome 19q.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Meeks M...Chung E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/10745040" target="_blank">10745040</a></td>
+<td>2000</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Severe pulmonary disease in an adult primary ciliary dyskinesia population in Brazil.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Olm MAK...Mauad T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31213628" target="_blank">31213628</a></td>
+<td>2019</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Ciliary Dyskinesia, Primary, 2 according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show all 23', 'showing 23, show less','collapsable')">show all 23</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Salicylic acid biosynthesis is not from phenylalanine in Arabidopsis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wu J...Zhao Q</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36377737" target="_blank">36377737</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Transcriptome analysis reveals key defense-related genes upon SA induction in Cocos nucifera L.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Silverio-Gomez C...Oropeza C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34216358" target="_blank">34216358</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Dosimetric Evaluation of Incidental Irradiation to the Internal Mammary Chain After Surgery in Breast Cancer Patients.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang W...Li J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35311065" target="_blank">35311065</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Salicylic Acid Enhances Adventitious Root and Aerenchyma Formation in Wheat under Waterlogged Conditions.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Koramutla MK...Ayele BT</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35163167" target="_blank">35163167</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+How different domains of quality of life are associated with latent dimensions of mental health measured by GHQ-12.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Nouri F...Sarrafzadegan N</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34775961" target="_blank">34775961</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Gender Differences Among Milestone Assessments in a National Sample of Pediatric Emergency Medicine Fellowship Programs.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zuckerbraun NS...Langhan ML</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34099991" target="_blank">34099991</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Optimal anatomical location for needle chest decompression for tension pneumothorax: A multicenter prospective cohort study.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Azizi N...PRIDE consortium</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34756305" target="_blank">34756305</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Low Temperature Enhances Plant Immunity via Salicylic Acid Pathway Genes That Are Repressed by Ethylene.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Li Z...Hua J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31694900" target="_blank">31694900</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A 10-year Isfahan cohort on cardiovascular disease as a master plan for a multi-generation non-communicable disease longitudinal study: methodology and challenges.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sarrafzadegan N...Mansourian M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30385824" target="_blank">30385824</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Cold stress activates disease resistance in Arabidopsis thaliana through a salicylic acid dependent pathway.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wu Z...Yang W</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31087367" target="_blank">31087367</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Molecular characterization of bacterial, viral and fungal endosymbionts of Acanthamoeba isolates in keratitis patients of Iran.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hajialilo E...Khodavaisy S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30917916" target="_blank">30917916</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Postmastectomy radiotherapy using three different techniques: a retrospective evaluation of the incidental dose distribution in the internal mammary nodes.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang W...Li J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30774438" target="_blank">30774438</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Assessment methods and resource requirements for milestone reporting by an emergency medicine clinical competency committee.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Goyal N...Vallee P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30376785" target="_blank">30376785</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Overexpression of VpEIFP1, a novel F-box/Kelch-repeat protein from wild Chinese Vitis pseudoreticulata, confers higher tolerance to powdery mildew by inducing thioredoxin z proteolysis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wang J...Wang Y</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28818370" target="_blank">28818370</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The Development of Indicator Cotton Swabs for the Detection of pH in Wounds.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Schaude C...Mohr GJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28604631" target="_blank">28604631</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The biochemical properties of the two Arabidopsis thaliana isochorismate synthases.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Macaulay KM...Smith AG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28356402" target="_blank">28356402</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Response of phytohormones and correlation of SAR signal pathway genes to the different resistance levels of grapevine against Plasmopara viticola infection.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liu SL...Zhang YL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27244101" target="_blank">27244101</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Transcriptomic analysis of Camellia ptilophylla and identification of genes associated with flavonoid and caffeine biosynthesis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Li MM...Hang YY</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26782523" target="_blank">26782523</a></td>
+<td>2015</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Comparison of an automated ELFA and two different real-time PCR techniques for Salmonella detection in poultry samples.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Rohonczy K...Tabajdi-Pinter V</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25261941" target="_blank">25261941</a></td>
+<td>2014</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Regulation of RNA-dependent RNA polymerase 1 and isochorismate synthase gene expression in Arabidopsis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Hunter LJ...Carr JP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/23799112" target="_blank">23799112</a></td>
+<td>2013</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Characterization and biological function of the ISOCHORISMATE SYNTHASE2 gene of Arabidopsis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Garcion C...Metraux JP</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/18451262" target="_blank">18451262</a></td>
+<td>2008</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Level of impaired control predicts outcome of moderation-oriented treatment for alcohol problems.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Heather N...Dawe S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/15955010" target="_blank">15955010</a></td>
+<td>2005</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Microproteinuria and circadian rhythm of blood pressure in patients with arterial hypertension].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Marczewski K...Klimek K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/8677191" target="_blank">8677191</a></td>
+<td>1996</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Ciliary Dyskinesia, Primary, 2 (2 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Dynein Axonemal Assembly Factor 3</td>
+<td>Protein Coding</td>
+<td>1350.39</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/614566" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000436975&amp;type2=-26&amp;id2=DOID:0110626" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_DNAAF3">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=Ciliary+Dyskinesia%2c+Primary%2c+2&amp;prefilter=diseases#diseases" title="DNAAF3 gene information at GeneCards" target="_blank">Disorders</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=Ciliary+Dyskinesia%2c+Primary%2c+2&amp;prefilter=aliases_descriptions#aliases_descriptions" title="DNAAF3 gene information at GeneCards" target="_blank">Gene name</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_DNAAF3_SeeMore" href="javascript:showMoreTable('related_genes_DNAAF3','related_genes_DNAAF3_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/10745040" title="ClinVar" target="_blank">10745040</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22387996" title="ClinVar" target="_blank">22387996</a> <a href="https://pubmed.ncbi.nlm.nih.gov/31213628" title="ClinVar" target="_blank">31213628</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>DNAAF3 Antisense RNA 1</td>
+<td>RNA Gene</td>
+<td>425</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/10745040" title="ClinVar" target="_blank">10745040</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22387996" title="ClinVar" target="_blank">22387996</a> <a href="https://pubmed.ncbi.nlm.nih.gov/31213628" title="ClinVar" target="_blank">31213628</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a></div>
+</div>
+</td>
+<td>Dynein Axonemal Light Intermediate Chain 1</td>
+<td>Protein Coding</td>
+<td>6.25</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000296218&amp;type2=-26&amp;id2=DOID:0110626" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a></div>
+</div>
+</td>
+<td>Dynein Axonemal Assembly Factor 2</td>
+<td>Protein Coding</td>
+<td>6.02</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000298292&amp;type2=-26&amp;id2=DOID:0110626" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a></div>
+</div>
+</td>
+<td>Dynein Axonemal Assembly Factor 5</td>
+<td>Protein Coding</td>
+<td>5.95</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000297440&amp;type2=-26&amp;id2=DOID:0110626" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a></div>
+</div>
+</td>
+<td>Dynein Axonemal Heavy Chain 9</td>
+<td>Protein Coding</td>
+<td>5.89</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000262442&amp;type2=-26&amp;id2=DOID:0110626" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIH1D2" title="PIH1D2 gene information at GeneCards" target="_blank">PIH1D2</a></div>
+</div>
+</td>
+<td>PIH1 Domain Containing 2</td>
+<td>Protein Coding</td>
+<td>5.85</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000280350&amp;type2=-26&amp;id2=DOID:0110626" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DYNLT5" title="DYNLT5 gene information at GeneCards" target="_blank">DYNLT5</a></div>
+</div>
+</td>
+<td>Dynein Light Chain Tctex-Type Family Member 5</td>
+<td>Protein Coding</td>
+<td>5.74</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000282670&amp;type2=-26&amp;id2=DOID:0110626" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a></div>
+</div>
+</td>
+<td>Dynein Axonemal Assembly Factor 11</td>
+<td>Protein Coding</td>
+<td>5.73</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000484634&amp;type2=-26&amp;id2=DOID:0110626" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">10</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a></div>
+</div>
+</td>
+<td>Dynein Axonemal Assembly Factor 1</td>
+<td>Protein Coding</td>
+<td>5.54</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000367815&amp;type2=-26&amp;id2=DOID:0110626" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_10">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Ciliary Dyskinesia, Primary, 2:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show all 25', 'showing 25, show less','collapsable')">show all 25</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.1271dup (p.Phe426fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000585680/" title="RCV000585680" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/495054/?new_evidence=true#id_second" target="_blank">495054</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1349668884" target="_blank">rs1349668884</a></td>
+<td>GRCh37: 19:55670784-55670785<br/>GRCh38: 19:55159416-55159417</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.350G&gt;A (p.Trp117Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000763441/" title="RCV000763441" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/572342/?new_evidence=true#id_second" target="_blank">572342</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/770403610" target="_blank">rs770403610</a></td>
+<td>GRCh37: 19:55673631-55673631<br/>GRCh38: 19:55162263-55162263</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.997dup (p.Asp333fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002250632/" title="RCV002250632" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/410279/?new_evidence=true#id_second" target="_blank">410279</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/756430359" target="_blank">rs756430359</a></td>
+<td>GRCh37: 19:55672058-55672059<br/>GRCh38: 19:55160690-55160691</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.182T&gt;C (p.Leu61Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000024243/" title="RCV000024243" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/31532/?new_evidence=true#id_second" target="_blank">31532</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/387907151" target="_blank">rs387907151</a></td>
+<td>GRCh37: 19:55677272-55677272<br/>GRCh38: 19:55165904-55165904</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.265C&gt;T (p.Arg89Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000024244/" title="RCV000024244" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/31533/?new_evidence=true#id_second" target="_blank">31533</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/387907152" target="_blank">rs387907152</a></td>
+<td>GRCh37: 19:55676795-55676795<br/>GRCh38: 19:55165427-55165427</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.621dup (p.Val208fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000024245/" title="RCV000024245" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/31534/?new_evidence=true#id_second" target="_blank">31534</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/397515395" target="_blank">rs397515395</a></td>
+<td>GRCh37: 19:55673052-55673053<br/>GRCh38: 19:55161684-55161685</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256714.1(DNAAF3):c.23C&gt;A (p.Ser8Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001780969/" title="RCV001780969" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1324264/?new_evidence=true#id_second" target="_blank">1324264</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:55677994-55677994<br/>GRCh38: 19:55166626-55166626</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.901C&gt;T (p.Gln301Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001780967/" title="RCV001780967" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1324262/?new_evidence=true#id_second" target="_blank">1324262</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:55672444-55672444<br/>GRCh38: 19:55161076-55161076</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.1041_1048+1del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001783024/" title="RCV001783024" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/454613/?new_evidence=true#id_second" target="_blank">454613</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/767677564" target="_blank">rs767677564</a></td>
+<td>GRCh37: 19:55672007-55672015<br/>GRCh38: 19:55160639-55160647</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.548_558dup (p.Ser187delinsArgSerProTer)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001806847/" title="RCV001806847" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1331503/?new_evidence=true#id_second" target="_blank">1331503</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:55673115-55673116<br/>GRCh38: 19:55161747-55161748</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.890C&gt;T (p.Thr297Met)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003144217/" title="RCV003144217" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/330214/?new_evidence=true#id_second" target="_blank">330214</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/549181425" target="_blank">rs549181425</a></td>
+<td>GRCh37: 19:55672455-55672455<br/>GRCh38: 19:55161087-55161087</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.1626A&gt;G (p.Ter542Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003144312/" title="RCV003144312" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/454620/?new_evidence=true#id_second" target="_blank">454620</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/199882635" target="_blank">rs199882635</a></td>
+<td>GRCh37: 19:55670430-55670430<br/>GRCh38: 19:55159062-55159062</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.851C&gt;A (p.Ala284Asp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002484723/" title="RCV002484723" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1442743/?new_evidence=true#id_second" target="_blank">1442743</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:55672494-55672494<br/>GRCh38: 19:55161126-55161126</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.782T&gt;C (p.Leu261Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002491646/" title="RCV002491646" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/941083/?new_evidence=true#id_second" target="_blank">941083</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/534298243" target="_blank">rs534298243</a></td>
+<td>GRCh37: 19:55672668-55672668<br/>GRCh38: 19:55161300-55161300</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.1589C&gt;T (p.Pro530Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000765474/" title="RCV000765474" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/330207/?new_evidence=true#id_second" target="_blank">330207</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/200673226" target="_blank">rs200673226</a></td>
+<td>GRCh37: 19:55670467-55670467<br/>GRCh38: 19:55159099-55159099</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.1585del (p.Ala529fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000779268/" title="RCV000779268" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/632321/?new_evidence=true#id_second" target="_blank">632321</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1371933770" target="_blank">rs1371933770</a></td>
+<td>GRCh37: 19:55670471-55670471<br/>GRCh38: 19:55159103-55159103</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.1312G&gt;T (p.Gly438Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003146195/" title="RCV003146195" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2440894/?new_evidence=true#id_second" target="_blank">2440894</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:55670744-55670744<br/>GRCh38: 19:55159376-55159376</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.773G&gt;C (p.Gly258Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003146554/" title="RCV003146554" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1768171/?new_evidence=true#id_second" target="_blank">1768171</a></td>
+<td><span></span> </td>
+<td>GRCh37: 19:55672677-55672677<br/>GRCh38: 19:55161309-55161309</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.989C&gt;T (p.Thr330Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002506286/" title="RCV002506286" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/454612/?new_evidence=true#id_second" target="_blank">454612</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/545243133" target="_blank">rs545243133</a></td>
+<td>GRCh37: 19:55672067-55672067<br/>GRCh38: 19:55160699-55160699</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNNI3" title="TNNI3 gene information at GeneCards" target="_blank">TNNI3</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.1093= (p.Asn365=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001662362/" title="RCV001662362" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/369296/?new_evidence=true#id_second" target="_blank">369296</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/890872" target="_blank">rs890872</a></td>
+<td>GRCh37: 19:55671337-55671337<br/>GRCh38: 19:55159969-55159969</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNNI3" title="TNNI3 gene information at GeneCards" target="_blank">TNNI3</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.790-14C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000602102/" title="RCV000602102" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/257695/?new_evidence=true#id_second" target="_blank">257695</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/7260371" target="_blank">rs7260371</a></td>
+<td>GRCh37: 19:55672569-55672569<br/>GRCh38: 19:55161201-55161201</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNNI3" title="TNNI3 gene information at GeneCards" target="_blank">TNNI3</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.1239-8A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000602199/" title="RCV000602199" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/257684/?new_evidence=true#id_second" target="_blank">257684</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/28377509" target="_blank">rs28377509</a></td>
+<td>GRCh37: 19:55670825-55670825<br/>GRCh38: 19:55159457-55159457</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNNI3" title="TNNI3 gene information at GeneCards" target="_blank">TNNI3</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.1056G&gt;A (p.Pro352=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000607076/" title="RCV000607076" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/257680/?new_evidence=true#id_second" target="_blank">257680</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/891187" target="_blank">rs891187</a></td>
+<td>GRCh37: 19:55671374-55671374<br/>GRCh38: 19:55160006-55160006</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNNI3" title="TNNI3 gene information at GeneCards" target="_blank">TNNI3</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.666T&gt;C (p.Ala222=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000609166/" title="RCV000609166" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/257694/?new_evidence=true#id_second" target="_blank">257694</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/7260320" target="_blank">rs7260320</a></td>
+<td>GRCh37: 19:55672784-55672784<br/>GRCh38: 19:55161416-55161416</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TNNI3" title="TNNI3 gene information at GeneCards" target="_blank">TNNI3</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3-AS1" title="DNAAF3-AS1 gene information at GeneCards" target="_blank">DNAAF3-AS1</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td style="overflow-wrap:break-word;">NM_001256715.2(DNAAF3):c.875A&gt;G (p.Glu292Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000614095/" title="RCV000614095" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/257676/?new_evidence=true#id_second" target="_blank">257676</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/2365725" target="_blank">rs2365725</a></td>
+<td>GRCh37: 19:55672470-55672470<br/>GRCh38: 19:55161102-55161102</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Ciliary Dyskinesia, Primary, 2:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a></td>
+<td>p.Leu61Pro</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_067300.html" target="_blank">VAR_067300</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/387907151" target="_blank">rs387907151</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Ciliary%20Dyskinesia%2C%20Primary%2C%202%22%5BMeSH%20Terms%5D%20OR%20%22Ciliary%20Dyskinesia%2C%20Primary%2C%202%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Ciliary Dyskinesia, Primary, 2.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Cellular components related to Ciliary Dyskinesia, Primary, 2 according to GeneCards Suite gene sharing:</h3>
+<table id="go_cc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>cell projection</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0042995" target="_blank">GO:0042995</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=cell+projection&amp;prefilter=go_cc#go_cc" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=cell+projection&amp;prefilter=go_cc#go_cc" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=cell+projection&amp;prefilter=go_cc#go_cc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=cell+projection&amp;prefilter=go_cc#go_cc" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>axoneme</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005930" target="_blank">GO:0005930</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=axoneme&amp;prefilter=go_cc#go_cc" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=axoneme&amp;prefilter=go_cc#go_cc" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=axoneme&amp;prefilter=go_cc#go_cc" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>protein folding chaperone complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0101031" target="_blank">GO:0101031</a></td>
+<td>9.71</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PIH1D2&amp;keywords=protein+folding+chaperone+complex&amp;prefilter=go_cc#go_cc" title="PIH1D2 gene information at GeneCards" target="_blank">PIH1D2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=protein+folding+chaperone+complex&amp;prefilter=go_cc#go_cc" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>dynein complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0030286" target="_blank">GO:0030286</a></td>
+<td>9.67</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=dynein+complex&amp;prefilter=go_cc#go_cc" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=dynein+complex&amp;prefilter=go_cc#go_cc" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>cilium</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005929" target="_blank">GO:0005929</a></td>
+<td>9.63</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=cilium&amp;prefilter=go_cc#go_cc" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=cilium&amp;prefilter=go_cc#go_cc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=cilium&amp;prefilter=go_cc#go_cc" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=cilium&amp;prefilter=go_cc#go_cc" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>9+2 motile cilium</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0097729" target="_blank">GO:0097729</a></td>
+<td>9.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=9%2b2+motile+cilium&amp;prefilter=go_cc#go_cc" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=9%2b2+motile+cilium&amp;prefilter=go_cc#go_cc" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>motile cilium</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031514" target="_blank">GO:0031514</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=motile+cilium&amp;prefilter=go_cc#go_cc" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=motile+cilium&amp;prefilter=go_cc#go_cc" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=motile+cilium&amp;prefilter=go_cc#go_cc" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=motile+cilium&amp;prefilter=go_cc#go_cc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>dynein axonemal particle</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0120293" target="_blank">GO:0120293</a></td>
+<td>9.32</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNALI1&amp;keywords=dynein+axonemal+particle&amp;prefilter=go_cc#go_cc" title="DNALI1 gene information at GeneCards" target="_blank">DNALI1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=dynein+axonemal+particle&amp;prefilter=go_cc#go_cc" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=dynein+axonemal+particle&amp;prefilter=go_cc#go_cc" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=dynein+axonemal+particle&amp;prefilter=go_cc#go_cc" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=dynein+axonemal+particle&amp;prefilter=go_cc#go_cc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Biological processes related to Ciliary Dyskinesia, Primary, 2 according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>establishment of localization in cell</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0051649" target="_blank">GO:0051649</a></td>
+<td>9.91</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=establishment+of+localization+in+cell&amp;prefilter=go_proc#go_proc" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=establishment+of+localization+in+cell&amp;prefilter=go_proc#go_proc" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=establishment+of+localization+in+cell&amp;prefilter=go_proc#go_proc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>cilium movement</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0003341" target="_blank">GO:0003341</a></td>
+<td>9.86</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=cilium+movement&amp;prefilter=go_proc#go_proc" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=cilium+movement&amp;prefilter=go_proc#go_proc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=cilium+movement&amp;prefilter=go_proc#go_proc" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=cilium+movement&amp;prefilter=go_proc#go_proc" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>motile cilium assembly</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0044458" target="_blank">GO:0044458</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=motile+cilium+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=motile+cilium+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=motile+cilium+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>epithelial cilium movement involved in extracellular fluid movement</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0003351" target="_blank">GO:0003351</a></td>
+<td>9.78</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=epithelial+cilium+movement+involved+in+extracellular+fluid+movement&amp;prefilter=go_proc#go_proc" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=epithelial+cilium+movement+involved+in+extracellular+fluid+movement&amp;prefilter=go_proc#go_proc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>cell projection organization</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0030030" target="_blank">GO:0030030</a></td>
+<td>9.76</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=cell+projection+organization&amp;prefilter=go_proc#go_proc" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=cell+projection+organization&amp;prefilter=go_proc#go_proc" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=cell+projection+organization&amp;prefilter=go_proc#go_proc" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>outer dynein arm assembly</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0036158" target="_blank">GO:0036158</a></td>
+<td>9.76</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=outer+dynein+arm+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=outer+dynein+arm+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=outer+dynein+arm+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=outer+dynein+arm+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>cerebrospinal fluid circulation</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0090660" target="_blank">GO:0090660</a></td>
+<td>9.71</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=cerebrospinal+fluid+circulation&amp;prefilter=go_proc#go_proc" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=cerebrospinal+fluid+circulation&amp;prefilter=go_proc#go_proc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>epithelial cilium movement involved in determination of left/right asymmetry</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0060287" target="_blank">GO:0060287</a></td>
+<td>9.67</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=epithelial+cilium+movement+involved+in+determination+of+left%2fright+asymmetry&amp;prefilter=go_proc#go_proc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=epithelial+cilium+movement+involved+in+determination+of+left%2fright+asymmetry&amp;prefilter=go_proc#go_proc" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td>inner dynein arm assembly</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0036159" target="_blank">GO:0036159</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=inner+dynein+arm+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=inner+dynein+arm+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=inner+dynein+arm+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=inner+dynein+arm+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td>axonemal dynein complex assembly</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0070286" target="_blank">GO:0070286</a></td>
+<td>9.23</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF3&amp;keywords=axonemal+dynein+complex+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF3 gene information at GeneCards" target="_blank">DNAAF3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF2&amp;keywords=axonemal+dynein+complex+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF2 gene information at GeneCards" target="_blank">DNAAF2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF11&amp;keywords=axonemal+dynein+complex+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF11 gene information at GeneCards" target="_blank">DNAAF11</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF1&amp;keywords=axonemal+dynein+complex+assembly&amp;prefilter=go_proc#go_proc" title="DNAAF1 gene information at GeneCards" target="_blank">DNAAF1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Ciliary Dyskinesia, Primary, 2 according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>dynein intermediate chain binding</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0045505" target="_blank">GO:0045505</a></td>
+<td>9.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DYNLT5&amp;keywords=dynein+intermediate+chain+binding&amp;prefilter=go_func#go_func" title="DYNLT5 gene information at GeneCards" target="_blank">DYNLT5</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAH9&amp;keywords=dynein+intermediate+chain+binding&amp;prefilter=go_func#go_func" title="DNAH9 gene information at GeneCards" target="_blank">DNAH9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DNAAF5&amp;keywords=dynein+intermediate+chain+binding&amp;prefilter=go_func#go_func" title="DNAAF5 gene information at GeneCards" target="_blank">DNAAF5</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Ciliary Dyskinesia, Primary, 2</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#84f7f1f4f4ebf6f0c4e8ede2e1e9e5f4f7e7aae7ebe9">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809eb5064af01cbe',t:'MTY5NTI2MTU0OS4zNDIwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

@@ -1,0 +1,3731 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Combined Oxidative Phosphorylation Deficiency 6 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/combined_oxidative_phosphorylation_deficiency_6" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'combined_oxidative_phosphorylation_deficiency_6';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+COXPD6 <div class="symbol">MCID: CMB017</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 42
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Combined Oxidative Phosphorylation Deficiency 6</span>
+(<span itemprop="alternateName">COXPD6</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Genetic diseases, Metabolic diseases, Muscle diseases, Neuronal diseases, Rare diseases, Respiratory diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#b4c7d5d8d1c7f4d8ddd2d1d9d5c4c7d79ad7dbd9" target="_blank"><span class="__cf_email__" data-cfemail="0d7e6c61687e4d61646b68606c7d7e6e236e6260">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="18 Genes associated with Combined Oxidative Phosphorylation Deficiency 6">Genes</a>
+<a href="#genetic_variations" title="44 Variations associated with Combined Oxidative Phosphorylation Deficiency 6">Variations</a>
+<a href="#anatomical_context" title="3 Tissues associated with Combined Oxidative Phosphorylation Deficiency 6">Tissues</a>
+<a href="#disorders" title="26 Related diseases associated with Combined Oxidative Phosphorylation Deficiency 6">Related diseases</a>
+<a href="#publications" title="5 Publications associated with Combined Oxidative Phosphorylation Deficiency 6">Publications</a>
+<a href="#clinical_features" title="49 Symptoms &amp; Phenotypes associated with Combined Oxidative Phosphorylation Deficiency 6">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/combined_oxidative_phosphorylation_deficiency_6?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Combined Oxidative Phosphorylation Deficiency 6:</h3>
+<div class="main-name">
+Name: <b>Combined Oxidative Phosphorylation Deficiency 6</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300816" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111502" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02854" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="diseasecard"> <a href="http://bioinformatics.ua.pt/diseasecard/evaluateCard.do?diseaseid=300816" title="diseasecard" target="_blank">12</a></sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+<sup title="Unified Medical Language System"><span title="Unified Medical Language System">71</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Severe X-Linked Mitochondrial Encephalomyopathy
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111502" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=238329" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C3151753" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Coxpd6
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300816" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111502" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02854" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Mitochondrial Encephalomyopathy Due to Combined Oxidative Phosphorylation Defect 6
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111502" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=238329" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Mitochondrial Encephalomyopathy Due to Coxpd6
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111502" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=238329" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Oxidative Phosphorylation Deficiency, Combined, Type 6
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/04351" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+<div>
+Encephalomyopathy, Mitochondrial, X-Linked
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300816" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Encephalomyopathy Mitochondrial X-Linked
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02854" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Combined Oxidative Phosphorylation Deficiency 6:</b>
+X-linked recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/300816" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>Severe X-Linked Mitochondrial Encephalomyopathy:</b>
+X-linked recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=238329" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+<b>Severe X-Linked Mitochondrial Encephalomyopathy:</b>
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=238329" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>Severe X-Linked Mitochondrial Encephalomyopathy:</b>
+Infancy,Neonatal <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=238329" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/300816" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>onset in infancy</span>
+<br/>
+<span>progressive disorder</span>
+<br/>
+<span>variable severity and features</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div class="tab">
+<h3>HPO:</h3> <sup title="The Human Phenotype Ontology">30</sup>
+<div class="tab">
+<u>combined oxidative phosphorylation deficiency 6:</u><br/>
+<span>Onset and clinical course</span>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003676" target="_blank">progressive</a> <br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/respiratory_disease_list" target="_blank">Respiratory diseases</a> <a href="https://www.malacards.org/categories/muscle_disease_list" target="_blank">Muscle diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/IV" title="IV" target="_blank">Endocrine, nutritional and metabolic diseases</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70-E90" title="E70-E90" target="_blank">Metabolic disorders</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88" title="E88" target="_blank">Other metabolic disorders</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88.8" title="E88.8" target="_blank">Other specified metabolic disorders</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare neurological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Inborn errors of metabolism <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111502" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0111502" target="_blank">DOID:0111502</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300816" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/300816" target="_blank">300816</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS609060" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS609060" target="_blank">PS609060</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D017237" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D017237" target="_blank">D017237</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88.8" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88.8" target="_blank">E88.8</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_6">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=238329" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=238329" target="_blank">ORPHA238329</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C3151753" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C3151753" target="_blank">C3151753</a>
+</div>
+<div id="ExternalId_item_8">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/102542000" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/102542000" target="_blank">102542000</a> <a href="http://www.snomedbrowser.com/Codes/Details/11538006" target="_blank">11538006</a> <a href="http://www.snomedbrowser.com/Codes/Details/128613002" target="_blank">128613002</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/162294008" target="_blank">162294008</a> <a href="http://www.snomedbrowser.com/Codes/Details/224958001" target="_blank">224958001</a> <a href="http://www.snomedbrowser.com/Codes/Details/229721007" target="_blank">229721007</a> <a href="http://www.snomedbrowser.com/Codes/Details/230145002" target="_blank">230145002</a> <a href="http://www.snomedbrowser.com/Codes/Details/246545002" target="_blank">246545002</a> <a href="http://www.snomedbrowser.com/Codes/Details/249878001" target="_blank">249878001</a> <a href="http://www.snomedbrowser.com/Codes/Details/252157006" target="_blank">252157006</a> <a href="http://www.snomedbrowser.com/Codes/Details/255314001" target="_blank">255314001</a> <a href="http://www.snomedbrowser.com/Codes/Details/255385008" target="_blank">255385008</a> <a href="http://www.snomedbrowser.com/Codes/Details/26544005" target="_blank">26544005</a> <a href="http://www.snomedbrowser.com/Codes/Details/267036007" target="_blank">267036007</a> <a href="http://www.snomedbrowser.com/Codes/Details/271825005" target="_blank">271825005</a> <a href="http://www.snomedbrowser.com/Codes/Details/29164008" target="_blank">29164008</a> <a href="http://www.snomedbrowser.com/Codes/Details/302226006" target="_blank">302226006</a> <a href="http://www.snomedbrowser.com/Codes/Details/313307000" target="_blank">313307000</a> <a href="http://www.snomedbrowser.com/Codes/Details/349006" target="_blank">349006</a> <a href="http://www.snomedbrowser.com/Codes/Details/37280007" target="_blank">37280007</a> <a href="http://www.snomedbrowser.com/Codes/Details/386033004" target="_blank">386033004</a> <a href="http://www.snomedbrowser.com/Codes/Details/398151007" target="_blank">398151007</a> <a href="http://www.snomedbrowser.com/Codes/Details/398152000" target="_blank">398152000</a> <a href="http://www.snomedbrowser.com/Codes/Details/405946002" target="_blank">405946002</a> <a href="http://www.snomedbrowser.com/Codes/Details/409623005" target="_blank">409623005</a> <a href="http://www.snomedbrowser.com/Codes/Details/42345000" target="_blank">42345000</a> <a href="http://www.snomedbrowser.com/Codes/Details/42658009" target="_blank">42658009</a> <a href="http://www.snomedbrowser.com/Codes/Details/43994002" target="_blank">43994002</a> <a href="http://www.snomedbrowser.com/Codes/Details/609225004" target="_blank">609225004</a> <a href="http://www.snomedbrowser.com/Codes/Details/62415009" target="_blank">62415009</a> <a href="http://www.snomedbrowser.com/Codes/Details/70835005" target="_blank">70835005</a> <a href="http://www.snomedbrowser.com/Codes/Details/74035001" target="_blank">74035001</a> <a href="http://www.snomedbrowser.com/Codes/Details/84757009" target="_blank">84757009</a> <a href="http://www.snomedbrowser.com/Codes/Details/85423005" target="_blank">85423005</a> <a href="http://www.snomedbrowser.com/Codes/Details/91175000" target="_blank">91175000</a> <a href="http://www.snomedbrowser.com/Codes/Details/95663000" target="_blank">95663000</a> </span>
+<span class="showmore">
+<a title="show all 36" id="ExternalId_showmore_8" href="javascript:showMoreTable('ExternalId_item_8','ExternalId_showmore_8','more','less','collapsable')">more</a>
+</span>
+</div>
+<div id="ExternalId_item_9">
+<b title="Unified Medical Language System">UMLS</b>
+<sup title="Unified Medical Language System"><span>71</span> </sup>
+<span>C3151753</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://omim.org/entry/300816#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300816#description" target="_blank">57</a></sup>
+Combined oxidative phosphorylation deficiency-6 (COXPD6) is an X-linked recessive severe encephalomyopathic disorder with onset in utero or in infancy. Affected patients have hypotonia and severely impaired psychomotor development associated with variably decreased enzymatic activity of mitochondrial respiratory complexes in skeletal muscle or fibroblasts. More variable features may include sensorimotor neuropathy, seizures, severe muscle weakness, abnormal signals in the basal ganglia, hypertrophic cardiomyopathy, deafness, swallowing difficulties, and respiratory insufficiency. Death in childhood may occur (summary by Berger et al., 2011).
+For a discussion of genetic heterogeneity of combined oxidative phosphorylation deficiency, see COXPD1 (609060). <span> (300816) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Combined Oxidative Phosphorylation Deficiency 6, also known as <i>severe x-linked mitochondrial encephalomyopathy</i>, is related to <i><a href="/card/mitochondrial_encephalomyopathy" target="_blank">mitochondrial encephalomyopathy</a></i> and <i><a href="/card/charcot_marie_tooth_disease_x_linked_recessive_4_with_or_without_cerebellar_ataxia" target="_blank">charcot-marie-tooth disease, x-linked recessive, 4, with or without cerebellar ataxia</a></i>, and has symptoms including <i>muscular fasciculation</i>, <i>seizures</i> and <i>muscle weakness</i>. An important gene associated with Combined Oxidative Phosphorylation Deficiency 6 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" target="_blank">AIFM1</a> (Apoptosis Inducing Factor Mitochondria Associated 1), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/nervous_system_development" target="_blank">Nervous system development</a></i> and <i><a href="https://pathcards.genecards.org/card/keratinization" target="_blank">Keratinization</a></i>. Affiliated tissues include <i>skeletal muscle</i> and <i>tongue</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0000750" target="_blank">delayed speech and language development</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0003202" target="_blank">skeletal muscle atrophy</a></i></p>
+<p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=238329" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=238329" target="_blank">58</a></sup>
+Severe X-linked mitochondrial encephalomyopathy is an extremely rare mitochondrial respiratory chain disease resulting in a neurodegenerative disorder characterized by psychomotor delay, hypotonia, areflexia, muscle weakness and wasting in the two patients reported to date.</p><p> <b> <a href="http://www.uniprot.org/diseases/DI-02854" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-02854" target="_blank">73</a></sup>
+A mitochondrial disease resulting in a neurodegenerative disorder characterized by psychomotor delay, hypotonia, areflexia, muscle weakness and wasting. Some patients manifest prenatal ventriculomegaly and severe postnatal encephalomyopathy.</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0111502" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0111502" target="_blank">11</a></sup>
+A combined oxidative phosphorylation deficiency that has material basis in hemizygous mutation in the AIFM1 gene on chromosome Xq26.1.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Combined Oxidative Phosphorylation Deficiency 6 via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 26', 'showing 26, show less','collapsable')">show all 26</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/mitochondrial_encephalomyopathy" target="_blank">mitochondrial encephalomyopathy</a></td>
+<td>30.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=mitochondrial+encephalomyopathy&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+encephalomyopathy&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=mitochondrial+encephalomyopathy&amp;prefilter=diseases#diseases" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/charcot_marie_tooth_disease_x_linked_recessive_4_with_or_without_cerebellar_ataxia" target="_blank">charcot-marie-tooth disease, x-linked recessive, 4, with or without cerebellar ataxia</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A&amp;keywords=charcot-marie-tooth+disease%2c+x-linked+recessive%2c+4%2c+with+or+without+cerebellar+ataxia&amp;prefilter=diseases#diseases" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=charcot-marie-tooth+disease%2c+x-linked+recessive%2c+4%2c+with+or+without+cerebellar+ataxia&amp;prefilter=diseases#diseases" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/spondyloepimetaphyseal_dysplasia_x_linked_with_hypomyelinating_leukodystrophy" target="_blank">spondyloepimetaphyseal dysplasia, x-linked, with hypomyelinating leukodystrophy</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A&amp;keywords=spondyloepimetaphyseal+dysplasia%2c+x-linked%2c+with+hypomyelinating+leukodystrophy&amp;prefilter=diseases#diseases" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=spondyloepimetaphyseal+dysplasia%2c+x-linked%2c+with+hypomyelinating+leukodystrophy&amp;prefilter=diseases#diseases" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/deafness_x_linked_5_with_peripheral_neuropathy" target="_blank">deafness, x-linked 5, with peripheral neuropathy</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A&amp;keywords=deafness%2c+x-linked+5%2c+with+peripheral+neuropathy&amp;prefilter=diseases#diseases" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=deafness%2c+x-linked+5%2c+with+peripheral+neuropathy&amp;prefilter=diseases#diseases" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/charcot_marie_tooth_disease_type_x" target="_blank">charcot-marie-tooth disease type x</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHCHD4&amp;keywords=charcot-marie-tooth+disease+type+x&amp;prefilter=diseases#diseases" title="CHCHD4 gene information at GeneCards" target="_blank">CHCHD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=charcot-marie-tooth+disease+type+x&amp;prefilter=diseases#diseases" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/indeterminate_leprosy" target="_blank">indeterminate leprosy</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-8&amp;keywords=indeterminate+leprosy&amp;prefilter=diseases#diseases" title="KRTAP5-8 gene information at GeneCards" target="_blank">KRTAP5-8</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-2&amp;keywords=indeterminate+leprosy&amp;prefilter=diseases#diseases" title="KRTAP5-2 gene information at GeneCards" target="_blank">KRTAP5-2</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/turner_syndrome" target="_blank">turner syndrome</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=turner+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/mitochondrial_dna_associated_leigh_syndrome_and_narp" target="_blank">mitochondrial dna-associated leigh syndrome and narp</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=mitochondrial+dna-associated+leigh+syndrome+and+narp&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/nuclear_gene_encoded_leigh_syndrome_spectrum" target="_blank">nuclear gene-encoded leigh syndrome spectrum</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=nuclear+gene-encoded+leigh+syndrome+spectrum&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/mitochondrial_dna_depletion_syndrome_9_encephalomyopathic_type_with_methylmalonic_aciduria" target="_blank">mitochondrial dna depletion syndrome 9</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=mitochondrial+dna+depletion+syndrome+9&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHCHD4&amp;keywords=mitochondrial+dna+depletion+syndrome+9&amp;prefilter=diseases#diseases" title="CHCHD4 gene information at GeneCards" target="_blank">CHCHD4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/naegeli_franceschetti_jadassohn_syndrome" target="_blank">naegeli-franceschetti-jadassohn syndrome</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT84&amp;keywords=naegeli-franceschetti-jadassohn+syndrome&amp;prefilter=diseases#diseases" title="KRT84 gene information at GeneCards" target="_blank">KRT84</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82&amp;keywords=naegeli-franceschetti-jadassohn+syndrome&amp;prefilter=diseases#diseases" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/combined_oxidative_phosphorylation_deficiency_30" target="_blank">combined oxidative phosphorylation deficiency 30</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TRMT10C&amp;keywords=combined+oxidative+phosphorylation+deficiency+30&amp;prefilter=diseases#diseases" title="TRMT10C gene information at GeneCards" target="_blank">TRMT10C</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NALCN&amp;keywords=combined+oxidative+phosphorylation+deficiency+30&amp;prefilter=diseases#diseases" title="NALCN gene information at GeneCards" target="_blank">NALCN</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DCAF5&amp;keywords=combined+oxidative+phosphorylation+deficiency+30&amp;prefilter=diseases#diseases" title="DCAF5 gene information at GeneCards" target="_blank">DCAF5</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/neuropathy_ataxia_and_retinitis_pigmentosa" target="_blank">neuropathy, ataxia, and retinitis pigmentosa</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=neuropathy%2c+ataxia%2c+and+retinitis+pigmentosa&amp;prefilter=diseases#diseases" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=neuropathy%2c+ataxia%2c+and+retinitis+pigmentosa&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/mitochondrial_disease" target="_blank">mitochondrial disease</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TRMT10C&amp;keywords=mitochondrial+disease&amp;prefilter=diseases#diseases" title="TRMT10C gene information at GeneCards" target="_blank">TRMT10C</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=mitochondrial+disease&amp;prefilter=diseases#diseases" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=mitochondrial+disease&amp;prefilter=diseases#diseases" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/linear_skin_defects_with_multiple_congenital_anomalies_2" target="_blank">linear skin defects with multiple congenital anomalies 2</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COX7B&amp;keywords=linear+skin+defects+with+multiple+congenital+anomalies+2&amp;prefilter=diseases#diseases" title="COX7B gene information at GeneCards" target="_blank">COX7B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=linear+skin+defects+with+multiple+congenital+anomalies+2&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/mitochondrial_dna_depletion_syndrome_3_hepatocerebral_type" target="_blank">mitochondrial dna depletion syndrome 3</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=mitochondrial+dna+depletion+syndrome+3&amp;prefilter=diseases#diseases" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+dna+depletion+syndrome+3&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/charcot_marie_tooth_disease" target="_blank">charcot-marie-tooth disease</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=charcot-marie-tooth+disease&amp;prefilter=diseases#diseases" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A&amp;keywords=charcot-marie-tooth+disease&amp;prefilter=diseases#diseases" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=charcot-marie-tooth+disease&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=charcot-marie-tooth+disease&amp;prefilter=diseases#diseases" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/mitochondrial_metabolism_disease" target="_blank">mitochondrial metabolism disease</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=mitochondrial+metabolism+disease&amp;prefilter=diseases#diseases" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=mitochondrial+metabolism+disease&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+metabolism+disease&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/bjornstad_syndrome" target="_blank">bjornstad syndrome</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COX7B&amp;keywords=bjornstad+syndrome&amp;prefilter=diseases#diseases" title="COX7B gene information at GeneCards" target="_blank">COX7B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=bjornstad+syndrome&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/mitochondrial_dna_depletion_syndrome" target="_blank">mitochondrial dna depletion syndrome</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=mitochondrial+dna+depletion+syndrome&amp;prefilter=diseases#diseases" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=mitochondrial+dna+depletion+syndrome&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHCHD4&amp;keywords=mitochondrial+dna+depletion+syndrome&amp;prefilter=diseases#diseases" title="CHCHD4 gene information at GeneCards" target="_blank">CHCHD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+dna+depletion+syndrome&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/mitochondrial_myopathy" target="_blank">mitochondrial myopathy</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=mitochondrial+myopathy&amp;prefilter=diseases#diseases" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=mitochondrial+myopathy&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHCHD4&amp;keywords=mitochondrial+myopathy&amp;prefilter=diseases#diseases" title="CHCHD4 gene information at GeneCards" target="_blank">CHCHD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+myopathy&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/lactic_acidosis" target="_blank">lactic acidosis</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TRMT10C&amp;keywords=lactic+acidosis&amp;prefilter=diseases#diseases" title="TRMT10C gene information at GeneCards" target="_blank">TRMT10C</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=lactic+acidosis&amp;prefilter=diseases#diseases" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=lactic+acidosis&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=lactic+acidosis&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/leber_hereditary_optic_neuropathy_modifier_of" target="_blank">leber hereditary optic neuropathy, modifier of</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=leber+hereditary+optic+neuropathy%2c+modifier+of&amp;prefilter=diseases#diseases" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=leber+hereditary+optic+neuropathy%2c+modifier+of&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=leber+hereditary+optic+neuropathy%2c+modifier+of&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/kearns_sayre_syndrome" target="_blank">kearns-sayre syndrome</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=kearns-sayre+syndrome&amp;prefilter=diseases#diseases" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=kearns-sayre+syndrome&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=kearns-sayre+syndrome&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="/card/mitochondrial_myopathy_encephalopathy_lactic_acidosis_and_stroke_like_episodes" target="_blank">mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes</a></td>
+<td>9.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=mitochondrial+myopathy%2c+encephalopathy%2c+lactic+acidosis%2c+and+stroke-like+episodes&amp;prefilter=diseases#diseases" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=mitochondrial+myopathy%2c+encephalopathy%2c+lactic+acidosis%2c+and+stroke-like+episodes&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COX7B&amp;keywords=mitochondrial+myopathy%2c+encephalopathy%2c+lactic+acidosis%2c+and+stroke-like+episodes&amp;prefilter=diseases#diseases" title="COX7B gene information at GeneCards" target="_blank">COX7B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+myopathy%2c+encephalopathy%2c+lactic+acidosis%2c+and+stroke-like+episodes&amp;prefilter=diseases#diseases" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="/card/charcot_marie_tooth_disease_x_linked_recessive_4" target="_blank">charcot-marie-tooth disease x-linked recessive 4</a></td>
+<td>8.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A&amp;keywords=charcot-marie-tooth+disease+x-linked+recessive+4&amp;prefilter=diseases#diseases" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=charcot-marie-tooth+disease+x-linked+recessive+4&amp;prefilter=diseases#diseases" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP9-1&amp;keywords=charcot-marie-tooth+disease+x-linked+recessive+4&amp;prefilter=diseases#diseases" title="KRTAP9-1 gene information at GeneCards" target="_blank">KRTAP9-1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-8&amp;keywords=charcot-marie-tooth+disease+x-linked+recessive+4&amp;prefilter=diseases#diseases" title="KRTAP5-8 gene information at GeneCards" target="_blank">KRTAP5-8</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-2&amp;keywords=charcot-marie-tooth+disease+x-linked+recessive+4&amp;prefilter=diseases#diseases" title="KRTAP5-2 gene information at GeneCards" target="_blank">KRTAP5-2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP4-7&amp;keywords=charcot-marie-tooth+disease+x-linked+recessive+4&amp;prefilter=diseases#diseases" title="KRTAP4-7 gene information at GeneCards" target="_blank">KRTAP4-7</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Combined Oxidative Phosphorylation Deficiency 6:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/combined_oxidative_phosphorylation_deficiency_6_related_diseases.jpg" width="100%" alt="Diseases related to Combined Oxidative Phosphorylation Deficiency 6" title="Diseases related to Combined Oxidative Phosphorylation Deficiency 6" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Combined Oxidative Phosphorylation Deficiency 6:</h3>
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 36', 'showing 36, show less','collapsable')">show all 36</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+delayed speech and language development
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000750" target="_blank">HP:0000750</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+skeletal muscle atrophy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003202" target="_blank">HP:0003202</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+areflexia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001284" target="_blank">HP:0001284</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+peripheral neuropathy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009830" target="_blank">HP:0009830</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+severe muscular hypotonia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0006829" target="_blank">HP:0006829</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+moderate global developmental delay
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0011343" target="_blank">HP:0011343</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+generalized muscle weakness
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003324" target="_blank">HP:0003324</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+generalized hypotonia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001290" target="_blank">HP:0001290</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+increased variability in muscle fiber diameter
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003557" target="_blank">HP:0003557</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+abnormal corpus striatum morphology
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0010994" target="_blank">HP:0010994</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+sensory axonal neuropathy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Hallmark (90%)</td>
+<td>
+Very frequent (99-80%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003390" target="_blank">HP:0003390</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+respiratory insufficiency
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002093" target="_blank">HP:0002093</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+developmental regression
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002376" target="_blank">HP:0002376</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+irritability
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000737" target="_blank">HP:0000737</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+increased serum lactate
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002151" target="_blank">HP:0002151</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+involuntary movements
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004305" target="_blank">HP:0004305</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+increased csf lactate
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002490" target="_blank">HP:0002490</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+increased serum pyruvate
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003542" target="_blank">HP:0003542</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+respiratory distress
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002098" target="_blank">HP:0002098</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+
+hypokinesia
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002375" target="_blank">HP:0002375</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+
+increased connective tissue
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Frequent (33%)</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0009025" target="_blank">HP:0009025</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+
+tongue fasciculations
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+Frequent (79-30%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001308" target="_blank">HP:0001308</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+
+feeding difficulties in infancy
+<sup title="Orphanet">58</sup>
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+Occasional (29-5%)<br/>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008872" target="_blank">HP:0008872</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+
+hypotonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001252" target="_blank">HP:0001252</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+
+muscle weakness
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001324" target="_blank">HP:0001324</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+
+global developmental delay
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001263" target="_blank">HP:0001263</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+
+ragged-red muscle fibers
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0003200" target="_blank">HP:0003200</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+
+seizure
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">HP:0001250</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+
+tetraplegia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002445" target="_blank">HP:0002445</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+
+respiratory insufficiency due to muscle weakness
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002747" target="_blank">HP:0002747</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+
+polyneuropathy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001271" target="_blank">HP:0001271</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+
+generalized-onset seizure
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002197" target="_blank">HP:0002197</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+
+motor polyneuropathy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0007178" target="_blank">HP:0007178</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+
+decreased activity of mitochondrial complex iv
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0008347" target="_blank">HP:0008347</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+
+hyporeflexia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001265" target="_blank">HP:0001265</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+
+abnormal basal ganglia morphology
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002134" target="_blank">HP:0002134</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/300816" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>tetraplegia</span>
+<br/>
+<span>hypotonia</span>
+<br/>
+<span>involuntary movements</span>
+<br/>
+<span>fasciculations</span>
+<br/>
+<span>encephalopathy</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>seizures</span>
+<br/>
+<span>enlarged ventricles</span>
+<br/>
+<span>psychomotor retardation, severe</span>
+<br/>
+<span>poor or absent speech</span>
+<br/>
+<span>psychomotor regression (if onset within first years of life)</span>
+<br/>
+<span>decreased spontaneous movements</span>
+<br/>
+<span>signal abnormalities in the basal ganglia seen on mri</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 12" id="ClinicalSynopsis_showmore_1" href="javascript:showMoreTable('ClinicalSynopsis_item_1','ClinicalSynopsis_showmore_1','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Cardiovascular Heart:</u><br/>
+<span>hypertrophic cardiomyopathy</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>poor eye contact</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Head And Neck Ears:</u><br/>
+<span>hearing loss (in some patients)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>increased lactate in serum and csf</span>
+<br/>
+<span>increased pyruvate in serum and csf</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Muscle Soft Tissue:</u><br/>
+<span>muscle weakness</span>
+<br/>
+<span>muscle atrophy</span>
+<br/>
+<span>mitochondrial dna depletion (20 to 35% of normal) seen on skeletal muscle biopsy (in some patients)</span>
+<br/>
+<span>decreased activity of multiple mitochondrial respiratory complex enzymes</span>
+<br/>
+<span>ragged-red fibers</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>increased fatty and connective tissue in skeletal muscle</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 6" id="ClinicalSynopsis_showmore_6" href="javascript:showMoreTable('ClinicalSynopsis_item_6','ClinicalSynopsis_showmore_6','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Respiratory:</u><br/>
+<span>respiratory insufficiency due to muscle weakness</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Abdomen Gastrointestinal:</u><br/>
+<span>feeding difficulties</span>
+<br/>
+<span>tube feeding</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Neurologic Peripheral Nervous System:</u><br/>
+<span>hyporeflexia or areflexia</span>
+<br/>
+<span>sensory and motor axonal polyneuropathy</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/300816#clinicalFeatures" target="_blank">300816</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div>
+<div class="symptoms_div">
+<h3>UMLS symptoms related to Combined Oxidative Phosphorylation Deficiency 6:</h3>
+<br/>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>muscular fasciculation;</span>
+</span>
+</span>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>seizures;</span>
+</span>
+</span>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>muscle weakness;</span>
+</span>
+</span>
+<span itemprop="signOrSymptom" itemscope="itemscope" itemtype="http://schema.org/MedicalSymptom">
+<span itemprop="name">
+<span>involuntary movements</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Combined Oxidative Phosphorylation Deficiency 6" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Combined Oxidative Phosphorylation Deficiency 6&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Combined Oxidative Phosphorylation Deficiency 6</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Combined Oxidative Phosphorylation Deficiency 6:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Severe X-Linked Mitochondrial Encephalomyopathy
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C3151753" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=severe+x-linked+mitochondrial+encephalomyopathy&amp;prefilter=diseases#diseases" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Combined Oxidative Phosphorylation Deficiency 6: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="4.757874">Skeletal Muscle</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.7909777">Tongue</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.3538128">Eye</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Combined Oxidative Phosphorylation Deficiency 6 according to PubMed, OMIM&#174;, and ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Severe X-linked mitochondrial encephalomyopathy associated with a mutation in apoptosis-inducing factor.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ghezzi D...Zeviani M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/20362274" target="_blank">20362274</a></td>
+<td>2010</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A novel AIFM1 mutation expands the phenotype to an infantile motor neuron disease.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Diodato D...Bertini E</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26173962" target="_blank">26173962</a></td>
+<td>2016</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+From ventriculomegaly to severe muscular atrophy: expansion of the clinical spectrum related to mutations in AIFM1.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kettwig M...Huppke P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25583628" target="_blank">25583628</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Early prenatal ventriculomegaly due to an AIFM1 mutation identified by linkage analysis and whole exome sequencing.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Berger I...Elpeleg O</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22019070" target="_blank">22019070</a></td>
+<td>2011</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Combined Oxidative Phosphorylation Deficiency 6 according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Spondyloepimetaphyseal dysplasia with neurodegeneration associated with AIFM1 mutation - a novel phenotype of the mitochondrial disease.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mierzewska H...Ploski R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27102849" target="_blank">27102849</a></td>
+<td>2017</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Combined Oxidative Phosphorylation Deficiency 6 (2 elite genes):</h3>
+<span class="showmore">
+(<a id="RelatedGenes-table_SeeMore" href="javascript:showMoreTable('RelatedGenes-table','RelatedGenes-table_SeeMore', 'show all 18', 'showing 18, show less','collapsable')">show all 18</a>)
+</span>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Apoptosis Inducing Factor Mitochondria Associated 1</td>
+<td>Protein Coding</td>
+<td>1701.06</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/300169" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=19491" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000287295&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_AIFM1">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=Combined+Oxidative+Phosphorylation+Deficiency+6&amp;prefilter=diseases#diseases" title="AIFM1 gene information at GeneCards" target="_blank">Disorders</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=Combined+Oxidative+Phosphorylation+Deficiency+6&amp;prefilter=summaries#summaries" title="AIFM1 gene information at GeneCards" target="_blank">Summaries</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_AIFM1_SeeMore" href="javascript:showMoreTable('related_genes_AIFM1','related_genes_AIFM1_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20362274" title="ClinVar" target="_blank">20362274</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22019070" title="ClinVar" target="_blank">22019070</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25583628" title="ClinVar" target="_blank">25583628</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/26173962" title="ClinVar" target="_blank">26173962</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>RAB33A, Member RAS Oncogene Family</td>
+<td>Protein Coding</td>
+<td>425</td>
+<td>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20362274" title="ClinVar" target="_blank">20362274</a> <a href="https://pubmed.ncbi.nlm.nih.gov/22019070" title="ClinVar" target="_blank">22019070</a> <a href="https://pubmed.ncbi.nlm.nih.gov/25583628" title="ClinVar" target="_blank">25583628</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_2_SeeMore" href="javascript:showMoreTable('pubmedids_item_2','pubmedids_item_2_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/26173962" title="ClinVar" target="_blank">26173962</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP9-1" title="KRTAP9-1 gene information at GeneCards" target="_blank">KRTAP9-1</a></div>
+</div>
+</td>
+<td>Keratin Associated Protein 9-1</td>
+<td>Protein Coding</td>
+<td>5.78</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000381488&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP4-7" title="KRTAP4-7 gene information at GeneCards" target="_blank">KRTAP4-7</a></div>
+</div>
+</td>
+<td>Keratin Associated Protein 4-7</td>
+<td>Protein Coding</td>
+<td>5.74</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000375236&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHCHD4" title="CHCHD4 gene information at GeneCards" target="_blank">CHCHD4</a></div>
+</div>
+</td>
+<td>Coiled-Coil-Helix-Coiled-Coil-Helix Domain Containing 4</td>
+<td>Protein Coding</td>
+<td>5.57</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000295767&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TRMT10C" title="TRMT10C gene information at GeneCards" target="_blank">TRMT10C</a></div>
+</div>
+</td>
+<td>TRNA Methyltransferase 10C, Mitochondrial RNase P Subunit</td>
+<td>Protein Coding</td>
+<td>5.55</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000312356&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-2" title="KRTAP5-2 gene information at GeneCards" target="_blank">KRTAP5-2</a></div>
+</div>
+</td>
+<td>Keratin Associated Protein 5-2</td>
+<td>Protein Coding</td>
+<td>5.39</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000400041&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-8" title="KRTAP5-8 gene information at GeneCards" target="_blank">KRTAP5-8</a></div>
+</div>
+</td>
+<td>Keratin Associated Protein 5-8</td>
+<td>Protein Coding</td>
+<td>5.39</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000420723&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP3-3" title="KRTAP3-3 gene information at GeneCards" target="_blank">KRTAP3-3</a></div>
+</div>
+</td>
+<td>Keratin Associated Protein 3-3</td>
+<td>Protein Coding</td>
+<td>5.33</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000375428&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">10</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP11-1" title="KRTAP11-1 gene information at GeneCards" target="_blank">KRTAP11-1</a></div>
+</div>
+</td>
+<td>Keratin Associated Protein 11-1</td>
+<td>Protein Coding</td>
+<td>5.29</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000330720&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_10">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">11</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NALCN" title="NALCN gene information at GeneCards" target="_blank">NALCN</a></div>
+</div>
+</td>
+<td>Sodium Leak Channel, Non-Selective</td>
+<td>Protein Coding</td>
+<td>5.16</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000251127&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_11">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">12</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a></div>
+</div>
+</td>
+<td>NADH:Ubiquinone Oxidoreductase Subunit S4</td>
+<td>Protein Coding</td>
+<td>5.09</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000296684&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_12">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">13</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a></div>
+</div>
+</td>
+<td>BCS1 Homolog, Ubiquinol-Cytochrome C Reductase Complex Chaperone</td>
+<td>Protein Coding</td>
+<td>5.08</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000413908&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_13">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">14</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a></div>
+</div>
+</td>
+<td>Keratin 82</td>
+<td>Protein Coding</td>
+<td>4.99</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000257974&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_14">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">15</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT84" title="KRT84 gene information at GeneCards" target="_blank">KRT84</a></div>
+</div>
+</td>
+<td>Keratin 84</td>
+<td>Protein Coding</td>
+<td>4.93</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000257951&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_15">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">16</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a></div>
+</div>
+</td>
+<td>Synthesis Of Cytochrome C Oxidase 2</td>
+<td>Protein Coding</td>
+<td>4.92</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000444433&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_16">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">17</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COX7B" title="COX7B gene information at GeneCards" target="_blank">COX7B</a></div>
+</div>
+</td>
+<td>Cytochrome C Oxidase Subunit 7B</td>
+<td>Protein Coding</td>
+<td>4.78</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000417656&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_17">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr class="collapsable">
+<td rowspan="1">18</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=DCAF5" title="DCAF5 gene information at GeneCards" target="_blank">DCAF5</a></div>
+</div>
+</td>
+<td>DDB1 And CUL4 Associated Factor 5</td>
+<td>Protein Coding</td>
+<td>4.67</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000341351&amp;type2=-26&amp;id2=DOID:0111502" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_18">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Combined Oxidative Phosphorylation Deficiency 6:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show all 41', 'showing 41, show less','collapsable')">show all 41</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.603_605del (p.Arg201del)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000012302/" title="RCV000012302" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/11546/?new_evidence=true#id_second" target="_blank">11546</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/387906500" target="_blank">rs387906500</a></td>
+<td>GRCh37: X:129281468-129281470<br/>GRCh38: X:130147493-130147495</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1164+5G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002282609/" title="RCV002282609" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1343826/?new_evidence=true#id_second" target="_blank">1343826</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:129270613-129270613<br/>GRCh38: X:130136638-130136638</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1436A&gt;G (p.Gln479Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000408758/" title="RCV000408758" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/369972/?new_evidence=true#id_second" target="_blank">369972</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057516211" target="_blank">rs1057516211</a></td>
+<td>GRCh37: X:129267300-129267300<br/>GRCh38: X:130133325-130133325</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.923G&gt;A (p.Gly308Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000907842/" title="RCV000907842" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/732658/?new_evidence=true#id_second" target="_blank">732658</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1603224226" target="_blank">rs1603224226</a></td>
+<td>GRCh37: X:129272612-129272612<br/>GRCh38: X:130138637-130138637</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1013G&gt;A (p.Gly338Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000907852/" title="RCV000907852" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/732668/?new_evidence=true#id_second" target="_blank">732668</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1603223152" target="_blank">rs1603223152</a></td>
+<td>GRCh37: X:129271115-129271115<br/>GRCh38: X:130137140-130137140</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.727G&gt;T (p.Val243Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000907860/" title="RCV000907860" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/732675/?new_evidence=true#id_second" target="_blank">732675</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1603225138" target="_blank">rs1603225138</a></td>
+<td>GRCh37: X:129274562-129274562<br/>GRCh38: X:130140587-130140587</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.506C&gt;T (p.Pro169Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001262516/" title="RCV001262516" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/982823/?new_evidence=true#id_second" target="_blank">982823</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/2030801584" target="_blank">rs2030801584</a></td>
+<td>GRCh37: X:129281567-129281567<br/>GRCh38: X:130147592-130147592</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.170C&gt;G (p.Ser57Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000766070/" title="RCV000766070" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/445310/?new_evidence=true#id_second" target="_blank">445310</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/201711375" target="_blank">rs201711375</a></td>
+<td>GRCh37: X:129290514-129290514<br/>GRCh38: X:130156540-130156540</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1227TGG[1] (p.Gly411del)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001535821/" title="RCV001535821" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1179012/?new_evidence=true#id_second" target="_blank">1179012</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:129270093-129270095<br/>GRCh38: X:130136118-130136120</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1647A&gt;G (p.Ala549=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000304209/" title="RCV000304209" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/367889/?new_evidence=true#id_second" target="_blank">367889</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057515767" target="_blank">rs1057515767</a></td>
+<td>GRCh37: X:129264068-129264068<br/>GRCh38: X:130130093-130130093</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.452G&gt;A (p.Arg151Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000768430/" title="RCV000768430" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/214082/?new_evidence=true#id_second" target="_blank">214082</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/752742151" target="_blank">rs752742151</a></td>
+<td>GRCh37: X:129281749-129281749<br/>GRCh38: X:130147774-130147774</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1693A&gt;G (p.Ile565Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002487666/" title="RCV002487666" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/642792/?new_evidence=true#id_second" target="_blank">642792</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1375125488" target="_blank">rs1375125488</a></td>
+<td>GRCh37: X:129264022-129264022<br/>GRCh38: X:130130047-130130047</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.147G&gt;C (p.Gln49His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001329822/" title="RCV001329822" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1028702/?new_evidence=true#id_second" target="_blank">1028702</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/867606904" target="_blank">rs867606904</a></td>
+<td>GRCh37: X:129290537-129290537<br/>GRCh38: X:130156563-130156563</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1596T&gt;A (p.Ser532Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003148193/" title="RCV003148193" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2441878/?new_evidence=true#id_second" target="_blank">2441878</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:129264119-129264119<br/>GRCh38: X:130130144-130130144</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1267G&gt;A (p.Val423Ile)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003152986/" title="RCV003152986" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2444188/?new_evidence=true#id_second" target="_blank">2444188</a></td>
+<td><span></span> </td>
+<td>GRCh37: X:129270058-129270058<br/>GRCh38: X:130136083-130136083</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.*49C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000270368/" title="RCV000270368" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/367888/?new_evidence=true#id_second" target="_blank">367888</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1057515766" target="_blank">rs1057515766</a></td>
+<td>GRCh37: X:129263483-129263483<br/>GRCh38: X:130129508-130129508</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.-140C&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000294173/" title="RCV000294173" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/367895/?new_evidence=true#id_second" target="_blank">367895</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/770737305" target="_blank">rs770737305</a></td>
+<td>GRCh37: X:129299770-129299770<br/>GRCh38: X:130165796-130165796</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.-185G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000401191/" title="RCV000401191" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/367897/?new_evidence=true#id_second" target="_blank">367897</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/770317876" target="_blank">rs770317876</a></td>
+<td>GRCh37: X:129299815-129299815<br/>GRCh38: X:130165841-130165841</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1355T&gt;C (p.Val452Ala)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001166265/" title="RCV001166265" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/912874/?new_evidence=true#id_second" target="_blank">912874</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1356446773" target="_blank">rs1356446773</a></td>
+<td>GRCh37: X:129267381-129267381<br/>GRCh38: X:130133406-130133406</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.858+13T&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001166792/" title="RCV001166792" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/913253/?new_evidence=true#id_second" target="_blank">913253</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/769724106" target="_blank">rs769724106</a></td>
+<td>GRCh37: X:129273757-129273757<br/>GRCh38: X:130139782-130139782</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.697-4C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001166793/" title="RCV001166793" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/913254/?new_evidence=true#id_second" target="_blank">913254</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/2030541270" target="_blank">rs2030541270</a></td>
+<td>GRCh37: X:129274596-129274596<br/>GRCh38: X:130140621-130140621</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.248A&gt;G (p.Tyr83Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001168505/" title="RCV001168505" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/914370/?new_evidence=true#id_second" target="_blank">914370</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1488258655" target="_blank">rs1488258655</a></td>
+<td>GRCh37: X:129290436-129290436<br/>GRCh38: X:130156462-130156462</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.-90G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001168506/" title="RCV001168506" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/914371/?new_evidence=true#id_second" target="_blank">914371</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/780436043" target="_blank">rs780436043</a></td>
+<td>GRCh37: X:129299720-129299720<br/>GRCh38: X:130165746-130165746</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.597A&gt;G (p.Lys199=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002483929/" title="RCV002483929" target="_blank">Likely Benign</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001166794/" title="RCV001166794" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/913255/?new_evidence=true#id_second" target="_blank">913255</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/143670174" target="_blank">rs143670174</a></td>
+<td>GRCh37: X:129281476-129281476<br/>GRCh38: X:130147501-130147501</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1227T&gt;G (p.Thr409=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002485482/" title="RCV002485482" target="_blank">Likely Benign</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001166266/" title="RCV001166266" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/543932/?new_evidence=true#id_second" target="_blank">543932</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61730898" target="_blank">rs61730898</a></td>
+<td>GRCh37: X:129270098-129270098<br/>GRCh38: X:130136123-130136123</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1047C&gt;T (p.Ser349=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000264409/" title="RCV000264409" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/214080/?new_evidence=true#id_second" target="_blank">214080</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/781350745" target="_blank">rs781350745</a></td>
+<td>GRCh37: X:129271081-129271081<br/>GRCh38: X:130137106-130137106</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.340G&gt;A (p.Ala114Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001166795/" title="RCV001166795" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/857026/?new_evidence=true#id_second" target="_blank">857026</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/772308346" target="_blank">rs772308346</a></td>
+<td>GRCh37: X:129283453-129283453<br/>GRCh38: X:130149478-130149478</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.103C&gt;T (p.Pro35Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002498588/" title="RCV002498588" target="_blank">Likely Benign</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000333876/" title="RCV000333876" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/136326/?new_evidence=true#id_second" target="_blank">136326</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/61730896" target="_blank">rs61730896</a></td>
+<td>GRCh37: X:129299528-129299528<br/>GRCh38: X:130165554-130165554</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1644G&gt;A (p.Pro548=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001166263/" title="RCV001166263" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/377456/?new_evidence=true#id_second" target="_blank">377456</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/150821143" target="_blank">rs150821143</a></td>
+<td>GRCh37: X:129264071-129264071<br/>GRCh38: X:130130096-130130096</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.366A&gt;G (p.Glu122=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000316193/" title="RCV000316193" target="_blank">Likely Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/367891/?new_evidence=true#id_second" target="_blank">367891</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/756883753" target="_blank">rs756883753</a></td>
+<td>GRCh37: X:129281835-129281835<br/>GRCh38: X:130147860-130147860</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1833T&gt;C (p.His611=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002498587/" title="RCV002498587" target="_blank">Likely Benign</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001169185/" title="RCV001169185" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/136325/?new_evidence=true#id_second" target="_blank">136325</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/73556209" target="_blank">rs73556209</a></td>
+<td>GRCh37: X:129263541-129263541<br/>GRCh38: X:130129566-130129566</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.996A&gt;G (p.Gln332=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000321843/" title="RCV000321843" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/136322/?new_evidence=true#id_second" target="_blank">136322</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/12007545" target="_blank">rs12007545</a></td>
+<td>GRCh37: X:129271132-129271132<br/>GRCh38: X:130137157-130137157</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1329C&gt;T (p.Tyr443=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000361279/" title="RCV000361279" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/136323/?new_evidence=true#id_second" target="_blank">136323</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/143792929" target="_blank">rs143792929</a></td>
+<td>GRCh37: X:129267407-129267407<br/>GRCh38: X:130133432-130133432</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.918C&gt;T (p.Ile306=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000374413/" title="RCV000374413" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/136320/?new_evidence=true#id_second" target="_blank">136320</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/12014115" target="_blank">rs12014115</a></td>
+<td>GRCh37: X:129272617-129272617<br/>GRCh38: X:130138642-130138642</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.273T&gt;C (p.Asp91=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000373191/" title="RCV000373191" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/367892/?new_evidence=true#id_second" target="_blank">367892</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1139851" target="_blank">rs1139851</a></td>
+<td>GRCh37: X:129283520-129283520<br/>GRCh38: X:130149545-130149545</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.-165G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000346794/" title="RCV000346794" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/367896/?new_evidence=true#id_second" target="_blank">367896</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/759015293" target="_blank">rs759015293</a></td>
+<td>GRCh37: X:129299795-129299795<br/>GRCh38: X:130165821-130165821</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.606-15C&gt;T</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000263434/" title="RCV000263434" target="_blank">Benign</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002488830/" title="RCV002488830" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/367890/?new_evidence=true#id_second" target="_blank">367890</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/191297808" target="_blank">rs191297808</a></td>
+<td>GRCh37: X:129279559-129279559<br/>GRCh38: X:130145584-130145584</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.1416T&gt;C (p.Ala472=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001166264/" title="RCV001166264" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/136324/?new_evidence=true#id_second" target="_blank">136324</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/141324245" target="_blank">rs141324245</a></td>
+<td>GRCh37: X:129267320-129267320<br/>GRCh38: X:130133345-130133345</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.262A&gt;G (p.Met88Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000295299/" title="RCV000295299" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/367893/?new_evidence=true#id_second" target="_blank">367893</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/750098055" target="_blank">rs750098055</a></td>
+<td>GRCh37: X:129283531-129283531<br/>GRCh38: X:130149556-130149556</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.968-14T&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001166267/" title="RCV001166267" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/912875/?new_evidence=true#id_second" target="_blank">912875</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/201991839" target="_blank">rs201991839</a></td>
+<td>GRCh37: X:129271174-129271174<br/>GRCh38: X:130137199-130137199</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RAB33A" title="RAB33A gene information at GeneCards" target="_blank">RAB33A</a>, <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td style="overflow-wrap:break-word;">NM_004208.4(AIFM1):c.72C&gt;T (p.Cys24=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000386138/" title="RCV000386138" target="_blank">Benign</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/367894/?new_evidence=true#id_second" target="_blank">367894</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/373609902" target="_blank">rs373609902</a></td>
+<td>GRCh37: X:129299559-129299559<br/>GRCh38: X:130165585-130165585</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Combined Oxidative Phosphorylation Deficiency 6:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td>p.Gly308Glu</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_067334.html" target="_blank">VAR_067334</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1603224226" target="_blank">rs1603224226</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td>p.Val243Leu</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_072791.html" target="_blank">VAR_072791</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1603225138" target="_blank">rs1603225138</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a></td>
+<td>p.Gly338Glu</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_083068.html" target="_blank">VAR_083068</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1603223152" target="_blank">rs1603223152</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Combined%20Oxidative%20Phosphorylation%20Deficiency%206%22%5BMeSH%20Terms%5D%20OR%20%22Combined%20Oxidative%20Phosphorylation%20Deficiency%206%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Combined Oxidative Phosphorylation Deficiency 6.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Combined Oxidative Phosphorylation Deficiency 6 according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Nervous_system_development_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/nervous_system_development" target="_blank">Nervous system development</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-9675108" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-422475" target="_blank">Axon guidance</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-1266738" target="_blank">Developmental Biology</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>12.86</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP11-1&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRTAP11-1 gene information at GeneCards" target="_blank">KRTAP11-1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT84&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT84 gene information at GeneCards" target="_blank">KRT84</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP3-3&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRTAP3-3 gene information at GeneCards" target="_blank">KRTAP3-3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-8&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRTAP5-8 gene information at GeneCards" target="_blank">KRTAP5-8</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP9-1&amp;keywords=Nervous+system+development&amp;prefilter=pathways_interactions#pathways_interactions" title="KRTAP9-1 gene information at GeneCards" target="_blank">KRTAP9-1</a> </td>
+</tr>
+<tr id="Keratinization_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/keratinization" target="_blank">Keratinization</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-6805567" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-6809371" target="_blank">Formation of the cornified envelope</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>11.71</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP11-1&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRTAP11-1 gene information at GeneCards" target="_blank">KRTAP11-1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT84&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT84 gene information at GeneCards" target="_blank">KRT84</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP3-3&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRTAP3-3 gene information at GeneCards" target="_blank">KRTAP3-3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-8&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRTAP5-8 gene information at GeneCards" target="_blank">KRTAP5-8</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP9-1&amp;keywords=Keratinization&amp;prefilter=pathways_interactions#pathways_interactions" title="KRTAP9-1 gene information at GeneCards" target="_blank">KRTAP9-1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Cellular components related to Combined Oxidative Phosphorylation Deficiency 6 according to GeneCards Suite gene sharing:</h3>
+<table id="go_cc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>mitochondrial inner membrane</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005743" target="_blank">GO:0005743</a></td>
+<td>9.85</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COX7B&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="COX7B gene information at GeneCards" target="_blank">COX7B</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>intermediate filament</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005882" target="_blank">GO:0005882</a></td>
+<td>9.61</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP9-1&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRTAP9-1 gene information at GeneCards" target="_blank">KRTAP9-1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-8&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRTAP5-8 gene information at GeneCards" target="_blank">KRTAP5-8</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-2&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRTAP5-2 gene information at GeneCards" target="_blank">KRTAP5-2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP4-7&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRTAP4-7 gene information at GeneCards" target="_blank">KRTAP4-7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP3-3&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRTAP3-3 gene information at GeneCards" target="_blank">KRTAP3-3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP11-1&amp;keywords=intermediate+filament&amp;prefilter=go_cc#go_cc" title="KRTAP11-1 gene information at GeneCards" target="_blank">KRTAP11-1</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>keratin filament</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0045095" target="_blank">GO:0045095</a></td>
+<td>9.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP9-1&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRTAP9-1 gene information at GeneCards" target="_blank">KRTAP9-1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-8&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRTAP5-8 gene information at GeneCards" target="_blank">KRTAP5-8</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-2&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRTAP5-2 gene information at GeneCards" target="_blank">KRTAP5-2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP4-7&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRTAP4-7 gene information at GeneCards" target="_blank">KRTAP4-7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP3-3&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRTAP3-3 gene information at GeneCards" target="_blank">KRTAP3-3</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP11-1&amp;keywords=keratin+filament&amp;prefilter=go_cc#go_cc" title="KRTAP11-1 gene information at GeneCards" target="_blank">KRTAP11-1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Biological processes related to Combined Oxidative Phosphorylation Deficiency 6 according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>mitochondrial cytochrome c oxidase assembly</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0033617" target="_blank">GO:0033617</a></td>
+<td>9.56</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=mitochondrial+cytochrome+c+oxidase+assembly&amp;prefilter=go_proc#go_proc" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+cytochrome+c+oxidase+assembly&amp;prefilter=go_proc#go_proc" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>mitochondrial respiratory chain complex I assembly</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0032981" target="_blank">GO:0032981</a></td>
+<td>9.55</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDUFS4&amp;keywords=mitochondrial+respiratory+chain+complex+I+assembly&amp;prefilter=go_proc#go_proc" title="NDUFS4 gene information at GeneCards" target="_blank">NDUFS4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCS1L&amp;keywords=mitochondrial+respiratory+chain+complex+I+assembly&amp;prefilter=go_proc#go_proc" title="BCS1L gene information at GeneCards" target="_blank">BCS1L</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=mitochondrial+respiratory+chain+complex+I+assembly&amp;prefilter=go_proc#go_proc" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>mitochondrial respiratory chain complex assembly</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0033108" target="_blank">GO:0033108</a></td>
+<td>9.26</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHCHD4&amp;keywords=mitochondrial+respiratory+chain+complex+assembly&amp;prefilter=go_proc#go_proc" title="CHCHD4 gene information at GeneCards" target="_blank">CHCHD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=mitochondrial+respiratory+chain+complex+assembly&amp;prefilter=go_proc#go_proc" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>protein import into mitochondrial intermembrane space</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0045041" target="_blank">GO:0045041</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHCHD4&amp;keywords=protein+import+into+mitochondrial+intermembrane+space&amp;prefilter=go_proc#go_proc" title="CHCHD4 gene information at GeneCards" target="_blank">CHCHD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=AIFM1&amp;keywords=protein+import+into+mitochondrial+intermembrane+space&amp;prefilter=go_proc#go_proc" title="AIFM1 gene information at GeneCards" target="_blank">AIFM1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Combined Oxidative Phosphorylation Deficiency 6 according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>protein-disulfide reductase activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0015035" target="_blank">GO:0015035</a></td>
+<td>9.26</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=CHCHD4&amp;keywords=protein-disulfide+reductase+activity&amp;prefilter=go_func#go_func" title="CHCHD4 gene information at GeneCards" target="_blank">CHCHD4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SCO2&amp;keywords=protein-disulfide+reductase+activity&amp;prefilter=go_func#go_func" title="SCO2 gene information at GeneCards" target="_blank">SCO2</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>structural constituent of skin epidermis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0030280" target="_blank">GO:0030280</a></td>
+<td>9.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRTAP5-8&amp;keywords=structural+constituent+of+skin+epidermis&amp;prefilter=go_func#go_func" title="KRTAP5-8 gene information at GeneCards" target="_blank">KRTAP5-8</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT84&amp;keywords=structural+constituent+of+skin+epidermis&amp;prefilter=go_func#go_func" title="KRT84 gene information at GeneCards" target="_blank">KRT84</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=KRT82&amp;keywords=structural+constituent+of+skin+epidermis&amp;prefilter=go_func#go_func" title="KRT82 gene information at GeneCards" target="_blank">KRT82</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Combined Oxidative Phosphorylation Deficiency 6</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#53202623233c2127133f3a35363e322320307d303c3e">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ed60d6bde3a83',t:'MTY5NTI2MjkwMS41MTQwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

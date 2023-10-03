@@ -1,0 +1,3458 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Coenzyme Q10 Deficiency, Primary, 7 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/coenzyme_q10_deficiency_primary_7" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'coenzyme_q10_deficiency_primary_7';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+COQ10D7 <div class="symbol">MCID: CNZ010</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 43
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Coenzyme Q10 Deficiency, Primary, 7</span>
+(<span itemprop="alternateName">COQ10D7</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Cardiovascular diseases, Genetic diseases, Metabolic diseases, Neuronal diseases, Rare diseases, Respiratory diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#9be8faf7fee8dbf7f2fdfef6faebe8f8b5f8f4f6" target="_blank"><span class="__cf_email__" data-cfemail="d1a2b0bdb4a291bdb8b7b4bcb0a1a2b2ffb2bebc">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="6 Genes associated with Coenzyme Q10 Deficiency, Primary, 7">Genes</a>
+<a href="#genetic_variations" title="213 Variations associated with Coenzyme Q10 Deficiency, Primary, 7">Variations</a>
+<a href="#anatomical_context" title="9 Tissues associated with Coenzyme Q10 Deficiency, Primary, 7">Tissues</a>
+<a href="#disorders" title="24 Related diseases associated with Coenzyme Q10 Deficiency, Primary, 7">Related diseases</a>
+<a href="#publications" title="15 Publications associated with Coenzyme Q10 Deficiency, Primary, 7">Publications</a>
+<a href="#clinical_features" title="29 Symptoms &amp; Phenotypes associated with Coenzyme Q10 Deficiency, Primary, 7">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/coenzyme_q10_deficiency_primary_7?search%3dRare+diseases=&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Coenzyme Q10 Deficiency, Primary, 7:</h3>
+<div class="main-name">
+Name: <b>Coenzyme Q10 Deficiency, Primary, 7</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616276" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070244" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04354" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Neonatal Encephalomyopathy-Cardiomyopathy-Respiratory Distress Syndrome
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070244" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=457185" title="Orphanet" target="_blank">58</a></sup>
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C5568562" title="Genetic Testing Registry" target="_blank">28</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Coq10d7
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616276" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070244" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04354" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Coq4-Related Neonatal Encephalomyopathy
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070244" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=457185" title="Orphanet" target="_blank">58</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Primary Coenzyme Q10 Deficiency 7
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070244" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0070244" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<div>
+Coenzyme Q10 Deficiency, Primary, Type 7
+<sup title="Leiden Open Variation Database"> <a href="https://databases.lovd.nl/shared/diseases/04428" title="Leiden Open Variation Database" target="_blank">38</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+<b>Coenzyme Q10 Deficiency, Primary, 7:</b>
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/616276" target="_blank">57</a></sup>
+</div>
+<div class="tab">
+<b>Neonatal Encephalomyopathy-Cardiomyopathy-Respiratory Distress Syndrome:</b>
+Autosomal recessive <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=457185" target="_blank">58</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>Prevelance:</h3>
+<div class="tab">
+<b>Neonatal Encephalomyopathy-Cardiomyopathy-Respiratory Distress Syndrome:</b>
+&lt;1/1000000 (Worldwide) <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=457185" target="_blank">58</a></sup>
+</div>
+<br/>
+<h3>Age Of Onset:</h3>
+<div class="tab">
+<b>Neonatal Encephalomyopathy-Cardiomyopathy-Respiratory Distress Syndrome:</b>
+Antenatal,Infancy,Neonatal <sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=457185" target="_blank">58</a></sup>
+</div>
+<br/>
+</div>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/616276" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>prenatal onset or onset at birth</span>
+<br/>
+<span>most patients die in the first days of life</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/metabolic_disease_list" target="_blank">Metabolic diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/respiratory_disease_list" target="_blank">Respiratory diseases</a> <a href="https://www.malacards.org/categories/cardiovascular_disease_list" target="_blank">Cardiovascular diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<div class="tab">
+<b>ICD10:</b>
+<sup title="ICD10 via Orphanet">32</sup>
+<br/>
+<div style="padding-left: 0px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/IV" title="IV" target="_blank">Endocrine, nutritional and metabolic diseases</a>
+</div>
+<div style="padding-left: 30px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E70-E90" title="E70-E90" target="_blank">Metabolic disorders</a>
+</div>
+<div style="padding-left: 60px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88" title="E88" target="_blank">Other metabolic disorders</a>
+</div>
+<div style="padding-left: 90px;">
+<img src="/img/grey_arrow.png" alt title width="20" style />
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88.8" title="E88.8" target="_blank">Other specified metabolic disorders</a>
+</div>
+</div>
+<div class="tab">
+<b>Orphanet: </b> <sup title="Orphanet">58</sup>
+&nbsp;<br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Rare neurological diseases <br/>
+<img src="/img/grey_arrow.png" alt title width="20" style />
+Inborn errors of metabolism <br/>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070244" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0070244" target="_blank">DOID:0070244</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616276" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/616276" target="_blank">616276</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS607426" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS607426" target="_blank">PS607426</a>
+</div>
+<div id="ExternalId_item_4">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D028361" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D028361" target="_blank">D028361</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_5">
+<b title="ICD10 via Orphanet">ICD10 via Orphanet</b>
+<sup title="ICD10 via Orphanet"> <a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88.8" target="_blank">32</a></sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2019/en#/E88.8" target="_blank">E88.8</a>
+</div>
+<div id="ExternalId_item_6">
+<b title="Orphanet">Orphanet</b>
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=457185" target="_blank">58</a></sup>
+<a href="http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=457185" target="_blank">ORPHA457185</a>
+</div>
+<div id="ExternalId_item_7">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/C5568562" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/C5568562" target="_blank">C5568562</a> <a href="http://www.ncbi.nlm.nih.gov/medgen/CN228795" target="_blank">CN228795</a>
+</div>
+<div id="ExternalId_item_8">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/111266001" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/111266001" target="_blank">111266001</a> <a href="http://www.snomedbrowser.com/Codes/Details/128613002" target="_blank">128613002</a> <a href="http://www.snomedbrowser.com/Codes/Details/16026008" target="_blank">16026008</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/199612005" target="_blank">199612005</a> <a href="http://www.snomedbrowser.com/Codes/Details/205294008" target="_blank">205294008</a> <a href="http://www.snomedbrowser.com/Codes/Details/22033007" target="_blank">22033007</a> <a href="http://www.snomedbrowser.com/Codes/Details/233873004" target="_blank">233873004</a> <a href="http://www.snomedbrowser.com/Codes/Details/246545002" target="_blank">246545002</a> <a href="http://www.snomedbrowser.com/Codes/Details/253549006" target="_blank">253549006</a> <a href="http://www.snomedbrowser.com/Codes/Details/26544005" target="_blank">26544005</a> <a href="http://www.snomedbrowser.com/Codes/Details/288939007" target="_blank">288939007</a> <a href="http://www.snomedbrowser.com/Codes/Details/30288003" target="_blank">30288003</a> <a href="http://www.snomedbrowser.com/Codes/Details/313307000" target="_blank">313307000</a> <a href="http://www.snomedbrowser.com/Codes/Details/398151007" target="_blank">398151007</a> <a href="http://www.snomedbrowser.com/Codes/Details/398152000" target="_blank">398152000</a> <a href="http://www.snomedbrowser.com/Codes/Details/40739000" target="_blank">40739000</a> <a href="http://www.snomedbrowser.com/Codes/Details/409623005" target="_blank">409623005</a> <a href="http://www.snomedbrowser.com/Codes/Details/45227007" target="_blank">45227007</a> <a href="http://www.snomedbrowser.com/Codes/Details/48867003" target="_blank">48867003</a> <a href="http://www.snomedbrowser.com/Codes/Details/61152003" target="_blank">61152003</a> <a href="http://www.snomedbrowser.com/Codes/Details/62067003" target="_blank">62067003</a> <a href="http://www.snomedbrowser.com/Codes/Details/64217002" target="_blank">64217002</a> <a href="http://www.snomedbrowser.com/Codes/Details/83330001" target="_blank">83330001</a> <a href="http://www.snomedbrowser.com/Codes/Details/84757009" target="_blank">84757009</a> <a href="http://www.snomedbrowser.com/Codes/Details/91175000" target="_blank">91175000</a> </span>
+<span class="showmore">
+<a title="show all 25" id="ExternalId_showmore_8" href="javascript:showMoreTable('ExternalId_item_8','ExternalId_showmore_8','more','less','collapsable')">more</a>
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://omim.org/entry/616276#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/616276#description" target="_blank">57</a></sup>
+Primary coenzyme Q10 deficiency-7 (COQ10D7) is an autosomal recessive disorder resulting from mitochondrial dysfunction. Most patients have onset of severe cardiac or neurologic symptoms soon after birth, usually resulting in death. Rare patients may have later onset with a more protracted course. Tissue samples from affected individuals show decreased levels of coenzyme Q10 (CoQ10) (summary by Brea-Calvo et al., 2015).
+For a general phenotypic description and a discussion of genetic heterogeneity of primary coenzyme Q10 deficiency, see COQ10D1 (607426). <span> (616276) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Coenzyme Q10 Deficiency, Primary, 7, also known as <i>neonatal encephalomyopathy-cardiomyopathy-respiratory distress syndrome</i>, is related to <i><a href="/card/coenzyme_q10_deficiency_disease" target="_blank">coenzyme q10 deficiency disease</a></i> and <i><a href="/card/mitochondrial_disease" target="_blank">mitochondrial disease</a></i>. An important gene associated with Coenzyme Q10 Deficiency, Primary, 7 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" target="_blank">COQ4</a> (Coenzyme Q4), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/metabolism_of_water-soluble_vitamins_and_cofactors" target="_blank">Metabolism of water-soluble vitamins and cofactors</a></i> and <i><a href="https://pathcards.genecards.org/card/metabolism_of_cofactors" target="_blank">Metabolism of cofactors</a></i>. Affiliated tissues include <i>brain</i> and <i>skeletal muscle</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">seizure</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0002650" target="_blank">scoliosis</a></i></p>
+<p> <b> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=457185" target="_blank">Orphanet</a>:</b>
+<sup title="Orphanet"> <a href="https://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=EN&amp;Expert=457185" target="_blank">58</a></sup>
+A rare mitochondrial disease characterized by neonatal onset of severe cardiac and/or neurologic signs and symptoms mostly associated with a fatal outcome in the neonatal period or in infancy, although a milder phenotype with later onset and slowly progressive neurologic deterioration has also been reported. Clinical manifestations are variable and include respiratory insufficiency, hypotonia, cardiomyopathy, and seizures. Serum lactate is elevated in most cases. Brain imaging may show cerebellar atrophy or hypoplasia.</p><p> <b> <a href="http://www.uniprot.org/diseases/DI-04354" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-04354" target="_blank">73</a></sup>
+An autosomal recessive disorder resulting from mitochondrial dysfunction and characterized by decreased levels of coenzyme Q10, and severe cardiac or neurologic symptoms soon after birth, usually resulting in death. Rarely, symptoms may have later onset.</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0070244" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0070244" target="_blank">11</a></sup>
+A primary coenzyme Q10 deficiency that has material basis in an autosomal recessive mutation of the COQ4 gene on chromosome 9q34.11.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases related to Coenzyme Q10 Deficiency, Primary, 7 via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show all 24', 'showing 24, show less','collapsable')">show all 24</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/coenzyme_q10_deficiency_disease" target="_blank">coenzyme q10 deficiency disease</a></td>
+<td>28.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=coenzyme+q10+deficiency+disease&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=coenzyme+q10+deficiency+disease&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=coenzyme+q10+deficiency+disease&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=coenzyme+q10+deficiency+disease&amp;prefilter=diseases#diseases" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=coenzyme+q10+deficiency+disease&amp;prefilter=diseases#diseases" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=coenzyme+q10+deficiency+disease&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/mitochondrial_disease" target="_blank">mitochondrial disease</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=mitochondrial+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/cardiomyopathy_familial_hypertrophic_1" target="_blank">cardiomyopathy, familial hypertrophic, 1</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=cardiomyopathy%2c+familial+hypertrophic%2c+1&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/bronchopulmonary_dysplasia" target="_blank">bronchopulmonary dysplasia</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=bronchopulmonary+dysplasia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/hypertrophic_cardiomyopathy" target="_blank">hypertrophic cardiomyopathy</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hypertrophic+cardiomyopathy&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/newborn_respiratory_distress_syndrome" target="_blank">newborn respiratory distress syndrome</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=newborn+respiratory+distress+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/lactic_acidosis" target="_blank">lactic acidosis</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lactic+acidosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/hypotonia" target="_blank">hypotonia</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hypotonia&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/mitochondrial_dna_depletion_syndrome" target="_blank">mitochondrial dna depletion syndrome</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=mitochondrial+dna+depletion+syndrome&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=mitochondrial+dna+depletion+syndrome&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/cardiofaciocutaneous_syndrome_1" target="_blank">cardiofaciocutaneous syndrome 1</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=cardiofaciocutaneous+syndrome+1&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=cardiofaciocutaneous+syndrome+1&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/aceruloplasminemia" target="_blank">aceruloplasminemia</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=aceruloplasminemia&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=aceruloplasminemia&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/mitochondrial_encephalomyopathy" target="_blank">mitochondrial encephalomyopathy</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=mitochondrial+encephalomyopathy&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=mitochondrial+encephalomyopathy&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/spastic_ataxia" target="_blank">spastic ataxia</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=spastic+ataxia&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=spastic+ataxia&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/intellectual_developmental_disorder_x_linked_syndromic_billuart_type" target="_blank">intellectual developmental disorder, x-linked, syndromic, billuart type</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=intellectual+developmental+disorder%2c+x-linked%2c+syndromic%2c+billuart+type&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=intellectual+developmental+disorder%2c+x-linked%2c+syndromic%2c+billuart+type&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=intellectual+developmental+disorder%2c+x-linked%2c+syndromic%2c+billuart+type&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/kearns_sayre_syndrome" target="_blank">kearns-sayre syndrome</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=kearns-sayre+syndrome&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=kearns-sayre+syndrome&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=kearns-sayre+syndrome&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/coenzyme_q10_deficiency_primary_3" target="_blank">coenzyme q10 deficiency, primary, 3</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+3&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+3&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+3&amp;prefilter=diseases#diseases" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+3&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/coenzyme_q10_deficiency_primary_2" target="_blank">coenzyme q10 deficiency, primary, 2</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+2&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+2&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+2&amp;prefilter=diseases#diseases" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+2&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/coenzyme_q10_deficiency_primary_6" target="_blank">coenzyme q10 deficiency, primary, 6</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+6&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+6&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+6&amp;prefilter=diseases#diseases" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+6&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/mitochondrial_myopathy_encephalopathy_lactic_acidosis_and_stroke_like_episodes" target="_blank">mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes</a></td>
+<td>9.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=mitochondrial+myopathy%2c+encephalopathy%2c+lactic+acidosis%2c+and+stroke-like+episodes&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=mitochondrial+myopathy%2c+encephalopathy%2c+lactic+acidosis%2c+and+stroke-like+episodes&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=mitochondrial+myopathy%2c+encephalopathy%2c+lactic+acidosis%2c+and+stroke-like+episodes&amp;prefilter=diseases#diseases" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=mitochondrial+myopathy%2c+encephalopathy%2c+lactic+acidosis%2c+and+stroke-like+episodes&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/multiple_acyl_coa_dehydrogenase_deficiency" target="_blank">multiple acyl-coa dehydrogenase deficiency</a></td>
+<td>9.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=multiple+acyl-coa+dehydrogenase+deficiency&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=multiple+acyl-coa+dehydrogenase+deficiency&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=multiple+acyl-coa+dehydrogenase+deficiency&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=multiple+acyl-coa+dehydrogenase+deficiency&amp;prefilter=diseases#diseases" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=multiple+acyl-coa+dehydrogenase+deficiency&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/coenzyme_q10_deficiency_primary_5" target="_blank">coenzyme q10 deficiency, primary, 5</a></td>
+<td>8.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+5&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+5&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+5&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+5&amp;prefilter=diseases#diseases" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+5&amp;prefilter=diseases#diseases" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+5&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/coenzyme_q10_deficiency_primary_4" target="_blank">coenzyme q10 deficiency, primary, 4</a></td>
+<td>8.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+4&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+4&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+4&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+4&amp;prefilter=diseases#diseases" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+4&amp;prefilter=diseases#diseases" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=coenzyme+q10+deficiency%2c+primary%2c+4&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/mitochondrial_myopathy" target="_blank">mitochondrial myopathy</a></td>
+<td>8.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=mitochondrial+myopathy&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=mitochondrial+myopathy&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=mitochondrial+myopathy&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=mitochondrial+myopathy&amp;prefilter=diseases#diseases" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=mitochondrial+myopathy&amp;prefilter=diseases#diseases" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=mitochondrial+myopathy&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/leigh_syndrome_nuclear_dna_mutation" target="_blank">leigh syndrome</a></td>
+<td>8.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=leigh+syndrome&amp;prefilter=diseases#diseases" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=leigh+syndrome&amp;prefilter=diseases#diseases" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=leigh+syndrome&amp;prefilter=diseases#diseases" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=leigh+syndrome&amp;prefilter=diseases#diseases" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=leigh+syndrome&amp;prefilter=diseases#diseases" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=leigh+syndrome&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Coenzyme Q10 Deficiency, Primary, 7:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/coenzyme_q10_deficiency_primary_7_related_diseases.jpg" width="100%" alt="Diseases related to Coenzyme Q10 Deficiency, Primary, 7" title="Diseases related to Coenzyme Q10 Deficiency, Primary, 7" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Coenzyme Q10 Deficiency, Primary, 7:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 19', 'showing 19, show less','collapsable')">show all 19</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+seizure
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001250" target="_blank">HP:0001250</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+scoliosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002650" target="_blank">HP:0002650</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+intrauterine growth retardation
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001511" target="_blank">HP:0001511</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+hypertrophic cardiomyopathy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001639" target="_blank">HP:0001639</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+patent ductus arteriosus
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001643" target="_blank">HP:0001643</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+cerebellar hypoplasia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001321" target="_blank">HP:0001321</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+epileptic encephalopathy
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0200134" target="_blank">HP:0200134</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+bradycardia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Occasional (7.5%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001662" target="_blank">HP:0001662</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+hypotonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001252" target="_blank">HP:0001252</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+muscle weakness
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001324" target="_blank">HP:0001324</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+coarse facial features
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000280" target="_blank">HP:0000280</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+epicanthus
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000286" target="_blank">HP:0000286</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+hypoplastic left heart
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0004383" target="_blank">HP:0004383</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+
+intellectual disability, moderate
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002342" target="_blank">HP:0002342</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+
+ventricular septal defect
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001629" target="_blank">HP:0001629</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+
+dysphagia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002015" target="_blank">HP:0002015</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+
+respiratory insufficiency
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002093" target="_blank">HP:0002093</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+
+neonatal hypotonia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001319" target="_blank">HP:0001319</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+
+increased serum lactate
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td></td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002151" target="_blank">HP:0002151</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/616276" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Laboratory Abnormalities:</u><br/>
+<span>increased serum lactate</span>
+<br/>
+<span>increased urinary 2-oh glutaric acid (in some patients)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Cardiovascular Vascular:</u><br/>
+<span>patent ductus arteriosus (in some patients)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Abdomen Gastrointestinal:</u><br/>
+<span>swallowing difficulties</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Respiratory:</u><br/>
+<span>respiratory insufficiency, neonatal</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Growth Other:</u><br/>
+<span>intrauterine growth retardation (in some patients)</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Neurologic Central Nervous System:</u><br/>
+<span>seizures (in some patients)</span>
+<br/>
+<span>cerebellar hypoplasia (in some patients)</span>
+<br/>
+<span>ataxia (in some patients)</span>
+<br/>
+<span>epileptic encephalopathy (in some patients)</span>
+<br/>
+<span>regression of psychomotor development (in 1 patient)</span>
+<br/>
+<span class="collapsable" style="display: none;">
+<span>loss of ambulation (in 1 patient)</span>
+<br/>
+<span>hypotonia (in 1 patient)</span>
+<br/>
+</span>
+<span class="showmore">
+<a title="show all 7" id="ClinicalSynopsis_showmore_6" href="javascript:showMoreTable('ClinicalSynopsis_item_6','ClinicalSynopsis_showmore_6','more','less','collapsable')">more</a>
+</span>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Muscle Soft Tissue:</u><br/>
+<span>hypotonia, neonatal</span>
+<br/>
+<span>skeletal muscle biopsy shows decreased activity of coupled complex activity in the electron transport chain</span>
+<br/>
+<span>increased activity of coupled complex activity in the electron transport chain (1 patient)</span>
+<br/>
+<span>decreased coenzyme q10 levels</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Cardiovascular Heart:</u><br/>
+<span>hypertrophic cardiomyopathy (in some patients)</span>
+<br/>
+<span>bradycardia (in some patients)</span>
+<br/>
+<span>left ventricular hypoplasia (in some patients)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Skeletal Spine:</u><br/>
+<span>scoliosis (1 patient)</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Neurologic Peripheral Nervous System:</u><br/>
+<span>sensorimotor polyneuropathy (in 1 patient)</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/616276#clinicalFeatures" target="_blank">616276</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicaltrials.gov/ct2/results?term=Coenzyme Q10 Deficiency, Primary, 7" target="_blank">Clinical Trials</a>,
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Coenzyme Q10 Deficiency, Primary, 7&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Coenzyme Q10 Deficiency, Primary, 7</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Genetic tests related to Coenzyme Q10 Deficiency, Primary, 7:</h3>
+<table id="gene_tests">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Genetic test</th>
+<th>Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+Neonatal Encephalomyopathy-Cardiomyopathy-Respiratory Distress Syndrome
+<sup title="Genetic Testing Registry"> <a href="https://www.ncbi.nlm.nih.gov/gtr/conditions/C5568562" target="_blank">28</a></sup>
+</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=neonatal+encephalomyopathy-cardiomyopathy-respiratory+distress+syndrome&amp;prefilter=diseases#diseases" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Coenzyme Q10 Deficiency, Primary, 7: <sup title="MalaCards">39</sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">55</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="1.84187">Brain</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/616276/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="1.420419">Skeletal Muscle</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/616276/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span title="0.5369663">Bone Marrow</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.4541126">Cerebellum</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.3782215">Heart</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.2657895">Bone</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.04785552">Skin</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span>Blood And Bone Marrow</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/616276/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+, <span itemprop="name">
+<span>Brain-Cerebellum</span>
+</span>
+<sup title="The Organ-Disease Annotation database of tissue-selective hereditary diseases"> <a href="https://netbio.bgu.ac.il/odisea/#sample/All%20Tissues/616276/All%20Genes/All%20Diseases" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">55</a></sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Coenzyme Q10 Deficiency, Primary, 7 according to OMIM&#174;, ClinVar, and PubMed:</h3>
+<span class="showmore">
+(<a id="Publications-table_SeeMore" href="javascript:showMoreTable('Publications-table','Publications-table_SeeMore', 'show all 13', 'showing 13, show less','collapsable')">show all 13</a>)
+</span>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+New pathogenic variants in COQ4 cause ataxia and neurodevelopmental disorder without detectable CoQ10 deficiency in muscle or skin fibroblasts.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Mero S...Marchese M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33704555" target="_blank">33704555</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Mutations in COQ4, an essential component of coenzyme Q biosynthesis, cause lethal neonatal mitochondrial encephalomyopathy.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chung WK...Shinawi M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26185144" target="_blank">26185144</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+COQ4 mutations cause a broad spectrum of mitochondrial disorders associated with CoQ10 deficiency.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Brea-Calvo G...Ghezzi D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/25658047" target="_blank">25658047</a></td>
+<td>2015</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Haploinsufficiency of COQ4 causes coenzyme Q10 deficiency.
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Salviati L...Navas P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/22368301" target="_blank">22368301</a></td>
+<td>2012</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Primary coenzyme Q10 deficiency-7: expanded phenotypic spectrum and a founder mutation in southern Chinese.
+<sup title="PubMed">62</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yu MH...Chung BH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31396399" target="_blank">31396399</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Rapid Phenotype-Driven Gene Sequencing with the NeoSeq Panel: A Diagnostic Tool for Critically Ill Newborns with Suspected Genetic Disease.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">de Castro MJ...Couce ML</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32718099" target="_blank">32718099</a></td>
+<td>2020</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Clinical phenotype, in silico and biomedical analyses, and intervention for an East Asian population-specific c.370G>A (p.G124S) COQ4 mutation in a Chinese family with CoQ10 deficiency-associated Leigh syndrome.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lu M...Guo Q</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30659264" target="_blank">30659264</a></td>
+<td>2019</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Novel recessive mutations in COQ4 cause severe infantile cardiomyopathy and encephalopathy associated with CoQ10 deficiency.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sondheimer N...Naini AB</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/28540186" target="_blank">28540186</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Candidate-gene criteria for clinical reporting: diagnostic exome sequencing identifies altered candidate genes among 8% of patients with undiagnosed diseases.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Farwell Hagman KD...Tang S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27513193" target="_blank">27513193</a></td>
+<td>2017</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Diagnostic exome sequencing provides a molecular diagnosis for a significant proportion of patients with epilepsy.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Helbig KL...Helbig I</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/26795593" target="_blank">26795593</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Aberrant 5' splice sites in human disease genes: mutation pattern, nucleotide structure and comparison of computational tools that predict their utilization.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Buratti E...Vorechovsky I</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/17576681" target="_blank">17576681</a></td>
+<td>2007</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Splicing in action: assessing disease causing sequence changes.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Baralle D...Baralle M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/16199547" target="_blank">16199547</a></td>
+<td>2005</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Statistical features of human exons and their flanking regions.
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang MQ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/9536098" target="_blank">9536098</a></td>
+<td>1998</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Coenzyme Q10 Deficiency, Primary, 7 according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Primary Coenzyme Q10 Deficiency-7 and Pathogenic COQ4 Variants: Clinical Presentation, Biochemical Analyses, and Treatment.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Xie J...Guo Q</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35154243" target="_blank">35154243</a></td>
+<td>2021</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Primary coenzyme Q10 deficiency-7: a case report and literature review].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chen XR...Yao YH</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33120466" target="_blank">33120466</a></td>
+<td>2020</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Coenzyme Q10 Deficiency, Primary, 7 (1 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>Coenzyme Q4</td>
+<td>Protein Coding</td>
+<td>1683.28</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/612898" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+Causative germline mutation (loss of function)
+<sup title="Orphanet"> <a href="http://www.orpha.net/consor/cgi-bin/Disease_Genes.php?lng=EN&amp;data_id=23793" title="Orphanet" target="_blank">58</a></sup>
+</div>
+<div>
+Causative variation
+<sup title="UniProtKB/Swiss-Prot"> <a href="#genetic_variations" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Genetic Tests
+<sup title="Genetic Testing Registry"> <a href="#genetic_testing" title="Genetic Testing Registry" target="_blank">28</a></sup>
+</div>
+<div>
+Likely pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000300452&amp;type2=-26&amp;id2=DOID:0070244" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/9536098" title="ClinVar" target="_blank">9536098</a> <a href="https://pubmed.ncbi.nlm.nih.gov/16199547" title="ClinVar" target="_blank">16199547</a> <a href="https://pubmed.ncbi.nlm.nih.gov/17576681" title="ClinVar" target="_blank">17576681</a> </span>
+<span class="showmore">
+(<a id="pubmedids_item_1_SeeMore" href="javascript:showMoreTable('pubmedids_item_1','pubmedids_item_1_SeeMore', 'more', 'less','syn_collapsable')">more</a>)
+</span>
+<br/>
+<span class="syn_collapsable">
+<a href="https://pubmed.ncbi.nlm.nih.gov/25658047" title="ClinVar" target="_blank">25658047</a> <a href="https://pubmed.ncbi.nlm.nih.gov/26185144" title="ClinVar" target="_blank">26185144</a> <a href="https://pubmed.ncbi.nlm.nih.gov/26795593" title="ClinVar" target="_blank">26795593</a> <a href="https://pubmed.ncbi.nlm.nih.gov/27513193" title="ClinVar" target="_blank">27513193</a> <a href="https://pubmed.ncbi.nlm.nih.gov/28540186" title="ClinVar" target="_blank">28540186</a> <a href="https://pubmed.ncbi.nlm.nih.gov/30659264" title="ClinVar" target="_blank">30659264</a> <a href="https://pubmed.ncbi.nlm.nih.gov/31396399" title="ClinVar" target="_blank">31396399</a> <a href="https://pubmed.ncbi.nlm.nih.gov/32718099" title="ClinVar" target="_blank">32718099</a> <a href="https://pubmed.ncbi.nlm.nih.gov/33704555" title="ClinVar" target="_blank">33704555</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a></div>
+</div>
+</td>
+<td>Coenzyme Q7, Hydroxylase</td>
+<td>Protein Coding</td>
+<td>7.16</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000322316&amp;type2=-26&amp;id2=DOID:0070244" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a></div>
+</div>
+</td>
+<td>Coenzyme Q9</td>
+<td>Protein Coding</td>
+<td>6.87</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000262507&amp;type2=-26&amp;id2=DOID:0070244" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a></div>
+</div>
+</td>
+<td>Coenzyme Q6, Monooxygenase</td>
+<td>Protein Coding</td>
+<td>6.8</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000333946&amp;type2=-26&amp;id2=DOID:0070244" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a></div>
+</div>
+</td>
+<td>Coenzyme Q8A</td>
+<td>Protein Coding</td>
+<td>6.78</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000355741&amp;type2=-26&amp;id2=DOID:0070244" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a></div>
+</div>
+</td>
+<td>Decaprenyl Diphosphate Synthase Subunit 1</td>
+<td>Protein Coding</td>
+<td>6.74</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000365388&amp;type2=-26&amp;id2=DOID:0070244" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Coenzyme Q10 Deficiency, Primary, 7:</h3>
+<sup title="ClinVar">5</sup>
+<span class="showmore">
+(<a id="ClinVarVariations-table_SeeMore" href="javascript:showMoreTable('ClinVarVariations-table','ClinVarVariations-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('ClinVarVariations', '209', 'ClinVarVariations-table');">show all 209</a>)
+</span>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.433C&gt;G (p.Arg145Gly)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000169634/" title="RCV000169634" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/189199/?new_evidence=true#id_second" target="_blank">189199</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/774395996" target="_blank">rs774395996</a></td>
+<td>GRCh37: 9:131094462-131094462<br/>GRCh38: 9:128332183-128332183</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.155T&gt;C (p.Leu52Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000169637/" title="RCV000169637" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/189202/?new_evidence=true#id_second" target="_blank">189202</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/786204770" target="_blank">rs786204770</a></td>
+<td>GRCh37: 9:131085379-131085379<br/>GRCh38: 9:128323100-128323100</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.371G&gt;T (p.Gly124Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000791318/" title="RCV000791318" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/638639/?new_evidence=true#id_second" target="_blank">638639</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1412692974" target="_blank">rs1412692974</a></td>
+<td>GRCh37: 9:131088129-131088129<br/>GRCh38: 9:128325850-128325850</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.202G&gt;A (p.Asp68Asn)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002249832/" title="RCV002249832" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1685665/?new_evidence=true#id_second" target="_blank">1685665</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131085426-131085426<br/>GRCh38: 9:128323147-128323147</td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.421C&gt;T (p.Arg141Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000169635/" title="RCV000169635" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/189200/?new_evidence=true#id_second" target="_blank">189200</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/775607037" target="_blank">rs775607037</a></td>
+<td>GRCh37: 9:131094450-131094450<br/>GRCh38: 9:128332171-128332171</td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.202G&gt;C (p.Asp68His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000258061/" title="RCV000258061" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/267347/?new_evidence=true#id_second" target="_blank">267347</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/758522459" target="_blank">rs758522459</a></td>
+<td>GRCh37: 9:131085426-131085426<br/>GRCh38: 9:128323147-128323147</td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.469C&gt;A (p.Gln157Lys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000578354/" title="RCV000578354" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/488488/?new_evidence=true#id_second" target="_blank">488488</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1045118320" target="_blank">rs1045118320</a></td>
+<td>GRCh37: 9:131094498-131094498<br/>GRCh38: 9:128332219-128332219</td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.385dup (p.Arg129fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001894652/" title="RCV001894652" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1368452/?new_evidence=true#id_second" target="_blank">1368452</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131088141-131088142<br/>GRCh38: 9:128325862-128325863</td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.67dup (p.Ala23fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000551220/" title="RCV000551220" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/476186/?new_evidence=true#id_second" target="_blank">476186</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1554796655" target="_blank">rs1554796655</a></td>
+<td>GRCh37: 9:131085202-131085203<br/>GRCh38: 9:128322923-128322924</td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.305G&gt;A (p.Arg102His)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001374711/" title="RCV001374711" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/915899/?new_evidence=true#id_second" target="_blank">915899</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/929713295" target="_blank">rs929713295</a></td>
+<td>GRCh37: 9:131088063-131088063<br/>GRCh38: 9:128325784-128325784</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.19_20del (p.Pro7fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001970054/" title="RCV001970054" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1455564/?new_evidence=true#id_second" target="_blank">1455564</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131085155-131085156<br/>GRCh38: 9:128322876-128322877</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.223G&gt;T (p.Glu75Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003021899/" title="RCV003021899" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2099803/?new_evidence=true#id_second" target="_blank">2099803</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131087442-131087442<br/>GRCh38: 9:128325163-128325163</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.662G&gt;A (p.Trp221Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003037577/" title="RCV003037577" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2102003/?new_evidence=true#id_second" target="_blank">2102003</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131095788-131095788<br/>GRCh38: 9:128333509-128333509</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.613C&gt;T (p.Arg205Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003093590/" title="RCV003093590" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2158634/?new_evidence=true#id_second" target="_blank">2158634</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131095209-131095209<br/>GRCh38: 9:128332930-128332930</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.23_33del (p.Val8fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000477704/" title="RCV000477704" target="_blank">Pathogenic</a><br/>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001855066/" title="RCV001855066" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/280320/?new_evidence=true#id_second" target="_blank">280320</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886041549" target="_blank">rs886041549</a></td>
+<td>GRCh37: 9:131085159-131085169<br/>GRCh38: 9:128322880-128322890</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.370G&gt;A (p.Gly124Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000543798/" title="RCV000543798" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/476179/?new_evidence=true#id_second" target="_blank">476179</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/776825296" target="_blank">rs776825296</a></td>
+<td>GRCh37: 9:131088128-131088128<br/>GRCh38: 9:128325849-128325849</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td><span title="overlap with 66 genes gene information at GeneCards">overlap with 66 genes</span> </td>
+<td style="overflow-wrap:break-word;">NC_000009.12:g.(?_127612384)_(128566997_?)del</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001387712/" title="RCV001387712" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/662282/?new_evidence=true#id_second" target="_blank">662282</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:130374663-131329276<br/>GRCh38: 9:127612384-128566997</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.301G&gt;T (p.Glu101Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001884487/" title="RCV001884487" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1388291/?new_evidence=true#id_second" target="_blank">1388291</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131088059-131088059<br/>GRCh38: 9:128325780-128325780</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.402+1G&gt;C</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000845241/" title="RCV000845241" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/379740/?new_evidence=true#id_second" target="_blank">379740</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/747779231" target="_blank">rs747779231</a></td>
+<td>GRCh37: 9:131088161-131088161<br/>GRCh38: 9:128325882-128325882</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.518CCA[1] (p.Thr174del)</td>
+<td style="overflow-wrap:break-word;" title="Microsatellite">MICROSAT</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000169638/" title="RCV000169638" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/189203/?new_evidence=true#id_second" target="_blank">189203</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/786204771" target="_blank">rs786204771</a></td>
+<td>GRCh37: 9:131094547-131094549<br/>GRCh38: 9:128332268-128332270</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.718C&gt;T (p.Arg240Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000169636/" title="RCV000169636" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/189201/?new_evidence=true#id_second" target="_blank">189201</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/143441644" target="_blank">rs143441644</a></td>
+<td>GRCh37: 9:131095844-131095844<br/>GRCh38: 9:128333565-128333565</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.402+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000817248/" title="RCV000817248" target="_blank">Pathogenic/Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/660116/?new_evidence=true#id_second" target="_blank">660116</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/747779231" target="_blank">rs747779231</a></td>
+<td>GRCh37: 9:131088161-131088161<br/>GRCh38: 9:128325882-128325882</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.540del (p.Ile180fs)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002226815/" title="RCV002226815" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1679218/?new_evidence=true#id_second" target="_blank">1679218</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131095136-131095136<br/>GRCh38: 9:128332857-128332857</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.70+1G&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003026177/" title="RCV003026177" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2101637/?new_evidence=true#id_second" target="_blank">2101637</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131085208-131085208<br/>GRCh38: 9:128322929-128322929</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.70+2C&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000547457/" title="RCV000547457" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/476189/?new_evidence=true#id_second" target="_blank">476189</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/767839639" target="_blank">rs767839639</a></td>
+<td>GRCh37: 9:131085209-131085209<br/>GRCh38: 9:128322930-128322930</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.300-2A&gt;G</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000700362/" title="RCV000700362" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/577566/?new_evidence=true#id_second" target="_blank">577566</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/141303335" target="_blank">rs141303335</a></td>
+<td>GRCh37: 9:131088056-131088056<br/>GRCh38: 9:128325777-128325777</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.2T&gt;C (p.Met1Thr)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001330901/" title="RCV001330901" target="_blank">Likely Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1029574/?new_evidence=true#id_second" target="_blank">1029574</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1255137785" target="_blank">rs1255137785</a></td>
+<td>GRCh37: 9:131085139-131085139<br/>GRCh38: 9:128322860-128322860</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.437T&gt;G (p.Phe146Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000578266/" title="RCV000578266" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/488487/?new_evidence=true#id_second" target="_blank">488487</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1163170578" target="_blank">rs1163170578</a></td>
+<td>GRCh37: 9:131094466-131094466<br/>GRCh38: 9:128332187-128332187</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.458C&gt;T (p.Ala153Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001169917/" title="RCV001169917" target="_blank">Conflicting Interpretations Of Pathogenicity</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/915327/?new_evidence=true#id_second" target="_blank">915327</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/757173567" target="_blank">rs757173567</a></td>
+<td>GRCh37: 9:131094487-131094487<br/>GRCh38: 9:128332208-128332208</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.676G&gt;A (p.Gly226Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002557960/" title="RCV002557960" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/872093/?new_evidence=true#id_second" target="_blank">872093</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1363468440" target="_blank">rs1363468440</a></td>
+<td>GRCh37: 9:131095802-131095802<br/>GRCh38: 9:128333523-128333523</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.376G&gt;A (p.Glu126Lys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000801879/" title="RCV000801879" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/647378/?new_evidence=true#id_second" target="_blank">647378</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/149398860" target="_blank">rs149398860</a></td>
+<td>GRCh37: 9:131088134-131088134<br/>GRCh38: 9:128325855-128325855</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.550T&gt;C (p.Trp184Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003232994/" title="RCV003232994" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1308293/?new_evidence=true#id_second" target="_blank">1308293</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131095146-131095146<br/>GRCh38: 9:128332867-128332867</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.743T&gt;C (p.Leu248Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV003233010/" title="RCV003233010" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1802989/?new_evidence=true#id_second" target="_blank">1802989</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131095869-131095869<br/>GRCh38: 9:128333590-128333590</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.197_198delinsAA (p.Arg66Gln)</td>
+<td style="overflow-wrap:break-word;" title="Indel">INDEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000258060/" title="RCV000258060" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/267346/?new_evidence=true#id_second" target="_blank">267346</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/886040973" target="_blank">rs886040973</a></td>
+<td>GRCh37: 9:131085421-131085422<br/>GRCh38: 9:128323142-128323143</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.300G&gt;A (p.Gln100=)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002948279/" title="RCV002948279" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2063203/?new_evidence=true#id_second" target="_blank">2063203</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131088058-131088058<br/>GRCh38: 9:128325779-128325779</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.103G&gt;A (p.Gly35Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000704374/" title="RCV000704374" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/580739/?new_evidence=true#id_second" target="_blank">580739</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/141078819" target="_blank">rs141078819</a></td>
+<td>GRCh37: 9:131085327-131085327<br/>GRCh38: 9:128323048-128323048</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.310C&gt;T (p.Arg104Trp)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002979785/" title="RCV002979785" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2081684/?new_evidence=true#id_second" target="_blank">2081684</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131088068-131088068<br/>GRCh38: 9:128325789-128325789</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.352C&gt;G (p.Leu118Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002991502/" title="RCV002991502" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/2090990/?new_evidence=true#id_second" target="_blank">2090990</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131088110-131088110<br/>GRCh38: 9:128325831-128325831</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.532+6T&gt;A</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002226918/" title="RCV002226918" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1679321/?new_evidence=true#id_second" target="_blank">1679321</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131094567-131094567<br/>GRCh38: 9:128332288-128332288</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.317C&gt;T (p.Ser106Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001331962/" title="RCV001331962" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1030423/?new_evidence=true#id_second" target="_blank">1030423</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/767379261" target="_blank">rs767379261</a></td>
+<td>GRCh37: 9:131088075-131088075<br/>GRCh38: 9:128325796-128325796</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.1A&gt;G (p.Met1Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001335789/" title="RCV001335789" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1033389/?new_evidence=true#id_second" target="_blank">1033389</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/751764908" target="_blank">rs751764908</a></td>
+<td>GRCh37: 9:131085138-131085138<br/>GRCh38: 9:128322859-128322859</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.533G&gt;A (p.Gly178Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV001809207/" title="RCV001809207" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1333992/?new_evidence=true#id_second" target="_blank">1333992</a></td>
+<td><span></span> </td>
+<td>GRCh37: 9:131095129-131095129<br/>GRCh38: 9:128332850-128332850</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.44T&gt;C (p.Leu15Pro)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000699333/" title="RCV000699333" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/576758/?new_evidence=true#id_second" target="_blank">576758</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/879324921" target="_blank">rs879324921</a></td>
+<td>GRCh37: 9:131085181-131085181<br/>GRCh38: 9:128322902-128322902</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.47C&gt;G (p.Pro16Arg)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000537825/" title="RCV000537825" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/476183/?new_evidence=true#id_second" target="_blank">476183</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/775518369" target="_blank">rs775518369</a></td>
+<td>GRCh37: 9:131085184-131085184<br/>GRCh38: 9:128322905-128322905</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.689C&gt;A (p.Pro230Gln)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000539388/" title="RCV000539388" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/476188/?new_evidence=true#id_second" target="_blank">476188</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1016089045" target="_blank">rs1016089045</a></td>
+<td>GRCh37: 9:131095815-131095815<br/>GRCh38: 9:128333536-128333536</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.190C&gt;T (p.Pro64Ser)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000169639/" title="RCV000169639" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/189204/?new_evidence=true#id_second" target="_blank">189204</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/766317663" target="_blank">rs766317663</a></td>
+<td>GRCh37: 9:131085414-131085414<br/>GRCh38: 9:128323135-128323135</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.752A&gt;T (p.Glu251Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000653263/" title="RCV000653263" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/542772/?new_evidence=true#id_second" target="_blank">542772</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/764026213" target="_blank">rs764026213</a></td>
+<td>GRCh37: 9:131095878-131095878<br/>GRCh38: 9:128333599-128333599</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.461A&gt;G (p.Tyr154Cys)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000653264/" title="RCV000653264" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/542773/?new_evidence=true#id_second" target="_blank">542773</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/147142262" target="_blank">rs147142262</a></td>
+<td>GRCh37: 9:131094490-131094490<br/>GRCh38: 9:128332211-128332211</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.580A&gt;G (p.Met194Val)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000653265/" title="RCV000653265" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/542774/?new_evidence=true#id_second" target="_blank">542774</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/150739190" target="_blank">rs150739190</a></td>
+<td>GRCh37: 9:131095176-131095176<br/>GRCh38: 9:128332897-128332897</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td style="overflow-wrap:break-word;">NM_016035.5(COQ4):c.340A&gt;G (p.Lys114Glu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV000686111/" title="RCV000686111" target="_blank">Uncertain Significance</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/566335/?new_evidence=true#id_second" target="_blank">566335</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/1564390909" target="_blank">rs1564390909</a></td>
+<td>GRCh37: 9:131088098-131088098<br/>GRCh38: 9:128325819-128325819</td>
+</tr>
+</tbody>
+</table>
+<h3>UniProtKB/Swiss-Prot genetic disease variations for Coenzyme Q10 Deficiency, Primary, 7:</h3>
+<sup title="UniProtKB/Swiss-Prot">73</sup>
+<table id="geneticVariations-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Symbol</th>
+<th>AA change</th>
+<th>Variation ID</th>
+<th title="NCBI dbSNP">SNP ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td>p.Leu52Ser</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_073356.html" target="_blank">VAR_073356</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/786204770" target="_blank">rs786204770</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td>p.Pro64Ser</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_073357.html" target="_blank">VAR_073357</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/766317663" target="_blank">rs766317663</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td>p.Arg145Gly</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_073358.html" target="_blank">VAR_073358</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/774395996" target="_blank">rs774395996</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a></td>
+<td>p.Arg240Cys</td>
+<td> <a href="http://web.expasy.org/variant_pages/VAR_073360.html" target="_blank">VAR_073360</a></td>
+<td> <a href="https://www.ncbi.nlm.nih.gov/snp/143441644" target="_blank">rs143441644</a></td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Coenzyme%20Q10%20Deficiency%2C%20Primary%2C%207%22%5BMeSH%20Terms%5D%20OR%20%22Coenzyme%20Q10%20Deficiency%2C%20Primary%2C%207%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Coenzyme Q10 Deficiency, Primary, 7.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Coenzyme Q10 Deficiency, Primary, 7 according to GeneCards Suite gene sharing:</h3>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="Metabolism_of_water-soluble_vitamins_and_cofactors_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/metabolism_of_water-soluble_vitamins_and_cofactors" target="_blank">Metabolism of water-soluble vitamins and cofactors</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-196849" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-5806#section=Diagram" target="_blank">all-trans-decaprenyl diphosphate biosynthesis</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP5031" target="_blank">Biotin metabolism, including IMDs</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196780" target="_blank">Biotin transport and metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196783" target="_blank">Coenzyme A biosynthesis</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3371598" target="_blank">Defective BTD causes biotidinase deficiency</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3371599" target="_blank">Defective HLCS causes multiple carboxylase deficiency</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3323169" target="_blank">Defects in biotin (Btn) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196757" target="_blank">Metabolism of folate and pterines</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196854" target="_blank">Metabolism of vitamins and cofactors</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-6823#section=Diagram" target="_blank">molybdenum cofactor biosynthesis</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-947581" target="_blank">Molybdenum cofactor biosynthesis</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/HUMANCYC:PWY-6898#section=Diagram" target="_blank">thiamin salvage III</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/HUMANCYC:PWY-5872#section=Diagram" target="_blank">ubiquinol-10 biosynthesis</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/METACYC:PWY-5872#section=Diagram" target="_blank">ubiquinol-10 biosynthesis (eukaryotic)</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196819" target="_blank">Vitamin B1 (thiamin) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196843" target="_blank">Vitamin B2 (riboflavin) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-199220" target="_blank">Vitamin B5 (pantothenate) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-196836" target="_blank">Vitamin C (ascorbate) metabolism</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-964975" target="_blank">Vitamins B6 activation to pyridoxal phosphate</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>12.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=Metabolism+of+water-soluble+vitamins+and+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=Metabolism+of+water-soluble+vitamins+and+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=Metabolism+of+water-soluble+vitamins+and+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=Metabolism+of+water-soluble+vitamins+and+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> </td>
+</tr>
+<tr id="Metabolism_of_cofactors_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/metabolism_of_cofactors" target="_blank">Metabolism of cofactors</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-8978934" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-1474151" target="_blank">Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-2142789" target="_blank">Ubiquinol biosynthesis</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>10.87</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=Metabolism+of+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=Metabolism+of+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=Metabolism+of+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=Metabolism+of+cofactors&amp;prefilter=pathways_interactions#pathways_interactions" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> </td>
+</tr>
+<tr id="Riboflavin_and_CoQ_disorders_3">
+<td>3</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/riboflavin_and_coq_disorders" target="_blank">Riboflavin and CoQ disorders</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP5037" target="_blank">74</a></sup>
+</div>
+</td>
+<td>10.17</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=Riboflavin+and+CoQ+disorders&amp;prefilter=pathways_interactions#pathways_interactions" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=Riboflavin+and+CoQ+disorders&amp;prefilter=pathways_interactions#pathways_interactions" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=Riboflavin+and+CoQ+disorders&amp;prefilter=pathways_interactions#pathways_interactions" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=Riboflavin+and+CoQ+disorders&amp;prefilter=pathways_interactions#pathways_interactions" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=Riboflavin+and+CoQ+disorders&amp;prefilter=pathways_interactions#pathways_interactions" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Cellular components related to Coenzyme Q10 Deficiency, Primary, 7 according to GeneCards Suite gene sharing:</h3>
+<table id="go_cc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>mitochondrial inner membrane</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005743" target="_blank">GO:0005743</a></td>
+<td>9.86</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>mitochondrion</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0005739" target="_blank">GO:0005739</a></td>
+<td>9.85</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=mitochondrion&amp;prefilter=go_cc#go_cc" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=mitochondrion&amp;prefilter=go_cc#go_cc" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=mitochondrion&amp;prefilter=go_cc#go_cc" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=mitochondrion&amp;prefilter=go_cc#go_cc" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=mitochondrion&amp;prefilter=go_cc#go_cc" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=mitochondrion&amp;prefilter=go_cc#go_cc" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>extrinsic component of mitochondrial inner membrane</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0031314" target="_blank">GO:0031314</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=extrinsic+component+of+mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=extrinsic+component+of+mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=extrinsic+component+of+mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=extrinsic+component+of+mitochondrial+inner+membrane&amp;prefilter=go_cc#go_cc" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>ubiquinone biosynthesis complex</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0110142" target="_blank">GO:0110142</a></td>
+<td>9.23</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=ubiquinone+biosynthesis+complex&amp;prefilter=go_cc#go_cc" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=ubiquinone+biosynthesis+complex&amp;prefilter=go_cc#go_cc" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=ubiquinone+biosynthesis+complex&amp;prefilter=go_cc#go_cc" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=ubiquinone+biosynthesis+complex&amp;prefilter=go_cc#go_cc" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Biological processes related to Coenzyme Q10 Deficiency, Primary, 7 according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>ubiquinone biosynthetic process</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0006744" target="_blank">GO:0006744</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=PDSS1&amp;keywords=ubiquinone+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="PDSS1 gene information at GeneCards" target="_blank">PDSS1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ9&amp;keywords=ubiquinone+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="COQ9 gene information at GeneCards" target="_blank">COQ9</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ8A&amp;keywords=ubiquinone+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="COQ8A gene information at GeneCards" target="_blank">COQ8A</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=ubiquinone+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=ubiquinone+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ4&amp;keywords=ubiquinone+biosynthetic+process&amp;prefilter=go_proc#go_proc" title="COQ4 gene information at GeneCards" target="_blank">COQ4</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section-data">
+<h3>Molecular functions related to Coenzyme Q10 Deficiency, Primary, 7 according to GeneCards Suite gene sharing:</h3>
+<table id="go_func-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>monooxygenase activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0004497" target="_blank">GO:0004497</a></td>
+<td>8.96</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=monooxygenase+activity&amp;prefilter=go_func#go_func" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=monooxygenase+activity&amp;prefilter=go_func#go_func" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0016709" target="_blank">GO:0016709</a></td>
+<td>8.92</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ7&amp;keywords=oxidoreductase+activity%2c+acting+on+paired+donors%2c+with+incorporation+or+reduction+of+molecular+oxygen%2c+NAD(P)H+as+one+donor%2c+and+incorporation+of+one+atom+of+oxygen&amp;prefilter=go_func#go_func" title="COQ7 gene information at GeneCards" target="_blank">COQ7</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=COQ6&amp;keywords=oxidoreductase+activity%2c+acting+on+paired+donors%2c+with+incorporation+or+reduction+of+molecular+oxygen%2c+NAD(P)H+as+one+donor%2c+and+incorporation+of+one+atom+of+oxygen&amp;prefilter=go_func#go_func" title="COQ6 gene information at GeneCards" target="_blank">COQ6</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Coenzyme Q10 Deficiency, Primary, 7</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#dfacaaafafb0adab9fb3b6b9bab2beafacbcf1bcb0b2">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ed820ad2b2b54',t:'MTY5NTI2Mjk4Ni42NDAwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

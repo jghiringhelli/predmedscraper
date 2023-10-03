@@ -1,0 +1,4228 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        Lymphatic Malformation 12 disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+    </title>
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="canonical" href="https://www.malacards.org/card/lymphatic_malformation_12" />
+<link href="/styles/main?v=4ibYhrTKhtFkLb0eOKJyI76F8l4oz0xxD-Ee5OvEFUg1" rel="stylesheet" />
+<script type="text/javascript">
+        var baseUrl = '/';
+        var slug = '';
+        var status = 'guest';
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CPGXGV3Z40"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('set', 'user_properties', {
+            OrgType: 'Unknown',
+            OrgName: 'Unknown'
+        });
+        gtag('set', 'custom_map', {
+          'dimension2': 'OrgType',
+          'dimension3': 'OrgName'
+        });
+        // Track GA4
+        gtag('config', 'G-CPGXGV3Z40');
+        // Track Universal Analytics
+        gtag('config', 'UA-33531077-1', {
+            'OrgType': 'Unknown',
+            'OrgName': 'Unknown'
+        });
+    </script>
+</head>
+<body itemscope="itemscope" itemtype="http://schema.org/MedicalWebPage" class="eupopup eupopup-bottom">
+<link itemprop="audience" href="https://schema.org/Patient" />
+<link itemprop="audience" href="https://schema.org/MedicalResearcher" />
+<link itemprop="audience" href="https://schema.org/Clinician" />
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalCondition">
+<div id="container">
+<div id="header">
+<a href="/" id="home" title="MalaCards - human disease database"><img src="/img/malacards_logo.png" alt /></a>
+<div>
+<a href="http://www.weizmann.ac.il" id="weizmann" title="Weizmann Institute of Science" target="_blank"><img src="/img/weizmann_logo.png" alt /></a>
+<a href="http://www.lifemapsc.com" id="lifemap" title="LifeMap Sciences, Inc." target="_blank"><img src="/img/lm_logo.png" alt /></a>
+</div>
+<div id="user-area">
+<div class="search-box">
+<form action="/search/results" class="search-box-form" id="HeaderSearchForm" method="get" accept-charset="utf-8">
+<div class="search-box-content">
+<div class="content1" id="the-basics2">
+<div style="margin-top:6px;">
+<span class="search_button">Search</span>
+</div>
+<div>
+<input type="text" name="query" id="search-box-input" autocomplete="off" class="search-box-input typeahead" />
+</div>
+<div class="search-submit">
+<input name value type="submit" style="background-image:url('/img/magnifying_glass.png');background-repeat:no-repeat;background-color: #eea904;border: 0;width:23px;height:26px;cursor: pointer;" />
+<input type="hidden" id="pageSizeInput" name="pageSize" value="25" />
+</div>
+<div style="margin-top:5px;">
+<a href="/search/">Advanced</a>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="nav-container">
+<div>
+<a href="/" title="MalaCards Home">Home</a>
+<div class="dropdown">
+<span class="dropbtn">User Guide</span>
+<div class="dropdown-content">
+<a href="/pages/info#whats_in_a_malacard">What's in a MalaCard</a>
+<a href="/pages/searchguide">Search Guide</a>
+<a href="/pages/info/#sources">Our Sources</a>
+</div>
+</div>
+<div class="dropdown">
+<span class="dropbtn">Analysis Tools</span>
+<div class="dropdown-content">
+<a href="https://www.genecards.org" target="_blank">GeneCards</a>
+<a href="https://ga.genecards.org/gene-set-analysis/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">GeneAnalytics</a>
+<a href="http://pathcards.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">PathCards</a>
+<a href="http://varelect.genecards.org/?utm_source=malacards&amp;utm_campaign=malacards&amp;utm_medium=logo_link&amp;utm_content=plus_panel" target="_blank">VarElect</a>
+</div>
+</div>
+<a href="/pages/whatsnew" target="_blank">Release Notes</a>
+<a href="/categories" target="_blank">Disease Lists/Categories</a>
+<div class="dropdown">
+<span class="dropbtn">About</span>
+<div class="dropdown-content">
+<a href="/pages/info">About MalaCards</a>
+<a href="https://www.genecards.org/Guide/Datasets" target="_blank">Datasets</a>
+<a href="/pages/ourpublications">Our Publications</a>
+<a href="http://www.weizmann.ac.il/" target="_blank" rel="nofollow">Weizmann Institute</a>
+<a href="https://discovery.lifemapsc.com" target="_blank" rel="nofollow">LifeMap Discovery&reg;</a>
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank">Terms of Use</a>
+<a href="https://www.genecards.org/Guide/GeneCardsTeam">MalaCards Team</a>
+</div>
+</div>
+<div class="sign-in-menu">
+<a href="/Account/LogOn?moduleName=MC" rel="nofollow" target="_self">Log In</a> <span>&nbsp;</span>
+<a href="/Account/Register?moduleName=MC" rel="nofollow" target="_self">Sign Up</a> </div>
+</div>
+</div>
+<div id="content">
+<script type="text/javascript">
+    var slug = 'lymphatic_malformation_12';
+</script>
+<div class="card" id="top-card">
+<div class="card-header">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td width="160px">
+<div class="symbol-section">
+<div class="acronym">
+<div class="acronym">
+LMPHM12 <div class="symbol">MCID: LYM161</div>
+<div class="symbol" title="MalaCards InFormaTion Score. Annotation strength of this MalaCard (max 100)">
+<a href="/pages/info/#mift" target="_blank"><span class="header_mift">MIFTS</span></a>: 43
+</div>
+</div>
+</div>
+</div>
+</td>
+<td>
+<div class="card-description">
+<h1>
+<span itemprop="name">Lymphatic Malformation 12</span>
+(<span itemprop="alternateName">LMPHM12</span>)
+</h1>
+<div>
+<a href="/categories/" title="See all disease categories">Categories</a>:
+Cancer diseases, Cardiovascular diseases, Fetal diseases, Gastrointestinal diseases, Genetic diseases, Immune diseases, Neuronal diseases, Rare diseases, Reproductive diseases, Respiratory diseases, Skin diseases
+</div>
+</div>
+</td>
+<td width="160px">
+<div class="data-licensing-section">
+<div class="acronym">
+<div class="acronym">
+Data Licensing
+</div>
+<div class="symbol">For inquiries, contact:</div>
+<div class="symbol">
+<a href="/cdn-cgi/l/email-protection#6e1d0f020b1d2e0207080b030f1e1d0d400d0103" target="_blank"><span class="__cf_email__" data-cfemail="0675676a6375466a6f60636b677675652865696b">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div class="stats">
+<a href="#related_genes" title="10 Genes associated with Lymphatic Malformation 12">Genes</a>
+<a href="#genetic_variations" title="4 Variations associated with Lymphatic Malformation 12">Variations</a>
+<a href="#anatomical_context" title="5 Tissues associated with Lymphatic Malformation 12">Tissues</a>
+<a href="#disorders" title="55 Related diseases associated with Lymphatic Malformation 12">Related diseases</a>
+<a href="#publications" title="76 Publications associated with Lymphatic Malformation 12">Publications</a>
+<a href="#clinical_features" title="25 Symptoms &amp; Phenotypes associated with Lymphatic Malformation 12">Symptoms &amp; Phenotypes</a>
+</div>
+<div style="float:right;">
+<div class="stats_button">
+<a href="/card/lymphatic_malformation_12?search%3dRare+diseases&amp;showAll=True" target="_self">Expand all tables</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="aliases_descriptions">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Aliases &amp; Classifications<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#aliases_descriptions">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>MalaCards integrated aliases for Lymphatic Malformation 12:</h3>
+<div class="main-name">
+Name: <b>Lymphatic Malformation 12</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/620014" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-06490" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<table class="borderless aliases">
+<tbody>
+<tr>
+<td width="390">
+<div>
+Central Conducting Lymphatic Anomaly
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/620014" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0081030" title="Disease Ontology" target="_blank">11</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-06490" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Lmphm12
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/620014" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-06490" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+<div>
+Ccla
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/620014" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-06490" title="UniProtKB/Swiss-Prot" target="_blank">73</a></sup>
+</div>
+</td>
+<td width="390">
+<div>
+Lymphatic Malformation-7
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0081030" title="Disease Ontology" target="_blank">11</a></sup>
+</div>
+<div>
+Doid:0081030
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?textmining=12&amp;type1=-26&amp;type2=9606&amp;id1=DOID:0081030" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<h3>Characteristics:</h3>
+<br/>
+<h3>Inheritance:</h3>
+<div class="tab">
+Autosomal recessive <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="https://omim.org/clinicalSynopsis/620014" target="_blank">57</a></sup>
+</div>
+<br/>
+<div class="tab">
+<h3>OMIM&#174;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/620014" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<div class="tab">
+<u>Miscellaneous:</u><br/>
+<span>variable severity</span>
+<br/>
+<span>variable features may be present</span>
+<br/>
+<span>affected individuals may be stillborn due to hydrops fetalis</span>
+<br/>
+<br/>
+</div>
+</div>
+<br/>
+<div id="classifications"></div>
+<h3>Classifications:</h3>
+<div class="tab">
+<b>MalaCards categories: </b>
+<br/>
+<span>Global:</span>
+<a href="https://www.malacards.org/categories/genetic_disease_list" target="_blank">Genetic diseases</a> <a href="https://www.malacards.org/categories/fetal_disease_list" target="_blank">Fetal diseases</a> <a href="https://www.malacards.org/categories/rare_diseases" target="_blank">Rare diseases</a> <a href="https://www.malacards.org/categories/cancer_disease_list" target="_blank">Cancer diseases</a> <br/>
+<span>Anatomical:</span>
+<a href="https://www.malacards.org/categories/immune_disease_list" target="_blank">Immune diseases</a> <a href="https://www.malacards.org/categories/cardiovascular_disease_list" target="_blank">Cardiovascular diseases</a> <a href="https://www.malacards.org/categories/reproductive_disease_list" target="_blank">Reproductive diseases</a> <a href="https://www.malacards.org/categories/skin_disease_list" target="_blank">Skin diseases</a> <a href="https://www.malacards.org/categories/neuronal_disease_list" target="_blank">Neuronal diseases</a> <a href="https://www.malacards.org/categories/gastrointestinal_disease_list" target="_blank">Gastrointestinal diseases</a> <a href="https://www.malacards.org/categories/respiratory_disease_list" target="_blank">Respiratory diseases</a> <br/>
+<div class="padding_left">
+<a href="/categories/" class target="_blank">See all MalaCards categories (disease lists)</a>
+</div>
+</div>
+<br/>
+<br/>
+<div id="ExternalId">
+<h3>External Ids:</h3>
+<table class="borderless">
+<tr>
+<td width="390">
+<div id="ExternalId_item_1">
+<b title="Disease Ontology">Disease Ontology</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0081030" target="_blank">11</a></sup>
+<a href="https://disease-ontology.org/?id=DOID:0081030" target="_blank">DOID:0081030</a>
+</div>
+<div id="ExternalId_item_2">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM&#174;</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/620014" target="_blank">57</a></sup>
+<a href="http://omim.org/entry/620014" target="_blank">620014</a>
+</div>
+<div id="ExternalId_item_3">
+<b title="Online Mendelian Inheritance in Man&#174;">OMIM Phenotypic Series</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/phenotypicSeries/PS153100" target="_blank">57</a></sup>
+<a href="http://omim.org/phenotypicSeries/PS153100" target="_blank">PS153100</a>
+</div>
+</td>
+<td width="390">
+<div id="ExternalId_item_4">
+<b title="Medical Subject Headings">MeSH</b>
+<sup title="Medical Subject Headings"> <a href="https://meshb.nlm.nih.gov/record/ui?ui=D008209" target="_blank">43</a></sup>
+<a href="https://meshb.nlm.nih.gov/record/ui?ui=D008209" target="_blank">D008209</a>
+</div>
+<div id="ExternalId_item_5">
+<b title="MedGen">MedGen</b>
+<sup title="MedGen"> <a href="http://www.ncbi.nlm.nih.gov/medgen/CN315961" target="_blank">40</a></sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/CN315961" target="_blank">CN315961</a>
+</div>
+<div id="ExternalId_item_6">
+<b title="SNOMED-CT via HPO">SNOMED-CT via HPO</b>
+<sup title="SNOMED-CT via HPO"> <a href="http://www.snomedbrowser.com/Codes/Details/206538000" target="_blank">69</a></sup>
+<a href="http://www.snomedbrowser.com/Codes/Details/206538000" target="_blank">206538000</a> <a href="http://www.snomedbrowser.com/Codes/Details/234097001" target="_blank">234097001</a> <a href="http://www.snomedbrowser.com/Codes/Details/26614003" target="_blank">26614003</a>
+<span class="collapsable" style="display: none;">
+<a href="http://www.snomedbrowser.com/Codes/Details/26996000" target="_blank">26996000</a> <a href="http://www.snomedbrowser.com/Codes/Details/276509008" target="_blank">276509008</a> <a href="http://www.snomedbrowser.com/Codes/Details/30213001" target="_blank">30213001</a> <a href="http://www.snomedbrowser.com/Codes/Details/363125002" target="_blank">363125002</a> <a href="http://www.snomedbrowser.com/Codes/Details/386152007" target="_blank">386152007</a> <a href="http://www.snomedbrowser.com/Codes/Details/396228006" target="_blank">396228006</a> <a href="http://www.snomedbrowser.com/Codes/Details/396232000" target="_blank">396232000</a> <a href="http://www.snomedbrowser.com/Codes/Details/399955009" target="_blank">399955009</a> <a href="http://www.snomedbrowser.com/Codes/Details/55434001" target="_blank">55434001</a> <a href="http://www.snomedbrowser.com/Codes/Details/86203003" target="_blank">86203003</a> </span>
+<span class="showmore">
+<a title="show all 13" id="ExternalId_showmore_6" href="javascript:showMoreTable('ExternalId_item_6','ExternalId_showmore_6','more','less','collapsable')">more</a>
+</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="summaries">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Summaries<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#summaries">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div id="Summary">
+<p> <b> <a href="http://www.uniprot.org/diseases/DI-06490" target="_blank">UniProtKB/Swiss-Prot</a>:</b>
+<sup title="UniProtKB/Swiss-Prot"> <a href="http://www.uniprot.org/diseases/DI-06490" target="_blank">73</a></sup>
+A form of primary lymphedema, a disease characterized by swelling of body parts due to developmental anomalies and functional defects of the lymphatic system. Patients with lymphedema may suffer from recurrent local infections. LMPHM12 is an autosomal recessive, severe form often resulting in fetal or perinatal demise. It is characterized by dysfunction of core collecting lymphatic vessels, including the thoracic duct and cisterna chyli, non-immune hydrops fetalis, chylothorax, pleural effusions, and chylous ascites.</p>
+<p> <b> <a href="https://www.malacards.org/pages/info#summaries" target="_blank">MalaCards based summary</a>:</b>
+Lymphatic Malformation 12, also known as <i>central conducting lymphatic anomaly</i>, is related to <i><a href="/card/capillary_malformation_arteriovenous_malformation_1" target="_blank">capillary malformation-arteriovenous malformation 1</a></i> and <i><a href="/card/lymphatic_system_disease" target="_blank">lymphatic system disease</a></i>. An important gene associated with Lymphatic Malformation 12 is <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MDFIC" target="_blank">MDFIC</a> (MyoD Family Inhibitor Domain Containing), and among its related pathways/superpathways are <i><a href="https://pathcards.genecards.org/card/erk_signaling" target="_blank">ERK Signaling</a></i> and <i><a href="https://pathcards.genecards.org/card/signal_transduction" target="_blank">Signal Transduction</a></i>. Affiliated tissues include <i>placenta</i> and <i>testis</i>, and related phenotypes are <i><a href="https://hpo.jax.org/app/browse/term/HP:0001004" target="_blank">lymphedema</a></i> and <i><a href="https://hpo.jax.org/app/browse/term/HP:0001791" target="_blank">fetal ascites</a></i></p>
+<p> <b> <a href="http://omim.org/entry/620014#description" target="_blank">OMIM&#174;</a>:</b>
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/620014#description" target="_blank">57</a></sup>
+Lymphatic malformation-12 (LMPHM12) is characterized by abnormalities in the development and function of major truncal lymphatic vessels, causing nonimmune hydrops fetalis that results in stillbirth in some cases. Other affected individuals experience postnatal subcutaneous lymphedema and chylothorax, with pleural and pericardial effusions and ascites (Byrne et al., 2022).
+For a general phenotypic description and discussion of genetic heterogeneity of lymphatic malformation, see LMPHM1 (153100). <span> (620014) </span> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</p><p> <b> <a href="https://disease-ontology.org/?id=DOID:0081030" target="_blank">Disease Ontology</a>:</b>
+<sup title="Disease Ontology"> <a href="https://disease-ontology.org/?id=DOID:0081030" target="_blank">11</a></sup>
+A lymphatic system disease that is characterized by dysfunction of the thoracic duct or cisterna chyli, leading to a retrograde flux of lymphatic fluid or abnormal drainage of lymphatic fluid and that has material basis in heterozygous mutation in the EPHB4 gene on chromosome 7q22.</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="disorders">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Related Diseases<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#disorders">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Diseases in the <a href="/card/lymphatic_malformation_5" target="_blank">Lymphatic Malformation 5</a> family:</h3>
+<table class="family borderless">
+<tr>
+<td>
+<a href="/card/lymphatic_malformation_1" target="_blank">Lymphatic Malformation 1</a> </td>
+<td>
+<a href="/card/lymphatic_malformation_2" target="_blank">Lymphatic Malformation 2</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/lymphatic_malformation_3" target="_blank">Lymphatic Malformation 3</a> </td>
+<td>
+<a href="/card/lymphatic_malformation_4" target="_blank">Lymphatic Malformation 4</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/lymphatic_malformation_6" target="_blank">Lymphatic Malformation 6</a> </td>
+<td>
+<a href="/card/lymphatic_malformation_7" target="_blank">Lymphatic Malformation 7</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/lymphatic_malformation_8" target="_blank">Lymphatic Malformation 8</a> </td>
+<td>
+<a href="/card/lymphatic_malformation_9" target="_blank">Lymphatic Malformation 9</a> </td>
+</tr>
+<tr>
+<td>
+<a href="/card/lymphatic_malformation_10" target="_blank">Lymphatic Malformation 10</a> </td>
+<td>
+<a href="/card/lymphatic_malformation_11" target="_blank">Lymphatic Malformation 11</a> </td>
+</tr>
+<tr>
+<td>
+<b>Lymphatic Malformation 12</b>
+</td>
+<td>
+<a href="/card/lymphatic_malformation_13" target="_blank">Lymphatic Malformation 13</a> </td>
+</tr>
+</table>
+<br/>
+<h3>Diseases related to Lymphatic Malformation 12 via text searches within MalaCards or GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="RelatedDiseases-table_SeeMore" href="javascript:showMoreTable('RelatedDiseases-table','RelatedDiseases-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('RelatedDiseases', '55', 'RelatedDiseases-table');">show all 55</a>)
+</span>
+<table id="RelatedDiseases-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Related Disease</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="/card/capillary_malformation_arteriovenous_malformation_1" target="_blank">capillary malformation-arteriovenous malformation 1</a></td>
+<td>30.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=capillary+malformation-arteriovenous+malformation+1&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=capillary+malformation-arteriovenous+malformation+1&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="/card/lymphatic_system_disease" target="_blank">lymphatic system disease</a></td>
+<td>10.3</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lymphatic+system+disease&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="/card/immune_hydrops_fetalis" target="_blank">immune hydrops fetalis</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MDFIC&amp;keywords=immune+hydrops+fetalis&amp;prefilter=diseases#diseases" title="MDFIC gene information at GeneCards" target="_blank">MDFIC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=immune+hydrops+fetalis&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="/card/weber_syndrome" target="_blank">weber syndrome</a></td>
+<td>10.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=weber+syndrome&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=weber+syndrome&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td> <a href="/card/parkes_weber_syndrome" target="_blank">parkes weber syndrome</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=parkes+weber+syndrome&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=parkes+weber+syndrome&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td> <a href="/card/digeorge_syndrome" target="_blank">digeorge syndrome</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=digeorge+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td> <a href="/card/down_syndrome" target="_blank">down syndrome</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=down+syndrome&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td> <a href="/card/ascites_chylous" target="_blank">ascites, chylous</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=ascites%2c+chylous&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>9</td>
+<td> <a href="/card/hydrops_fetalis_nonimmune" target="_blank">hydrops fetalis, nonimmune</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hydrops+fetalis%2c+nonimmune&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr>
+<td>10</td>
+<td> <a href="/card/chromosome_22q112_deletion_syndrome_distal" target="_blank">chromosome 22q11.2 deletion syndrome, distal</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=chromosome+22q11.2+deletion+syndrome%2c+distal&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td> <a href="/card/lymphatic_malformation_7" target="_blank">lymphatic malformation 7</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lymphatic+malformation+7&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td> <a href="/card/capillary_malformation_arteriovenous_malformation_2" target="_blank">capillary malformation-arteriovenous malformation 2</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=capillary+malformation-arteriovenous+malformation+2&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td> <a href="/card/hereditary_lymphedema_i" target="_blank">hereditary lymphedema i</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hereditary+lymphedema+i&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td> <a href="/card/generalized_lymphatic_anomaly" target="_blank">generalized lymphatic anomaly</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=generalized+lymphatic+anomaly&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td> <a href="/card/hemangioma" target="_blank">hemangioma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hemangioma&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td> <a href="/card/hydrops_fetalis" target="_blank">hydrops fetalis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=hydrops+fetalis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td> <a href="/card/kaposiform_lymphangiomatosis" target="_blank">kaposiform lymphangiomatosis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=kaposiform+lymphangiomatosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td> <a href="/card/lymphangiomatosis" target="_blank">lymphangiomatosis</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=lymphangiomatosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td> <a href="/card/diffuse_lymphatic_malformation" target="_blank">diffuse lymphatic malformation</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=diffuse+lymphatic+malformation&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td> <a href="/card/primary_lymphedema" target="_blank">primary lymphedema</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MDFIC&amp;keywords=primary+lymphedema&amp;prefilter=diseases#diseases" title="MDFIC gene information at GeneCards" target="_blank">MDFIC</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=primary+lymphedema&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td> <a href="/card/pyogenic_granuloma" target="_blank">pyogenic granuloma</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=pyogenic+granuloma&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=pyogenic+granuloma&amp;prefilter=diseases#diseases" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td> <a href="/card/hemangioma_of_intra_abdominal_structure" target="_blank">hemangioma of intra-abdominal structure</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=hemangioma+of+intra-abdominal+structure&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=hemangioma+of+intra-abdominal+structure&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td> <a href="/card/angiokeratoma_circumscriptum" target="_blank">angiokeratoma circumscriptum</a></td>
+<td>10.1</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=angiokeratoma+circumscriptum&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=angiokeratoma+circumscriptum&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td> <a href="/card/capillary_lymphangioma" target="_blank">capillary lymphangioma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=capillary+lymphangioma&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=capillary+lymphangioma&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td> <a href="/card/venous_malformations_multiple_cutaneous_and_mucosal" target="_blank">venous malformations, multiple cutaneous and mucosal</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=venous+malformations%2c+multiple+cutaneous+and+mucosal&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=venous+malformations%2c+multiple+cutaneous+and+mucosal&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td> <a href="/card/intracranial_structure_hemangioma" target="_blank">intracranial structure hemangioma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=intracranial+structure+hemangioma&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=intracranial+structure+hemangioma&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td> <a href="/card/intracranial_cavernous_angioma" target="_blank">intracranial cavernous angioma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=intracranial+cavernous+angioma&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=intracranial+cavernous+angioma&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td> <a href="/card/lymphedema_distichiasis_syndrome" target="_blank">lymphedema-distichiasis syndrome</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=lymphedema-distichiasis+syndrome&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=lymphedema-distichiasis+syndrome&amp;prefilter=diseases#diseases" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td> <a href="/card/congenital_lipomatous_overgrowth_vascular_malformations_and_epidermal_nevi" target="_blank">congenital lipomatous overgrowth, vascular malformations, and epidermal nevi</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=congenital+lipomatous+overgrowth%2c+vascular+malformations%2c+and+epidermal+nevi&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=congenital+lipomatous+overgrowth%2c+vascular+malformations%2c+and+epidermal+nevi&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td> <a href="/card/aspergillosis" target="_blank">aspergillosis</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=aspergillosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td> <a href="/card/invasive_aspergillosis" target="_blank">invasive aspergillosis</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=&amp;keywords=invasive+aspergillosis&amp;prefilter=diseases#diseases" title=" gene information at GeneCards" target="_blank"></a> </td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td> <a href="/card/capillary_hemangioma" target="_blank">capillary hemangioma</a></td>
+<td>10.0</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=capillary+hemangioma&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=capillary+hemangioma&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td> <a href="/card/proteus_syndrome" target="_blank">proteus syndrome</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=proteus+syndrome&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=proteus+syndrome&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td> <a href="/card/sturge_weber_syndrome" target="_blank">sturge-weber syndrome</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=sturge-weber+syndrome&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=sturge-weber+syndrome&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=sturge-weber+syndrome&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td> <a href="/card/klippel_trenaunay_weber_syndrome" target="_blank">klippel-trenaunay-weber syndrome</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=klippel-trenaunay-weber+syndrome&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=klippel-trenaunay-weber+syndrome&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=klippel-trenaunay-weber+syndrome&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td> <a href="/card/cardiovascular_organ_benign_neoplasm" target="_blank">cardiovascular organ benign neoplasm</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=cardiovascular+organ+benign+neoplasm&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=cardiovascular+organ+benign+neoplasm&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=cardiovascular+organ+benign+neoplasm&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td> <a href="/card/telangiectasis" target="_blank">telangiectasis</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=telangiectasis&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=telangiectasis&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td> <a href="/card/pylorospasm" target="_blank">pylorospasm</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=pylorospasm&amp;prefilter=diseases#diseases" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=A2ML1&amp;keywords=pylorospasm&amp;prefilter=diseases#diseases" title="A2ML1 gene information at GeneCards" target="_blank">A2ML1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td> <a href="/card/chylothorax_congenital" target="_blank">chylothorax, congenital</a></td>
+<td>9.9</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=chylothorax%2c+congenital&amp;prefilter=diseases#diseases" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=chylothorax%2c+congenital&amp;prefilter=diseases#diseases" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td> <a href="/card/trophoblastic_neoplasm" target="_blank">trophoblastic neoplasm</a></td>
+<td>9.8</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=trophoblastic+neoplasm&amp;prefilter=diseases#diseases" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=trophoblastic+neoplasm&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td> <a href="/card/pulmonary_valve_stenosis" target="_blank">pulmonary valve stenosis</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=pulmonary+valve+stenosis&amp;prefilter=diseases#diseases" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=A2ML1&amp;keywords=pulmonary+valve+stenosis&amp;prefilter=diseases#diseases" title="A2ML1 gene information at GeneCards" target="_blank">A2ML1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td> <a href="/card/nevus_epidermal" target="_blank">nevus, epidermal</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=nevus%2c+epidermal&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=nevus%2c+epidermal&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td> <a href="/card/noonan_syndrome_like_disorder_with_loose_anagen_hair" target="_blank">noonan syndrome-like disorder with loose anagen hair</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=noonan+syndrome-like+disorder+with+loose+anagen+hair&amp;prefilter=diseases#diseases" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=noonan+syndrome-like+disorder+with+loose+anagen+hair&amp;prefilter=diseases#diseases" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td> <a href="/card/hereditary_hemorrhagic_telangiectasia" target="_blank">hereditary hemorrhagic telangiectasia</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=hereditary+hemorrhagic+telangiectasia&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=hereditary+hemorrhagic+telangiectasia&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=hereditary+hemorrhagic+telangiectasia&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=hereditary+hemorrhagic+telangiectasia&amp;prefilter=diseases#diseases" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td> <a href="/card/pseudo_turner_syndrome" target="_blank">pseudo-turner syndrome</a></td>
+<td>9.7</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=pseudo-turner+syndrome&amp;prefilter=diseases#diseases" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=pseudo-turner+syndrome&amp;prefilter=diseases#diseases" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td> <a href="/card/gingival_fibromatosis" target="_blank">gingival fibromatosis</a></td>
+<td>9.6</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=gingival+fibromatosis&amp;prefilter=diseases#diseases" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=gingival+fibromatosis&amp;prefilter=diseases#diseases" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=gingival+fibromatosis&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td> <a href="/card/pulmonary_valve_disease" target="_blank">pulmonary valve disease</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=pulmonary+valve+disease&amp;prefilter=diseases#diseases" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=pulmonary+valve+disease&amp;prefilter=diseases#diseases" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=A2ML1&amp;keywords=pulmonary+valve+disease&amp;prefilter=diseases#diseases" title="A2ML1 gene information at GeneCards" target="_blank">A2ML1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td> <a href="/card/neurofibromatosis_noonan_syndrome" target="_blank">neurofibromatosis-noonan syndrome</a></td>
+<td>9.5</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=neurofibromatosis-noonan+syndrome&amp;prefilter=diseases#diseases" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=neurofibromatosis-noonan+syndrome&amp;prefilter=diseases#diseases" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=A2ML1&amp;keywords=neurofibromatosis-noonan+syndrome&amp;prefilter=diseases#diseases" title="A2ML1 gene information at GeneCards" target="_blank">A2ML1</a> </td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td> <a href="/card/arteriovenous_malformations_of_the_brain" target="_blank">arteriovenous malformations of the brain</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=arteriovenous+malformations+of+the+brain&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=arteriovenous+malformations+of+the+brain&amp;prefilter=diseases#diseases" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=arteriovenous+malformations+of+the+brain&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=arteriovenous+malformations+of+the+brain&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=arteriovenous+malformations+of+the+brain&amp;prefilter=diseases#diseases" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> </td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td> <a href="/card/arteriovenous_malformation" target="_blank">arteriovenous malformation</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=arteriovenous+malformation&amp;prefilter=diseases#diseases" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=arteriovenous+malformation&amp;prefilter=diseases#diseases" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=arteriovenous+malformation&amp;prefilter=diseases#diseases" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=arteriovenous+malformation&amp;prefilter=diseases#diseases" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=arteriovenous+malformation&amp;prefilter=diseases#diseases" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> </td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div class="section-data">
+<div class="expression-images" id="network-image">
+<h3 title="Line thickness- association strength&#013;Red lines - direct connections of current disease&#013;Grey lines - indirect connections">
+Graphical network of the top 20 diseases related to Lymphatic Malformation 12:
+</h3>
+<br/>
+<br/>
+<img src="http://malacards.blob.core.windows.net/network-images-v5-17-5/lymphatic_malformation_12_related_diseases.jpg" width="100%" alt="Diseases related to Lymphatic Malformation 12" title="Diseases related to Lymphatic Malformation 12" />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="clinical_features">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Symptoms &amp; Phenotypes<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#clinical_features">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="symptoms_div">
+<div class="no_wrap">
+<h3>Human phenotypes related to Lymphatic Malformation 12:</h3>
+<sup title="The Human Phenotype Ontology">30</sup>
+<span class="showmore">
+(<a id="HPO_Symptoms-table_SeeMore" href="javascript:showMoreTable('HPO_Symptoms-table','HPO_Symptoms-table_SeeMore', 'show all 13', 'showing 13, show less','collapsable')">show all 13</a>)
+</span>
+<table id="HPO_Symptoms-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th width="120">HPO Frequency</th>
+<th width="150">Orphanet Frequency</th>
+<th width="105">HPO Source Accession</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+
+lymphedema
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001004" target="_blank">HP:0001004</a>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+
+fetal ascites
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001791" target="_blank">HP:0001791</a>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+
+fetal pleural effusion
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0025676" target="_blank">HP:0025676</a>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+
+fetal chylothorax
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>Very rare (1%)</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0025677" target="_blank">HP:0025677</a>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+
+nonimmune hydrops fetalis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.7142857%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001790" target="_blank">HP:0001790</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>6</td>
+<td>
+
+hydrocele testis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.6%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000034" target="_blank">HP:0000034</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>7</td>
+<td>
+
+neonatal respiratory distress
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5714286%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0002643" target="_blank">HP:0002643</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>8</td>
+<td>
+
+pleural thickening
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.5%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0031944" target="_blank">HP:0031944</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>9</td>
+<td>
+
+inguinal hernia
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.4%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000023" target="_blank">HP:0000023</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>10</td>
+<td>
+
+polyhydramnios
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.4%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0001561" target="_blank">HP:0001561</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+
+fetal pericardial effusion
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.4%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0025671" target="_blank">HP:0025671</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+
+hyperkeratosis
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.2%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0000962" target="_blank">HP:0000962</a>
+</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+
+recurrent upper and lower respiratory tract infections
+<sup title="The Human Phenotype Ontology">30</sup>
+</td>
+<td>0.2%</td>
+<td>
+</td>
+<td>
+<a href="https://hpo.jax.org/app/browse/term/HP:0200117" target="_blank">HP:0200117</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="Symptoms">
+<div class="tab">
+<h3>Symptoms via clinical synopsis from OMIM&reg;:</h3> <sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/clinicalSynopsis/620014" target="_blank">57</a></sup>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/>
+<table class="borderless">
+<tbody>
+<tr>
+<div id="ClinicalSynopsis_item_1" class="tab">
+<u>Head And Neck Eyes:</u><br/>
+<span>ptosis</span>
+<br/>
+<span>edema around eyes</span>
+<br/>
+<span>edema of eyelids</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_2" class="tab">
+<u>Chest Ribs Sternum Clavicles And Scapulae:</u><br/>
+<span>pectus excavatum</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_3" class="tab">
+<u>Prenatal Manifestations Amniotic Fluid:</u><br/>
+<span>polyhydramnios</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_4" class="tab">
+<u>Chest:</u><br/>
+<span>chylothorax</span>
+<br/>
+<span>dilated thoracic duct</span>
+<br/>
+<span>hypoplastic or absent thoracic duct</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_5" class="tab">
+<u>Genitourinary External Genitalia Male:</u><br/>
+<span>hydrocele</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_6" class="tab">
+<u>Skin Nails Hair Skin:</u><br/>
+<span>subcutaneous edema</span>
+<br/>
+<span>large cutaneous lymph channels</span>
+<br/>
+<span>lymphedema below the knees</span>
+<br/>
+<br/>
+</div>
+</tr>
+<tr>
+<div id="ClinicalSynopsis_item_7" class="tab">
+<u>Abdomen:</u><br/>
+<span>ascites</span>
+<br/>
+<span>retrograde mesenteric lymph flow</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_8" class="tab">
+<u>Cardiovascular Heart:</u><br/>
+<span>mitral valve prolapse</span>
+<br/>
+<span>ventricular septal defect</span>
+<br/>
+<span>pericardial effusion</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_9" class="tab">
+<u>Respiratory Lung:</u><br/>
+<span>pulmonary hypoplasia</span>
+<br/>
+<span>frequent infections</span>
+<br/>
+<span>pleural effusions, recurrent chylous</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_10" class="tab">
+<u>Cardiovascular Vascular:</u><br/>
+<span>patent foramen ovale</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_11" class="tab">
+<u>Prenatal Manifestations:</u><br/>
+<span>hydrops fetalis, nonimmune</span>
+<br/>
+<br/>
+</div>
+<div id="ClinicalSynopsis_item_12" class="tab">
+<u>Prenatal Manifestations Placenta And Umbilical Cord:</u><br/>
+<span>edematous placenta</span>
+<br/>
+<br/>
+</div>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Clinical features from OMIM&reg;: </h3>
+<a href="http://omim.org/entry/620014#clinicalFeatures" target="_blank">620014</a> <span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+<br/><br/>
+</div>
+<div>
+<div>
+<h3>GenomeRNAi Phenotypes related to Lymphatic Malformation 12 according to GeneCards Suite gene sharing:</h3>
+<sup title="GenomeRNAi">25</sup>
+</div>
+<table id="FunctionalDescription_GEN-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Description</th>
+<th>GenomeRNAi Source Accession</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Decreased viability</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00221-A-1" target="_blank">GR00221-A-1</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>Decreased viability</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00221-A-2" target="_blank">GR00221-A-2</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>Decreased viability</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00221-A-3" target="_blank">GR00221-A-3</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>Decreased viability</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00221-A-4" target="_blank">GR00221-A-4</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>Decreased viability</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00301-A" target="_blank">GR00301-A</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>Decreased viability</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00381-A-1" target="_blank">GR00381-A-1</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr>
+<td>7</td>
+<td>Decreased viability</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00386-A-1" target="_blank">GR00386-A-1</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr>
+<td>8</td>
+<td>Decreased viability</td>
+<td> <a href="http://www.genomernai.org/ExternalLink/stableid/GR00402-S-2" target="_blank">GR00402-S-2</a></td>
+<td>9.4</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=Decreased+viability&amp;prefilter=function#function" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="therapeutics">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Drugs &amp; Therapeutics<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#therapeutics">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Interventional clinical trials:</h3>
+<br/>
+<table id="ClinicalTrial-table" style="table-layout: fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="400">Name</th>
+<th width="80">Status</th>
+<th width="90">NCT ID</th>
+<th width="70">Phase</th>
+<th>Drugs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Lymphatic Anomalies Registry for the Assessment of Outcome Data</td>
+<td>Recruiting</td>
+<td> <a href="https://clinicaltrials.gov/ct2/show/NCT02399527" target="_blank">NCT02399527</a></td>
+<td></td>
+<td style="word-wrap: break-word;"></td>
+</tr>
+</tbody>
+</table>
+<div>
+<p>
+<text>Search</text>
+<a href="https://clinicalstudies.info.nih.gov/htmlSearchedFile.aspx?Query=Lymphatic Malformation 12&amp;status=&amp;gender=Select%20One&amp;Inst=&amp;age=&amp;healthyVolunteer=0" target="_blank">NIH Clinical Center</a>
+<text>for Lymphatic Malformation 12</text>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_testing">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genetic Tests<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_testing">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="anatomical_context">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Anatomical Context<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#anatomical_context">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<h3>Organs/tissues related to Lymphatic Malformation 12: <sup title="MalaCards">39</sup>
+</h3>
+<span itemprop="associatedAnatomy" itemscope="itemscope" itemtype="http://schema.org/AnatomicalStructure">
+<div class="tab">
+<span itemprop="name">
+<span title="0.7274762">Placenta</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.5805086">Testis</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.1260606">Lymph Node</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.07582078">Breast</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+, <span itemprop="name">
+<span title="0.04893733">Liver</span>
+</span>
+<sup title="MalaCards"><span title="MalaCards">39</span> </sup>
+</div>
+</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="publications">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Publications<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#publications">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Articles related to Lymphatic Malformation 12 according to PubMed, OMIM&#174;, and ClinVar:</h3>
+<table id="Publications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pathogenic variants in MDFIC cause recessive central conducting lymphatic anomaly with lymphedema.
+<sup title="PubMed">62</sup>
+<sup title="OMIM&#174;">57</sup>
+<sup title="ClinVar">5</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Byrne AB...Harvey NL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35235341" target="_blank">35235341</a></td>
+<td>2022</td>
+</tr>
+</tbody>
+</table>
+<h3>Text-mined articles related to Lymphatic Malformation 12 according to PubMed:</h3> <div class="badge badge-improved">
+<a href="/pages/whatsnew" target="_blank">IMPROVED</a>
+</div>
+<span class="showmore">
+(<a id="InferredPublications-table_SeeMore" href="javascript:showMoreTable('InferredPublications-table','InferredPublications-table_SeeMore', 'show top 50', 'showing 50, show less','collapsable')">show top 50</a>)
+</span>
+<span class="showmore">
+(<a href="#" class="showAll" onclick="javascript: return showAll('InferredPublications', '75', 'InferredPublications-table');">show all 75</a>)
+</span>
+<table id="InferredPublications-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Title</th>
+<th>Authors</th>
+<th>PMID</th>
+<th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Complex Lymphatic Anomalies: Report on a Patient Registry Using the Latest Diagnostic Guidelines.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Andreoti TA...Kapp FG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36706428" target="_blank">36706428</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Non-Surgical Transversal Dentoalveolar Compensation with Completely Customized Lingual Appliances versus Surgically Assisted Rapid Palatal Expansion in Adults-Tipping or Translation in Posterior Crossbite Correction?
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Schmid JQ...Middelberg C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37240977" target="_blank">37240977</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pathogenic variants in PIK3CA are associated with clinical phenotypes of kaposiform lymphangiomatosis, generalized lymphatic anomaly, and central conducting lymphatic anomaly.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Grenier JM...Srinivasan AS</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37194624" target="_blank">37194624</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Novel concept for posterior crossbite correction : Preliminary results.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wiechmann D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37142772" target="_blank">37142772</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Lymphatic disorders caused by mosaic, activating KRAS variants respond to MEK inhibition.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Sheppard SE...Hakonarson H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/37154160" target="_blank">37154160</a></td>
+<td>2023</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+A neonatal case of central conducting lymphatic anomaly successfully treated with sirolimus.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Passarello L...Popat H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35652569" target="_blank">35652569</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Non-Surgical Transversal Dentoalveolar Compensation with Completely Customized Lingual Appliances versus Surgically Assisted Rapid Palatal Expansion in Adults-The Amount of Posterior Crossbite Correction.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Schmid JQ...Middelberg C</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36422069" target="_blank">36422069</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Double Valorization for a Discard-α-Chitin and Calcium Lactate Production from the Crab Polybius henslowii Using a Deep Eutectic Solvent Approach.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">McReynolds C...Fernandes SCM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36421995" target="_blank">36421995</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Correction to: Genetics etiologies and genotype phenotype correlations in a cohort of individuals with central conducting lymphatic anomaly.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liu M...Sheppard SE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35654890" target="_blank">35654890</a></td>
+<td>2022</td>
+</tr>
+<tr>
+<td>10</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Optimization of Ultrasonic-Assisted Extraction (UAE) Method Using Natural Deep Eutectic Solvent (NADES) to Increase Curcuminoid Yield from Curcuma longa L., Curcuma xanthorrhiza, and Curcuma mangga Val.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Rosarina D...Hermansyah H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36144813" target="_blank">36144813</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>11</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pain perception following computer-controlled versus conventional dental anesthesia: randomized controlled trial.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Attia S...Riad A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36138388" target="_blank">36138388</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>12</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Genetics etiologies and genotype phenotype correlations in a cohort of individuals with central conducting lymphatic anomaly.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Liu M...Sheppard SE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35606495" target="_blank">35606495</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>13</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Lymphatic Anomalies in Children: Update on Imaging Diagnosis, Genetics, and Treatment.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Snyder EJ...Tekes A</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35043669" target="_blank">35043669</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>14</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Layer 6A Pyramidal Cell Subtypes Form Synaptic Microcircuits with Distinct Functional and Structural Properties.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yang D...Feldmeyer D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34628499" target="_blank">34628499</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>15</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Is dentin biomodification with collagen cross-linking agents effective for improving dentin adhesion? A systematic review and meta-analysis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Silva JC...Saboia VPA</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35692222" target="_blank">35692222</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>16</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Lymphatic Phenotype of Noonan Syndrome: Innovative Diagnosis and Possible Implications for Therapy.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Kleimeier LER...Draaisma JMT</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35683512" target="_blank">35683512</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>17</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Combination Strategy of Genetic Dereplication and Manipulation of Epigenetic Regulators Reveals a Novel Compound from Plant Endophytic Fungus.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Yang L...Liu X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35409046" target="_blank">35409046</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>18</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Case Report: Progressive central conducting lymphatic abnormalities in the RASopathies. Two case reports, including successful treatment by MEK inhibition.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Gordon K...Mansour S</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/36238151" target="_blank">36238151</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>19</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Indications and Limitations of Sirolimus in the Treatment of Vascular Anomalies-Insights From a Retrospective Case Series.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Karastaneva A...Benesch M</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/35676905" target="_blank">35676905</a></td>
+<td>2022</td>
+</tr>
+<tr class="collapsable">
+<td>20</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Objective treatment outcome assessment of a completely customized lingual appliance: A retrospective study.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">AlQatami FM...Schwestka-Polly R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34305012" target="_blank">34305012</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>21</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Severe adverse events during sirolimus "off-label" therapy for vascular anomalies.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Rossler J...Kapp FG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33580918" target="_blank">33580918</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>22</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Janus-faced EPHB4-associated disorders: novel pathogenic variants and unreported intrafamilial overlapping phenotypes.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Martin-Almedina S...Ostergaard P</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33864021" target="_blank">33864021</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>23</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Chylous cyst-venous shunt for the management of central conducting lymphatic anomaly.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Amore MA...Papendieck CM</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33997561" target="_blank">33997561</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>24</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Class II correction by maxillary en masse distalization using a completely customized lingual appliance and a novel mini-screw anchorage concept - preliminary results.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Beyling F...Wiechmann D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/34187487" target="_blank">34187487</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>25</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Expanded phenotypic spectrum of JAG1-associated diseases: Central conducting lymphatic anomaly with a pathogenic variant in JAG1.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Li D...Hakonarson H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/33433009" target="_blank">33433009</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>26</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Likelihood of myocardial infarction, revascularization and death following catheterization laboratory activation in patients with vs. without both chest pain and ST elevation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Puleo P...Stoltzfus J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32541211" target="_blank">32541211</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>27</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+CCLA: an accurate method and web server for cancer cell line authentication using gene expression profiles.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Zhang Q...Guo AY</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32510568" target="_blank">32510568</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>28</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Laryngotracheal Reconstruction in a Patient With a Central Conducting Lymphatic Anomaly.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Macielak RJ...Balakrishnan K</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32902851" target="_blank">32902851</a></td>
+<td>2021</td>
+</tr>
+<tr class="collapsable">
+<td>29</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Controlling incisor torque with completely customized lingual appliances.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Alouini O...Wiechmann D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32472341" target="_blank">32472341</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>30</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Surgical Residents as Certified Bilingual Speakers: A Quality Improvement Initiative.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Solomon A...Garcia AV</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32165106" target="_blank">32165106</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>31</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Inhibition of jasmonate-mediated plant defences by the fungal metabolite higginsianin B.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dallery JF...O&#39;Connell RJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/32006004" target="_blank">32006004</a></td>
+<td>2020</td>
+</tr>
+<tr class="collapsable">
+<td>32</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Liver lipid metabolism disruption in cancer cachexia is aggravated by cla supplementation -induced inflammation.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Goncalves DC...Seelaender MCL</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30322784" target="_blank">30322784</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>33</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Regulation of subtelomeric fungal secondary metabolite genes by H3K4me3 regulators CclA and KdmB.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Lukito Y...Scott B</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31165508" target="_blank">31165508</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>34</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+ARAF recurrent mutation causes central conducting lymphatic anomaly treatable with a MEK inhibitor.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Li D...Hakonarson H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31263281" target="_blank">31263281</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>35</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+The impact of sirolimus therapy on lesion size, clinical symptoms, and quality of life of patients with lymphatic anomalies.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Ozeki M...Fukao T</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31196128" target="_blank">31196128</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>36</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+H3K4 trimethylation by CclA regulates pathogenicity and the production of three families of terpenoid secondary metabolites in Colletotrichum higginsianum.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dallery JF...O&#39;Connell RJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30924614" target="_blank">30924614</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>37</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Factors Associated With Accuracy of Self-Assessment Compared With Tested Non-English Language Proficiency Among Primary Care Providers.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Diamond L...Gany F</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30844905" target="_blank">30844905</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>38</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Baculovirus IE2 Interacts with Viral DNA through Daxx To Generate an Organized Nuclear Body Structure for Gene Activation in Vero Cells.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wei SC...Chao YC</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30728268" target="_blank">30728268</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>39</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Deleting a Chromatin Remodeling Gene Increases the Diversity of Secondary Metabolites Produced by Colletotrichum higginsianum.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Dallery JF...Ouazzani J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30776231" target="_blank">30776231</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>40</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Lymphaticovenous bypass of the thoracic duct for the treatment of chylous leak in central conducting lymphatic anomalies.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Taghinia AH...Fishman SJ</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30292452" target="_blank">30292452</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>41</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Evidence of a Demethylase-Independent Role for the H3K4-Specific Histone Demethylases in Aspergillus nidulans and Fusarium graminearum Secondary Metabolism.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Bachleitner S...Strauss J</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31456754" target="_blank">31456754</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>42</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Speed and energy optimized quasi-delay-insensitive block carry lookahead adder.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Balasubramanian P...Mastorakis NE</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/31226125" target="_blank">31226125</a></td>
+<td>2019</td>
+</tr>
+<tr class="collapsable">
+<td>43</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Abdominal lymphatic malformations.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wohlgemuth WA...Schreyer AG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29796772" target="_blank">29796772</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>44</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Quality of occlusal outcome following space closure in cases of lower second premolar aplasia using lingual orthodontic molar mesialization without maxillary counterbalancing extraction.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Klang E...Wiechmann D</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/30249268" target="_blank">30249268</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>45</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Pathogenic variant in EPHB4 results in central conducting lymphatic anomaly.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Li D...Hakonarson H</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29905864" target="_blank">29905864</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>46</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+[Abdominal lymphatic malformations. German version].
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Wohlgemuth WA...Schreyer AG</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29242954" target="_blank">29242954</a></td>
+<td>2018</td>
+</tr>
+<tr class="collapsable">
+<td>47</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Single tooth torque correction in the lower frontal area by a completely customized lingual appliance.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Jacobs C...Schwestka-Polly R</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/29017523" target="_blank">29017523</a></td>
+<td>2017</td>
+</tr>
+<tr class="collapsable">
+<td>48</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Identification of an itaconic acid degrading pathway in itaconic acid producing Aspergillus terreus.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Chen M...Lu X</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27102125" target="_blank">27102125</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>49</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+Imaging features of kaposiform lymphangiomatosis.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name">Goyal P...Chaudry G</span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27053281" target="_blank">27053281</a></td>
+<td>2016</td>
+</tr>
+<tr class="collapsable">
+<td>50</td>
+<td>
+<div itemscope="itemscope" itemtype="http://schema.org/MedicalScholarlyArticle">
+<span itemprop="name">
+McCormick et al. A Case of a Central Conducting Lymphatic Anomaly Responsive to Sirolimus. Pediatrics. 2016;137(1):e20152694.
+<sup title="PubMed">62</sup>
+</span>
+</div>
+</td>
+<td>
+<div itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<span itemprop="name"></span>
+</div>
+</td>
+<td> <a href="https://pubmed.ncbi.nlm.nih.gov/27033110" target="_blank">27033110</a></td>
+<td>2016</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="related_genes">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Genes<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#related_genes">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="no_wrap">
+<h3>Genes related to Lymphatic Malformation 12 (1 elite genes):</h3>
+</div>
+<div class="no_wrap" style="margin-top:7px;">
+<div class="asterisk_icon" style="margin-top:5px;"></div>
+<div style="float:left;">&nbsp;- Elite gene</div>
+<div style="margin-top:3px;float:left;margin-top: -4px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#elite_genes">
+<img src="/img/menu/help_icon.png" alt="About elite gene" title="About elite gene" style="width:20px;margin:0px;">
+</a>
+</div>
+<div class="cc_icon" style="margin-left:35px;"></div>
+<div>&nbsp;- Cancer Census gene in COSMIC</div>
+<div style="margin-top: -6px;margin-bottom: 6px;margin-left: 5px;">
+<a href="/pages/info#census_genes"><img src="/img/menu/help_icon.png" alt="About Cancer Census gene" title="About Cancer Census gene" style="width:20px;margin:0px;"></a>
+</div>
+</div>
+<table id="RelatedGenes-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="12">#</th>
+<th width="135"><div class="no_wrap"><div>Symbol</div></div></th>
+<th width="225">Description</th>
+<th width="70">Category</th>
+<th width="42" title="Solr Relevance Score">Score</th>
+<th width="180">Evidence</th>
+<th width="120" style="white-space:nowrap">PubMed IDs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="1">1</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MDFIC" title="MDFIC gene information at GeneCards" target="_blank">MDFIC</a></div>
+<div class="asterisk_icon2" title="Elite Gene"></div>
+</div>
+</td>
+<td>MyoD Family Inhibitor Domain Containing</td>
+<td>Protein Coding</td>
+<td>913.3</td>
+<td>
+<div>
+Molecular basis known
+<sup title="Online Mendelian Inheritance in Man&#174;"> <a href="http://omim.org/entry/614511" title="Online Mendelian Inheritance in Man&#174;" target="_blank">57</a></sup>
+</div>
+<div>
+Pathogenic
+<sup title="ClinVar"><span title="ClinVar">5</span> </sup>
+</div>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000484656&amp;type2=-26&amp;id2=DOID:0081030" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+<span> GeneCards inferred via</span>
+<span id="related_genes_MDFIC">
+<span class="collapsable">
+:<br/>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MDFIC&amp;keywords=Lymphatic+Malformation+12&amp;prefilter=diseases#diseases" title="MDFIC gene information at GeneCards" target="_blank">Disorders</a> </span>
+</span>
+<span class="showmore">
+(<a id="related_genes_MDFIC_SeeMore" href="javascript:showMoreTable('related_genes_MDFIC','related_genes_MDFIC_SeeMore', 'show sections', 'show less','collapsable')">show sections</a>)
+</span>
+</td>
+<td>
+<div id="pubmedids_item_1">
+<span>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35235341" title="ClinVar" target="_blank">35235341</a> </span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">2</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a></div>
+</div>
+</td>
+<td>EPH Receptor B4</td>
+<td>Protein Coding</td>
+<td>6.59</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000350896&amp;type2=-26&amp;id2=DOID:0081030" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_2">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">3</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF" title="ARAF gene information at GeneCards" target="_blank">ARAF</a></div>
+<div class="cc_icon" title="Cancer Census gene in COSMIC"></div>
+</div>
+</td>
+<td>A-Raf Proto-Oncogene, Serine/Threonine Kinase</td>
+<td>Protein Coding</td>
+<td>6.45</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000290277&amp;type2=-26&amp;id2=DOID:0081030" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_3">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">4</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a></div>
+</div>
+</td>
+<td>RAS P21 Protein Activator 1</td>
+<td>Protein Coding</td>
+<td>5.62</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000274376&amp;type2=-26&amp;id2=DOID:0081030" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_4">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">5</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a></div>
+</div>
+</td>
+<td>Ephrin B2</td>
+<td>Protein Coding</td>
+<td>5.56</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000245323&amp;type2=-26&amp;id2=DOID:0081030" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_5">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">6</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a></div>
+</div>
+</td>
+<td>Synaptic Ras GTPase Activating Protein 1</td>
+<td>Protein Coding</td>
+<td>5.3</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000403636&amp;type2=-26&amp;id2=DOID:0081030" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_6">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">7</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=A2ML1" title="A2ML1 gene information at GeneCards" target="_blank">A2ML1</a></div>
+</div>
+</td>
+<td>Alpha-2-Macroglobulin Like 1</td>
+<td>Protein Coding</td>
+<td>5.25</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000299698&amp;type2=-26&amp;id2=DOID:0081030" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_7">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">8</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a></div>
+</div>
+</td>
+<td>RAS P21 Protein Activator 2</td>
+<td>Protein Coding</td>
+<td>5.25</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000286364&amp;type2=-26&amp;id2=DOID:0081030" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_8">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">9</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a></div>
+</div>
+</td>
+<td>SOS Ras/Rho Guanine Nucleotide Exchange Factor 2</td>
+<td>Protein Coding</td>
+<td>5.04</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000216373&amp;type2=-26&amp;id2=DOID:0081030" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_9">
+<span>
+</span>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1">10</td>
+<td>
+<div class="no_wrap">
+<div> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a></div>
+</div>
+</td>
+<td>RAS Related 2</td>
+<td>Protein Coding</td>
+<td>4.99</td>
+<td>
+<div>
+DISEASES inferred
+<sup title="The University of Copenhagen DISEASES"> <a href="http://diseases.jensenlab.org/Entity?documents=10&amp;type1=9606&amp;id1=ENSP00000256196&amp;type2=-26&amp;id2=DOID:0081030" title="The University of Copenhagen DISEASES" target="_blank">14</a></sup>
+</div>
+</td>
+<td>
+<div id="pubmedids_item_10">
+<span>
+</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="genetic_variations">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Variations<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#genetic_variations">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>ClinVar genetic disease variations for Lymphatic Malformation 12:</h3>
+<sup title="ClinVar">5</sup>
+<table id="ClinVarVariations-table" style="table-layout:fixed;">
+<thead>
+<tr>
+<th width="20">#</th>
+<th width="100">Gene</th>
+<th width="250" title="Preferred name of the variation. Click on the linkout to read more at ClinVar.">
+Variation Name
+<a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/variation_report/#title" target="_blank" rel="nofollow" style="margin-top:0px" class="new_win_icon"></a>
+</th>
+<th>Type</th>
+<th width="100">Significance</th>
+<th width="50">ClinVarId</th>
+<th title="NCBI dbSNP">dbSNP ID</th>
+<th width="190" title="Position (Chromosome:start-end)">Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MDFIC" title="MDFIC gene information at GeneCards" target="_blank">MDFIC</a></td>
+<td style="overflow-wrap:break-word;">NM_001166345.3(MDFIC):c.391dup (p.Met131fs)</td>
+<td style="overflow-wrap:break-word;" title="Duplication">DUP</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002279857/" title="RCV002279857" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1702938/?new_evidence=true#id_second" target="_blank">1702938</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:114619728-114619729<br/>GRCh38: 7:114979673-114979674</td>
+</tr>
+<tr>
+<td>2</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MDFIC" title="MDFIC gene information at GeneCards" target="_blank">MDFIC</a></td>
+<td style="overflow-wrap:break-word;">NM_001166345.3(MDFIC):c.732T&gt;G (p.Phe244Leu)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002279858/" title="RCV002279858" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1702939/?new_evidence=true#id_second" target="_blank">1702939</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:114655980-114655980<br/>GRCh38: 7:115015926-115015926</td>
+</tr>
+<tr>
+<td>3</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MDFIC" title="MDFIC gene information at GeneCards" target="_blank">MDFIC</a></td>
+<td style="overflow-wrap:break-word;">NM_001166345.3(MDFIC):c.371del (p.Leu123_Ser124insTer)</td>
+<td style="overflow-wrap:break-word;" title="Deletion">DEL</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002279859/" title="RCV002279859" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1702940/?new_evidence=true#id_second" target="_blank">1702940</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:114619714-114619714<br/>GRCh38: 7:114979659-114979659</td>
+</tr>
+<tr>
+<td>4</td>
+<td> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=MDFIC" title="MDFIC gene information at GeneCards" target="_blank">MDFIC</a></td>
+<td style="overflow-wrap:break-word;">NM_001166345.3(MDFIC):c.187G&gt;T (p.Gly63Ter)</td>
+<td style="overflow-wrap:break-word;" title="Single Nucleotide Variant">SNV</td>
+<td>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/RCV002279860/" title="RCV002279860" target="_blank">Pathogenic</a><br/>
+</td>
+<td> <a href="http://www.ncbi.nlm.nih.gov/clinvar/variation/1702941/?new_evidence=true#id_second" target="_blank">1702941</a></td>
+<td><span></span> </td>
+<td>GRCh37: 7:114582422-114582422<br/>GRCh38: 7:114942367-114942367</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="expression_profiles">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Expression<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#expression_profiles">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="expression-images">
+</div>
+<div>
+Search
+<a href="http://www.ncbi.nlm.nih.gov/gds/?term=%22disease%20state%22%5BAll%20Fields%5D%20AND%20%22Homo%20Sapiens%22%5Bporgn%5D%20AND%20%28%22Lymphatic%20Malformation%2012%22%5BMeSH%20Terms%5D%20OR%20%22Lymphatic%20Malformation%2012%22%5BAll%20Fields%5D%29%20AND%20%28%22gds%22%5BFilter%5D%20OR%20%22gse%22%5BFilter%5D%20OR%20%22gsm%22%5BFilter%5D%29%20AND%20%28%22Expression%20profiling%20by%20array%22%5BFilter%5D%20OR%20Expression%20profiling%20by%20high%20throughput%20sequencing%5BFilter%5D%29" target="_blank" title="Gene Expression Omnibus">GEO</a>
+for disease gene expression data for Lymphatic Malformation 12.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="pathways">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Pathways<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#pathways">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<h3>Pathways related to Lymphatic Malformation 12 according to GeneCards Suite gene sharing:</h3>
+<span class="showmore">
+(<a id="Pathway-table_SeeMore" href="javascript:showMoreTable('Pathway-table','Pathway-table_SeeMore', 'show all 25', 'showing 25, show less','collapsable')">show all 25</a>)
+</span>
+<table id="Pathway-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Super pathways</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th width="220">Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr id="ERK_Signaling_1">
+<td>1</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/erk_signaling" target="_blank">ERK Signaling</a>
+<sup title="QIAGEN"><span>64</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>ILK Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>MAPK Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>Molecular Mechanisms of Cancer</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>Rho Family GTPases</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>13.52</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=ERK+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=ERK+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=ERK+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=ERK+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=ERK+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=ERK+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> </td>
+</tr>
+<tr id="Signal_Transduction_2">
+<td>2</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/signal_transduction" target="_blank">Signal Transduction</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-162582" target="_blank">66</a></sup>
+</div>
+</td>
+<td>13.47</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=Signal+Transduction&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> </td>
+</tr>
+<tr id="Prolactin_Signaling_3">
+<td>3</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/prolactin_signaling" target="_blank">Prolactin Signaling</a>
+<sup title="QIAGEN"><span>64</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>Development Prolactin receptor signaling</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<a href="http://www.pharmgkb.org/pathway/PA162356267" target="_blank">EGFR Inhibitor Pathway, Pharmacodynamics</a>
+<sup title="Pharmacogenomics Knowledge Base">60</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP4806" target="_blank">EGFR tyrosine kinase inhibitor resistance</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<span>ErbB Family Pathway</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP673" target="_blank">ErbB signaling pathway</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<span>ErbB2-ErbB3 Heterodimers</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>ErbB4 Pathway</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-9634635" target="_blank">Estrogen-stimulated signaling through PRKCZ</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<span>Glioblastoma Multiforme</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP2261" target="_blank">Glioblastoma signaling pathways</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<span>Growth Hormone Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>HMGB1 Pathway</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>IL-2 Pathway</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>LPS Stimulated MAPK Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>PACAP Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>PI3K Signaling in B-Lymphocyte</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP2868" target="_blank">TCA cycle nutrient use and invasiveness of ovarian cancer</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<span>Thrombopoietin Pathway</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>TREM1 Pathway</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>UVA-Induced MAPK Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>UVB-Induced MAPK Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>UVC-Induced MAPK Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>13.12</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Prolactin+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=Prolactin+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=Prolactin+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=Prolactin+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=Prolactin+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=Prolactin+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> </td>
+</tr>
+<tr id="NFAT_and_Cardiac_Hypertrophy_4">
+<td>4</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/nfat_and_cardiac_hypertrophy" target="_blank">NFAT and Cardiac Hypertrophy</a>
+<sup title="QIAGEN"><span>64</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>IGF1R Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>Signaling Involved in Cardiac Hypertrophy</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>12.58</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=NFAT+and+Cardiac+Hypertrophy&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=NFAT+and+Cardiac+Hypertrophy&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=NFAT+and+Cardiac+Hypertrophy&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=NFAT+and+Cardiac+Hypertrophy&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> </td>
+</tr>
+<tr id="G-protein_signaling_G-Protein_alpha-i_signaling_cascades_5">
+<td>5</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/g-protein_signaling_g-protein_alpha-i_signaling_cascades" target="_blank">G-protein signaling G-Protein alpha-i signaling cascades</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>Development Beta-adrenergic receptors regulation of ERK</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<span>G-protein signaling G-Protein alpha-s signaling cascades</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<span>G-protein signaling G-Protein beta/gamma signaling cascades</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<span>Signaling in Gap Junctions</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>12.39</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=G-protein+signaling+G-Protein+alpha-i+signaling+cascades&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=G-protein+signaling+G-Protein+alpha-i+signaling+cascades&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=G-protein+signaling+G-Protein+alpha-i+signaling+cascades&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+<tr id="G-Beta_Gamma_Signaling_6">
+<td>6</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/g-beta_gamma_signaling" target="_blank">G-Beta Gamma Signaling</a>
+<sup title="QIAGEN"><span>64</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>CRHR Pathway</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>GHRH Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>12.38</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=G-Beta+Gamma+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=G-Beta+Gamma+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=G-Beta+Gamma+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+<tr id="EPH-Ephrin_signaling_7">
+<td>7</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/eph-ephrin_signaling" target="_blank">EPH-Ephrin signaling</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-2682334" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>Cell adhesion Ephrins signaling</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<span>Cytoskeleton remodeling Fibronectin-binding integrins in cell motility</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:ephbfwdpathway#section=Diagram" target="_blank">EPHB forward signaling</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3928662" target="_blank">EPHB-mediated forward signaling</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3928665" target="_blank">EPH-ephrin mediated repulsion of cells</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-3928664" target="_blank">Ephrin signaling</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:ephrinb_ephbpathway#section=Diagram" target="_blank">EphrinB-EPHB pathway</a>
+<sup title="PubChem">61</sup>
+</div>
+</div>
+</td>
+<td>12.33</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=EPH-Ephrin+signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=EPH-Ephrin+signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=EPH-Ephrin+signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr id="Semaphorin_interactions_8">
+<td>8</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/semaphorin_interactions" target="_blank">Semaphorin interactions</a>
+<sup title="Reactome"> <a href="https://reactome.org/PathwayBrowser/#/R-HSA-373755" target="_blank">66</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-399956" target="_blank">CRMPs in Sema3A signaling</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-416700" target="_blank">Other semaphorin interactions</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-5625900" target="_blank">RHO GTPases activate CIT</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-5627123" target="_blank">RHO GTPases activate PAKs</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-5627117" target="_blank">RHO GTPases Activate ROCKs</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-399954" target="_blank">Sema3A PAK dependent Axon repulsion</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-399955" target="_blank">SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-400685" target="_blank">Sema4D in semaphorin signaling</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-416572" target="_blank">Sema4D induced cell migration and growth-cone collapse</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-416550" target="_blank">Sema4D mediated inhibition of cell attachment and migration</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<span>Semaphorin Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>12.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Semaphorin+interactions&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=Semaphorin+interactions&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=Semaphorin+interactions&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=Semaphorin+interactions&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> </td>
+</tr>
+<tr id="Development_VEGF_signaling_via_VEGFR2_-_generic_cascades_9">
+<td>9</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/development_vegf_signaling_via_vegfr2_-_generic_cascades" target="_blank">Development VEGF signaling via VEGFR2 - generic cascades</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>Development VEGF signaling and activation</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<a href="https://www.rndsystems.com/pathways/vegf-vegf-r2-signaling-pathways?utm_source=genecards&amp;utm_medium=referral&amp;utm_campaign=product&amp;utm_content=pathway" target="_blank">VEGF - VEGF R2 Signaling Pathways</a>
+<sup title="R&amp;D Systems">65</sup>
+</div>
+</div>
+</td>
+<td>12.15</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Development+VEGF+signaling+via+VEGFR2+-+generic+cascades&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=Development+VEGF+signaling+via+VEGFR2+-+generic+cascades&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=Development+VEGF+signaling+via+VEGFR2+-+generic+cascades&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+<tr id="Development_FGFR_signaling_pathway_10">
+<td>10</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/development_fgfr_signaling_pathway" target="_blank">Development FGFR signaling pathway</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>Development FGF-family signaling</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<span>Development Flt3 signaling</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<span>FGF Pathway</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>12.15</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Development+FGFR+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=Development+FGFR+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=Development+FGFR+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+<tr id="Development_EGFR_signaling_pathway_11" class="collapsable">
+<td>11</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/development_egfr_signaling_pathway" target="_blank">Development EGFR signaling pathway</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>Development ERBB-family signaling</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<span>EGF Pathway</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<a href="https://www.sinobiological.com/pathways/egfr-signaling-pathway?utm_source=genecards&amp;utm_medium=platform&amp;utm_campaign=pathway" target="_blank">EGFR Signaling Pathway</a>
+<sup title="Sino Biological">67</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:erbb_network_pathway#section=Diagram" target="_blank">ErbB receptor signaling network</a>
+<sup title="PubChem">61</sup>
+</div>
+</div>
+</td>
+<td>12.15</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Development+EGFR+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=Development+EGFR+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=Development+EGFR+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=Development+EGFR+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> </td>
+</tr>
+<tr id="EphB-EphrinB_Signaling_12" class="collapsable">
+<td>12</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/ephb-ephrinb_signaling" target="_blank">EphB-EphrinB Signaling</a>
+<sup title="QIAGEN"><span>64</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>Cytoskeleton remodeling Reverse signaling by ephrin B</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<span>Ephrin-Eph Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>12.09</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=EphB-EphrinB+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=EphB-EphrinB+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=EphB-EphrinB+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=EphB-EphrinB+Signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr id="G-protein_signaling_RAC1_in_cellular_process_13" class="collapsable">
+<td>13</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/g-protein_signaling_rac1_in_cellular_process" target="_blank">G-protein signaling RAC1 in cellular process</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:cdc42_pathway#section=Diagram" target="_blank">CDC42 signaling events</a>
+<sup title="PubChem">61</sup>
+</div>
+<div>
+<span>Cytoskeleton remodeling CDC42 in cellular processes</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:rac1_pathway#section=Diagram" target="_blank">RAC1 signaling pathway</a>
+<sup title="PubChem">61</sup>
+</div>
+</div>
+</td>
+<td>12.01</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=G-protein+signaling+RAC1+in+cellular+process&amp;prefilter=pathways_interactions#pathways_interactions" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=G-protein+signaling+RAC1+in+cellular+process&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=G-protein+signaling+RAC1+in+cellular+process&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=G-protein+signaling+RAC1+in+cellular+process&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=G-protein+signaling+RAC1+in+cellular+process&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> </td>
+</tr>
+<tr id="Integrin-mediated_cell_adhesion_14" class="collapsable">
+<td>14</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/integrin-mediated_cell_adhesion" target="_blank">Integrin-mediated cell adhesion</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP185" target="_blank">74</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>HGF Pathway</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>12</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=Integrin-mediated+cell+adhesion&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=Integrin-mediated+cell+adhesion&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=Integrin-mediated+cell+adhesion&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+<tr id="MAPK_signaling_pathway_15" class="collapsable">
+<td>15</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/mapk_signaling_pathway" target="_blank">MAPK signaling pathway</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP382" target="_blank">74</a></sup>
+</div>
+</td>
+<td>11.94</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=MAPK+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=MAPK+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=MAPK+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=MAPK+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=MAPK+signaling+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> </td>
+</tr>
+<tr id="GDNF-Family_Ligands_and_Receptor_Interactions_16" class="collapsable">
+<td>16</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/gdnf-family_ligands_and_receptor_interactions" target="_blank">GDNF-Family Ligands and Receptor Interactions</a>
+<sup title="QIAGEN"><span>64</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>BDNF Pathway</span>
+<sup title="QIAGEN">64</sup>
+</div>
+<div>
+<span>Development GDNF family signaling</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+</div>
+</td>
+<td>11.93</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=GDNF-Family+Ligands+and+Receptor+Interactions&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=GDNF-Family+Ligands+and+Receptor+Interactions&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=GDNF-Family+Ligands+and+Receptor+Interactions&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+<tr id="NGF_Pathway_17" class="collapsable">
+<td>17</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/ngf_pathway" target="_blank">NGF Pathway</a>
+<sup title="QIAGEN"><span>64</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://www.wikipathways.org/index.php/Pathway:WP3849" target="_blank">MAPK and NFkB signaling pathways inhibited by Yersinia YopJ</a>
+<sup title="WikiPathways">74</sup>
+</div>
+<div>
+<span>TRKA Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>11.89</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=NGF+Pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=NGF+Pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=NGF+Pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+<tr id="CCR3_Pathway_in_Eosinophils_18" class="collapsable">
+<td>18</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/ccr3_pathway_in_eosinophils" target="_blank">CCR3 Pathway in Eosinophils</a>
+<sup title="QIAGEN"><span>64</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>VEGF and S-1P Signaling</span>
+<sup title="QIAGEN">64</sup>
+</div>
+</div>
+</td>
+<td>11.81</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=CCR3+Pathway+in+Eosinophils&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=CCR3+Pathway+in+Eosinophils&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=CCR3+Pathway+in+Eosinophils&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> </td>
+</tr>
+<tr id="Ras_signaling_19" class="collapsable">
+<td>19</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/ras_signaling" target="_blank">Ras signaling</a>
+<sup title="WikiPathways"> <a href="https://www.wikipathways.org/index.php/Pathway:WP4223" target="_blank">74</a></sup>
+</div>
+</td>
+<td>11.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=Ras+signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=Ras+signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Ras+signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=Ras+signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=Ras+signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+<tr id="Vemurafenib_Pathway,_Pharmacodynamics_20" class="collapsable">
+<td>20</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/vemurafenib_pathway_pharmacodynamics" target="_blank">Vemurafenib Pathway, Pharmacodynamics</a>
+<sup title="Pharmacogenomics Knowledge Base"> <a href="http://www.pharmgkb.org/pathway/PA165980050" target="_blank">60</a></sup>
+</div>
+</td>
+<td>11.24</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=Vemurafenib+Pathway%2c+Pharmacodynamics&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=Vemurafenib+Pathway%2c+Pharmacodynamics&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+<tr id="G-protein_signaling_TC21_regulation_pathway_21" class="collapsable">
+<td>21</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/g-protein_signaling_tc21_regulation_pathway" target="_blank">G-protein signaling TC21 regulation pathway</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<span>G-protein signaling M-RAS regulation pathway</span>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)">22</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-5674499" target="_blank">Negative feedback regulation of MAPK pathway</a>
+<sup title="Reactome">66</sup>
+</div>
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-9652169" target="_blank">Signaling by MAP2K mutants</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>11.2</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=G-protein+signaling+TC21+regulation+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=G-protein+signaling+TC21+regulation+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=G-protein+signaling+TC21+regulation+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> </td>
+</tr>
+<tr id="G-protein_signaling_H-RAS_regulation_pathway_22" class="collapsable">
+<td>22</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/g-protein_signaling_h-ras_regulation_pathway" target="_blank">G-protein signaling_H-RAS regulation pathway</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+</td>
+<td>11.17</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=G-protein+signaling_H-RAS+regulation+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=G-protein+signaling_H-RAS+regulation+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+<tr id="G-protein_signaling_K-RAS_regulation_pathway_23" class="collapsable">
+<td>23</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/g-protein_signaling_k-ras_regulation_pathway" target="_blank">G-protein signaling_K-RAS regulation pathway</a>
+<sup title="GeneGo (Thomson Reuters Life Sciences Research)"><span>22</span> </sup>
+</div>
+</td>
+<td>11</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=ARAF&amp;keywords=G-protein+signaling_K-RAS+regulation+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="ARAF gene information at GeneCards" target="_blank">ARAF</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=G-protein+signaling_K-RAS+regulation+pathway&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+<tr id="Ephrin_B_reverse_signaling_24" class="collapsable">
+<td>24</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/ephrin_b_reverse_signaling" target="_blank">Ephrin B reverse signaling</a>
+<sup title="PubChem"> <a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:ephrinbrevpathway#section=Diagram" target="_blank">61</a></sup>
+</div>
+</td>
+<td>10.75</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=Ephrin+B+reverse+signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=Ephrin+B+reverse+signaling&amp;prefilter=pathways_interactions#pathways_interactions" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> </td>
+</tr>
+<tr id="Regulation_of_Ras_family_activation_25" class="collapsable">
+<td>25</td>
+<td>
+<div class="super_pathway">
+<a href="https://pathcards.genecards.org/card/regulation_of_ras_family_activation" target="_blank">Regulation of Ras family activation</a>
+<sup title="PubChem"> <a href="https://pubchem.ncbi.nlm.nih.gov/pathway/Pathway Interaction Database:ras_pathway#section=Diagram" target="_blank">61</a></sup>
+</div>
+<div class="open_my_pathways">Show member pathways</div>
+<div class="my_pathways" style="display: none;">
+<div>
+<a href="https://reactome.org/PathwayBrowser/#/R-HSA-1169092" target="_blank">Activation of RAS in B cells</a>
+<sup title="Reactome">66</sup>
+</div>
+</div>
+</td>
+<td>10.43</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=Regulation+of+Ras+family+activation&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=Regulation+of+Ras+family+activation&amp;prefilter=pathways_interactions#pathways_interactions" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=Regulation+of+Ras+family+activation&amp;prefilter=pathways_interactions#pathways_interactions" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=Regulation+of+Ras+family+activation&amp;prefilter=pathways_interactions#pathways_interactions" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="goterms">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">GO Terms<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#goterms">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<div class="section-data">
+<div class="section-data">
+<h3>Biological processes related to Lymphatic Malformation 12 according to GeneCards Suite gene sharing:</h3>
+<table id="go_proc-table">
+<thead>
+<tr>
+<th width="12">#</th>
+<th>Name</th>
+<th>GO ID</th>
+<th width="40" title="Solr Relevance Score">Score</th>
+<th>Top Affiliating Genes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>regulation of GTPase activity</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0043087" target="_blank">GO:0043087</a></td>
+<td>9.73</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=regulation+of+GTPase+activity&amp;prefilter=go_proc#go_proc" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=regulation+of+GTPase+activity&amp;prefilter=go_proc#go_proc" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=regulation+of+GTPase+activity&amp;prefilter=go_proc#go_proc" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+<tr>
+<td>2</td>
+<td>blood vessel morphogenesis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0048514" target="_blank">GO:0048514</a></td>
+<td>9.67</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=blood+vessel+morphogenesis&amp;prefilter=go_proc#go_proc" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=blood+vessel+morphogenesis&amp;prefilter=go_proc#go_proc" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> </td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ras protein signal transduction</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0007265" target="_blank">GO:0007265</a></td>
+<td>9.63</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=Ras+protein+signal+transduction&amp;prefilter=go_proc#go_proc" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SOS2&amp;keywords=Ras+protein+signal+transduction&amp;prefilter=go_proc#go_proc" title="SOS2 gene information at GeneCards" target="_blank">SOS2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RRAS2&amp;keywords=Ras+protein+signal+transduction&amp;prefilter=go_proc#go_proc" title="RRAS2 gene information at GeneCards" target="_blank">RRAS2</a> </td>
+</tr>
+<tr>
+<td>4</td>
+<td>cell migration involved in sprouting angiogenesis</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0002042" target="_blank">GO:0002042</a></td>
+<td>9.62</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=cell+migration+involved+in+sprouting+angiogenesis&amp;prefilter=go_proc#go_proc" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=cell+migration+involved+in+sprouting+angiogenesis&amp;prefilter=go_proc#go_proc" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> </td>
+</tr>
+<tr>
+<td>5</td>
+<td>ephrin receptor signaling pathway</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0048013" target="_blank">GO:0048013</a></td>
+<td>9.43</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=ephrin+receptor+signaling+pathway&amp;prefilter=go_proc#go_proc" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EPHB4&amp;keywords=ephrin+receptor+signaling+pathway&amp;prefilter=go_proc#go_proc" title="EPHB4 gene information at GeneCards" target="_blank">EPHB4</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=EFNB2&amp;keywords=ephrin+receptor+signaling+pathway&amp;prefilter=go_proc#go_proc" title="EFNB2 gene information at GeneCards" target="_blank">EFNB2</a> </td>
+</tr>
+<tr>
+<td>6</td>
+<td>negative regulation of Ras protein signal transduction</td>
+<td> <a href="http://amigo.geneontology.org/amigo/term/GO:0046580" target="_blank">GO:0046580</a></td>
+<td>9.02</td>
+<td>
+<a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=SYNGAP1&amp;keywords=negative+regulation+of+Ras+protein+signal+transduction&amp;prefilter=go_proc#go_proc" title="SYNGAP1 gene information at GeneCards" target="_blank">SYNGAP1</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA2&amp;keywords=negative+regulation+of+Ras+protein+signal+transduction&amp;prefilter=go_proc#go_proc" title="RASA2 gene information at GeneCards" target="_blank">RASA2</a> <a href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=RASA1&amp;keywords=negative+regulation+of+Ras+protein+signal+transduction&amp;prefilter=go_proc#go_proc" title="RASA1 gene information at GeneCards" target="_blank">RASA1</a> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="section" id="sources">
+<div class="section-header">
+<div class="jump-to-section">
+<select onchange="jumpToSection(this);">
+<option selected="selected" value>Jump to section</option>
+<option value="#aliases_descriptions">Aliases &amp; Classifications</option>
+<option value="#anatomical_context">Anatomical Context</option>
+<option value="#therapeutics">Drugs &amp; Therapeutics</option>
+<option value="#expression_profiles">Expression</option>
+<option value="#related_genes">Genes</option>
+<option value="#genetic_testing">Genetic Tests</option>
+<option value="#goterms">GO Terms</option>
+<option value="#pathways">Pathways</option>
+<option value="#publications">Publications</option>
+<option value="#disorders">Related Diseases</option>
+<option value="#sources">Sources</option>
+<option value="#summaries">Summaries</option>
+<option value="#clinical_features">Symptoms &amp; Phenotypes</option>
+<option value="#genetic_variations">Variations</option>
+<option value="#container">Top</option>
+<option value="#footer">Bottom</option>
+</select>
+</div>
+<div class="section-header-sources">
+<a href="#sources">Sources</a>
+</div>
+<h2 class="title">
+<span itemprop="aspect">Sources<small> for Lymphatic Malformation 12</small></span>
+</h2>
+<div class="about-section">
+<a href="/pages/info#sources">
+<img src="/img/menu/help_icon.png" alt="About this section" title="About this section" style="width:20px;margin:0px;" />
+</a>
+</div>
+</div>
+<table class="section-table">
+<tr>
+<td class="rhs">
+<table class="section-table sources-section-table">
+<tr>
+<td>
+<div title="BitterDB">
+<sup>1</sup>
+<a href="http://bitterdb.agri.huji.ac.il/bitterdb/" title="BitterDB" target="_blank">BitterDB</a>
+</div>
+<div title="Centers for Disease Control and Prevention">
+<sup>2</sup>
+<a href="https://www.cdc.gov/" title="Centers for Disease Control and Prevention" target="_blank">CDC</a>
+</div>
+<div title="Cell Signaling Technology">
+<sup>3</sup>
+<a href="http://www.cellsignal.com/" title="Cell Signaling Technology" target="_blank">Cell Signaling Technology</a>
+</div>
+<div title="ClinicalTrials.gov">
+<sup>4</sup>
+<a href="https://clinicaltrials.gov/" title="ClinicalTrials.gov" target="_blank">ClinicalTrials</a>
+</div>
+<div title="ClinVar">
+<sup>5</sup>
+<a href="http://www.ncbi.nlm.nih.gov/clinvar/" title="ClinVar" target="_blank">ClinVar</a>
+</div>
+<div title="Copy Number Variation in Disease">
+<sup>6</sup>
+<span title="No website currently available for Copy Number Variation in Disease">CNVD</span>
+</div>
+<div title="Cochrane Library">
+<sup>7</sup>
+<a href="http://www.cochranelibrary.com/" title="Cochrane Library" target="_blank">Cochrane Library</a>
+</div>
+<div title="Cosmic">
+<sup>8</sup>
+<a href="http://cancer.sanger.ac.uk/cosmic" title="Cosmic" target="_blank">Cosmic</a>
+</div>
+<div title="The Single Nucleotide Polymorphism Database">
+<sup>9</sup>
+<a href="http://www.ncbi.nlm.nih.gov/SNP/" title="The Single Nucleotide Polymorphism Database" target="_blank">dbSNP</a>
+</div>
+<div title="The Drug-Gene Interaction database">
+<sup>10</sup>
+<a href="https://www.dgidb.org/" title="The Drug-Gene Interaction database" target="_blank">DGIdb</a>
+</div>
+<div title="Disease Ontology">
+<sup>11</sup>
+<a href="http://disease-ontology.org/" title="Disease Ontology" target="_blank">Disease Ontology</a>
+</div>
+<div title="diseasecard">
+<sup>12</sup>
+<a href="http://bioinformatics.ua.pt/diseasecard/" title="diseasecard" target="_blank">diseasecard</a>
+</div>
+<div title="DiseaseEnhancer">
+<sup>13</sup>
+<a href="http://biocc.hrbmu.edu.cn/DiseaseEnhancer" title="DiseaseEnhancer" target="_blank">DiseaseEnhancer</a>
+</div>
+<div title="The University of Copenhagen DISEASES">
+<sup>14</sup>
+<a href="http://diseases.jensenlab.org/" title="The University of Copenhagen DISEASES" target="_blank">DISEASES</a>
+</div>
+<div title="DrugBank">
+<sup>15</sup>
+<a href="http://www.drugbank.ca/" title="DrugBank" target="_blank">DrugBank</a>
+</div>
+<div title="Experimental Factor Ontology">
+<sup>16</sup>
+<a href="https://www.ebi.ac.uk/efo/" title="Experimental Factor Ontology" target="_blank">EFO</a>
+</div>
+<div title="ExPASy">
+<sup>17</sup>
+<a href="http://web.expasy.org/" title="ExPASy" target="_blank">ExPASy</a>
+</div>
+<div title="The Foundational Model of Anatomy Ontology">
+<sup>18</sup>
+<a href="http://sig.biostr.washington.edu/projects/fm/AboutFM.html" title="The Foundational Model of Anatomy Ontology" target="_blank">FMA</a>
+</div>
+<div title="Genetic and Rare Diseases Information Center">
+<sup>19</sup>
+<a href="http://rarediseases.info.nih.gov" title="Genetic and Rare Diseases Information Center" target="_blank">GARD</a>
+</div>
+</td>
+<td>
+<div title="GeneAnalytics">
+<sup>20</sup>
+<a href="http://geneanalytics.genecards.org/" title="GeneAnalytics" target="_blank">GeneAnalytics</a>
+</div>
+<div title="GeneCards">
+<sup>21</sup>
+<a href="http://www.genecards.org/" title="GeneCards" target="_blank">GeneCards</a>
+</div>
+<div title="GeneGo (Thomson Reuters Life Sciences Research)">
+<sup>22</sup>
+<a href="http://pathwaymaps.com/maps/" title="GeneGo (Thomson Reuters Life Sciences Research)" target="_blank">GeneGo (Thomson Reuters)</a>
+</div>
+<div title="GeneHancer via GeneCards">
+<sup>23</sup>
+<a href="http://www.genecards.org/Guide/GeneCard#enhancers" title="GeneHancer via GeneCards" target="_blank">GeneHancer via GeneCards</a>
+</div>
+<div title="GeneReviews">
+<sup>24</sup>
+<a href="http://www.genereviews.org/" title="GeneReviews" target="_blank">GeneReviews</a>
+</div>
+<div title="GenomeRNAi">
+<sup>25</sup>
+<a href="http://www.genomernai.org/" title="GenomeRNAi" target="_blank">GenomeRNAi</a>
+</div>
+<div title="Gene Expression Omnibus DataSets">
+<sup>26</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gds/" title="Gene Expression Omnibus DataSets" target="_blank">GEO DataSets</a>
+</div>
+<div title="Gene Ontology">
+<sup>27</sup>
+<a href="http://www.geneontology.org/" title="Gene Ontology" target="_blank">GO</a>
+</div>
+<div title="Genetic Testing Registry">
+<sup>28</sup>
+<a href="http://www.ncbi.nlm.nih.gov/gtr/" title="Genetic Testing Registry" target="_blank">GTR</a>
+</div>
+<div title="Human Metabolome Database">
+<sup>29</sup>
+<a href="http://www.hmdb.ca/" title="Human Metabolome Database" target="_blank">HMDB</a>
+</div>
+<div title="The Human Phenotype Ontology">
+<sup>30</sup>
+<a href=" http://www.human-phenotype-ontology.org/" title="The Human Phenotype Ontology" target="_blank">HPO</a>
+</div>
+<div title="International Classification of Diseases, 10th Revision">
+<sup>31</sup>
+<a href="http://apps.who.int/classifications/icd10/browse/2010/en#/" title="International Classification of Diseases, 10th Revision" target="_blank">ICD10</a>
+</div>
+<div title="ICD10 via Orphanet">
+<sup>32</sup>
+<span title="No website currently available for ICD10 via Orphanet">ICD10 via Orphanet</span>
+</div>
+<div title="International Classification of Diseases, 11th Revision">
+<sup>33</sup>
+<a href="https://icd.who.int/browse11/l-m/en" title="International Classification of Diseases, 11th Revision" target="_blank">ICD11</a>
+</div>
+<div title="International Classification of Diseases, 9th Revision, Clinical Modification">
+<sup>34</sup>
+<a href="http://icd9cm.chrisendres.com/index.php" title="International Classification of Diseases, 9th Revision, Clinical Modification" target="_blank">ICD9CM</a>
+</div>
+<div title="International Union of Basic and Clinical Pharmacology">
+<sup>35</sup>
+<a href="http://www.guidetopharmacology.org/" title="International Union of Basic and Clinical Pharmacology" target="_blank">IUPHAR</a>
+</div>
+<div title="LifeMap Discovery&#174;">
+<sup>36</sup>
+<a href="https://discovery.lifemapsc.com" title="LifeMap Discovery&#174;" target="_blank">LifeMap</a>
+</div>
+<div title="The LncRNADisease database">
+<sup>37</sup>
+<a href="http://www.rnanut.net/lncrnadisease" title="The LncRNADisease database" target="_blank">LncRNADisease</a>
+</div>
+<div title="Leiden Open Variation Database">
+<sup>38</sup>
+<a href="https://www.lovd.nl" title="Leiden Open Variation Database" target="_blank">LOVD</a>
+</div>
+</td>
+<td>
+<div title="MalaCards">
+<sup>39</sup>
+<a href="https://www.malacards.org/" title="MalaCards" target="_blank">MalaCards</a>
+</div>
+<div title="MedGen">
+<sup>40</sup>
+<a href="http://www.ncbi.nlm.nih.gov/medgen/" title="MedGen" target="_blank">MedGen</a>
+</div>
+<div title="MedlinePlus">
+<sup>41</sup>
+<a href="http://www.nlm.nih.gov/medlineplus/" title="MedlinePlus" target="_blank">MedlinePlus</a>
+</div>
+<div title="MedlinePlus Genetics">
+<sup>42</sup>
+<a href="https://medlineplus.gov/genetics/ " title="MedlinePlus Genetics" target="_blank">MedlinePlus Genetics</a>
+</div>
+<div title="Medical Subject Headings">
+<sup>43</sup>
+<a href="https://meshb.nlm.nih.gov/" title="Medical Subject Headings" target="_blank">MeSH</a>
+</div>
+<div title="MESH via Orphanet">
+<sup>44</sup>
+<span title="No website currently available for MESH via Orphanet">MESH via Orphanet</span>
+</div>
+<div title="Mouse Genome Informatics">
+<sup>45</sup>
+<a href="http://www.informatics.jax.org/" title="Mouse Genome Informatics" target="_blank">MGI</a>
+</div>
+<div title="miR2Disease">
+<sup>46</sup>
+<a href="http://watson.compbio.iupui.edu:8080/miR2Disease/index.jsp" title="miR2Disease" target="_blank">miR2Disease</a>
+</div>
+<div title="NCBI Bookshelf">
+<sup>47</sup>
+<a href="http://www.ncbi.nlm.nih.gov/books/" title="NCBI Bookshelf" target="_blank">NCBI Bookshelf</a>
+</div>
+<div title="National Cancer Institute">
+<sup>48</sup>
+<a href="http://www.cancer.gov/" title="National Cancer Institute" target="_blank">NCI</a>
+</div>
+<div title="National Cancer Institute Thesaurus">
+<sup>49</sup>
+<a href="http://ncit.nci.nih.gov/ncitbrowser/" title="National Cancer Institute Thesaurus" target="_blank">NCIt</a>
+</div>
+<div title="The National Drug File - Reference Terminology">
+<sup>50</sup>
+<span title="No website currently available for The National Drug File - Reference Terminology">NDF-RT</span>
+</div>
+<div title="NIH Clinical Center">
+<sup>51</sup>
+<a href="http://clinicalstudies.info.nih.gov/" title="NIH Clinical Center" target="_blank">NIH Clinical Center</a>
+</div>
+<div title="National Institute of Neurological Disorders and Stroke">
+<sup>52</sup>
+<a href="http://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke" target="_blank">NINDS</a>
+</div>
+<div title="Novoseek">
+<sup>53</sup>
+<span title="No website currently available for Novoseek">Novoseek</span>
+</div>
+<div title="Novus Biologicals">
+<sup>54</sup>
+<a href="http://www.novusbio.com/" title="Novus Biologicals" target="_blank">Novus Biologicals</a>
+</div>
+<div title="The Organ-Disease Annotation database of tissue-selective hereditary diseases">
+<sup>55</sup>
+<a href="https://netbio.bgu.ac.il/odisea/" title="The Organ-Disease Annotation database of tissue-selective hereditary diseases" target="_blank">ODiseA</a>
+</div>
+<div title="OMIM via Orphanet">
+<sup>56</sup>
+<span title="No website currently available for OMIM via Orphanet">OMIM via Orphanet</span>
+</div>
+<div title="Online Mendelian Inheritance in Man&#174;">
+<sup>57</sup>
+<a href="http://omim.org/" title="Online Mendelian Inheritance in Man&#174;" target="_blank">OMIM&#174;</a>
+<span class="sourceUpdateDate">(Updated 09-Jul-2023)</span>
+</div>
+</td>
+<td>
+<div title="Orphanet">
+<sup>58</sup>
+<a href="http://www.orpha.net/" title="Orphanet" target="_blank">Orphanet</a>
+</div>
+<div title="PathCards">
+<sup>59</sup>
+<a href="http://pathcards.genecards.org/" title="PathCards" target="_blank">PathCards</a>
+</div>
+<div title="Pharmacogenomics Knowledge Base">
+<sup>60</sup>
+<a href="http://www.pharmgkb.org/" title="Pharmacogenomics Knowledge Base" target="_blank">PharmGKB</a>
+</div>
+<div title="PubChem">
+<sup>61</sup>
+<a href="https://pubchemdocs.ncbi.nlm.nih.gov/" title="PubChem" target="_blank">PubChem</a>
+</div>
+<div title="NCBI-PubMed">
+<sup>62</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/" title="NCBI-PubMed" target="_blank">PubMed</a>
+</div>
+<div title="PubMed HealthMedical encyclopedia">
+<sup>63</sup>
+<a href="https://www.ncbi.nlm.nih.gov/pubmedhealth/" title="PubMed HealthMedical encyclopedia" target="_blank">PubMed Health</a>
+</div>
+<div title="QIAGEN">
+<sup>64</sup>
+<a href="http://www.qiagen.com" title="QIAGEN" target="_blank">QIAGEN</a>
+</div>
+<div title="R&amp;D Systems">
+<sup>65</sup>
+<a href="http://www.rndsystems.com" title="R&amp;D Systems" target="_blank">R&amp;D Systems</a>
+</div>
+<div title="Reactome">
+<sup>66</sup>
+<a href="http://www.reactome.org/" title="Reactome" target="_blank">Reactome</a>
+</div>
+<div title="Sino Biological">
+<sup>67</sup>
+<a href="https://www.sinobiological.com/" title="Sino Biological" target="_blank">Sino Biological</a>
+</div>
+<div title="Systematized Nomenclature of Medicine Clinical Terms">
+<sup>68</sup>
+<a href="http://www.ihtsdo.org/snomed-ct/" title="Systematized Nomenclature of Medicine Clinical Terms" target="_blank">SNOMED-CT</a>
+</div>
+<div title="SNOMED-CT via HPO">
+<sup>69</sup>
+<span title="No website currently available for SNOMED-CT via HPO">SNOMED-CT via HPO</span>
+</div>
+<div title="Tocris Bioscience">
+<sup>70</sup>
+<a href="http://www.tocris.com/" title="Tocris Bioscience" target="_blank">Tocris</a>
+</div>
+<div title="Unified Medical Language System">
+<sup>71</sup>
+<a href="http://www.nlm.nih.gov/research/umls/" title="Unified Medical Language System" target="_blank">UMLS</a>
+</div>
+<div title="UMLS via Orphanet">
+<sup>72</sup>
+<span title="No website currently available for UMLS via Orphanet">UMLS via Orphanet</span>
+</div>
+<div title="UniProtKB/Swiss-Prot">
+<sup>73</sup>
+<a href="http://www.uniprot.org/" title="UniProtKB/Swiss-Prot" target="_blank">UniProtKB/Swiss-Prot</a>
+</div>
+<div title="WikiPathways">
+<sup>74</sup>
+<a href="https://wikipathways.org" title="WikiPathways" target="_blank">WikiPathways</a>
+</div>
+<div title="Wikipedia">
+<sup>75</sup>
+<a href="https://en.wikipedia.org/wiki/" title="Wikipedia" target="_blank">Wikipedia</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="footer_letters">
+<span>The MalaCards human disease database index:</span>
+<a href="/malalist/1-9">1-9</a>
+<a href="/malalist/A">A</a>
+<a href="/malalist/B">B</a>
+<a href="/malalist/C">C</a>
+<a href="/malalist/D">D</a>
+<a href="/malalist/E">E</a>
+<a href="/malalist/F">F</a>
+<a href="/malalist/G">G</a>
+<a href="/malalist/H">H</a>
+<a href="/malalist/I">I</a>
+<a href="/malalist/J">J</a>
+<a href="/malalist/K">K</a>
+<a href="/malalist/L">L</a>
+<a href="/malalist/M">M</a>
+<a href="/malalist/N">N</a>
+<a href="/malalist/O">O</a>
+<a href="/malalist/P">P</a>
+<a href="/malalist/Q">Q</a>
+<a href="/malalist/R">R</a>
+<a href="/malalist/S">S</a>
+<a href="/malalist/T">T</a>
+<a href="/malalist/U">U</a>
+<a href="/malalist/V">V</a>
+<a href="/malalist/W">W</a>
+<a href="/malalist/X">X</a>
+<a href="/malalist/Y">Y</a>
+<a href="/malalist/Z">Z</a>
+</div>
+<div id="footer">
+<div>
+<div style="float:left;">
+<a href="https://auth.lifemapsc.com/TermsOfUse" target="_blank" class="link">Terms and Conditions</a> &bull;
+<a href="#" class="link contact-dialog" rel="nofollow">User Feedback</a>
+</div>
+<div style="float:right;">
+Copyright &copy; 1996-2023 , Weizmann Institute of Science. All Rights Reserved.
+<span>Version 5.17.0.1037</span>
+<span>2023 August 03</span>
+</div>
+<br/>
+<div style="padding-top: 5px; font-weight: bold">GENECARDS SUITE PRODUCTS ARE FOR RESEARCH USE ONLY, DO NOT PROVIDE MEDICAL ADVICE AND ARE NOT FOR USE IN DIAGNOSTIC PROCEDURES.</div>
+</div>
+</div>
+</div>
+</div>
+<div id="contactUs" class="slide-out-div hidden-print hide">
+<a class="handle" href="/cdn-cgi/l/email-protection#1d6e686d6d726f695d71747b78707c6d6e7e337e7270">Content</a>
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<div data-role="form">Loading form....</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/scripts/main?v=6X7ka5ngWa86w75AOGLnGMzosimrOYgwg5_yA4yQgNw1"></script>
+<script type="text/javascript" src="https://auth.lifemapsc.com/bundle/gc-suite.js?ver=5.17.0.1037" data-container="#suiteBar" data-app="malacards" data-cdn="https://auth.lifemapsc.com" data-li></script>
+<script>(function (d, a) { function c() { var b = d.createElement("script"); b.async = !0; b.type = "text/javascript"; b.src = a._settings.messengerUrl; b.crossOrigin = "anonymous"; var c = d.getElementsByTagName("script")[0]; c.parentNode.insertBefore(b, c) } window.kayako = a; a.readyQueue = []; a.newEmbedCode = !0; a.ready = function (b) { a.readyQueue.push(b) }; a._settings = { apiUrl: "https://genecards.kayako.com/api/v1", messengerUrl: "https://genecards.kayakocdn.com/messenger", realtimeUrl: "wss://kre.kayako.net/socket" }; window.attachEvent ? window.attachEvent("onload", c) : window.addEventListener("load", c, !1) })(document, window.kayako || {});</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'809ebec17f3f7b33',t:'MTY5NTI2MTk0Ny4zMDUwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
